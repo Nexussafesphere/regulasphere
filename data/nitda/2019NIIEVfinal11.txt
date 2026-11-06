@@ -1,0 +1,800 @@
+NIGERIA ICT INNOVATION AND ENTREPRENEURSHIP VISION
+(NIIEV)
+__________________________________________________________________
+NATIONAL INFORMATION TECHNOLOGY DEVELOPMENT AGENCY (NITDA)
+__________________________________________________________________
+August, 2019
+Nigeria ICT Innovation and Entrepreneurship Vision
+Foreword
+Technological advancement is accelerating and the global economy is transforming in
+response. The majority of Nigerians are at serious risk of being left behind unless there is an
+urgent technological revolution that can transform agriculture, education, and all other spheres
+of public life. The Nigerian technology entrepreneurship ecosystem is gaining increasing
+international attention and attracting Foreign Direct Investment. To further unlock our national
+potential in technology innovation and entrepreneurship, National Information Technology
+Development Agency (NITDA) created its Special Purpose Vehicle, Office for ICT Innovation
+and Entrepreneurship (OIIE) to build a sustainable and thriving technology startup ecosystem
+in Nigeria. OIIE drives this through policies, initiatives and programs that will support innovation
+and technology entrepreneurship.
+The agency has been engaging with stakeholders (such as investors, hubs, entrepreneurs,
+innovators, academia, government) to collectively identify challenges encountered in the
+ecosystem and determine ways to address the challenges. A key challenge identified by
+entrepreneurs is lack of clarity and access to existing government incentives. Others includes
+limited access to business support, limited access to market and capital for entrepreneurs. It
+became apparent that there needs to be specific policies and incentives for the different sectors
+of the ecosystem to encourage entrepreneurship, increase access to digital infrastructure,
+increase research and development, bridging the digital gender divide, increase affordable
+internet access for all and soon.
+Indeed, Technology has the ability to unite all and remove barriers to economic transformation.
+Thus, this document is a national unifying policy vision that proposes a number of measures to
+connect, educate and enable digital innovation in Nigeria. We believe that if implemented in a
+collaborative and engaging approach, it will result in an increase in employment, innovation in
+the delivery of government services and an increase in the contribution of ICT to GDP. The
+ministry of Communication through NITDA will lead to the implementation of the policy vision.
+Dr Isa Ali Ibrahim (Pantami), PhD, FNCS, FBCS, FIIM
+Director General/CEO,
+National Information Technology Development Agency (NITDA)
+August, 2019
+1
+Nigeria ICT Innovation and Entrepreneurship Vision
+Abstract
+Technological advancement is accelerating and the global economy is transforming in
+response. The majority of Nigerians are at serious risk of being left behind unless there is an
+urgent technological revolution that can transform agriculture, education, and all other spheres
+of public life.
+Technology has the ability to unite all and remove barriers to economic transformation. To
+unlock our national potential, National Information Technology Development Agency (NITDA)
+proposes a number of measures to connect, educate and enable digital innovation.
+This document provides the unifying policy vision for ICT Innovation and Entrepreneurship in
+Nigeria.
+2
+Nigeria ICT Innovation and Entrepreneurship Vision
+Introduction
+The National Information Technology Development Agency (NITDA) was established in 2001
+to regulate the IT sector in general. Section 6 (i & l) of the NITDA act empowers it to make policy
+recommendations to develop technology in Nigeria. To foster the growth of the technology
+ecosystem, NITDA created its subsidiary, Office for ICT Innovation and Entrepreneurship (OIIE)
+to drive the innovation and entrepreneurship mandate of the agency.
+The mandates for the establishment of OIIE include: develop, establish, support and incentivise
+ICT innovation hubs, information technology parks and community enterprise hubs across
+Nigeria; and, collaborate with the private sector, development partners and MDAs at both
+federal and state levels on policies and programs that support ICT entrepreneurship and
+commercialisation.
+NITDA through OIIE has been listening to stakeholders and as a result, there is a need to
+reposition as agile facilitators to create an enabling environment for technology
+entrepreneurship to thrive. In this regard, NITDA plans to influence government policies by
+sharing findings from stakeholder engagements and research findings from similar markets to
+Nigeria.
+This document, the Nigeria ICT Innovation and Entrepreneurship Vision (NIIEV), comprises of
+policy recommendations and incentives designed to strengthen the Nigerian technology
+entrepreneurship ecosystem. It consists of the following sections: Digital Infrastructure;
+Education Reform, Skills Development and R&D; and, Support the Ecosystem for Innovation
+and Entrepreneurship. The document is also accompanied with an information note that
+provides additional background information on each vision statement.
+3
+Nigeria ICT Innovation and Entrepreneurship Vision
+Section 1
+DIGITAL INFRASTRUCTURE
+Nigeria will significantly increase access to ICT and provide universal and affordable
+access to the Internet. By 2025, 95% of the population will have access to broadband
+Internet.
+1. Incentivise telecommunication infrastructure sharing to achieve the economies of
+scale necessary for universal affordable access. Government will support private sector
+providers to merge their infrastructure.
+2. Drop Right of Way charges for fibre distribution and simplify administrative
+requirements to reduce capital requirements for expanding digital infrastructure,
+thereby reducing the costs passed on to consumers.
+3. Adopt a “dig once” policy, so that any traditional infrastructure investment--roads,
+electricity, water and so on--must be accompanied by fibre optic cables, where none
+already exist.
+4. Build a national data framework and harmonise e-Governance to enable innovation,
+improve efficiency, transparency, accountability and citizen participation in government;
+a. Build a single digital platform that aligns access to government datasets and to
+electronically process Freedom of Information (FOI) requests for every MDA;
+b. Amend the FOI Act to strengthen enforcement and compliance; and
+c. Harmonise e-Governance by using a Whole of Government (WoG) approach to
+rationalise and simplify access to government services.
+5. Support renewable energy through easily accessible tax incentives for local production
+of renewable energy technology.
+4
+Nigeria ICT Innovation and Entrepreneurship Vision
+Section 2
+EDUCATION REFORM, SKILLS DEVELOPMENT AND R&D
+Nigeria will have a globally competitive workforce. By 2025, achieve digital literacy
+rates of 75% of the total population. Public and privately funded R&D will surpass 1% of
+GDP.
+6. Reform the national education system and curricula to prepare the youth for a
+knowledge-based economy.
+a. Incorporate problem solving, critical thinking, ICT and digital literacy skills in
+education curriculum from Early Childhood Development to Tertiary Institution;
+b. Transform all libraries from information repositories into information hubs with
+free internet access, e-learning tools, Massive Online Open Courses (MOOCs),
+and space for students and others to meet;
+c. Provide training and retraining for teachers that emphasises technological
+change and new e-learning tools; and
+d. Create a single portal to access all government research grants, scholarships
+and loans for national and international education.
+7. Improve digital literacy, entrepreneurship and technical skills amongst youth to
+encourage digital job creation and empowerment:
+a. Train undergraduates and interested corps members in digital literacy to support
+digital literacy education. Create subsidised schemes for computer acquisition;
+b. Upgrade Technical and Vocational Education and Training (TVET) programs to
+include software and hardware development and maintenance. Ensure that all
+TVET programs are digitally enabled;
+c. Encourage MDAs to share digital capacity building infrastructure with other
+government and non-government organisations;
+d. Build a culture of innovation and entrepreneurship at academic institutions; and
+e. Bridge the digital gender divide by creating initiatives and incentives to
+encourage women entrepreneurs and innovators.
+8. Support youth employment and participation in the private sector through tax
+incentives.
+9. Simplify immigration requirements for investors, foreign companies and other skilled
+professionals to start businesses (or invest) in Nigeria to facilitate exchange programs
+and collaborations.
+10. Establish inclusive public procurement policies for startups, this way the
+Government can directly seed fund pre-commercial private sector R&D.
+11. Expand Research and Development with adequate funding, adequate infrastructure,
+adequate institutional capacity, simplified tax incentives and alignment with national
+development plans.
+5
+Nigeria ICT Innovation and Entrepreneurship Vision
+Section 3
+SUPPORT THE ECOSYSTEM FOR INNOVATION AND ENTREPRENEURSHIP
+By 2025, Nigeria will become a digital economy and ICT will contribute 25% to the
+national GDP.
+12. Facilitate startup growth by easing the business environment and simplifying access
+to opportunities for indigenous innovators:
+a. Simplify procedures for opening and closing a business;
+b. Ease cross-border trade by simplifying procedures and reviewing restrictions on
+both imports and exports;
+c. Facilitate funding for innovation and simplify access to subsidised credit facilities
+for startups;
+d. Raise awareness about opportunities for digital entrepreneurship and skills
+acquisition: and
+e. Provide incentives for technology entrepreneurs, such as pioneer tax status and
+vouchers for access to technology infrastructure.
+13. Provide support for hubs and linkages for nationwide collaborations.
+a. Provide trainings to build the capabilities of hubs to support entrepreneurs;
+b. Facilitate regional, National and international collaborations and partnerships;
+c. Support innovation hubs and workspaces through tax incentives and tax rebates
+for payments for electricity, internet and telephone; and
+d. Partner with independent innovation hubs to support technology entrepreneurs.
+14. Incentivise venture capital and angel investment funds to invest in innovative
+entrepreneurship through simplified tax incentives.
+15. Position Nigeria as a global hotspot for innovation through policy reform,
+messaging, and participation at global technology events.
+6
+Nigeria ICT Innovation and Entrepreneurship Vision
+Section 1
+Digital Infrastructure
+Vision 1: Incentivise telecommunication infrastructure sharing to achieve the economies
+of scale necessary for universal affordable access. Government will support private sector
+providers to merge their infrastructure.
+Agencies: Nigerian Communications Commission (NCC).
+Rationale: This will bring down the cost of services and ensure affordable access.
+Status: NCC published guidelines on collocation and infrastructure sharing on Rights of Way,
+Masts, Poles, Antenna and tower-structures, Ducts, Trenches, Electric power1. In the guidelines,
+each operator (licensee) is expected to publish standard price list, this is not regulated by NCC
+which could be exploited by the operators. NCC publishes a list of telecoms licensees with valid
+license documents on its website, this includes the name of the company, address, start and
+expiry dates2. This list may not be conclusive as there are operators that are not therein listed
+but in previously published lists. The issue with the guidelines is that it is only for passive
+sharing, there are no guidelines on active sharing. However, NCC is working on a framework
+on active sharing3 but this is yet to be published.
+The Nigerian National Broadband Plan 2013 - 20184 is aimed at “connecting communities with
+high speed internet and broadband access to facilitate faster socioeconomic advancement of
+the nation and its people”. To achieve this, the government, through NCC require Infrastructure
+Companies (Infracos) to bid for a license to provide broadband infrastructure on an open access,
+non-discriminatory, price regulated basis to the six geopolitical zones and Lagos. Licenses have
+been awarded to six out of the seven proposed Infracos5. The network and services
+infrastructure is divided into three (3) layers6; Passive Infrastructure Layer, Wholesale layer,
+Retail Service Providers (RSP). The main challenge telecommunication companies face is
+security, to this end, NCC and Nigerian Security and Civil Defence Corps (NSCDC) signed an
+MOU7 to protect the infrastructure. This will go a long way in alleviating this challenge which will
+in turn increase access to affordable broadband. Furthermore, the government plans to lay
+18,000KM of fibre optic in the country in its effort to achieve and surpass the 30% broadband
+1 https://www.ncc.gov.ng/docman-main/legal-regulatory/guidelines/54-guidelines-on-collocation-and-
+infrastructure-sharing/file
+2 https://www.ncc.gov.ng/licensing-regulatory/licensing/licensees-list#infrastructure-sharing-amp-
+collocation-services
+3 http://dailypost.ng/2018/05/09/ncc-introduce-new-framework-infrastructure-sharing-co-location-
+operators/
+4
+http://www.commtech.gov.ng/Doc/The%20Nigerian%20National%20Broadband%20Plan%202013_19M
+ay2013%20FINAL.pdf
+5 NCC Feedback on NIIEV.
+6 https://www.ncc.gov.ng/documents/470-eoi-invitation-for-comments-on-open-access-model-for-next-
+generation-optic-fibre-broadband-network/file
+7 https://www.ncc.gov.ng/stakeholder/media-public/news-headlines/293-ncc-and-nscdc-sign-mou-on-
+critical-telecommunication-infrastructure-protection
+7
+Nigeria ICT Innovation and Entrepreneurship Vision
+penetration target of 20188. As at December 2018, the broadband penetration is 30.9%9
+surpassing the 30% target..
+The Nigeria Satellite Policy would be presented to the NCC Board for approval by the Spectrum
+Administration Department10.
+Vision 2: Drop Right of Way charges for fibre distribution and simplify administrative
+requirements to reduce capital requirements for expanding digital infrastructure, thereby
+reducing the costs passed on to consumers.
+Agencies: Federal Ministry of Communication Technology (FMCT), Federal Inland Revenue
+Services (FIRS), Federal Ministry of Power, Works and Housing, State Inland Revenue Board,
+Local Government Authority, Nigerian Communications Commission (NCC).
+Rationale: Lack of harmonised Right of Way (RoW) across Federal, State and LGA and multiple
+taxation increases the cost of service delivery which is passed on to the consumers. Elimination
+of such charges will encourage investments and reduce the cost of service delivery.
+Status: Harmonisation and reduction of RoW charges is already under review.
+Currently, there is a guideline for the grant and access RoW to ICT services on Federal roads
+by the Federal Ministry of Power, Works and Housing11. The charges are N145 per linear meter
+for ducts and cables and N20 per linear metre annual maintenance fees subject to change every
+5 years. States and Local Governments have different charges and this varies from state to
+state. The lack of uniform charges is one of the challenges telcos face which affects the supply
+of services. To address this challenge, the National Economic Council (NEC) approved a policy
+on harmonisation of right of way charges across LG, States and Federal highways12. The NEC
+RoW guideline still maintains the amount of N145 per meter for laying fibre for all parts of the
+country13. Also, NCC made a case to the Governors Forum to ensure on the need to adhere to
+the NEC’s resolutions14. RoW is included in the NCC’s Guidelines on Collocation and
+Infrastructure Sharing15, this provides a means of bringing down the cost of broadband as shown
+in Vision 116.
+The Industrial Council is working with NEC on addressing Multiple Taxation. NEC approved the
+adoption of the 2015 Approved List of Taxes by all states.
+8 https://guardian.ng/technology/fg-tackles-row-challenges-to-lay-18000km-fibre-optic-cable-across-
+regions/
+9 https://leadership.ng/2018/12/14/nigeria-hits-2018-30-broadband-penetration-target/
+10 NCC Feedback on NIIEV.
+11 http://www.pwh.gov.ng/management/uploads_images/151170250773609.pdf
+12 http://nigeriacommunicationsweek.com.ng/nec-approves-harmonization-of-telecomm-right-of-way-
+charges/
+13 https://www.vanguardngr.com/2018/03/broadband-harmonising-right-way-levies/
+14 https://www.ncc.gov.ng/stakeholder/media-public/news-headlines/361-evc-ncc-professor-umar-garba-
+danbatta-receives-the-newly-elected-atcon-council-members
+15 https://www.ncc.gov.ng/docman-main/legal-regulatory/guidelines/54-guidelines-on-collocation-and-
+infrastructure-sharing/file
+16 Vision 1: Mandate infrastructure sharing
+8
+Nigeria ICT Innovation and Entrepreneurship Vision
+Vision 3: Adopt a “dig once” policy, so that any traditional infrastructure investment--roads,
+electricity, water and so on--must be accompanied by fibre optic cables, where none already
+exist.
+Agencies: Federal Ministry of Power, Works and Housing, Federal Ministry of Environment,
+Nigerian Communications Commission (NCC).
+Rationale: Implementing “dig once” policy will ensure the protection of the environment,
+increase broadband penetration and affordable access.
+Status: Anambra State included the implementation of Dig Once policy as part of its smart city
+initiative17.
+Vision 4: Build a national data framework and harmonise e-Governance to enable
+innovation, improve efficiency, transparency, accountability and citizen participation in
+government:
+Agencies: National Information Technology Development Agency (NITDA), Federal Ministry of
+Communications, Federal Ministry of Justice, National Bureau of Statistics (NBS), National
+eGovernment Strategies (NeGSt), National Identity Management Commission (NIMC) and all
+MDAs.
+Rationale: Data is vital for any economy to progress, its availability to policy makers, businesses
+and citizens has direct impact on how government delivers services. Simplified access to
+government services will improve transparency of common processes, data integrity and reduce
+the time and cost associated with accessing information.
+Status: The enactment of the FOI Act in 2011 has made public records and information more
+freely available and accessible to Nigerians. Several government agencies have set up
+compliance structures that now enable them to respond to requests for information within the
+ambit of the law. However, there are several issues such as:
+a. Low awareness, skills and knowledge of the FOI Act provisions and processes by
+citizens and public/civil servants;
+b. Lack of designated officers responsible for Freedom of Information in most public
+Institutions;
+c. Lack of sanctions against public institutions and FOI responsible officers who do not
+respond to FOI requests or/and report to FMoJ annually;
+d. Lack of Infrastructure to support digital collection and management of information, to
+facilitate timely retrieval of requested information.
+This policy vision seeks to expand upon best-practice and ensure compliance.
+a. Build a single digital platform that aligns access to government datasets and to
+electronically process Freedom of Information (FOI) requests for every MDA;
+17 http://technologytimes.ng/deal-anambra-joins-nigeria-smart-city-train/
+9
+Nigeria ICT Innovation and Entrepreneurship Vision
+National Identity Management Commission (NIMC) is working on harmonising biometric data
+across several agencies in a single database1819. This is expected to be completed by 2020.
+b. Amend the FOI Act to strengthen enforcement and compliance; and
+The Bureau of Public Service Reform (BPSR) has adopted a unique electronic FOI platform on
+its website that gives real-time information to citizens and also encourages voluntary disclosure.
+This policy seeks to expand this best-practice and provide a single electronic portal for FOI
+requests that can be forwarded to each MDA and tracked. This will not only increase awareness
+but improve information sharing.
+c. Harmonise e-Governance by using a Whole of Government (WoG) approach to
+rationalise and simplify access to government services.
+National eGovernment Strategies (NeGSt) was created to “facilitate, drive and implement”
+eGovernment programmes using a Public Private Partnership (PPP) model. They provide MDAs
+with support in terms of deployment of eGovernment services and solutions. NITDA recently
+published the Nigerian e-Government Interoperability Framework (Ne-GIF) which adopts a
+Whole-of-Government approach which will lead to Government Digital Transformation20. The
+purpose of this framework is to ease data collection and sharing among MDAs and promote
+interactions between government, businesses and citizens.
+Vision 5: Support renewable energy through easily accessible tax incentives for local
+production of renewable energy technology.
+Agencies: Federal Ministry of Environment (Renewable Energy Programme), Federal Ministry
+of Finance, Federal Ministry of Power, Works and Housing, Rural Electrification Agency (REA),
+Energy Commission of Nigeria (ECN), National Electricity Regulatory Agency (NERC),
+Electricity Distribution Companies (DisCos), Power Generating Companies (GenCos), Federal
+Inland Revenue Services (FIRS), Nigeria Investment Promotion Commission (NIPC).
+Rationale: One of the barriers to entry for business in Nigeria is the lack of stable electricity.
+Providing support for renewable energy can alleviate this problem and promote investments in
+the sector which in turn will lead to job creation and economic growth.
+Status: The Nigerian Renewable Energy and Energy Efficiency Policy (NREEEP) commits 20%
+of power supply to be generated from renewable sources by 2030 which translates to
+23,000MW21. The policy projected 12,500MW of self-generation including off-grid generation in
+2030. Proposed incentives in the policy include:
+a. Power Production Tax Credit (PTC)
+b. Generation Disclosure Requirement (GDR)
+18 https://www.nimc.gov.ng/nimc-and-inec-comply-with-presidential-directive-on-harmonisation-of-
+biometric-data-set-up-jointtechnical-committee/
+19 https://www.nimc.gov.ng/harmonization-integration/
+20 http://nitda.gov.ng/wp-content/uploads/2018/05/Ne-GIF-Draft-Final..pdf
+21 http://www.power.gov.ng/download/NREEE%20POLICY%202015-
+%20FEC%20APPROVED%20COPY.pdf
+10
+Nigeria ICT Innovation and Entrepreneurship Vision
+c. Tax incentives to manufacturers of renewable energy and energy efficient equipment
+and their accessories
+i. Five year tax holiday for manufacturers from date of commencement of
+manufacturing
+ii. Five year tax holiday on dividend incomes from investments on domestic
+renewable energy sources
+d. Incentives for importers of energy efficient appliances and lighting
+i. Exemption from excise duty and sales tax
+ii. Free custom duty for two years on the importation of equipment and materials
+used in renewable energy and energy efficiency projects
+iii. Soft loans and special low interest loans from power sector development fund for
+renewable energy supply and energy efficiency projects
+e. Tax credits for homeowners who install energy efficient appliances and lighting
+f. Tax credits to companies who produce energy efficient appliances and fixtures
+NREEEP is under the Federal Ministry of Finance not FIRS, but renewable energy production
+may benefit from accelerated capital allowance on plant, machinery and equipment.22
+22 FIRS Feedback on NIIEV.
+11
+Nigeria ICT Innovation and Entrepreneurship Vision
+Section 2
+Education Reform, Skills Development and R&D
+Vision 6: Reform the national education system and curricula to prepare the youth for a
+knowledge-based economy.
+Agencies: Federal Ministry of Education (FME), Universal Basic Education Commission
+(UBEC), National University Commission (NUC), National Educational Research and
+Development Council (NERDC), National Commission for Colleges of Education (NCCE),
+National Board for Technical Education (NBTE), National Teachers’ Institute (NTI).
+Rationale: Although the Law already supports the integration of Information Technology into
+the educational sector, it is not being implemented fully.
+Status:
+a. Incorporate problem solving, critical thinking, ICT and digital literacy skills in
+education curriculum from Early Childhood Development to tertiary institution;
+Section 4 (19b) (ix) of the National Policy on Education states that the “curriculum for primary
+education shall include computer education’’ and Section 5 (30) (f) says “Government shall
+provide necessary infrastructure and training for the integration of ICT in the school system in
+recognition of the role of ICT in advancing knowledge and skills in the modern world”23. The
+above Law has been truncated over the years as a result of the following reasons; lack of
+required telecommunications infrastructure capable of transporting multimedia messaging and
+absence of electric power grids in most parts of the country even in cases where there is
+adequate telecommunications coverage amongst others. Nigerian government is considering a
+new policy of graduates studying extra one year before NYSC to make them fit for
+employment24.
+According to NUC, ICT training will be made mandatory for undergraduates in order to produce
+graduates who can drive a new digital economy in Nigeria25.
+b. Transform all libraries from information repositories into information hubs with
+free internet access, e-learning tools, massive online open courses (MOOCs),
+and space for student groups to meet;
+Currently, there are over 300 public libraries in Nigeria, some of which have ICT facilities26. Out
+of these, 24 have Internet connectivity while only 3 are fully automated. Apart from these, there
+are libraries in higher education institutions, public and private and privately owned libraries.
+23
+http://wbgfiles.worldbank.org/documents/hdn/ed/saber/supporting_doc/AFR/Nigeria/TCH/National%20P
+olicy%20on%20Education.pdf
+24 http://dailypost.ng/2018/05/09/nigerian-govt-considering-new-policy-graduates-studying-extra-one-
+year-nysc/
+25 http://itedgenews.ng/2018/10/08/ict-training-become-mandatory-nigerian-university-undergraduates-
+says-nuc/
+26 https://www.lrcn.gov.ng/Report%20On%20The%20State%20Of%20Public%20Lib%20In%20Nig.pdf
+12
+Nigeria ICT Innovation and Entrepreneurship Vision
+There are some MOOC providers in Nigeria, these include University of Lagos MOOC27 and
+National Open University of Nigeria MOOC28.
+c. Provide continuing trainings for teachers that emphasises technological change
+and new e-learning tools; and
+In 2017, Korea in partnership with UBEC, trained 225 FCT Teachers On ICT-Based Skill ICT29.
+National Teachers Institute (NTI) plans to train primary school and JSS teachers ICT and
+MOOCS as part of transition from MDG to SDG30. NTI as part of its mandate, is focused on
+actualising one of the pillars of the FME Ministerial Strategic Plan (2016-2019) which is e-
+learning31. NTI also has a specialised centre on e-learning.
+d. Create a single portal to access all government scholarships and loans for
+national and international education.
+The Office for ICT Innovation and Entrepreneurship (OIIE) publishes list of scholarships
+available for Nigerians32 on its website.
+Vision 7: Improve digital literacy, entrepreneurship and technical skills amongst youth to
+encourage digital job creation and empowerment:
+Agencies: Federal Ministry of Youths, Sports and Development (FMYSD), National Youth
+Service Corp (NYSC), Ministry of Education (FME), National Board for Technical Education
+(NBTE), National Business and Technical Examinations Board (NABTEB).
+Rationale: This will reduce unemployment and increase the GDP.
+Status:
+a. Train undergraduates and interested corps members in digital literacy during NYSC to
+support digital literacy education. Create subsidised schemes for computer acquisition
+for corp members and other individuals;
+The NYSC was established by decree No. 24 of May 22, 1973 after the civil war “with a view to
+the proper encouragement and development of common ties among the youths of Nigeria and
+the promotion of national unity”. It is a one year program, established for university graduates
+under 30 which involve a 3-week orientation camp before deployment to places where they will
+work for the duration of 11 months. NYSC places special emphasis on rural postings in
+Agriculture, Health, Education and Infrastructure33. NYSC, via its Skill Acquisition and
+Entrepreneurship Development (SAED) program provides skills acquisition and
+entrepreneurship training to corp members at orientation camps34.
+27 http://unilag.xuetangx.com/
+28 https://www.nounmooc.org/
+29 https://www.tribuneonlineng.com/103583/
+30 http://www.nti.edu.ng/our-achievements/
+31 http://www.nti.edu.ng/our-achievements/
+32 http://ictinnovation.gov.ng/opportunities/list-of-scholarships/
+33 http://punchng.com/dg-urges-corps-members-to-teach-in-secondary-schools/
+34 http://www.nysc.gov.ng/saed.html
+13
+Nigeria ICT Innovation and Entrepreneurship Vision
+b. Upgrade Technical and Vocational Education and Training (TVET) programs to include
+software and hardware development and maintenance. Ensure that all TVET programs
+are digitally enabled;
+Technical and Vocational Education and Training (TVET) in Nigeria is under the National Board
+for Technical Education (NBTE). The institutions under it consist of Polytechnics, Monotechnics,
+Innovation Enterprise Institutions (IEIs), Vocational Enterprise Institutions (VEIs) and Technical
+Colleges. Research has shown that TVET is facing a lot of challenges ranging from lack of
+funding, poor infrastructure, lack of qualified teachers etc 35. NBTE sought support from telecom
+companies to upgrade and expand ICT infrastructure for campus-wide connectivity in TVET
+sector36. Also, recently, NBTE gave assurance of addressing falling standards in polytechnics37.
+c. Encourage MDAs to share digital capacity building infrastructure with other
+government and non-government organisations; and
+Several MDAs have innovation centres, incubators and other capacity building infrastructures
+which are not being fully utilised. These can be used as centres of excellence for the delivery
+and acquisition of skills.
+d. Build the culture of innovation and entrepreneurship at academic institutions.
+Vision 8: Support youth employment and participation in the private sector through tax
+incentives.
+Agencies: Federal Inland Revenue Services (FIRS), Federal Ministry of Youth, Sports and
+Development (FMYSD), Federal Ministry of Labour and Employment (FMLE), National
+Directorate of Employment (NDE).
+Rationale: This will encourage employment which in turn will reduce the unemployment rate of
+the country.
+Status: Currently, the tax incentives for employment of youth are Employment Tax Relief (ETR)
+and Work Experience Acquisition Programme Relief (WEARP), these are under the Companies
+Income Tax (Exemption of Profits) Order 201238. For the ETR, companies with a minimum net
+employment 10 employees whose workforce consists of 60% of graduates without prior work
+experience and within 3 years of graduation are exempted from income tax on 5% of their
+assessable profit. This exemption is on gross salaries of the employees who must be Nigerians
+in first time employment of the companies. For the WEARP, the same is applicable but the
+minimum net employment is 5 new employees and they must be retained for a minimum of 2
+years. Note that both ETR and WEARP are incentives proposed by previous administration but
+not gazetted therefore cannot be implemented39.
+35 http://www.eajournals.org/wp-content/uploads/Prospects-Issues-and-Challenges-of-Technical-and-
+Vocational-Education-and-Training-TVET-In-Revamping-Nigeria-Depressed-Economy.pdf
+36 https://net.nbte.gov.ng/NBTE%20visits%20Globacom%20and%20Airtel%20Headquarters
+37 https://www.vanguardngr.com/2018/09/nbte-to-address-falling-standards-in-polytechnics/
+38 http://www.pedabo.com/pedabo_console/kcfinder/upload/files/TAX%20NEWS%20BULLETIN_12-10-
+12.pdf
+39 FIRS Feedback on NIIEV.
+14
+Nigeria ICT Innovation and Entrepreneurship Vision
+Vision 9: Simplify immigration requirements for investors, foreign companies and other
+skilled professionals to start businesses (or invest) in Nigeria to facilitate exchange programs
+and collaborations.
+Agencies: Nigerian Immigration Service (NIS), Federal Ministry of Interior (FMI), Ministry of
+Foreign Affairs (MoFA), Corporate Affairs Commission (CAC).
+Rationale: There is considerable merit in reducing the current visa system in Nigeria as such,
+the targeted investors/ tourist will be interested in coming down to the country which will facilitate
+knowledge transfer by getting the best, also it will have great impact on our GDP.
+Status: Executive Order 001 mandates the processing of tourist and business visas within 48
+hours and the publishing of requirements for visa on arrival on websites of Nigerian embassies,
+high commissions and other immigration related agencies40. In the same Executive Order,
+MDAs are mandated to publish the list and requirements with timeline, fees and mode of
+communication for these services.
+This should be further broken down to include criteria for investors, foreign companies as well
+as exchange programs41.
+Vision 10: Establish inclusive public procurement policies for startups, this way the
+Government can directly seed fund pre-commercial private sector R&D.
+Agencies: Bureau for Public Procurement (BPP).
+Rationale: This not only benefits citizens, but also enhances the overall functioning of
+government, by creating new opportunities to partner with other agencies, non-profit
+organisations and businesses. It will also incentivise local talent and be a strategy for
+implementing Executive Orders 00342 and 00543.
+Status: BPP has introduced electronic Public Procurement, e-PP, into Nigeria’s public
+procurement system. Companies including startups can register with BPP as contractors via
+http://www.federalcontractors.bpp.gov.ng to partake in public procurement. In addition to this,
+startups have the following exemptions:
+1. Companies with less than 15 staff do not require a Pencom compliance certificate to
+register with BPP and to bid for Government projects. This is due to intervention of the
+Presidential Enabling Business Environment Council (PEBEC) and Honourable Attorney
+General of the Federation (HAGF).
+2. Companies with less than 5 staff or less than N50 million annual turnover do not require
+an ITF compliance certificate to register with BPP and bid.
+40 http://pebec.gov.ng/wp-content/uploads/2017/07/EXECUTIVE-ORDER-ON-EASE-OF-DOING-
+BUSINESS-2017.pdf
+41 Suggestion from SUF Abuja Entreop
+42
+https://osgf.gov.ng/storage/app/media/pdf/FGN%20Executive%20Order%20on%20Public%20Procurem
+ent%20of%20local%20products.pdf
+43 http://statehouse.gov.ng/wp-content/uploads/2018/02/PRESIDENTIAL-EXECUTIVE-ORDER-
+5.compressed.pdf
+15
+Nigeria ICT Innovation and Entrepreneurship Vision
+3. Nigeria Social Insurance Trust Fund (NSITF) and FIRS requirements still need to be
+met. But for startup companies nil entry Tax Clearance is acceptable by BPP44.
+BPP has made available, on its website the Procurement Procedures Manual for public
+procurement describing how public procurement should be planned and implemented, the
+policies on public procurement are defined in the relevant laws and regulations governing
+procurement in Nigeria. Executive Order 003 mandated MDAs to give preference to local
+content in procurement, which includes ICT, while Executive Order 005 promotes support for
+SMEs in procurement.
+BPP partners with CAC on company validation in procurement.45
+Vision 11: Expand Research and Development with adequate funding, adequate
+infrastructure, adequate institutional capacity, simplified tax incentives and alignment with
+national development plans.
+Agencies: Federal Ministry of Science and Technology (FMST) Tertiary Education Trust Fund
+(tetfund), National Information Technology Development Agency (NITDA), Petroleum
+Technology Development Fund (PTDF), National Automotive Design and Development Council
+(NADDC) Fund, Universal Service Provision Fund (USPF), Ecological Fund, Federal Inland
+Revenue Service (FIRS), National Agency for Science and Engineering Infrastructure
+(NASENI), Federal Institute of Industrial Research Oshodi (FIIRO), Raw Materials Research
+and Development Council (RMRDC).
+Rationale: R&D is essentially the first step in developing a country’s local content product or
+service, as such, it is the R&D function that provides a platform for creativity and innovation to
+flourish.
+Status: Section 26 of Companies Income Tax Act allows 20% investment tax credit, the same
+section provides for the deduction of amount expended on research and development,not
+exceeding an amount equal to 10% of the total profits46.
+On the 20th March, 2018 Minister of Science & Technology commissioned Technology
+Orientation Center (TOC) at Idu Abuja built by the National Agency for Science and Engineering
+Infrastructure, (NASENI). The centre is a strategy to stimulate research and development and
+drive the new National Science, Technology and Innovation Roadmap (2017-2030) vital to the
+diversification of the Nigerian economy for sustainable growth47.
+The Nigerian Communication Commission (NCC) inaugurated the development of a blueprint
+for ICT Innovation/ Research Programmes48. NCC’s Digital Bridge Institute (DBI) would be
+utilised for these programmes. The DBI would be run as ICT innovation and research hub49.
+44 BPP
+45 CAC Feedback on NIIEV.
+46 http://pwcnigeria.typepad.com/files/nipcfirs_compendium-of-investment-incentives-in-
+nigeria_nov2017.pdf
+47 http://scienceandtech.gov.ng/2018/03/22/fg-inaugurates-technology-center-to-fast-track-innovations/
+48 https://techeconomy.ng/2018/11/29/ncc-receives-report-on-development-of-curriculum-for-ict-
+innovation-research-in-nigeria-12122/
+49 https://www.vanguardngr.com/2018/11/ncc-to-run-dbi-as-ict-innovation-research-hub-2/
+16
+Nigeria ICT Innovation and Entrepreneurship Vision
+In 2017, a bill was passed by National Assembly on establishment of National Research and
+Innovation Council. Part of the governing board’s responsibilities is the establishment of the
+National Research and Innovation Fund. The fund is to support national research, innovation
+and development bodies and other functions of the council50. The president is yet to give his
+assent on the National Research and Innovation Council Bill51.
+50 https://nass.gov.ng/document/download/8317
+51 https://allafrica.com/stories/201810100265.html
+17
+Nigeria ICT Innovation and Entrepreneurship Vision
+Section 3
+Supporting the Ecosystem for Innovation and Entrepreneurship
+Vision 12: Facilitate startup growth by easing the business environment and simplifying
+access to opportunities for indigenous innovators:
+Agencies: Federal Inland Revenue Services (FIRS), National Insurance Commission (NIC),
+Corporate Affairs Commission (CAC), Nigerian Investment Promotion Commission (NIPC),
+Nigerian Port Authority (NPA), Nigeria Export Promotion Council (NEPC), Standard
+Organisation of Nigeria (SON) and Nigeria Custom Service (NCS), Central Bank of Nigeria
+(CBN), National Environmental Standards and Regulations Enforcement Agency (NESERA),
+Federal Ministry of Finance, Nigerian Financial Intelligence Unit (NFIU), National Bureau of
+Statistics (NBS), Nigeria Agricultural Quarantine Services (NAQS), National Agency for Food
+and Drug Administration and Control (NAFDAC), Raw Materials Research and Development
+Council (RMRDC), Bank of Industry (BOI), Development Bank of Nigeria (DBN), National
+Information Technology Development Agency (NITDA).
+Rationale: Encourage Techpreneurs to create more enterprises which will create more jobs for
+Nigeria youth and to attract both local and international investors.
+Status:
+a. Simplify procedures for opening and closing a business.
+Lowering the cost of business failure, encourages more enterprise and entrepreneurship.
+There are three ways of winding up companies; by the court, voluntarily or subject to the
+supervision of the court 52. A company can only be dissolved in Federal High Court within the
+area of jurisdiction where the registered office of the company is situated. For example if a
+company was registered with Abuja address, the company cannot be closed in a Lagos court it
+must be a court in Abuja. Therefore, the Lagos court has no power to hear the petition.
+CAC has partnership with FIRS on new company registration where payment of stamp duty
+results in the company being registered with FIRS with Tax Identification Number (TIN)
+assigned. It also has partnerships with Economic and Financial Crimes Commission (EFCC),
+the Nigerian Financial Intelligence Unit (NFIU) and embassies for company validation. For
+foreign companies, if they are using Nigerian address, they must attach valid Resident Permit
+and if the company is an Expatriate Company, then the minimum Share Capital must be 10
+million53
+b. Ease cross-border trade by simplifying procedures and reviewing restrictions on both
+imports and exports;
+According to World Bank rating report (2018)54, Nigeria is one of the economies that showed
+significant improvement in doing business. NCS, through Nigeria Trade Hub provides a portal
+52 http://www.nigeria-law.org/CompaniesAndAlliedMattersActPartXV-
+XVII.htm#Winding%20up%20of%20Companies
+53 CAC Feedback on NIIEV.
+54 http://www.doingbusiness.org/~/media/WBG/DoingBusiness/Documents/Annual-
+Reports/English/DB2018-Full-Report.pdf
+18
+Nigeria ICT Innovation and Entrepreneurship Vision
+for accessing accurate information on imports and exports aimed at helping investors make
+informed decisions about doing business in Nigeria. NCS has also introduced the Authorized
+Economic Operator (AEO) scheme to fast track cargo clearance for trusted traders and give
+incentives for traders to increase compliance with clearance procedures.
+Nigeria has a Single Window Portal to facilitate trade project of 12 Nigerian Government
+agencies involved in the customs clearance process. This portal allows traders to access
+customs regulations online, submit customs documents electronically, track transaction status
+online, and submit electronic payments.
+c. Provide funding for innovation and simplify access to subsidised credit facilities for
+startups.
+BOI is the largest government body that provides business facilities. ICT is one of the sub-
+sectors given high priority for accessing BOI loan 55. Other SME and startup related loans
+includes SME Credit Guarantee Scheme (SMECGS)56, Agricultural/Small and Medium
+Enterprises Investment Scheme (AGSMEIS)57 and loan facilities from Development Bank of
+Nigeria (DBN)58. Most of the funds are complicated to access.
+The Federal Government is working with Africa Development Bank (AfDB) to establish a $500m
+fund for innovation to make the ICT sector more competitive5960.
+Funds should be accessible to everyone including people with disabilities61.
+d. Raise awareness about opportunities for digital entrepreneurship and skills acquisition.
+NITDA through Office for ICT Innovation and Entrepreneurship (OIIE) is working on developing
+guidelines for startups to raise awareness on the opportunities available and how to access
+them. Creating awareness will ensure that Nigerians are enlightened and benefit from the ICT
+ecosystem. This will in turn reduce the unemployment rate of the country.
+e. Provide incentives for technology entrepreneurs, such as pioneer tax status and
+vouchers for access to technology infrastructure.
+Recently, the Federal Government made a declaration to include technology startups and
+businesses in the pioneer list62. Pioneer Status Incentives (PSI) allows companies to benefit
+from a tax holiday for three years renewable for additional two years, tax free dividends during
+the tax holiday, capital allowances and tax losses63. The fees for PSI new application is
+55 https://www.boi.ng/lendingcriteria/
+56
+https://www.cbn.gov.ng/Out/2010/publications/guidelines/dfd/GUIDELINES%20ON%20N200%20BILLI
+ON%20SME%20CREDIT%20GUARANTEE.pdf
+57 https://www.cbn.gov.ng/Out/2017/DFD/Guidelines%20on%20AGSMEIS.pdf
+58 http://devbankng.com/get-a-Loan
+59 https://www.nipc.gov.ng/federal-government-afdb-to-create-500m-innovation-fund-for-tech-creative-
+sector/
+60 https://dailynigerian.com/nigerian-govt-considers-establishing-500m-ict-innovation-fund-osinbajo/
+61 Suggestion from SUF Abuja Entreop
+62 https://nigeriacommunicationsweek.com.ng/fg-to-grant-technology-start-ups-tax-holidays/
+63 https://www.nipc.gov.ng/mdocs-posts/compendium-of-investment-incentives-in-nigeria-final/
+19
+Nigeria ICT Innovation and Entrepreneurship Vision
+N3,200,000 plus 1% of annual profit while for PSI extension it is N100,000 plus 1% annual
+profit64.
+Vision 13: Provide support for hubs and linkages for nationwide collaborations.
+Agencies: National Information Technology Development Agency (NITDA), Federal Ministry of
+Science and Technology (FMST), Federal Ministry of Education (FME), Federal Inland Revenue
+Services (FIRS), Federal Ministry of Industry, Trade and Investment (FMITI), State and Local
+Government.
+Rationale: Innovation hubs are the engines of innovation and entrepreneurship through skills
+development, ideation and experimentation, technology transfer, and investor matchmaking.
+While Nigeria has over 50 hubs, it does not match the population and its not geographically well
+spread.
+Status:
+a. Provide trainings to build the capabilities of hubs to support entrepreneurs;
+NITDA has 2 hubs, one in Oyo and the other in Katsina. The federal government in partnership
+with World Bank and Department for International Development (DFID) initiated the Growth and
+Employment (GEM) Project aimed at job creation and increased non-oil growth65. The project
+was targeted at five sectors one of which is Information and Communication Technology (ICT).
+Part of the ICT sector is provision of support to established innovation hubs66 or establishment
+of new hubs in the six geo-political zones of the country67. The Office of the Vice President
+published a report on Catalysing Growth through Regional Innovation which highlighted the
+opportunities and challenges for developing ICT innovation hubs 68.
+Federal Ministry of Science and Technology proposed a Framework for the Nigerian National
+System of Innovation for the purpose of “promoting successful innovation, and its
+implementation and diffusion in the country”69. In addition, FMST
+1. May consider accommodating new hubs into existing Technology Incubation Centres
+spread nationwide to further support the hub development initiatives
+2. In order to encourage Nigerian youths taking up profession in Science and Technology,
+the 774 Young Nigerian Scientists Presidential Award is an initiative of the Federal
+Ministry of Science and Technology, aimed at effectively encouraging and developing
+the interest of Nigerian youths in Science, Technology and Innovation (STI). The
+specifics of the programme include:
+a. Produce a pool of dedicated Scientists and Technologists, with the capacity to
+compete internationally;
+b. Attract young Nigerians to develop interest in Science and Technology;
+64 https://www.nipc.gov.ng/mdocs-posts/pioneer-status-incentive-fee-schedule/
+65 https://bigportal.org.ng/bigwebsite/gemproject
+66 https://bigportal.org.ng/bigwebsite/communicationtechnology
+67 https://olc.worldbank.org/content/supporting-regional-innovation-hubs-nigeria-0
+68 https://www.pdfnigeria.org/wp-content/uploads/2017/05/Catalysing-Growth-in-Nigeria-FINAL-
+REPORT.pdf
+69 http://scienceandtech.gov.ng/wp-content/uploads/2018/03/NSI_DRAFT.pdf
+20
+Nigeria ICT Innovation and Entrepreneurship Vision
+c. Prepare Nigerians, particularly the youths to embrace STI as an alternative
+source of job and wealth creation;
+d. Offer States and LGAs the opportunity to make contributions toward capacity
+building of young Nigerians in Science and Technology; and
+e. Eventually re-orientate the citizenry towards accepting Science and Technology
+as a way of life.
+3. FMST collaborates with FME to celebrate the Junior Engineers, Technicians and
+Scientists (JETS) yearly.
+b. Facilitate international collaborations and partnerships;
+There are initiatives in partnerships with international organisations aimed at promoting digital
+inclusion and tech entrepreneurship, such as Go Global Africa 201970 , NG_Hub by Facebook71,
+the GEM Project72. Toshiba is plans to open a tech hub in West Africa and is considering Nigeria
+as the location73.
+c. Support innovation hubs and workspaces through tax incentives and tax rebates for
+payments for electricity, internet and telephone;
+Hubs may benefit from tax incentives such as74
+i. Pioneer Status Incentives,
+ii. Exemption of Interest on Loan,
+iii. Exemption on Proceeds Re-invested
+iv. Exemption of Bonds and Short Term Government Securities
+v. Exemption on Profits,
+vi. Reconstruction Investment Allowance
+vii. Rural Investment Allowance
+viii. Investment Tax Relief
+d. Partner with independent innovation hubs to support technology entrepreneurs.
+National Social Investment Programme (N-SIP) plans to partner with existing hubs in the six-
+geopolitical regions to incubate ideas and innovation75. N-SIP in partnership with Ventures
+Platform and Genesys Tech-Hub provided training, mentorship and funding to startups in South-
+East76.
+Vision 14: Incentivise venture capital and angel investment funds to invest in innovative
+entrepreneurship through simplified tax incentives.
+Agencies: Federal Inland Revenue Services (FIRS).
+70 https://dcmsblog.uk/2019/01/go-global-africa-2019/
+71 https://nghub.fb.com/
+72 https://bigportal.org.ng/bigwebsite/gemproject
+73 https://www.vanguardngr.com/2018/12/toshiba-plans-west-african-tech-hub-in-nigeria/
+74 https://www.proshareng.com/admin/upload/reports/10906-Compedium-proshare.pdf
+75 https://twitter.com/npower_ng/status/989391092205400065?lang=en
+76 https://businesstrumpet.com/nsip-ventures-platform-hub-and-genesys-tech-hub-empowers-10-smart-
+startups-in-the-south-east/
+21
+Nigeria ICT Innovation and Entrepreneurship Vision
+Rationale: Angel investors are not supported by incentives like those in other markets. This will
+encourage venture capitalist and Angel investors to invest more in startups.
+Status: The Venture Capital Incentives Act is to provide for the grant of tax relief and other
+incentives on personal investments in the National Risk Fund, venture capital companies and
+venture capital projects and other matters related thereto77.
+A venture capital company shall qualify as an investor under the National Risk Fund. FIRS shall
+certify that a venture capital project fulfils or is capable of fulfilling one or more of the
+objectives.Investment in the venture project shall not be less than 25 percent of the total capital
+required for the venture project some of the incentives are:-
+a. Capital Allowances Incentives
+i. 1st and 2nd year deduct 30%
+ii. 3rd year, 20%
+iii. 4th and 5th year, 10%
+b. Capital Gain Incentives
+i. for the disposal of capital within five years of investment, 100%
+ii. for the disposal of capital between six and ten years or investment, 75%
+iii. for the disposal of capital between eleven and fifteen years of investment, 25%
+iv. for the disposal of capital after fifteen years of investment, 0%
+c. Withholding tax payable reduced by 50%
+d. Pioneer Status Incentives
+e. Export incentives
+All accreditation is done by FIRS.
+Vision 15: Position Nigeria as a global hotspot for innovation through policy reform,
+messaging, and participation at global technology events.
+Agencies: National Information Technology Development Agency (NITDA).
+Rationale: This will promote investments in Nigeria which will boost the GDP, reduce
+unemployment and poverty.
+Status:Nigeria ranks 118 out of 126 economies in the Global Innovation Index 201878
+Various agencies promote Nigeria’s participation at global events in order to showcase Nigeria’s
+potential and attract Foreign Direct Investment (FDI). NITDA has been participating in the Gulf
+Information Technology Exhibition (GITEX) where it organises an African Investment Forum
+(AIF) with the view of promoting local techpreneurs and drawing the international body to invest
+in Nigeria79.
+BOI suggested the following80:
+77 http://lawnigeria.com/LawsoftheFederation/VENTURE-CAPITAL-%28INCENTIVES%29-ACT.html
+78 https://independent.ng/nigeria-ranks-118th-economy-in-global-innovation-index-2018/
+79 https://itpulse.com.ng/2017/09/21/gitex-2017-our-focus-is-investment-and-promotion-of-local-
+techpreneurs-nitda/
+80 BOI Feedback on NIIEV
+22
+Nigeria ICT Innovation and Entrepreneurship Vision
+a. Organising regular regional and national workshop for stakeholders in the industry;
+b. Engagement of secondary and tertiary institutions by way of seminars on ICT themes
+on a quarterly basis;
+c. Intensive social/mass media campaigns on the importance of ICT in today’s world;
+d. Creation of contests and reality TV content for ICT enthusiast;
+e. Encouraging ICT related organisations to sponsor major events as means of publicity;
+f. Commissioning of ICT digital boards and murals in strategic locations;
+g. Creation of ICT related newsletters, podcasts, webinars, memes and gamification; and
+h. Organising annual urban and rural stakeholder enlightenment by way of training and
+conferences.
+THIS VISION IS HEREBY ISSUED ON THE 2ND DAY OF
+AUGUST, 2019
+BY THE NATIONAL INFORMATION TECHNOLOGY
+DEVELOPMENT AGENCY (NITDA)
+…..………………………
+Dr Isa Ali Ibrahim (Pantami) PhD, FNCS, FBCS, FIIM
+Director General/ CEO
+Chief Information Technology of Nigeria.
+23

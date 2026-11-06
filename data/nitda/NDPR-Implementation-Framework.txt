@@ -1,0 +1,1426 @@
+NIGERIA DATA PROTECTION
+REGULATION 2019:
+IMPLEMENTATION FRAMEWORK
+NOVEMBER, 2020
+PREFACE
+It gives me immense pleasure to present the Implementation Framework for the
+Nigeria Data Protection Regulation (NDPR) 2019. The Framework builds on the
+NDPR and the Guideline for the Use of Personal Data by Public Institutions, May
+2020 to further reinforce Nigeria’s implementation of data protection in a pragmatic
+and fit-for-purpose manner.
+NITDA’s methodical approach to data protection implementation has been a subject
+of interest around the world because of some unique offerings the Regulation has
+introduced. The NDPR has pioneered a functional data audit filing process that gives
+NITDA, as the information technology regulator, a good view of the state of
+information systems management in the country. It also establishes a public-private
+partnership regulatory compliance model which has empowered professionals to
+provide compliance-as-a-service thereby accelerating NDPR implementation across
+all sectors.
+I wish to put it on record that NITDA, working with the excellent blueprint laid by Dr.
+Isa Ali Ibrahim Pantami, the Hon. Minister of Communications and Digital Economy,
+has begun making Nigeria a sterling example of data protection implementation in
+the Global South. We are not oblivious of the critical importance of data protection
+law on digital economy, hence we are daily reviewing and revamping the
+implementation architecture through robust stakeholder engagements. I am glad to
+say that through our dedicated and methodical approach, NDPR has become a
+household name within and outside Nigeria. This indicates the level of awareness
+and ownership of the Regulation by Nigerians.
+This Framework is a product of robust partnership and inclusive thinking both within
+and outside Nigeria. I want to appreciate all our Data Protection Compliance
+Organisations (DPCO) who reviewed the document in November, 2019; Aissatou
+Sylla of Hogan Lovells LLP (France) who provided global perspectives, and the law
+firm of Udo-Udoma, Belo Osagie (UUBO) for final vetting, among many other
+contributors. I am also very proud of our astute and dynamic staff who prepared the
+initial draft and managed the stakeholder process to completion.
+Kashifu Inuwa Abdullahi, CCIE
+Director General/CEO, NITDA
+3rd August, 2020
+1 | P age
+TABLE OF CONTENTS
+Paragraph Content Page
+1 BACKGROUND 3
+2 RELATIONSHIP OF THE NDPR TO THE 4
+FRAMEWORK
+3 COMPLIANCE FRAMEWORK 4
+4 HANDLING PERSONAL DATA 10
+5 UNDERSTANDING CONSENT 11
+6 DATA PROTECTION AUDIT 13
+7 TRANSFER OF PERSONAL DATA ABROAD 17
+8 RETENTION OF RECORDS 18
+9 DATA PRIVACY BREACH 19
+10 ENFORCEMENT FRAMEWORK 20
+11 ESTABLISHMENT OF ADMINISTRATIVE 26
+REDRESS PANEL
+12 THIRD PARTY PROCESSING 26
+13 DATA PROTECTION IN MDAS 27
+14 RELATIONSHIP WITH THE ATTORNEY- 28
+GENERAL OF THE FEDERATION
+15 CONTINUOUS PUBLIC AWARENESS AND 29
+CAPACITY BUILDING
+16 APPLICATION OF INTERNATIONAL LAWS 29
+ANNEXURE A: AUDIT TEMPLATE FOR NDPR COMPLIANCE 30
+ANNEXURE B: SAMPLE PRIVACY POLICY TEMPLATE 37
+FOR PUBLIC INSTITUTIONS
+2 | P age
+ANNEXURE C: COUNTRIES WITH ADEQUATE DATA 43
+PROTECTION LAWS
+NIGERIA DATA PROTECTION REGULATION 2019: IMPLEMENTATION
+FRAMEWORK1
+1. BACKGROUND
+1.1 The NDPR is the pioneer, comprehensive Regulation on data
+protection in Nigeria. NITDA, through a stakeholder model has
+developed this NDPR Implementation Framework (the ‘Framework’) as
+a guide to assist data controllers and data administrators/processors
+understand the controls and measures they need to introduce into their
+operations in order to comply with the NDPR.
+1.2 The NDPR was issued on 25th January 2019 pursuant to section 6 (a)
+and (c) of the National Information Technology Development Agency
+Act 2007 (the ‘NITDA Act’). It was made in recognition of the fact that
+many public and private bodies have migrated their respective
+businesses and other information systems online. These information
+systems have thus become critical information infrastructure which
+must be safeguarded, regulated and protected against personal data
+breaches. Government further takes cognizance of emerging data
+protection laws and regulations in the international community geared
+towards protecting privacy, identity, lives and property as well as
+fostering the integrity of commerce and industry in the data and digital
+economy and has realised the imperative importance of developing
+data protection rules and regulations to protect the personal data of
+Nigerian citizens and residents. It is in view of this that an
+implementation framework for the NDPR becomes essential. The
+1 Capitalised terms used herein and not otherwise defined herein shall have the meanings assigned to
+them in the Regulations, unless the context shall otherwise require.
+3 | P age
+Framework is NITDA’s attempt to promote a shared understanding of
+the NDPR in order to promote voluntary compliance.
+2. RELATIONSHIP OF THE NDPR TO THE FRAMEWORK
+This Framework clarifies provisions of the NDPR which needs further
+clarity or context. The Framework should be read in conjunction with
+the NDPR and relevant laws applicable to it. It does not supersede the
+NDPR.
+2.1 Exceptions to the NDPR
+Statutory and legal exceptions to the application of data privacy and
+protection remain applicable to the NDPR. Therefore, the NDPR does
+not apply to:
+i. the use of personal data in furtherance of national security, public
+health, safety and order by agencies of the Federal, State or
+Local government or those they expressly appoint to carry out
+such duties on their behalf;
+ii. the investigation of criminal and tax offences;
+iii. the collection and processing of anonymised data; and
+iv. personal or household activities with no connection to a
+professional or commercial activity.
+3. COMPLIANCE FRAMEWORK
+3.1 Forms of Compliance
+i. Cooperation: NITDA will, to the extent that is practicable and
+consistent with the provisions of NITDA Act, 2007 and relevant
+regulatory instruments, seek the cooperation of stakeholders in
+achieving compliance with the applicable provisions.
+4 | P age
+ii. Assistance: NITDA may provide technical assistance to stakeholders
+to help them comply voluntarily with the applicable provisions of the
+NDPR. This assistance may be provided through the DPCOs.
+iii. Self-Reporting: Concerned entities will be required to proactively
+provide information to show compliance with the applicable provisions
+of the NDPR.
+iv. Monitoring and Analytics: NITDA shall ensure the proactive
+monitoring and evaluation of personal data processing by concerned
+entities. The Agency may deploy analytic tools and processes to
+identify patterns that reflect non-compliance.
+3.2 Compliance Checklist for Data Controllers and Data
+Administrators
+In enhancing compliance and reducing liabilities, Data Controllers and
+Data Processors shall:
+i. within twelve months of incorporation and then on an annual basis
+conduct a data protection audit.;
+ii. process data only on legally justifiable basis as provided in Article
+2.2 of the NDPR;
+iii. prepare and publish a privacy policy on every medium of personal
+data collection within 3 months of commencement of business
+operations in line with Article 2.5 of the NDPR
+iv. have a privacy policy on their site and send messages to inform
+data subjects of developments requiring new or different consent.
+Publicity of the privacy policy may be fulfilled through any one or
+combination of the following:
+➢ publication on the website;
+➢ publication in a digital media;
+5 | P age
+➢ posted at conspicuous parts of the Data Controller’s business
+premises;
+➢ by reading or providing a copy to the Data Subject; or
+➢ publication in any public media.
+Where the privacy policy is not given or read to the Data Subject,
+the request for consent should explicitly refer the Data Subject to
+where the privacy policy can be accessed;
+v. design and maintain systems to be data protection compliant: Data
+Controllers must show that their systems are built with data
+protection in mind, as provided in Article 2.6. Data Controllers are,
+therefore, expected to ensure continuous improvement of their
+information security architecture to prevent possible data breaches.
+vi. undertake continuous capacity building for members of staff,
+contractors, vendors, and relevant third parties;
+vii. develop and circulate an internal data protection strategy or policy
+to help members of staff and vendors to understand the
+organisation’s direction in connection with the collection and
+processing of Personal Data and outline the steps they are to take
+to ensure the organisation’s direction is achieved and maintained;
+viii. conduct a Data Protection Impact Assessment (‘DPIA’) in
+accordance with the provisions of the NDPR (A DPIA is a process
+to identify, evaluate and minimise possible data protection risks in
+an existing or new business or organisational activity. Where the
+organisation intends to embark on a project that would involve the
+intense use of personal data, a DPIA should be conducted to
+identify possible areas where breaches may occur and devise a
+means of addressing such risks. Organisations are expected to
+conduct a DPIA on their processes, services and technology
+periodically to ensure continuous compliance);
+6 | P age
+ix. notify NITDA of Personal Data breaches within 72 (seventy-two)
+hours of becoming aware of the breach;
+x. update agreements with third party processors to ensure
+compliance with the NDPR;
+xi. design system and processes to make data requests and access
+seamless for Data Subjects;
+xii. design systems and processes to enable Data Subjects to easily
+correct or update their Personal Data;
+xiii. design system and processes to enable Data Subjects to easily
+transfer data to another platform or person (natural or artificial) at
+minimal costs;
+xiv. within the first 6 (six) months of incorporation and then on a
+biennial basis, train members of senior management and
+employees that collect and/or process Personal Data in the course
+of their duty, on Nigerian data protection laws and practices;
+xv. clearly communicate to Data Subjects the process for objecting to
+the processing of their Personal Data; and
+xvi. outline the procedure for informing Data Subject and for protecting
+their rights, where an automated decision is being made on their
+Personal Data.
+3.3 Compliance Approach
+3.3.1 The approach adopted for the NDPR is to ensure compliance by all
+stakeholders in a business-friendly manner. A triangular compliance
+model set out below is adopted:
+NITDA (as National DPO)
+7 | P age
+Data Controller/Administrator DPCO
+3.3.2 In this model, NITDA would register DPCOs who will provide training,
+auditing and compliance services to data controllers and
+administrators. The criteria for licensing DPCOs are accessible to the
+public, and licensed DPCOs are listed on NITDA’s website. Data
+Controllers who process the Personal Data of more than 2,000 Data
+Subjects in the 12-month period preceding 15th March (or such other
+date NITDA may stipulate as the deadline for the filing of annual data
+protection audit reports), are expected to submit a report of their data
+protection audit to NITDA on an annual basis.
+3.4 Appointment of a Data Protection Officer (Art. 4.1(2) NDPR)
+3.4.1 A Data Controller is required to appoint a dedicated Data Protection
+Officer (‘DPO’) within 6 months of commencing business or within 6
+months of the issuance of this Framework, where one or more of the
+following are present:
+a) the entity is a government organ, Ministry, Department, institution
+or Agency;
+b) the core activities of the organisation involve the processing of the
+Personal Data of over 10,000 (ten thousand) Data Subjects per
+annum;
+c) the organisation processes Sensitive Personal Data in the regular
+course of its business; or
+8 | P age
+d) the organisation possesses critical national information
+infrastructure (as defined under the Cybercrimes (Prohibition,
+Prevention, Etc.) Act 2015 or any amendment thereto) consisting
+of Personal Data.
+3.5 Data Protection Officer in a Multinational Company
+The Nigerian subsidiary of a multinational company to which paragraphs 3.4.1
+above apply, shall appoint a DPO who shall be based in Nigeria and shall be
+given full access to the Management in Nigeria. The DPO of the Nigerian
+subsidiary may report to a global DPO where such exists.
+3.6 Liability of a DPO
+Notwithstanding any contractual, civil or criminal liability, a DPO shall
+not be personally liable for the organisation’s non-compliance with
+applicable data protection laws.
+3.7 Qualities of a DPO
+A DPO shall be chosen with due regard to the nature of the
+organisation’s Processing activities and the data protection issues that
+arise within the organisation.
+A DPO shall have:
+a. professional expertise in Nigerian data protection laws and
+practices;
+b. an in-depth understanding of applicable data protection laws; and
+c. requisite knowledge to do the following:
+i. inform and advise the organisation, Management, employees and
+third parties processors of their obligations under the NDPR;
+ii. monitor compliance with the NDPR and with the organisation's
+own data protection objectives;
+9 | P age
+iii. assign responsibilities, raise awareness and train members of staff
+involved in processing operations;
+iv. advice on data protection impact assessment and monitor its
+performance; and
+v. liaise with NITDA and/or the DPCO on data protection matters.
+4. HANDLING PERSONAL DATA
+4.1 Further Processing Art. 3.1(7)m
+4.1.1 According to Article 3.1(7)m: Where the Controller intends to further
+process the Personal Data for a purpose other than that for which
+the Personal Data were collected, the controller shall provide the
+Data Subject prior to that further processing with information on
+that other purpose, and with any relevant further information.
+Where a Data Controller wishes to further process Personal Data
+initially collected for a defined or limited purpose, the Data Controller
+shall consider the following:
+a) whether there exists a connection between the original purpose
+and the proposed purpose;
+b) the context in which the data was originally collected;
+c) the nature of the Personal Data;
+d) the possible impact of the new processing on the data subject;
+and
+e) the existence of requisite safeguards for the Personal Data.
+4.1.2 The above information shall be provided to the Data Subject before
+further processing is done. The further processing may be done if:
+a) the Data Subject gives consent based on the new information;
+10 | P age
+b) the further processing is solely for the purpose of scientific
+research, historical research or for statistical purposes in the
+public interest; or
+c) the further processing is required in compliance with a legal
+obligation.
+4.2 Data Protection Impact Assessment
+As stated in parapgraph 3.2 (viii) Data Controllers and Data
+Administrators are required to conduct DPIAs, where applicable.
+NITDA may however request the submission of a DPIA from any Data
+Controller or Administrative where such processing activities is
+deemed to be of high impact on data subjects. A DPIA may be required
+for the following types of Processing:
+a) evaluation or scoring (profiling);
+b) automated decision-making with legal or similar significant effect;
+c) systematic monitoring;
+d) when sensitive or highly Personal Data is involved;
+e) when Personal Data Processing relates to vulnerable or
+differently-abled data subjects; and
+f) when considering the deployment of innovative processes or
+application of new technological or organizational solutions.
+5. UNDERSTANDING CONSENT
+5.1 Consent of the Data Subject means any freely given, specific, informed
+and unambiguous indication of the Data Subject's wishes by which he
+or she, through a statement or a clear affirmative action, signifies
+agreement to the processing of Personal Data relating to him or her.
+Consent may be made through a written statement, sign or an
+affirmative action signifying agreement to the processing of personal
+data.
+11 | P age
+5.2 Principles governing Consent (Art. 2.2(a) NDPR)
+The following principles shall govern the giving and obtaining of
+consent:
+a) Transparency: There must be an explicit privacy policy stating the type
+of Personal Data collected, how the Personal Data is processed, who
+processes the Personal Data, the security standard implemented etc.;
+b) No implied consent: silence, pre-ticked boxes or inactivity do not
+constitute consent; and
+c) No bundled consent: consent request from general terms and
+conditions should be separated from consent request. There must be
+consent for different types of data uses.
+5.3 When Consent is required
+5.3.1 Consent is required:
+a) for any direct marketing activity, except to existing customers of
+the Data Controllers who have purchased goods or services;
+b) for the Processing of Sensitive Personal Data;
+c) for further processing;
+d) for the processing of the personal data of a minor;
+e) before personal data is processed in a country which is not in the
+Whitelist of Countries published by NITDA from time to time.
+f) before the Data Controller makes a decision based solely on
+automated Processing which produces legal effects concerning or
+significantly affecting the Data Subject.
+5.3.2 Special category / higher standard consent: Explicit consent is required
+for the processing of sensitive personal data.
+12 | P age
+5.4 Types of Consent
+a) Explicit Consent: Subject gives clear, documentable consent e.g. Tick a
+box, sign a form, send an email or sign a paper
+b) Opt-in Consent: you are out, except you choose to opt-in. An example
+of opt-in consent is set out below:
+I want to receive XXX newsletter If the box is left unticked, you
+will not receive the XXX newsletter
+5.5 Processing of a Child’s Data (Art. 3.1 NDPR)
+A child for the purpose of the NDPR shall be any person below thirteen (13)
+years. A data controller or processor whose processing activity targets
+children shall ensure its privacy policy is made in a child-friendly form with the
+aim of making children and their guardians have clear understanding of the
+data processing activity before grant of consent.
+5.6 Consent to Cookies (Art. 2.5(d) NDPR)
+The use of cookies on a website or other digital platforms requires consent.
+The consent must be freely given, informed and specific. Consent for cookies
+does not necessarily need the ticking of a box or similar methods; the
+continued surfing of a website upon a clear notice indicates consent.
+In deploying cookies, website owners are required to:
+i. make cookie information clear and easy to understand;
+ii. Notify users of the presence and purpose of the cookies;
+iii. identify the entity responsible for the use of the cookies; and
+iv. provide information on how to withdraw consent from the use of the
+cookie.
+6. DATA PROTECTION AUDIT (Art. 4.1(5) NDPR)
+6.1 Data protection audit is a systematic investigation or examination of the
+records, processes and procedures of Data Controllers and
+13 | P age
+Processors, to ensure that they are in compliance with the
+requirements of the NDPR and their data protection policies.
+NITDA may at its discretion:
+a) carry out scheduled audits;
+b) require report of audits as carried out by an organisation’s DPCO;
+or
+c) schedule “spot check” or “special audits” to ascertain compliance
+or identify breaches.
+6.2 The reasons for conducting a data protection audit include to:
+a) assess the level of compliance with the NDPR;
+b) evaluate compliance with the organisation's own data protection
+policy;
+c) identify potential gaps and weaknesses in organisation’s processes;
+and
+d) give requisite advice and/or remedial actions for identified gaps.
+6.3 Audit Filing Fees (Art. 4.1(5) NDPR)
+Each Data Controller and Administrator is expected to file its audit
+report through a DPCO and pay the following amount as applicable2:
+SN Number of Data Subjects Amount
+1 Less than 2,000 N10,000
+2 2,000 data subjects and above N20,000
+6.4 Content of Audit Report (Art. 4.1(5) NDPR)
+2 NITDA in its discretion may vary the applicable fees and notify stakeholders accordingly.
+14 | P age
+6.4.1 The data protection audit shall contain the following information as
+specified in Article 4.1(5) of the NDPR. A standard template for the
+audit report is attached as Annexure A to this Framework. It should act
+as a guide for DPCOs and DPOs in the course of audit implementation.
+6.5 The Role of DPCOs in Data Audits (Art. 4.1(4) NDPR)
+In the performance of data audits, DPCOs are responsible for:
+a) evaluating the status of compliance by the organization. NITDA
+expects DPCOs to base their findings on verifiable documents
+and practices;
+b) appraising Data Subjects rights protection. The DPCO should be
+satisfied that the organisation has clear processes to protect the
+rights of the Data Subject;
+c) assessing the level of awareness by top management, members
+of staff, contractors and customers of the NDPR;
+d) identifying current or potential non-compliance; and
+e) drawing up a remedial plan to remediate identified non-
+compliances.
+6.6 Audit Verification Statement by DPCO (Art. 4.1(4) NDPR)
+A DPCO shall make the following audit verification as a pre-condition to
+the filing of an annual audit report or any other report demanded by
+NITDA.
+I ……………………. Of ………………………………. a licensed Data
+Protection Compliance Organisation (DPCO) under Article 4.1(4) of
+the Nigeria Data Protection Regulation (NDPR) hereby make this
+statement on oath that the Data Audit Report filed by
+……………………… (Name of Organisation) is conducted in line
+15 | P age
+with the NDPR and that it is an accurate reflection of the
+organisation’s Personal Data management practice.
+SIGN LICENSE NUMBER DATE
+6.7 DPCO Terms of License (Art. 4.1(4) NDPR)
+Every licensed DPCO shall:
+i. abide by the provisions of the NDPR, this Framework and other
+related guidelines and frameworks as may be issued or directed
+by NITDA from time to time;
+ii. deliver service in a professional and ethical manner;
+iii. ensure every information it provides to NITDA about its client shall
+be factual and professional;
+iv. not mishandle or withhold any Personal Data or asset of its client
+unlawfully in the course of its relationship with the client;
+v. be held liable, if found to have conspired to provide false and
+misleading information in an audit filing or communication.
+6.8 Auditor’s Code of Conduct (Art. 4.2(6) NDPR)
+Every DPCO shall ensure all its members of staff are aware of the
+ethical considerations in the performance of an audit under the NDPR.
+The following are basic ethical expectations required of DPCOs in the
+conduct of their business.
+a) Confidentiality - The DPCO and its Client must execute a binding
+non-disclosure agreement before embarking on audit process.
+This will ensure that the information and data of the client is kept
+confidential.
+b) Conflict of Interest - DPCOs shall not audit a client if it amounts to
+a conflict of interest. Any DPCO that provides any other legal,
+audit or compliance function to the same client shall attach a
+Conflict of Interest Declaration to the audit report. Financial
+Auditors shall not provide Data Audit to the same client.
+16 | P age
+c) Honesty - DPCOs must state verifiable facts and not conjectures,
+half-truths or concealed facts. The essence of the audit is not to
+sanction organisations, but to provide an insight on how the
+country’s cyber and information management practices can be
+improved. Any established falsehood in an audit report or
+communication to NITDA by the DPCO, and which falsehood was
+known to the DPCO at the time of preparing such report or
+communication, is a ground for the immediate withdrawal of the
+DPCO’s license, plus any other statutory sanction applicable
+d) Professionalism - DPCOs must perform the service with the
+highest level of professionalism and carry out continuous capacity
+building for its members of staff, which is a prerequisite for
+relicensing by the NITDA. DPCOs must not undertake any work
+for which they lack the requisite skills, manpower and capacity.
+7.0 TRANSFER OF PERSONAL DATA ABROAD (Art. 2.11 NDPR)
+7.1 The following information is required where data is being transferred
+abroad:
+a) the list of countries where the Personal Data of Nigerian citizens
+and residents is being transferred in the regular course of
+business;
+b) the data protection laws of the relevant data protection
+office/administration of such countries listed in (i) above;
+c) the privacy policy of the Data Controller, which is NDPR-
+compliant;
+d) an overview of the encryption method and data security
+standards; and
+e) any other detail that assures the privacy of Personal Data is
+adequately protected in the target country.
+17 | P age
+7.2 NITDA shall coordinate transfer requests with the office of the
+Attorney-General of the Federation (‘AGF’). A ‘white-list’ of jurisdictions
+(the ‘White List’) has been compiled and is set out in Annexure C to
+this Framework. Where transfer to a jurisdiction outside the White List
+is being sought, the Data Controller shall ensure there is a verifiable
+documentation of consent to one or more of the exceptions stated in
+Article 2.12 of the NDPR.
+7.3 Data Transfer to subsidiaries or headquarters outside Nigeria
+Where an organization seeks to transfer personal data to another entity
+within its group of companies or an affiliate company, it would suffice
+for the organization to provide a Binding Corporate Rule (BCR) or sign
+a Standard Contracting Clauses (SCC) to be adopted by industry and
+NITDA. The BCR or SCC may be included in the data audit report or
+submitted separately to NITDA.
+8.0 RETENTION OF RECORDS (Art. 2.1(1c) NDPR)
+8.1 The Regulation does not explicitly provide for a time period for the
+retention of data, because the retention period in certain scenarios may
+be subject to existing laws or contractual agreements. Every data
+Controller Report shall specify the duration of storage clearly in its terms
+of service or other binding document.
+8.2 Where the retention period of Personal Data is not specified in the
+contract between the parties or by applicable law, the retention period
+shall be:
+a) 3 (three) years after the last active use of a digital platform
+b) 6 (six) years after the last transaction in a contractual agreement
+c) Upon presentation of evidence of death by a deceased’s relative
+d) immediately upon request by the Data Subject or his/her legal
+guardian where (i) no statutory provision provides otherwise and
+18 | P age
+(ii) the Data Subject is not the subject of an investigation or suit
+that may require the Personal Data sought to be deleted.
+NITDA would consider the above and other circumstances to
+determine if the data was stored appropriately and for a reasonable
+length of time.
+8.3 Personal Data that is no longer in use or which has been retained
+beyond the requisite statutorily required storage period, shall be
+destroyed in line with global best practices for such operations.
+Evidence of destruction of data shall be a valid defence against future
+allegation of breach by a Data Subject.
+9.0 DATA PRIVACY BREACH (Art. 2.10; 4.1(8) NDPR)
+9.1 In line with Article 4.1(8) and other relevant provisions, Data Subjects,
+civil societies or professional organisations or any government Agency
+may report a breach of this Regulation to NITDA through any of the
+advertised channels. Upon receipt of this report, NITDA may take any of
+the following actions:
+a) contact the organisation for enquiry;
+b) review of earlier filed annual report (if any);
+c) issue a compliance query;
+d) commence other administrative actions; and
+e) report the defaulter for possible prosecution
+9.2 Data Controllers have a duty of self-reporting of Personal Data
+breaches to NITDA within 72 hours of knowledge of such breach. This
+timeline should be documented in the organisation’s data protection
+policy and data privacy policy.
+9.3 A notification of data breach to NITDA must include the following
+information:
+19 | P age
+a) a description of the circumstances of the loss or unauthorised
+access or disclosure;
+b) the date or time period during which the loss or unauthorised
+access or disclosure occurred;
+c) a description of the personal information involved in the loss or
+unauthorised access or disclosure;
+d) an assessment of the risk of harm to individuals as a result of the
+loss or unauthorised access or disclosure;
+e) an estimate of the number of individuals to whom there is a real
+risk of significant harm as a result of the loss or unauthorized
+access or disclosure;
+f) a description of steps the organization has taken to reduce the
+risk of harm to individuals;
+g) a description of any steps the organisation has taken to notify
+individuals of the loss or unauthorized access or disclosure, and
+h) the name and contact information for a person who can answer,
+on behalf of the organization, the Agency’s questions about the
+loss of unauthorized access or disclosure.
+9.4 The Data Controller should immediately notify the Data Subject of the
+Personal Data breach where the personal data breach will likely result in
+high risks to the freedoms and rights of the data subject.
+10.0 ENFORCEMENT FRAMEWORK (Art. 4.3a NDPR)
+10.1 Forms of Enforcement
+20 | P age
+10.1.1 Surveillance
+Surveillance refers to specific, deliberate monitoring carried out to
+identify breach of the NDPR. This routine activity arises out of the
+understanding that operators or parties are legally obliged to perform
+specific tasks in order to comply with provisions of NDPR, particularly
+as it affects Data Subjects. Such Controllers may be in deliberate or
+unconscious breach of the Regulation. Surveillance will aid NITDA to
+identify breaches of regulatory instruments or co-opt other
+stakeholders to identify and report breaches to the Agency.
+10.1.2 Complaint Filing
+Any person who believes a party is not complying with any of the
+provisions of the Regulation may file a complaint with NITDA. a
+complaint must:
+a) be filed in writing, either on paper or electronically.
+b) name the Data Controller or Administrator that is the subject of
+the complaint and describe the acts or omissions believed to be
+in violation of the applicable provision(s).
+NITDA may prescribe additional procedures for the filing of complaints,
+as well as the place and manner of filing.
+21 | P age
+10.1.3 Investigation
+NITDA will investigate any complaint filed against a Data Controller or
+Administrator when a preliminary review of the facts indicates a
+possible violation of the provision(s) of the NDPR. NITDA may by its
+officers or through a designated DPCO, investigate any complaint filed
+by third parties and may also do so based on a special audit check or
+“spot check”. Investigation may include a review of the policies,
+procedures, or practices of the concerned entity and of the
+circumstances regarding any alleged violation. At the time of the initial
+written communication with the concerned entity, NITDA will indicate
+the basis of the audit.
+10.1.4 Administrative Sanctions
+Where NITDA has ascertained through the foregoing tools of
+enforcement or by the Administrative Redress Panel established,
+pursuant to Article 4.2 of the NDPR, that a party is in breach, NITDA
+may issue an order for compliance with relevant provisions to curtail
+further breach. NITDA, shall issue a monetary fine following an
+administrative process that complies with principles of fair hearing and
+judicial safeguards. A decision on the money value shall be based on
+the following considerations:
+a) nature, gravity and severity of the breach;
+b) the number of data subjects affected;
+c) damage suffered by data subjects;
+d) opportunity for curtailment left unexplored and
+e) whether the breach is the first by the offending entity.
+NITDA may also issue other administrative orders to include:
+i. Suspension of service pending further investigations;
+22 | P age
+ii. Order for parties in breach to appear before a panel to determine
+liability of officers in line with Article 4.2;
+iii. public notice to warn the public to desist from patronizing or
+doing business with the affected party;
+iv. Refer the matter to appropriate professional bodies for possible
+sanction of its members involved in the breach.
+10.1.5 Criminal Prosecution
+Where NITDA has determined that a party is in breach of the NDPR,
+especially where such breach affects national security, sovereignty and
+cohesion, it may seek to prosecute officers of the organization as
+provided for in section 17(1) and (3) of the NITDA Act 2007. NITDA
+shall seek a fiat of the Honourable Attorney General of the Federation
+or may file a petition with any authority in Nigeria. This may include:
+The Economic and Financial Crimes Commission, Department of State
+Security, Nigerian Police Force, Independent Corrupt Practices (and
+other related offences) Commission or the Office of National Security
+Adviser.
+10.2. Enforcement Process
+Enforcement Description of Action
+Activity
+Documentation 1. At this stage it is required that a report, memo, petition or
+of Breach complaint is officially submitted to NITDA through the
+office of the Director General of NITDA.
+23 | P age
+2. The Document must be duly signed by an Officer of
+NITDA or the external complainant.
+3. For external complaint, the document must be written
+and signed by an Individual either in personal capacity or
+a group (of persons or companies) or registered entity
+(registered with the CAC).
+4. Complaint filing through social media or other digital
+media shall be accepted if the necessary requirements in
+section 10.1.2 are observed.
+Request for If it appears NITDA is not sufficiently briefed or may need further
+Additional information to arrive at a conclusion of breach of the NDPR, the
+Information and following procedure would be employed:
+Investigation i. “Request for Additional Information" would be
+issued to either the complainant, the alleged
+violator or any other party who may be in a
+position to provide clarity on facts of the
+allegation of breach.
+ii. Invitation of relevant parties for an “Investigative
+Meeting” to elicit facts to establish or disprove
+breach.
+iii. Request for Investigation in partnership with
+law enforcement agencies.
+Continuation or Where NITDA is satisfied that there is a prima facie evidence of
+Termination of breach, NITDA may:
+Enforcement 1. Request for a response from the violator stating the
+Process allegations against them;
+24 | P age
+2. In the event that NITDA finds the explanations of the
+alleged violator coherent and sufficient, NITDA may
+discontinue the enforcement process
+Notice of Where NITDA is satisfied that a breach of NDPR has occurred:
+Enforcement 1. NITDA will issue a “Notice of Enforcement” citing the
+specific breach and demand mandatory compliance within
+a specific time frame from the date of the service of
+notice.
+2. NITDA may issue an administrative fine or penalty in line
+with extant laws.
+Issuance of NITDA may consider issuing a public statement warning the
+Public Notice public and other Agencies of Government of the dangers of
+(OPTIONAL) dealing with a violator who has perpetrated a breach of the
+NDPR.
+Request of A. Where a violator does not take steps to address breach or
+Prosecution consult with NITDA as to what steps to be taken to
+remedy breach after the period stated in the "Notice for
+Enforcement"; or
+B. NITDA may file an official Petition or Notice of
+Prosecution to the Office of the Attorney General of the
+Federation, stating the following:
+I. Original complaint;
+II. Enforcement process initiated by the NITDA; and
+III. Implication of the action of the violator to the
+development of ICT in Nigeria.
+IV. A copy of the notice, which will be copied to the
+Presidency and any other relevant organ of
+25 | P age
+Government.
+11. ESTABLISHMENT OF ADMINISTRATIVE REDRESS PANEL (Art. 4.2
+NDPR)
+11.1 Pursuant to Article 4.2 of the Regulation, NITDA shall establish
+Administrative Redress Panels (ARP), for the purpose of resolving
+issues related to the Regulation. The ARP shall be composed of
+accomplished information technology professionals, public
+administrators and legal practitioners.
+11.2 Decisions of the ARP shall not be a condition precedent for
+entertaining data breach related issues in the court of law, except
+otherwise directed by a competent court of law
+11.3 The ARP procedure shall give preference to an online dispute
+resolution mechanism. Where it is impracticable to adopt such
+mechanism, the ARP panel shall be convened at a physical venue.
+11.4 The ARP shall give its opinion within a stipulated period of time.
+11.5 The rules of procedure of the ARP shall be drawn up by a panel of
+experts. The ARP procedure shall be drafted, considering principles of
+fair hearing, fairness and transparency. The Procedure should also be
+drafted to ensure expedited resolution of cases brought before the
+panel.
+26 | P age
+12.0 THIRD PARTY PROCESSING
+12.1 In fulfilment of a service to a Data Subject, the Controller may have
+cause to send personal data to parties (statutory or non-statutory),
+other than the Processor, such entities are referred to as Third Parties.
+12.2 Data Controllers are required to publish a list of third parties with whom
+the Data Subject’s Personal Data may be shared. This publication
+which must also be included in the audit report should include:
+a) categories of third-party data recipients e.g. credit reference
+agencies; payment processors; insurance brokers; anti-corruption
+agencies etc.;
+b) jurisdiction of the third party;
+c) the purpose of the disclosure e.g. fraud checking; payment
+processing; dispute management; risk management; statutory
+requirement etc.; and
+d) the type of data disclosed e.g. name, phone number, address,
+payment details etc.
+12.3 Third Party processors shall be obligated to comply with the NDPR or
+any other adequate data protection law existent in their country. The
+third-party processors are required to:
+a) process data only based on authorisation expressly granted by
+the Data Controller through a written agreement that specifies the
+roles and obligations of each party in respect to data protection;
+b) ensure there is adequate information security and process
+measures to protect the Personal Data being processed;
+rectify, grant access or delete such Personal Data on the instruction of the
+Data Controller (if possible) or redirect such request to the Data Controller
+27 | P age
+13. DATA PROTECTION IN MDAS (Art. 4.1(1) NDPR)
+13.1 NITDA shall deploy strategies and programmes to improve electronic
+governance in public institutions. All Public Institutions (PIs) are
+required to comply with the Guidelines for the Management of
+Personal Data by Public Institutions in Nigeria 2020, issued by the
+NITDA in May 2020. NITDA shall encourage and coordinate the
+process of improving data protection in PIs through training and
+process change management.
+13.2 Every PI shall publish a privacy policy on its website and any other
+digital media platform through which it collects Personal Data. A
+sample Privacy Policy for PIs is available in Annexure B for guidance.
+13.3 Every MDA shall domicile data protection function in a Department or
+Unit under the CEO’s office and designate an officer with proven
+knowledge of data protection to oversee the function. The Officer, who
+may be referred to as the Data Protection Officer shall be responsible
+for:
+• informing and advising the MDA on compliance with NDPR and
+other applicable data protection laws and policies;
+• monitoring compliance with the Regulation and with the internal
+policies of the PI including assigning responsibilities, awareness
+raising and training members of staff; and
+• facilitating the cooperation with relevant stakeholders and acting
+as the liaison between the PI and the NITDA.
+14. RELATIONSHIP WITH THE ATTORNEY-GENERAL OF THE
+FEDERATION (Art. 2.11 NDPR)
+14.1 Generally, an adequacy decision shall be issued by the NITDA in
+respect of transfer to foreign countries if Part Two of the NDPR is
+28 | P age
+satisfactorily complied with by the Data Controller or Administrator.
+This shall be done with consideration of Legal Agreements and
+directives of the Office of the Attorney General of the Federation.
+14.2 An adequacy decision permits a cross-border transfer of Personal Data
+outside Nigeria or the onward transfer from or to a party in a
+jurisdiction in the White List. The Attorney General of the Federation
+may in its supervisory role prohibit the transfer of the Personal Data of
+Nigerian citizens or residents to certain countries where it is of the
+opinion that the country’s data protection regime is inadequate or
+incompatible with Nigerian law.
+14.3 A Data Controller or Administrator may transfer Personal Data to any
+country on the White List provided the organisation complies with the
+other provisions of the NDPR.
+14.4 The transfer of data to any country other than the ones listed, by a Data
+Controller or Administrator in its request for an adequacy decision,
+shall be subject to further processes to ascertain the protection of the
+Personal Data of Nigerian citizens and residents.
+15. CONTINUOUS PUBLIC AWARENESS AND CAPACITY BUILDING
+(Art. 2.6; 4.1(3) NDPR)
+NITDA may by itself or in cooperation with industry groups, civil society
+organisations or any other body, organise or facilitate seminars,
+workshops, conferences and other information dissemination
+programmes periodically, to improve public awareness, acceptance
+and compliance with applicable data protection laws.
+16. APPLICATION OF INTERNATIONAL LAWS
+29 | P age
+Where the NDPR and this Framework do not provide for a data
+protection principle or process, the African Union Convention on Cyber
+Security and Personal Data Protection (Malabo Convention) 2014 and
+European Union General Data Protection Regulation (EU GDPR) and its
+judicial interpretations shall be of persuasive effect in Nigeria.
+ANNEXURE A
+AUDIT TEMPLATE FOR NDPR COMPLIANCE
+A. This template is a guideline for Data Controllers and Administrators to show
+evidence of compliance. The template may be modified in so far as the essence of
+the reporting is achieved in a concise but comprehensive manner.
+B. Responses must be evidenced with documentary evidence.
+False reporting is a criminal offence. The Data Controller and the DPCO shall be
+jointly liable except otherwise proven.
+C. NITDA may review the audit questions and communicate such update to DPCOs
+from time to time
+No NDPR Provision Question Response Comments
+1 Accountability and governance
+Did you process the personal data of:
+a. more than 1,000 (one thousand) Data Subjects in
+1.1 Article 4.1(6) and (7) the last 6 months; or
+b. more than 2,000 Data Subjects in the last 12
+months?
+Is your top-management aware of the Nigeria Data
+1.2 Article 1.1 and 1.2 Protection Regulation (NDPR) and the potential
+implication on your organisation?
+Have you implemented any information security
+1.3 Article 2.6
+standard in your organisation before? If YES, specify.
+Do you have a documented data breach incident
+1.4 Article 2.1(d)
+management procedure?
+30 | P age
+Do you collect and process personal information
+1.4#5 Article 1.2
+through digital mediums?
+Have you organised any NDPR awareness seminar for
+1.6 Article 2.6
+your members of staff or suppliers?
+Have you conducted a detailed audit of your privacy
+1.7 Article 4.1(5)
+and data protection practices?
+Have you set out the management support and
+1.8 Article 2.5 direction for data protection compliance in a
+framework of policies and procedures?
+Do you have a Data Protection compliance and review
+1.9 Article 2.1
+mechanism?
+Have you developed a capacity building plan for
+1.10 Article 2.6 compliance with data protection for all members of
+staff?
+Do you know the types of personal data you hold?
+1.11 Article 3.1(1)
+Do you know the sources of the personal data you
+1.12 Article 4.1(5)
+hold?
+1.13 Article 4.1(5) Who do you share personal data with?
+1.14 Article 4.1(2) Who is responsible for your compliance with data
+protection laws and processes?
+1.15 Article 1.3 Have you assessed whether you are a Data Controller
+or Data Processor?
+Have you reviewed your Human Resources policy to
+1.16 Art 4.1(5) ensure personal data of employees are handled in
+compliance with the NDPR?
+Have appropriate technical and organisational
+measures been implemented to show you have
+1.17 Article 2.5(d)
+considered and integrated data protection into your
+processing activities?
+Do you have a policy for conducting Data Protection
+1.18 Article 4.1(5) Impact Assessment (DPIA) on existing or potential
+projects?
+31 | P age
+Does your DPIA Policy address issues such as:
+a) A description of the envisaged processing
+operations
+b) The purposes of the processing
+c) The legitimate interest pursued by the controller
+1.19 Article 4.1(5) d) An assessment of the necessity and proportionality
+of the processing operations in relation to the
+purposes
+e) An assessment of the risks to the rights and
+freedoms of Data Subject f) Risk mitigation
+measures being proposed to address the risk
+2 DATA PROTECTION OFFICER/DATA PROTECTION COMPLIANCE ORGANISATION
+Have you appointed a Data Protection Compliance
+Article 4.1(4)
+Organisation (DPCO)?
+Which kind of service has a DPCO provided for you till
+Article 4.1(4) date? Hint- Audit, Data Protection Impact Assessment,
+Data Breach Remediation etc.
+Article 4.1(2) Does your DPCO also perform the role of your DPO?
+Has a Data Protection Officer (DPO) been appointed
+and given responsibility for NDPR compliance and the
+2.1 Article 4.1(2)
+management of organisational procedures in line with
+the requirements of NDPR?
+Article 4.1(4) Do you utilise the same DPCO for Data Protection
+compliance implementation and audit?
+Have you trained your Data Protection Officer in the
+2.2 Article 4.1(3)
+last one year?
+Does the Data Protection Officer (DPO) have sufficient
+Article 4.1(2)
+access, support and the budget to perform the role?
+If the DPO has other job functions, have you evaluated
+Article 4.1(2)
+whether there is no conflict of interest?
+Does the DPO have verifiable professional expertise
+and knowledge of data protection to do the following:
+a) To inform and advice the business, management,
+Article 4.1(2) employees and third parties who carry out processing,
+of their obligations under the NDPR
+b) To monitor compliance with the NDPR and with the
+organisation's own data protection objectives
+32 | P age
+c) Assignment of responsibilities, awareness-raising
+and training of members of staff involved in processing
+operations
+d) To provide advice where requested as regards the
+data protection impact assessment and monitor its
+performance
+e) To cooperate with the NITDA as the Supervisory
+Authority
+f) To act as the contact point for the NITDA on issues
+relating to data processing
+Is there a clearly available mechanism (e.g. webpage,
+etc.) for data subjects that explains how to contact
+2.3 Article 2.5
+your organisation to pursue issues relating to personal
+data?
+3 DOCUMENTATION TO DEMONSTRATE COMPLIANCE
+3.1 Article 3.1
+Have you documented your data processing activities?
+Have you included an appropriate privacy notice in
+3.2 Article 2.5 each data collection process, including those done
+through third parties?
+Article 4.1(5) Have you agreed a schedule to review current privacy
+notices contracts for compliance with NDPR?
+Other than the grounds of Consent of an employee,
+3.3 Article 2.2 has your organisation recorded other legal grounds on
+which it processes its employees' data?
+Have you identified what personal data is collected and
+3.4 Article 4.1(5)
+whether this is collected directly from the data subject
+or via a third party?
+Does this inventory include data retention periods or
+Article 3.1(7)
+do you have a separate data retention schedule?
+3.5 Article 1.3 Do you have a register of data breaches and security
+incidents?
+4 PROCESSING ACTIVITIES
+Have you carried out a comprehensive review of the
+4.1 Article 2.2
+various types of processing your organisation
+33 | P age
+perform?
+Have you identified lawful basis for your processing
+Article 2.2
+activities and documented this?
+Have you explained the lawful basis for processing
+Article 2.5
+personal data in your privacy notice(s)?
+Have you reviewed how you seek, record and manage
+4.2 Article 2.5
+consent?
+Have you reviewed the systems currently used to
+Article 4.1 record consent and have you implemented appropriate
+mechanisms to ensure an effective audit trail?
+If your organisation offers services directly to children,
+4.3 Article 2.4 have you communicated privacy information in a clear,
+plain way that a child will understand?
+Do you adopt data pseudonymisation, anonymisation
+Article 2.6 and encryption methods to reduce exposure of
+personal data?
+Have you identified all the points at which personal
+data is collected: websites, application forms
+4.4 (employment and other), emails, in-bound and out-
+Article 1.3(xix)
+bound telephone calls, CCTV, exchanges of business
+cards and, attendance at events etc?
+Do you have procedures for regularly reviewing the
+4.5 Article 3.1 (8)
+accuracy of personal data?
+Do you have a system for Data Subjects to erase or
+Article 3.1(8)
+amend their personal data in your custody?
+Have you identified all the ways in which personal data
+4.6 Article 2.5(d)
+is stored, including backups?
+Have you evaluated points where data minimisation
+Article 2.1.1(a)
+can be implemented in your data collection process?
+Have you reviewed your forms and other data
+collection tools to comply with the NDPR?
+Have you identified the purposes for processing
+personal data, for determining and authorising internal
+4.7 Article 2.2
+or external access and all disclosures of data?
+34 | P age
+Are your organisational procedures checked to ensure
+4.8 Article 3.1 that you can preserve the rights of individuals under
+the NDPR?
+Is there a clearly available mechanism (e.g. webpage,
+etc.) for data subjects that explains how to contact the
+4.9 Article 3.1(7)
+organisation to pursue issues relating to personal
+data?
+Are all members of staff trained to recognise and deal
+4.10 Article 2.6
+with subject access requests?
+Do you have a procedure for dealing with subject
+4.11 Article 3.1(5)
+access requests from third parties?
+Has your organisation implemented appropriate
+4.12 Article 4.1(5) procedures to ensure personal data breaches are
+detected, reported and investigated effectively?
+Do you have mechanisms in place to notify affected
+4.13 Article 4.1(5) individuals where the breach is likely to result in a high
+risk to their rights and freedoms?
+Have you trained all members of staff who deal with
+4.14 Article 2.6 personal data about their responsibilities and data
+protection procedures?
+Are these responsibilities written into job descriptions?
+4.15 Article 2.6
+4.16 Article 2.7 Have you contracted with any third-party data
+processors?
+If so, are such contracts compliant with the
+4.17 Article 2.7
+requirements of the NDPR?
+Have you agreed a schedule to review current
+4.18 Article 2.7
+contracts for compliance with NDPR?
+Do you transfer personal data to organisations in
+4.19 Article 2.10
+countries outside the Nigeria?
+If so, do you have in place appropriate contracts and
+4.20 Article 2.10
+methods of ensuring compliance?
+Are the countries you transfer data to in the White List
+4.21 Annexure C
+of Countries with adequate Data Protection laws?
+Where the countries are not in the White List have you
+4.22 Article 2.12
+recorded the basis of transfer?
+35 | P age
+Do you have in place adequate information systems
+security (e.g. as specified in ISO/IEC 27001) and does
+4.23 Article 4.1(5)f it include physical, logical, technical and operational
+measures that ensure the security of processing of
+personal data?
+Are members of staff aware that unauthorised
+4.24 Article 2.6
+access to information is prohibited?
+Are members of staff aware that any
+Personal Data acquired in the course of their
+4.25 Article 2.6
+employment remains confidential even after
+their exit from the organisation?
+36 | P age
+ANNEXURE B
+SAMPLE PRIVACY POLICY TEMPLATE FOR PUBLIC
+INSTITUTIONS
+NITDA Privacy Policy
+This Privacy policy issued by the National Information Technology Development
+Agency of 28 Port Harcourt Crescent, off Gimbiya Street, Garki, Abuja (hereinafter
+referred to as the ”NITDA”), constitutes our commitment to your privacy on our
+administrative records, websites, social media platforms and premises.
+1.0 Your Privacy Rights
+1.1 This Privacy Policy describes your privacy rights regarding our collection,
+use, storage, sharing and protection of your personal information. It applies
+to the NITDA website and all database, applications, services, tools and
+physical contact with us, regardless of how you access or use them.
+1.2 If you have created a username, identification code, password or any other
+piece of information as part of our access security measures, you must treat
+such information as confidential, and you must not disclose it to any third
+party.
+1.3 We reserve the right to disable any user identification code or password,
+whether chosen by you or allocated by us, at any time, if in our opinion you
+have failed to comply with any of the provisions of this privacy policy.
+37 | P age
+1.4 If you know or suspect that anyone other than you knows your security
+details, you must promptly notify us at dpo@nitda.gov.ng.
+2.0 Consent
+You accept this privacy policy when you give consent upon access to our
+platforms, or use our services, content, features, technologies or functions
+offered on our website, digital platforms or visit any of our offices for official
+or non-official purposes (collectively the “NITDA Services”). This privacy
+policy governs the use of the NITDA Services and intervention projects by
+our users and stakeholders, unless otherwise agreed through a written
+contract. We may amend this privacy policy at any time by posting a revised
+version on our website, or placing such notice at conspicuous points at our
+office facilities. The revised version will be effective 7 days after publication.
+3.0 Your Personal Information
+3.1 When you use the NITDA Services, we collect information sent to us by your
+computer, mobile phone or other electronic access device. The automatically
+collected information includes but is not limited to data about the pages you
+access, computer IP address, device ID or unique identifier, device type,
+geo-location information, computer and connection information, mobile
+network information, statistics on page views, traffic to and from the sites,
+referral URL, ad data, standard web log data, still and moving images.
+3.2 We may also collect information you provide us including but not limited to-
+information on web form, survey responses account update information,
+email address, phone number, organization you represent, official position,
+correspondence with the NITDA support services, and telecommunication
+with the NITDA. We may also collect information about your transactions,
+enquiries and your activities on our platform or premises.
+3.3 We may also use information provided by third parties like social media sites.
+Information about you provided by other sites are not controlled by the
+NITDA and we are, therefore, not liable for how such third parties use your
+information.
+38 | P age
+4.0 What we do with your personal information
+The purpose of our collecting your personal information is to give you
+efficient, enjoyable and secure service. We may use your information to:
+a) provide the NITDA Services and support;
+b) process applications and send notices about your transactions to
+requisite parties;
+c) verify your identity;
+d) resolve disputes, collect fees, and troubleshoot problems;
+e) manage risk, or to detect, prevent, and/or remediate fraud or other
+potentially prohibited or illegal activities;
+f) detect, prevent or remediate violation of laws, regulations, standards,
+guidelines and frameworks;
+g) improve the NITDA Services by implementing aggregate customer or
+user preferences;
+h) measure the performance of the NITDA Services and improve content,
+technology and layout;
+i) track information breach and remediate such identified breaches;
+j) manage and protect our information technology and physical
+infrastructure; or
+k) contact you at any time through your provided telephone number, email
+address or other contact details.
+5.0 Cookies
+Cookies are small files placed on your computer’s hard drive that enables
+the website to identify your computer as you view different pages. Cookies
+allow websites and applications to store your preferences in order to present
+contents, options or functions that are specific to you. Like most interactive
+websites, our website uses cookies to enable the tracking of your activity for
+the duration of a session. Our website uses only encrypted session cookies
+which are erased either after a predefined timeout period or once the user
+logs out of the platform and closes the browser. Session cookies do not
+collect information from the user’s computer. They will typically store
+39 | P age
+information in the form of a session identification that does not personally
+identify the user.
+6.0 How we protect your personal information
+We store and process your personal information on our computers in
+Nigeria. Where we need to transfer your data to another country, such
+country must have an adequate data protection law. We will seek your
+consent where we need to send your data to a country without an adequate
+data protection law. We protect your information using physical, technical,
+and administrative security measures to reduce the risks of loss, misuse,
+unauthorized access, disclosure and alteration. Some of the safeguards we
+use are firewalls and data encryption, physical access controls to our data
+centres, and information access authorization controls.
+7.0 How We Share your information within the NITDA and with Other Users
+7.1 During your interaction with our website or premises, we may provide other
+Ministries, Departments, Agencies (MDA), other organs of government,
+private sector operators performing government functions, with information
+such as your name, contact details, or other details you provide us for the
+purpose of performing our statutory mandate to you or third parties.
+7.2 We work with third parties, especially government agencies to perform the
+NITDA Services and implement its mandate. In doing so, a third party may
+share information about you with us, such as your email address or mobile
+phone number.
+7.3 You accept that your pictures and testimonials on all social media platforms
+about the NITDA can be used for limited promotional purposes by us. This
+does not include your trademark or copyrighted materials.
+7.4 From time to time we may send you relevant information such as news items,
+enforcement notice, statutorily mandated notices and essential information to
+aid the implementation of our mandate. We may also share your personal
+information in compliance with national or international laws; crime
+prevention and risk management agencies and service providers.
+40 | P age
+8.0 Security
+8.1 We will always hold your information securely. To prevent unauthorised
+access to your information, we have implemented strong controls and
+security safeguards at the technical and operational levels. Our website uses
+Secure Sockets Layer/Transport Layer Security (SSL/TLS) to ensure secure
+transmission of your Personal Data. You should see the padlock symbol in
+your URL address bar once you are successfully logged into the platform.
+The URL address will also start with https:// depicting a secure webpage.
+SSL applies encryption between two points such as your PC and the
+connecting server. Any data transmitted during the session will be encrypted
+before transmission and decrypted at the receiving end. This is to ensure
+that data cannot be read during transmission.
+8.2 The NITDA has also taken measures to comply with global Information
+Security Management Systems. We, have, therefore, have put in place digital
+and physical security measures to limit or eliminate possibilities of data
+privacy breach incidents.
+9.0 Data Confidentiality Rights
+Your information is regarded as confidential and will not be divulged to any
+third party, except under legal and/or regulatory conditions. You have the
+right to request sight of, and copies of any and all information we keep on
+you, if such requests are made in compliance with the Freedom of
+Information Act and other relevant enactments. While the NITDA is
+responsible for safeguarding the information entrusted to us, your role in
+fulfilling confidentiality duties includes, but is not limited to, adopting and
+enforcing appropriate security measures such as non-sharing of passwords
+and other platform login details, adherence with physical security protocols
+on our premises, dealing with only authorized officers of the Agency.
+10.0 Links to Other Websites and Premises
+10.1 Certain transaction processing channels may require links to other websites
+or organisations other than ours. Please note that the NITDA is not
+41 | P age
+responsible and has no control over websites outside its domain. We do not
+monitor or review the content of other party’s websites which are linked from
+our website or media platforms.
+10.2 Opinions expressed or materials appearing on such websites are not
+necessarily shared or endorsed by us, and the NITDA should not be
+regarded as the publisher of such opinions or materials.
+10.3 Please be aware that we are not responsible for the privacy practices, or
+content of these sites.
+10.4 We encourage our users to be aware of when they leave our site, and to read
+the privacy statements of these sites. You should evaluate the security and
+trustworthiness of any other site connected to this site or accessed through
+this site yourself, before disclosing any personal information to them.
+10.5 The NITDA will not accept any responsibility for any loss or damage in
+whatever manner, howsoever caused, resulting from your disclosure to third
+parties of personal information.
+11.0 Governing Law
+This privacy policy is made pursuant to the Nigeria Data Protection
+Regulation 2019 and other relevant Nigerian laws, regulations or international
+conventions applicable to Nigeria. Where any provision of this Policy is
+deemed inconsistent with a law, regulation or convention, such provision
+shall be subject to the overriding law, regulation or convention.
+42 | P age
+ANNEXURE C
+COUNTRIES DEEMED AS HAVING
+ADEQUATE DATA PROTECTION
+LAWS
+43 | P age
+COUNTRY DATA PROTECTION LAW COMMENT
+SN
+1 All African African Union Convention on Cyber Security and The Convention is still open to signature and
+Countries who Personal Data Protection adoption by AU member countries
+are signatories
+to the Malabo
+Convention
+2014
+Austria, Belgium, Bulgaria, Croatia, Cyprus,
+Czech Republic, Denmark, Estonia, Finland,
+France, Germany, Greece, Hungary, Iceland,
+Ireland, Italy
+All EU and
+2 Latvia, Lithuania, Luxembourg, Malta,
+European
+EU- General Data Protection Regulation Netherlands Norway, Poland, Portugal,
+Economic Area
+Romania, Serbia
+Countries
+Slovakia, Slovenia, Spain, Sweden
+United Kingdom.
+Every Country has a Supervisory Authority for
+the implementation of the GDPR in its domain.
+3 2018 Algerian law on the Protection of Autorité National de Protection des Données à
+Algeria
+Individuals in the Processing of Personal Data Caractère Personnel
+4 Personal Data Protection Law 2000 (Law No.
+Agency for Access to Public Information
+Argentina 25,326) applies to any person or entity in the
+established pursuant to Decree 746 of 2017
+country that deals with personal data.
+5 Ministry of Justice and Islamic Affairs serves
+Bahrain Personal Data Protection Law 2019
+as Data Protection Authority
+6 Autorité de protection des données à
+Benin Benin Digital Code
+caractèrepersonnelles (APDP),
+7 General Data Protection Law 2018 (LGPD) very
+similar to GDPR. Brazil also has snippets of The Amended LGPD created the National
+Brazil privacy laws from the Constitution and other Data Protection Authority (ANPD). The law
+statutes such as Consumer Protection Code would take effect in August 2020
+1990; Internet Act 2014 etc.
+8
+Ghana Data Protection Act, 2012 Data Protection Commission
+9 Mauritius THE DATA PROTECTION ACT 2017 Mauritius Data Protection Office
+10 The Protection of Personal Information, Act 4 of
+South Africa The Information Regulator (DPA)
+2013
+11 Togo Protection of Personal data Togolese Data Protection Authority
+12 The Organic Law no. 2004-63 on Personal Data The National Authority for Protection of
+Tunisia
+Protection (Tunisian Law) Personal Data (DPA)
+13 Private sector is governed by Personal
+Information Protection and Electronic
+Documents Act (PIPEDA) 2000 amended in PIPEDA creates the Office of the Privacy
+Canada
+2008 to include mandatory data breach Commissioner of Canada
+notification and record-keeping laws. the public
+sector is governed by the Privacy Act of 1983.
+14 The National data protection authority in Cape
+Data Protection Law (Law 133/V/2001 (as
+Verde is the Comissão Nacional de Proteção
+Cape Verde amended by Law 41/VIII/2013) and Law
+de Dados Pessoais ('Data Protection
+132/V/2001, of 22 January 2001.
+Authority').
+15 Information Technology – Personal Information
+Cyberspace Administration of China (CAC) is
+China Security Specification is the latest law on privacy
+the data protection authority
+in China. It came into effect in May 2018
+16
+The Protection of Natural Persons with Regard
+Cyprus to the Processing of Personal Data and for the Commission for personal data protection
+Free Movement of Such Data of 2018.
+17 The Privacy Protection Regulations (Data
+Israel The Israel Privacy Protection Authority (PPA)
+Security), 5777-2017,
+18 Act on the Protection of Personal Personal Information Protection Commission
+Japan
+Information (APPI) Japan
+44 | P age
+19 Philippines Republic Act no. 10173 National Privacy Commission
+20 Personal Data Protection Act of 2012 (No. 26 of
+Singapore Personal Data Protection Commission
+2012) (the Act)
+21
+Personal Information Protection Commission
+South Korea The Personal Information Protection Act (PIPA)
+(PIPC)
+22 Faeroe Islands Data Protection Act Faroese Data Protection Agency
+23
+DATA PROTECTION ACT 2018
+Data Protection (Application of GDPR) Order
+2018 (SD2018/0143) (GDPR Order)
+Isle of Man Data Protection (Application of LED) Order 2018 Office of the Data Protection Supervisor
+(SD2018/0144) (LED Order)
+GDPR and LED Implementing Regulations 2018
+(SD2018/0145) (Implementing Regulations)
+24 Data Protection (Jersey) Law, 2018 (DPJL)
+Jersey Office of the Information Commissioner
+Jersey Data Protection Authority (Jersey) Law, 2018
+(JOIC)
+(DPAJL)
+25 Data Protection Act (DSG) of 14 March 2002 The Liechtenstein Data Protection Authority /
+Liechtenstein
+(LR-No. 235.1) Datenschutzstelle
+26 Federal Data Protection and Information
+Switzerland Swiss Federal Data Protection Act (DPA)
+Commissioner (FDPIC)
+27
+Kenya Data Protection Act 2019 Office of the Data Protection Commissioner
+28 Sectoral Acts of Congress on Privacy;
+United States of Judicial Pronouncements International Trade Administration (ITA) within
+America State laws such as- California Consumer the U.S. Department of Commerce
+Privacy Act;
+The Personal Data (Privacy) Ordinance (Cap.
+486) (Ordinance) regulates the collection and
+handling of personal data. The Ordinance has
+Guernsey
+been in force since 1996, but, in 2012/2013 was
+29 significantly amended (notably with regard to
+direct marketing).
+30 "The Act on the Protection of Personal
+Information (""APPI"") regulates privacy
+protection issues in Japan and the Personal
+Information Protection Commission (the
+""PPC""), a central agency acts as a supervisory
+Japan
+governmental organization on issues of privacy
+protection.
+The APPI was originally enacted approximately
+10 years ago but was with recently amendments
+coming into force on 30 May 2017."
+31 The Personal Data (Privacy) Ordinance (Cap.
+486) (Ordinance) regulates the collection and
+handling of personal data. The Ordinance has
+Hong Kong
+been in force since 1996, but, in 2012/2013 was
+significantly amended (notably with regard to
+direct marketing).
+32 Malaysia The Personal Data Protection Act 2010 (PDPA),
+was passed by the Malaysian Parliament on
+June 2, 2010 and came into force on November
+15, 2013.
+33 Mauritius Mauritius regulates data protection under the
+Data Protection Act 2017 (DPA 2017 or Act),
+proclaimed through Proclamation No. 3 of 2018,
+effective January 15, 2018. The Act repeals and
+45 | P age
+replaces the Data Protection Act 2004, so as to
+align with the European Union General Data
+Protection Regulation 2016/679 (GDPR).
+34 Qatar The Qatar Financial Centre (QFC) implemented
+QFC Regulation No. 6 of 2005 on QFC Data
+Protection Regulations (DPL).
+35 Singapore Singapore enacted the Personal Data Protection
+Act of 2012 (No. 26 of 2012) (the Act) on
+October 15, 2012. The Act took effect in three
+phases:
+36 South Korea Personal Information Protection Act, 'PIPA') was
+enacted and became effective as of 30
+September 2011
+37 Taiwan The former Computer Processed Personal Data
+Protection Law (CPPL) was renamed as the
+Personal Data Protection Law (PDPL) and
+amended on May 26, 2010. The PDPL became
+effective on October 1, 2012, except that the
+provisions relating to sensitive personal data
+and the notification obligation for personal data
+indirectly collected before the effectiveness of
+the PDPL remained ineffective. The government
+later proposed further amendment to these and
+other provisions, which passed legislative
+procedure and became effective on March 15,
+2016.
+38 Turkey The main piece of legislation covering data
+protection in Turkey is the Law on the Protection
+of Personal Data No. 6698 dated April 7, 2016
+(LPPD). The LPPD is primarily based on EU
+Directive 95/46/EC.
+39 United Arab The Dubai International Financial Centre (DIFC)
+Emirates implemented DIFC Law No. 1 of 2007 Data
+Protection Law in 2007 which was subsequently
+amended by DIFC Law No. 5 of 2012 Data
+Protection Law Amendment Law (DPL).
+40 India On August 24, 2017, a Constitutional Bench of
+nine judges of the Supreme Court of India in
+Justice K.S.Puttaswamy (Retd.) v. Union of India
+[Writ Petition No. 494/ 2012] upheld that privacy
+is a fundamental right, which is entrenched in
+Article 21 [Right to Life & Liberty] of the
+Constitution. This led to the formulation of a
+comprehensive Personal Data Protection Bill
+2018.+ However, presently the Information
+Technology Act, 2000 (the Act) contains specific
+provisions intended to protect electronic
+data(including non-electronic records or
+information that have been, are currently or are
+intended to be processed electronically).
+41 Data Protection Act Law No. 18.331 (August 11,
+Uruguay 2008); Decree No. 414/009 (August 31, 2009)
+(the Act).
+NB: NITDA may by public notice signed by the Director General/CEO update
+this list of countries as the need arises
+46 | P age
+ISSUED THIS 17th DAY OF NOVEMBER, 2020
+SIGNED:
+Kashifu Inuwa Abdullahi,
+CCIE
+Director General/CEO, NITDA
+47 | P age

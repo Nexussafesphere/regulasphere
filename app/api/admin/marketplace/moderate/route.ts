@@ -1,0 +1,56 @@
+import { NextRequest, NextResponse } from "next/server";
+import { createClient } from "@supabase/supabase-js";
+import { isAdminEmail } from "@/lib/admin-auth";
+
+export async function POST(req: NextRequest) {
+  try {
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || "";
+    const supabaseServiceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY || "";
+    const supabase = createClient(supabaseUrl, supabaseServiceRoleKey);
+
+    const userEmail = req.headers.get("x-regulasphere-user-email");
+
+    if (!userEmail || !isAdminEmail(userEmail)) {
+      return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    }
+
+    const { listingId, action } = await req.json();
+
+    if (action === "approve") {
+      const { data, error } = await supabase
+        .from("consultants")
+        .update({ is_verified: true })
+        .eq("id", listingId)
+        .select()
+        .single();
+
+      if (error) {
+        return NextResponse.json({ error: error.message }, { status: 500 });
+      }
+
+      return NextResponse.json({ data });
+    }
+
+    if (action === "reject") {
+      const { data, error } = await supabase
+        .from("consultants")
+        .update({ is_verified: false })
+        .eq("id", listingId)
+        .select()
+        .single();
+
+      if (error) {
+        return NextResponse.json({ error: error.message }, { status: 500 });
+      }
+
+      return NextResponse.json({ data });
+    }
+
+    return NextResponse.json({ error: "Invalid action" }, { status: 400 });
+  } catch (error) {
+    return NextResponse.json(
+      { error: error instanceof Error ? error.message : "Internal server error" },
+      { status: 500 }
+    );
+  }
+}

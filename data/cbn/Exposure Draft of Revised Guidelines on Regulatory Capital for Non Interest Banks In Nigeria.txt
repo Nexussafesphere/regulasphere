@@ -1,0 +1,894 @@
+CENTRAL BANK OF NIGERIA
+REVISED GUIDELINES ON REGULATORY CAPITAL
+FOR NON-INTEREST BANKS IN NIGERIA
+JUNE 2023
+Classified as Confident ial
+Table of Contents
+1. INTRODUCTION --------------------------------------------------------------------------------------- 2
+2. SCOPE OF APPLICATION AND REPORTING REQUIREMENTS ----------------------- 2
+2.1 Capital Adequacy at Stand-Alone Level ----------------------------------------------------------------------------- 3
+2.3 Capital Adequacy at Group or Consolidated Level -------------------------------------------------------------- 3
+3. MINIMUM CAPITAL REQUIREMENTS AND BUFFERS ------------------------------------ 4
+3.1 Components of capital ---------------------------------------------------------------------------------------------------- 4
+3.2 Limits and Minimum Requirements ---------------------------------------------------------------------------------- 6
+4. REQUIREMENTS FOR INCLUSION IN REGULATORY CAPITAL ----------------------- 7
+4.1 Common Equity Tier 1 ---------------------------------------------------------------------------------------------------- 7
+4.2 Additional Tier 1 capital -------------------------------------------------------------------------------------------------- 9
+4.3 Tier 2 capital ---------------------------------------------------------------------------------------------------------------- 10
+4.4 Minority interest and other capital issued out of consolidated subsidiaries ------------------------- 14
+4.5 Regulatory Adjustments ----------------------------------------------------------------------------------------------- 16
+5. TRANSITIONAL ARRANGEMENTS FOR ECL ACCOUNTINGError! Bookmark not
+defined.
+6. BUFFERS ABOVE THE REGULATORY MINIMUM ---------------------------------------- 19
+6.1 Capital Conservation Buffer------------------------------------------------------------------------------------------- 20
+6.2 Countercyclical Buffer -------------------------------------------------------------------------------------------------- 20
+6.3 Higher Loss Absorbency for D-SIBs -------------------------------------------- Error! Bookmark not defined.
+6.4 Minimum Capital Adequacy and Buffer Levels ----------------------------------------------------------------- 21
+7. DETERMINATION OF MAXIMUM DISTRIBUTION PAYMENT IN NIGERIA --------- 21
+8. DISCLOSURE REQUIREMENTS ---------------------------------------------------------------- 23
+9. APPENDIX 1: REQUIREMENT AT SOLO AND CONSOLIDATED LEVEL ------- Error!
+Bookmark not defined.
+10. APPENDIX 2: MAXIMUM DIVIDEND PAY-OUT RATIO --------------------------------- 24
+1
+Classified as Confidential
+2
+Classified as Confidential
+1. Introduction
+1. The Central Bank of Nigeria (CBN), as part of its efforts to enhance the resilience
+of Non-Interest banks (NIBs) and the Nigerian Banking System, has developed this
+Revised Guideline on Regulatory Capital for NIBs in Nigeria. This Guidelines sets
+out the criteria that NIBs’ capital instruments must meet to be eligible for regulatory
+purposes as per the Islamic Financial Services Board capital standards.1
+2. This Guideline also sets out the supervisory requirements for NIBs operating in
+Nigeria in relation to: minimum regulatory capital, adjustments to the components
+of regulatory capital, transitional arrangements, disclosure requirements and the
+additional capital buffers above the minimum requirements.
+3. The major changes brought by this revision are in the following areas:
+a) Introduction of Mudarabah Sukuk for Additional Tier Capital as against
+Musharakah Sukuk as prescribed by the earlier Guidelines;
+b) Introduction of Debt-based instruments for Tier 2 capital;
+c) Enhanced the eligibility criteria for regulatory capital instruments and
+provides detailed guidelines on the trigger events for conversion of the AT1
+and Tier 2 capital instruments
+d) Introduction of capital buffers: i) Capital Conservation Buffer (CCB1); and ii)
+Countercyclical Capital Buffer (CCB2).
+2. Scope of Application and Reporting Requirements
+4. All NIBs are required to maintain the minimum capital and capital buffer
+requirements as laid out in this Guideline at all times or as may be determined by
+the CBN from time to time at both stand-alone (solo) and consolidated (group)
+levels (if any).
+5. All NIBs are required to submit an electronic copy of their respective returns of
+capital adequacy position to the CBN using the prescribed reporting templates. The
+frequency of reporting shall be as follows:
+a) Monthly basis for the capital adequacy position on a stand-alone basis; and
+1 This Guidelines combines the requirements of IFSB-15: Revised Capital Adequacy Standard for
+Institutions Offering Islamic Financial Services and the recently published IFSB-23: Revised Capital
+Adequacy Standard for Institutions Offering Islamic Banking Services.
+3
+Classified as Confidential
+b) Quarterly basis for the capital adequacy position at the consolidated level
+(where applicable).
+6. Notwithstanding the prescribed frequency of submission of returns of capital
+adequacy to the CBN specified in Paragraph 5 above, the CBN may at any time
+require an NIB to calculate and report its capital adequacy ratios for any financial
+period or as at any specified date on a:
+a) stand-alone basis; and/or
+b) consolidated basis in respect of the NIB and all its subsidiaries;
+2.1 Capital Adequacy at Stand-Alone Level
+7. Capital adequacy position of an NIB on a stand-alone (solo) level measures its
+capital strength and risk profile. It takes into consideration a NIB’s global operations
+including its foreign subsidiaries and overseas branch operations, on a stand-alone
+basis.
+8. In the assessment of capital adequacy at the stand-alone level, NIBs are required
+to incorporate all regulatory adjustments set out in this Guideline.
+9. Investments in the capital instruments of subsidiaries, which are consolidated in
+the consolidated financial statements of the banking group, should be deducted
+from the corresponding capital instruments issued.
+2.3 Capital Adequacy at Group or Consolidated Level
+10. The capital adequacy at the consolidated (“Group2”) level measures the capital
+strength and risk profile of an NIB HoldCo after consolidating the assets and
+liabilities of its subsidiaries, joint ventures, associates etc,. excluding the entities or
+subsidiaries which are predominantly engaged in non-financial sector activities.
+11. Investments in subsidiaries, joint ventures, associates et,c shall be subject to the
+CBN’s Regulations, 2 and 3.
+12. The adopted consolidation technique should be consistent with the requirements
+of International Financial Reporting Standard (IFRS) and Accounting and Auditing
+Organizations for Islamic Financial Institutions (AAOIFI) taking into consideration
+the necessary adjustments specified in this Guideline.
+2 There are two group structures under the focus of this Guidance Notes i.e. Banking Group and Holding
+Company Group (HoldCo Group)
+4
+Classified as Confidential
+13. For the purpose of this guidelines, financial sector activities shall mean activities
+undertaken by NIBs in one or more of the following businesses or activities,
+whether by itself or through any of its subsidiaries: (i) banking, (ii) securities
+business, (iii) Takaful business, (iv) financial leasing, (v) portfolio management, (vi)
+investment advisory services, (vii) custodial services, (viii) central clearing services,
+and (ix) activities ancillary to banking
+14. In computing capital adequacy ratio on a consolidated basis, a banking group shall
+aggregate its consolidated group’s risk weighted assets for credit risk, market risk
+and operational risk. The calculation of the risk weighted assets shall be as per the
+risk-weight of the CBN Guidance Notes on Credit, Market and Operational Risk for
+NIFIs.
+15. All regulatory adjustments set out in this Guideline are required to be made to the
+consolidated CET1 capital of the banking group or HoldCo group.
+16. Minority interest (i.e. non-controlling interest) and other capital issued out of
+consolidated subsidiaries held by third parties will be recognized in the consolidated
+regulatory capital of the group subject to certain conditions as stipulated in Paragraph
+48 to 52 of this Guideline.
+17. Where a reporting entity determines that consolidation of a subsidiary is not feasible,
+the entity shall seek the approval of the CBN to:
+a) In the case of a subsidiary engaged in financial sector activities, deduct such
+investments from capital; and
+b) In the case of a non-financial subsidiary, apply a risk weight of 1,250%
+18. All NIBs and financial holding companies (HoldCos) shall comply with the capital
+adequacy requirements specified in this Guideline (at the consolidated level).
+3.0 Minimum capital requirements and buffers
+3.1 Components of capital
+19. Total Regulatory Capital (TRC) is the sum of Common Equity Tier 1 (CET1),
+Additional Tier 1 Capital (AT1) and Tier 2 Capital (T2), net of regulatory
+adjustments.
+20. Tier 1 capital is the sum of CET1 and AT1 capital, net of the regulatory adjustments
+applied to those categories.
+5
+Classified as Confidential
+21. CET1 and AT1 capital are going-concern capital3 while Tier 2 capital is gone
+concern capital4.
+22. An NIB shall compute its regulatory capital adequacy ratios (CAR) using The
+Supervisory Discretion Formula as detailed below:
+The supervisory discretion formula, in which NIBs shall hold Regulatory
+Capital in respect of Displaced Commercial Risk (DCR). In this approach,
+commercial risks of assets financed by Unrestricted PSIA (UPSIA) are considered to
+be borne proportionately by both the Unrestricted Investment Account Holders
+(UIAH) and the NIBs. Hence, a proportion of the (risk-weighted) assets funded by
+UPSIA, symbolized as “alpha” is required to be included in the denominator of the
+CAR, the permissible value of alpha being subject to CBN discretion. The CBN may
+also decide to extend this treatment to restricted investment accounts.
+Eligible Capital
+{Total Risk-Weighted Assets (Credit + Market Risks) Plus Operational Risk
+Less
+Risk-Weighted Assets Funded by Restricted PSIA (Credit and Market Risks)
+Less
+(1 – α) [Risk-Weighted Assets Funded by Unrestricted PSIA (Credit and Market
+Risks)] Less
+α[Risk-Weighted Assets funded by PER and IRR of Unrestricted PSIA (Credit and
+Market Risks)]}
+23. In applying the Supervisory Discretion Formula Approach, the following should be
+noted:
+a) Total RWAs include those financed by both restricted and unrestricted PSIA.
+b) Credit and market risks for on- and off-balance sheet exposures.
+c) Where the funds are co-mingled, the RWAs funded by PSIA are calculated
+based on their pro-rata share of the relevant assets. PSIA balances include PER
+and IRR, or equivalent reserves.
+d) "Alpha (α)" refers to the proportion of assets funded by unrestricted PSIA which
+shall be determined by the CBN.
+e) The relevant proportion of RWAs funded by the PSIA’s share of PER and by
+IRR is deducted from the denominator. The PER has the effect of reducing
+he displaced commercial risk, and the IRR has the effect of reducing any
+future losses on the investment financed by the PSIA.
+3 This component is able to absorb losses without constituting an event of default on the holders of the instrument.
+4 This component can absorb losses only when Tier 1 capital has been eroded and a bank is in liquidation.
+6
+Classified as Confidential
+3.2 Non-Interest Banking Windows
+24. All conventional banks with non-interest windows shall allocate a notional capital
+fund (not Share capital) for the operations of the Window. The banks shall
+establish a separate and self-accounting non-interest banking department,
+with designated management as contained in the CBN Guidelines for the Regulation
+and Supervision of Institutions Offering Non-Interest Financial Services in Nigeria.
+25. A Window’s minimum level of capital fund requirement at any point in time shall be
+determined by the level of its RWAs.
+3.3 Limits and Minimum Requirements
+26. A minimum Pillar 1 regulatory Capital Adequacy Ratio (CAR) of 10% will be applicable
+to all NIBs.
+27. With respect to a holding company, its minimum capital adequacy ratio shall not be
+less than the capital ratio requirement of any banking subsidiary within the group. In
+this regard, the reference subsidiary shall be that with the highest minimum capital
+requirement.
+28. The CBN may require any NIB to maintain a higher minimum level of capital than
+those stated in Paragraph 26 and Table 1 after taking into consideration the outcome
+of the supervisory review of its Internal Capital Adequacy Assessment Process
+(ICAAP) under Pillar 2. The aim will be to ensure that the level of an NIB’s minimum
+capital requirement reflects its risk profile, business strategy and risk management
+capacity.
+Table 1: Minimum Regulatory Capital Requirements
+As a percentage of TRWA
+Regulatory Capital Ratio
+NIBs
+CET1 Capital Ratio 7.0%
+Tier 1 Capital Ratio 7.5%
+Capital Adequacy Ratio 10.0%
+29. The minimum requirements set out in Table 1 do not take into consideration the
+additional capital buffers which the CBN may require NIBs in Nigeria to maintain from
+7
+Classified as Confidential
+time to time depending on, amongst others, the prevailing macroeconomic conditions
+and the systemic importance of the individual NIBs.
+30. The inclusion of eligible Tier 2 Capital would only be permitted subject to the minimum
+thresholds set out in Table 1 being met. In the absence of AT1 capital, the minimum
+Tier 1 capital ratio should be met from CET1 capital.
+31. The minimum CAR for the NIBs that have been designated as D-SIBs should be
+further enhanced with the Higher Loss Absorbency (HLA) requirement of 1.0%
+consisting wholly of CET1 capital.
+32. In addition to the minimum CET 1 capital ratios specified in Table 1, NIBs are also
+required to maintain minimum capital conservation and countercyclical buffers
+specified in Paragraph 76. The buffers should be met with CET1 capital only.
+4.0 Requirements for Inclusion in Regulatory Capital
+4.1 Common Equity Tier 1
+33. CET1 capital forms the highest quality of capital for NIB. This section of the Standard
+lays out the eligibility criteria for a component to qualify to be included in the CET1
+capital in terms of it permanence and loss absorbency.
+34. CET1 capital comprises the sum of the following elements:
+a Common equity shares issued by the NIB:
+These shares should be fully paid up and should meet the criteria of being
+classified as common shares forming part of the shareholders’ equity of the
+NIB.
+b Stock surplus:
+c Share premium from the issue of common shares is eligible to form part of CET1
+capital.
+d Retained earnings: The amount of net earnings carried forward from previous
+financial periods shall be recognised and included in the calculation of CET1
+capital.
+e Other reserves and accumulated other comprehensive income, as defined in
+IFRS: Dividends are removed from CET1 capital in accordance with applicable
+accounting standards.
+f Such common equity shares that are issued by NIB’s consolidated subsidiaries
+of the bank and held by third parties (i.e. minority interest) that meet the criteria
+for inclusion in CET 1 capital. Please see Paragraph 44 to 48 for the relevant
+criteria;
+g Other reserves as may be determined by the CBN; and
+8
+Classified as Confidential
+h Regulatory adjustments/deductions applicable to CET1 capital
+35. For an instrument to be included as part of CET1 capital, it must meet all of the criteria
+set out below. The criteria shall be met solely with common shares:
+a) Represents the most subordinated claim in liquidation of the NIB;
+b) Entitled to a claim on the residual assets that is proportional with its share of
+issued capital, after all senior claims have been repaid in liquidation5;
+c) Principal is perpetual and never repaid outside of liquidation;
+d) The NIB does nothing to create an expectation at issuance that the instrument
+will be bought back, redeemed, or cancelled nor do the statutory or contractual
+terms provide any feature which might give rise to such an expectation;
+e) Distributions are paid out of distributable items (retained earnings included).
+The level of distributions should not in any way be tied or linked to the amount
+paid in at issuance and should not be subject to a contractual cap;
+f) There are no circumstances under which the distributions are obligatory and
+therefore non-payment is not a default event6;
+g) Distributions are paid only after all legal and contractual obligations have been
+met and payments on more senior capital instruments have been made;
+h) It is the issued capital that takes the first and proportionately greatest share of
+any losses as they occur. Within the highest quality capital, each instrument
+absorbs losses on a going concern basis proportionately and pari passu with
+all the others;
+i) The paid-in amount is recognised as equity capital (not as liability) for
+determining balance sheet insolvency;
+j) The paid-in amount is classified as equity under IFRS;
+k) Recognized as directly issued and paid-in and the bank cannot directly or
+indirectly have funded the instrument or the purchase of the instrument;
+l) The paid-in amount is neither secured nor covered by a guarantee of the issuer
+or related entity 7 or subject to any other arrangement that legally or
+economically enhances the seniority of the claim;
+m) It is only issued with the approval of the owners of the issuing bank, either given
+directly by the owners or, where permitted by applicable law, given by the Board
+of Directors or by other persons duly authorised by the owners;
+5 That is, has an unlimited and variable claim, not a fixed or capped claim.
+6 Amongst other things, this requirement prohibits features that require the bank to make payment in
+kind.
+7 A related entity can include a parent company, a sister company, a subsidiary, or any other affiliate. A
+holding company is a related entity irrespective of whether it forms part of the consolidated banking
+group.
+9
+Classified as Confidential
+n) It is clearly and separately disclosed on the bank’s balance sheet published in
+the bank’s annual report.
+36. There is no limit on the inclusion of Tier 1 capital for the purpose of calculating
+total regulatory capital.
+4.2 Additional Tier 1 capital
+37. Additional Tier 1 capital includes, but is not limited to, the sum of the following
+elements:
+a) Sukūk that are issued by the NIBs meeting the criteria to be an AT1 capital
+mentioned below;
+b) Sukūk that are issued by consolidated subsidiaries of the NIBs to third-party
+investors that meet the criteria to be an AT1 capital and are not included in
+CET1 capital. Please see Paragraph 38 for the relevant criteria; and
+c) Regulatory adjustments applied in the calculation of AT1.
+38. The criteria that must be met by sukūk issuances to be included in AT1 are described
+below.
+a) Loss absorbency
+An NIB may issue muḍārabah ṣukūk8 the proceeds of which are invested in the
+general asset pool of the NIB after commingling with CET1 capital so that ṣukūk
+holders participate in the whole business of the NIB, including all its financial
+entitlements and liabilities as per the terms of the muḍārabah ṣukūk
+agreement.9 These ṣukūk must therefore absorb losses that the NIB is liable
+for on a going concern basis notwithstanding the ṣukūk holders’ right to
+recourse thereafter to the NIB in its original capital should these losses be due
+to negligence, misconduct, or otherwise violation of contractual terms by the
+NIB.
+b) Distribution of profits
+Parties to the AT1 muḍārabah ṣukūk contract agree that the distribution of
+muḍārabah ṣukūk profits is discretionary and non-distribution would not
+constitute a default event. Distributions should not be linked to the credit rating
+of the NIB, either wholly or in part.10 Nonetheless, non-distribution of profits
+8 The suggestion to use muḍārabah sukuk in this standard, instead of mushārakah sukuk (as in IFSB-
+15), is made in order to comply with the eligibility criterion that profit distribution for AT1 must be
+discretionary, and that non-payment of the profits should not constitute a default event for the NIB.
+This, from a Sharīʻah perspective, would be possible to operationalise using a muḍārabah contract
+where the mudarib could keep all profits, whereas in mushārakah the NIB as a partner would not
+be allowed to keep the partnership profits to itself.
+9 Since muḍārabah ṣukūk holders and shareholders would, in this case, share the same risks and
+rewards of the NIB’s businesses, the main differences between these ṣukūk and shares would be
+in the legal contract and administrative rights available for shareholders but not for ṣukūk holders,
+such as voting rights and membership of the NIB’s board of directors.
+10 In cases of negligence and misconduct by the muḍārib, the appropriate treatment for non-
+distribution of profits may be determined by courts of law in each jurisdiction.
+10
+Classified as Confidential
+after they accrue obliges establishing a muḍārabah profit reserve for these
+ṣukūk. This reserve shall be owned by the ṣukūk holders, can be invested in
+accordance with ṣukūk investment terms, and shall become part of Additional
+Tier 1 capital with all its rights and obligations. Profits from this reserve can be
+paid to ṣukūk holders should the actual profits fall below the expected profit in
+the distribution period.
+c) Issuance process and procedure
+The ṣukūk are issued and paid-up, with the issuance proceeds being
+immediately available to a single operating entity in the consolidated group.
+Neither the NIB nor a related party over which the NIB exercises control or
+significant influence can purchase the ṣukūk, or fund its purchase, either directly
+or indirectly. The information to be disclosed must include, but is not limited to,
+salient features of the instruments offered, and the use of an SPE that must
+follow specific requirements.
+d) Maturity and Callability
+The instrument must be perpetual in nature and must not have any defined
+maturity date. It must not have step-up features (i.e. periodic increases in the
+expected rate of return) and must be devoid of any other incentive to the issuing
+NIB to redeem it.11 If the instrument is callable, the issuing NIB may be allowed
+to exercise a call option only after five years and subject to certain
+requirements, such as:
+i) it has prior supervisory approval;
+ii) no call expectation is created by the NIB; and
+iii) it is able to replace the called ṣukūk with the same or better quality
+of capital, either before or concurrently with the call.
+The issuing NIB shall not exercise a call unless it successfully exhibits that its
+capital position is above the regulatory capital requirement after the call option
+is exercised. Instruments that qualify for AT1 capital cannot have any features
+that hinder recapitalisation (provisions that require the NIB to compensate
+investors if a new instrument is issued at a lower price during a specified time
+frame).
+e) Instruments unsecured in nature
+The amount paid at issuance is neither secured nor guaranteed by the NIB or
+any related entity. In addition, there should not be any arrangement that legally
+or economically increases the seniority of the sukūk’s claim.
+4.3 Tier 2 capital
+39. T2 capital is considered to be "gone concern"12 capital with the purpose of absorbing
+further losses in the case of non-viability of the NIB, and this helps to protect the
+11 An example of an “incentive to the issuer to redeem” is a call option held by the issuer combined with an
+investor right or option to convert the instrument into common shares if the call is not exercised. Such an
+incentive would conflict with the requirement of permanence.
+12 Capital that is subordinated to depositors’ and general creditors’ entitlement in the winding-up or insolvency of
+the bank.
+11
+Classified as Confidential
+current account holders of the NIB. This component is also crucial in maintaining
+financial stability by preventing a contagion effect from a failing NIB, as it prevents
+loss of capital by depositors and creditors of NIB.
+40. Tier 2 capital consists of the sum of the following elements:
+a) Sukūk issued by NIB that meet the criteria of paragraph 41 for inclusion in T2
+(and are not included in Tier 1 capital);
+b) General provisions or reserves held against future, presently unidentified
+losses on financing13
+c) Sukuk issued by consolidated subsidiaries of the NIB and held by third parties
+that meet the criteria for inclusion in Tier 2 capital and are not included in Tier
+1 capital. Please see Paragraph 41 to 43 for the relevant criteria;
+d) Regulatory adjustments applied in the calculation of Tier 2 capital.
+41. Specific criteria for classification of instruments as “Tier 2 capital” are set out below:
+a. Loss absorbency
+It might be possible, subject to Sharīʻah compliance, for an NIB to issue T2 capital
+instruments in the form of ṣukūk that result in indebtedness14 for the NIB, the
+repayment of which will be subordinated on a gone concern basis after NIB losses
+have been absorbed. Ṣukūk holders will have the right to recourse to Tier 1 capital.
+b. Issuance process and procedure
+The instrument is issued and paid-up, and neither the NIB nor a related party over
+which the NIB exercises control or significant influence can purchase the ṣukūk or
+fund the purchase of the instrument, either directly or indirectly. Issuance that takes
+place outside an operating entity of the NIB or the holding company in the
+consolidated group such as through an SPE must follow specific requirements. For
+instance, the proceeds of issuance must be made immediately available to an
+operating entity or holding company in the consolidated group, in a form that meets
+or exceeds all the other criteria of Tier 2.
+c. Maturity and callable option
+The original minimum maturity shall be at least five years. The instrument shall not
+have step-up facilities and be without any incentive to redeem by the issuer. For
+recognition in regulatory capital, any amortisation of the principal will be on a
+13 Under the standardised approach to credit risk, provisions or loan-loss reserves held against future, presently
+unidentified losses are freely available to meet losses which subsequently materialise and therefore qualify for
+inclusion within Tier 2. Provisions ascribed to identified deterioration of particular assets or known liabilities,
+whether individual or grouped, should be excluded. Furthermore, general provisions/general loan-loss
+reserves eligible for inclusion in Tier 2, measured gross of tax effects, will be limited to a maximum of 1.25
+percentage points of credit RWAs calculated under the standardised approach.
+14 Using muḍārabah or wakālah sukuk for Tier 2 (as suggested in IFSB-15) would mean the T2 sukuk holders
+would be partners with Tier 1 capital (both CET1 and AT1) and therefore would absorb losses simultaneously
+with them, which would not be consistent with the “gone concern” role of T2 capital.
+12
+Classified as Confidential
+straight-line basis in the remaining five years before maturity. If the instrument is
+callable, the issuer is permitted to exercise a call option only after five years and
+subject to certain requirements, such as: (i) prior CBN approval; (ii) there is no call
+expectation created by the NIB; and (iii) ability to replace the called instruments
+with the same or better quality of capital, either before or concurrently with the call.
+The NIB shall not exercise a call unless it successfully exhibits that its capital
+position is above the regulatory capital requirement.
+d. Distribution of returns
+The distribution of returns to the holders of the sukūk should not be linked to the
+credit rating of the NIB, either wholly or in part, but shall be linked to actual returns.
+Investors have no rights to accelerate future scheduled payments, except in the
+case of liquidation or bankruptcy.
+e. Instruments unsecured in nature
+The amount paid during issuance and the debt resulting from the instrument is
+neither secured nor covered by a guarantee by the NIB or any of its related entities.
+Besides, there should not be any arrangement that legally or economically
+increases the seniority of claim in the case of liquidation.37
+f. Terms of conversion
+The sukūk would be convertible (as specified in the contract) into common shares
+upon the occurrence of a trigger event. It is essential that the terms of conversion,
+notably the trigger point and the conversion ratio, are clearly specified in the sukūk
+contract. After conversion of the sukūk in the case of the NIB’s non-viability or
+insolvency, T2 capital would rank pari passu with CET1, along with AT1 capital.
+The terms and conditions must have a provision that requires, at the option of the
+relevant authority, the ṣukūk to be converted into common equity upon the
+occurrence of a trigger event specified by the RSA or as stated in laws of the
+governing jurisdiction. The issuing bank must always maintain all prior
+authorisation necessary to immediately issue the relevant number of shares
+specified in the ṣukūk’s terms and conditions should the trigger event occur. The
+trigger event:
+a. is the earlier of:
+i. a decision that conversion, without which the NIB would become nonviable,
+is necessary, as determined by the relevant authority without prejudice to
+ṣukūk contracts; and
+ii. the decision to make a public-sector injection of capital, or equivalent
+support, without which the NIB would have become non-viable, as
+determined by the relevant authority without prejudice to ṣukūk contracts;
+and
+13
+Classified as Confidential
+b. is determined by the jurisdiction in which the capital is being given
+recognition for regulatory purposes. Therefore, where an issuing NIB is part
+of a wider banking group and it wishes the instrument to be included in the
+consolidated group's capital in addition to its solo capital, the terms and
+conditions must specify an additional trigger event. This additional trigger
+event is the earlier of:
+i. a decision that conversion, without which the NIB would become
+nonviable, is necessary, as determined by the relevant authority in
+the home jurisdiction without prejudice to ṣukūk contracts; and
+ii. the decision to make a public-sector injection of capital, or equivalent
+support, in the jurisdiction of the consolidated supervisor, without
+which the NIB receiving the support would have become non-viable,
+as determined by the relevant authority in that jurisdiction without
+prejudice to ṣukūk contracts.
+It is paramount that conversion terms – most importantly, trigger events, conversion
+ratio, conversion value, and the contractual basis of the conversion at
+implementation – are specified in the ṣukūk issuance documents. Also, ṣukūk
+conversion value should not be less than the market or fair value of the underlying
+assets being converted.
+42. In addition to the criteria set out in Paragraph 41 [(a) to (f)], the following criteria must
+also be met or exceeded for an instrument to be included in Tier 2 capital.
+e) Minimum original maturity of at least five years (recognition in regulatory capital
+in the remaining five years before maturity will be amortised on a straight
+line basis by 20% per annum and there should be no step-ups or incentives
+to redeem by the holder);
+f) Subordinated to depositors and general creditors of the NIB;
+g) The Sukuk holders must have no rights to accelerate the repayment of future
+scheduled payments (coupon or principal), except in bankruptcy and
+liquidation;
+h) If the instrument is not issued out of an operating entity or the holding company
+in the consolidated group e.g. a Special Purpose Entity (SPE), proceeds must
+be immediately available without limitation to a single operating entity15 or the
+holding company in the consolidated group in a form which meets or exceeds
+all of the other criteria for inclusion in Tier 2 capital.
+43. Other comprehensive income items other than fixed asset revaluation reserves that
+are created by the adoption of IFRS may be accepted as part of the Tier 2 capital
+subject to limitations that may be specified by the CBN from time to time.
+15 An operating entity is an entity set up to conduct business with clients with the intention of earning a
+profit in its own right
+14
+Classified as Confidential
+4.4 Treatment of Profit-Sharing Investment Account, Profit Equalization
+Reserve and Investment Risk Reserve
+Profit-sharing investment accounts of an NIB are not classified as part of its capital
+because they do not meet the above-mentioned criteria of core or additional capital.
+Furthermore, all the investment risk reserve and a portion of the profit equalisation
+reserve belong to the equity of investment account holders, and thus are not part of
+the capital of the NIB. As the purpose of a PER is to smooth the profit payouts and not
+to cover losses, any portion of a PER that is part of the NIB’s reserves should also not
+be treated as part of the regulatory capital of the NIB. It may be noted that the impact
+of PER and IRR has already been incorporated in the denominator of the supervisory
+discretion formula for calculation of the CAR, as discussed in Section 4 of this standard.
+4.4 Minority interest and other capital issued out of consolidated subsidiaries
+44. Minority interest (non-controlling interest) arising from common share equity capital
+issued by a fully consolidated subsidiary of an NIB or a HoldCo may receive
+recognition in CET1 capital only if:
+a) the instrument giving rise to the minority interest would, if issued by the
+NIB/HoldCo, meet all the criteria for classification as CET1 for regulatory capital
+purposes as stipulated in this Guideline; and
+b) the subsidiary that issued the instrument is itself an NIB in the case of a banking
+group or a non-bank financial entity for a HoldCo group.
+45. Minority interest in a subsidiary that is an NIB is strictly excluded from the parent NIB’s
+common equity if the parent bank or affiliate has entered into any arrangements to
+fund directly or indirectly minority investment in the subsidiary whether through an
+SPE or through another vehicle or arrangement.
+46. The amount of minority interest meeting the criteria set out in Paragraph 48 that will
+be recognized in consolidated CET1 will be calculated as follows:
+c) Total minority interest meeting the two criteria set out in Paragraph 48 above
+minus the amount of the surplus CET1 of the subsidiary attributable to the
+minority shareholders.
+d) Surplus CET1 of the subsidiary is calculated as the CET1 of the subsidiary
+minus the lower of: (i) the minimum CET1 requirement of the subsidiary plus
+the capital conservation buffer or (ii) the portion of the consolidated minimum
+CET1 requirement plus the capital conservation buffer that relates to the
+subsidiary.
+15
+Classified as Confidential
+e) The amount of the surplus CET1 that is attributable to the minority shareholders
+is calculated by multiplying the surplus CET1 by the percentage of CET1 that is
+held by minority shareholders.
+47. Tier 1 capital instruments issued by a fully consolidated subsidiary of the NIB, whether
+wholly or partly owned, to third party investors (including amounts under Paragraph
+46 above) may receive recognition in Tier 1 capital only if the instruments would, if
+issued by the bank, meet all of the specified criteria for classification as Tier 1 capital.
+The amount of this capital that will be recognised in Tier 1 will be calculated as follows:
+f) Total Tier 1 capital of the subsidiary issued to third parties minus the amount of
+the surplus Tier 1 of the subsidiary attributable to the third-party investors.
+g) Surplus Tier 1 of the subsidiary is calculated as the Tier 1 of the subsidiary
+minus the lower of: (i) the minimum Tier 1 requirement of the subsidiary plus
+the capital conservation buffer or (ii) the portion of the consolidated minimum
+Tier 1 requirement plus the capital conservation buffer that relates to the
+subsidiary.
+h) The amount of the surplus Tier 1 that is attributable to the third-party investors
+is calculated by multiplying the surplus Tier 1 by the percentage of Tier 1 that is
+held by third party investors.
+i) The amount of this Tier 1 capital that will be recognised in AT1 will exclude
+amounts recognised in CET1 under Paragraph 46 above
+48. Total capital instruments (i.e. Tier 1 and Tier 2 capital instruments) issued by a fully
+consolidated subsidiary of the bank, whether wholly or partly owned, to third party
+investors (including amounts under Paragraph 46 to Paragraph 47 above) may
+receive recognition in Total Capital only if the instruments would, if issued by the bank,
+meet all of the criteria for classification as Tier 1 or Tier 2 capital. The amount of this
+capital that will be recognised in consolidated Total Capital will be calculated as
+follows:
+j) Total capital instruments of the subsidiary issued to third parties minus the
+amount of the surplus Total Capital of the subsidiary attributable to the third-
+party investors.
+k) Surplus Total Capital of the subsidiary is calculated as the Total Capital of the
+subsidiary minus the lower of: (i) the minimum Total Capital requirement of the
+subsidiary plus the capital conservation buffer and (ii) the portion of the
+consolidated minimum Total Capital requirement plus the capital conservation
+buffer that relates to the subsidiary.
+16
+Classified as Confidential
+l) The amount of the surplus Total Capital that is attributable to the third-party
+investors is calculated by multiplying the surplus Total Capital by the percentage
+of Total Capital that is held by third party investors.
+m) The amount of Total Capital that will be recognised in Tier 2 will exclude
+amounts recognised in CET1 under Paragraph 46 above and amounts
+recognised in Additional Tier 1 under Paragraph 47 above.
+4.5 Regulatory Adjustments
+49. This section sets out deductions to be applied to regulatory capital. In most cases,
+these adjustments are applied in the calculation of CET1 capital.
+50. The adjustments to regulatory capital are intended to make its quantification more
+conservative so that it is available at all times to absorb losses.
+51. All items that are deducted from capital should be excluded from total assets in
+calculating the CAR.
+52. If a bank is required to make a deduction from Tier 2 capital and it does not have
+sufficient capital to make that deduction, the shortfall will be deducted from Tier 1
+capital.
+53. In case of any shortfall in the regulatory capital requirements in any subsidiary entity,
+the shortfall should be fully deducted from the Common Equity Tier 1 (CET1) capital
+54. Elements which shall be recognised or adjusted in the calculation of total capital from
+a regulatory perspective are as follows, subject to the stated conditions:
+4.5.1 Goodwill and other intangibles
+55. Goodwill and all other intangibles must be deducted in the calculation of CET1. This
+includes any goodwill included in the valuation of significant investments in the capital
+of other financial entities that are outside the scope of regulatory consolidation.
+56. The full amount is to be deducted net of any associated Deferred Tax Liability (DTL)
+which would be extinguished if the intangible assets become impaired or
+derecognised under the IFRS.
+4.5.2 Deferred Tax Assets (DTA)
+57. Deferred Tax Assets (DTAs) are to be deducted in the calculation of CET1.
+4.5.3 Cash Flow Hedge Reserve
+58. The amount of the cash flow hedge reserve that relates to the hedging of items that
+are not fair valued on the balance sheet should be derecognised in the calculation of
+CET1. This means that positive amounts should be deducted, and negative amounts
+should be added back.
+17
+Classified as Confidential
+4.5.4 Gain on Sale Related to Securitisation Transactions
+59. NIBs must deduct from CET1 any increase in equity capital resulting from a
+securitisation transaction, such as that associated with expected future margin income
+resulting in a gain on sale that is recognised in regulatory capital.
+4.5.5 Defined Benefit Pension Fund Assets and Liabilities
+60. Defined Benefit (DB) pension fund liabilities, as included on the balance sheet, must
+be fully recognised in the calculation of CET1. That is, CET1 cannot be increased
+through derecognising these liabilities.
+61. For each DB pension fund that is an asset on the balance sheet, the net asset on the
+balance sheet in respect of the plan or fund should be deducted in the calculation of
+CET1 net of any associated deferred tax liability which would be extinguished if the
+asset should become impaired or derecognised under IFRS.
+4.5.6 Investment in Own Shares (Treasury shares) and Own other Capital
+62. All of a bank’s investments in its own common shares, whether held directly or
+indirectly, should be deducted in the calculation of CET1. In addition, any own stock
+which the bank could be contractually obliged to purchase should be deducted in the
+calculation of CET116.
+63. Banks must also deduct investments in their own AT1 in the calculation of their AT1
+capital and must deduct investments in their own Tier 2 in the calculation of their Tier
+2 capital.
+4.5.7 Reciprocal cross holdings in the common shares of banking, financial and
+insurance entities
+64. Reciprocal cross-holdings of capital (e.g. Bank A holds capital of Bank B and Bank B
+in return holds capital of Bank A) should be deducted in full.
+65. Banks must apply a “corresponding deduction approach” to such investments in the
+capital of other banks and financial entities. This means the deduction should be
+applied to the same component of capital for which the capital would qualify if it was
+issued by the bank itself.
+16 The treatment described will apply irrespective of the location of the exposure in the banking book or the
+trading book
+18
+Classified as Confidential
+4.5.8 Investments in the capital of banking and financial entities outside the
+scope of regulatory consolidation where the bank does not own more than
+10% of the issued common shares of the entity
+66. An NIB's aggregate investment in all types of eligible capital instruments, issued by
+NIBs and financial institutions (except its financial subsidiaries) should not exceed
+10% of the investing NIB's capital funds (Tier 1 plus Tier 2 before regulatory
+adjustments). Any investment more than this limit shall be assigned a risk weight of
+1250%.
+67. An NIB’s investment in the following instruments issued by financial institutions will be
+included in the prudential limit of 10%, referred to in Paragraph 66 above:
+a) Equity shares;
+b) Sukuk; and
+c) Any other instrument approved by the CBN having the nature of capital.
+68. Financial institutions whose instruments shall qualify for capital purposes shall be as
+defined in the Regulation on the Scope of Banking Activities and Ancillary Matters No.
+3 and any other extant regulations issued by the CBN.
+69. Investment in the capital of banking, financial and insurance entities that are outside
+the scope of regulatory consolidation and where the NIB does not own more than 10%
+of the issued common share capital of the entity should be deducted from capital. For
+the purpose of this regulatory adjustment:
+d) Investments include direct, indirect 17 and synthetic holdings of capital
+instruments or other liabilities;
+e) Holdings in both the banking book and trading book are to be included;
+f) For capital instruments, it is the net long position that is to be included (i.e. the
+gross long position net of short positions in the same underlying exposure
+where the maturity of the short position either matches the maturity of the long
+position or has a residual maturity of at least one year);
+g) If the capital instrument of the entity in which the bank has invested does not
+meet the criteria for CET1, AT1, or Tier 2 capital of the bank, the capital is to be
+considered common shares for the purposes of this regulatory adjustment;
+h) NIBs may with prior written approval from the CBN exclude temporarily certain
+investments where these have been made in the context of resolving a
+distressed institution.
+17 Indirect holdings are exposures or parts of exposures that, if a direct holding loses its value, will result in a loss to
+the bank substantially equivalent to the loss in value of the direct holding.
+19
+Classified as Confidential
+70. If an NIB is required to make a deduction from a particular tier of capital and it does
+not have enough of that tier of capital to satisfy that deduction, the shortfall will be
+deducted from the next higher tier of capital.
+71. Amounts that are not deducted will continue to be risk weighted as per the relevant
+Pillar 1 RWA rules.
+4.5.9 Shortfall in impairment
+72. Any shortfall in specific and collective impairment is to be deducted from CET1 capital.
+4.5.11 Significant Investment in the Capital of Banking, Financial and Insurance
+Entities that are Outside the Scope of Regulatory Consolidation
+73. The regulatory adjustment described in this section applies to investments in the
+capital of banking, financial and insurance entities that are outside the scope of
+regulatory consolidation where the bank owns more than 10% of the issued common
+share capital of the issuing entity or where the entity is an affiliate of the bank. In
+addition:
+a) Investments include direct, indirect, and synthetic holdings of capital
+instruments;
+b) Holdings in both the banking book and trading book are to be included;
+c) If the capital instrument of the entity in which the bank has invested does not
+meet the criteria for CET1, AT1, or Tier 2 capital of the bank, the capital is to be
+considered common shares for the purposes of this regulatory adjustment.
+74. All investments in capital instruments included above that are not common shares
+must be fully deducted following a corresponding deduction approach. This means
+the deduction should be applied to the same tier of capital for which the capital would
+qualify if it was issued by the bank itself.
+6. Buffers above the Regulatory Minimum
+75. All NIBs shall be required to hold and maintain capital buffers above the regulatory
+minimum, as specified by the CBN from time to time. The capital buffers should be in
+the form of CET1 and should be above the minimum CET1, Tier 1 and Total Capital
+Adequacy levels as defined in this Guideline. The capital buffers shall comprise the
+sum of the following:
+20
+Classified as Confidential
+a) a Capital Conservation Buffer (CCB1) of 1.0% of TRWA; and
+b) a Countercyclical Capital Buffer (CCB2), which will be determined by the CBN
+from to time taking into consideration the prevailing macroeconomic conditions
+and developments within the financial sector amongst other factors.
+6.1 Capital Conservation Buffer
+76. The capital conservation buffer (CCB1) is designed to ensure that NIBs build up
+capital buffers during business as usual time which can be used to absorb losses
+during periods of crisis.
+77. NIBs are therefore required to maintain a CCB1 of 1.0% of TRWA in the form of CET1
+during business as usual periods to withstand future periods of stress.
+78. Where buffers have been drawn down, NIBs are required to restrict discretionary
+capital distributions, including dividend payments, share buybacks, and employee
+bonuses15. Discretionary distributions, for the purposes of this Guideline, shall also
+include payments in respect of intra-group transfer pricing and technical service fees
+to foreign group members and/or parents.
+79. NIBs have the option of raising new capital from the capital market as an alternative
+to conserving internally generated capital. The approach to be taken by banks shall
+be subject to prior approval from the CBN.
+6.2 Countercyclical Buffer
+80. In addition to CCB1, all banks in Nigeria will be required to maintain a Countercyclical
+Capital Buffer (CCB2)18 where the CBN determines that there is a build-up of credit
+risk which could lead to system-wide stress. The CCB2 shall range from 0% to 2.5%
+of TRWA and shall be determined by the CBN from time to time taking into
+consideration, amongst others, the prevailing economic and industry circumstances.
+81. The CCB2 is to be met with CET1 capital and thus the restrictions on discretionary
+capital distribution would also take into consideration banks’ levels of CCB2.
+82. The CBN shall apply its macro prudential tools and supervisory judgement in
+determining the level of CCB2 to be maintained by Nigerian banks. The supervisory
+judgement shall be informed by, amongst others, the assessment of developments in
+the macroeconomic and financial conditions including the underlying drivers.
+18 The objective of countercyclical capital buffer is to support the broader macro-prudential goal and
+financial system stability
+21
+Classified as Confidential
+83. The CBN shall announce the required CCB2 twelve (12) months in advance, during
+which time banks will be expected to take measures aimed at building up their capital
+buffers to the required level. Where there is an imminent crisis, the CBN may require
+banks to build up a CCB2 at a much shorter notice.
+84. NIBs shall be required to maintain, if necessary, CCB2 for a minimum period to be
+determined by the CBN after the expectation for system wide risk has been alleviated.
+85. The CCB2 buffer for banks with international authorization will be a weighted
+average of the buffers deployed across all the jurisdictions to which it has credit
+exposures.
+86. Where in place, NIBs must calculate and publicly disclose their CCB2 requirements
+with at least the same frequency as their minimum capital requirements. The buffer
+should be based on the most current jurisdictional countercyclical buffers.
+87. NIBs must also disclose the geographic breakdown of their exposures used in the
+calculation of the buffer requirement.
+6.4 Minimum Capital Adequacy and Buffer Levels
+88. The following table sets out the minimum levels of capital adequacy and capital buffers
+that are applicable to banks depending on the nature of their authorization and their
+systemic importance to the Nigerian economy.
+Table 2: Minimum Capital Requirements and Buffer Levels
+Capital Elements as National Banks International D-SIBs
+% of TRWA Banks
+CET1 7.0 10.5 10.5
+T1 7.5 11.25 11.25
+CAR 10.0 15.0 15.0
+CCB1 1.0 1.0 1.0
+CCB2 As determined by CBN from time to time
+HLA Not applicable Not applicable 1.0
+7. Determination of Maximum Distribution Payment in Nigeria
+7.1 Scope of Distribution
+89. Distribution payment for the purpose of this Guideline shall refer to:
+a) payment of dividends/coupon in respect of CET1 and AT1 capital;
+b) payment for the purchase of the NIB’s own shares, subject to the existing
+regulation;
+22
+Classified as Confidential
+c) discretionary bonus payment to the directors and employees of the bank as
+defined in Paragraph 87 ;
+d) technical service fees, management fees, or other agreed or discretionary
+payments to a group entity or group member/parent; and
+e) any other payment that is in substance a distribution of the bank’s CET1 capital
+7.2 Conditions for Payment of Bonuses
+90. Bonus payment to directors and employees shall only be made in respect of a financial
+year if the following conditions are jointly met. Specifically, no bonus shall be paid
+where:
+(i) National bank - Composite Risk Rating (CRR) is Above Average or High,
+CET 1 is less than 8% (CET 1 of 7% + CCB1% )and has not satisfied the
+minimum leverage ratio requirement of 4%;
+(ii) International authorization - Composite Risk Rating (CRR) is Above
+Average or High, CET 1 is less than 11.5% (CET 1 of 10.5% + CCB1%) and
+has not satisfied the minimum leverage ratio requirement of 4%; and
+(iii) D-SIBs - Composite Risk Rating (CRR) is Above Average or High, CET 1 is
+less than 12.5% (CET 1 of 10.5% + CCB1% + HLA1%) and has not satisfied
+the minimum leverage ratio requirement of 5%.
+91. For failure to meet their leverage ratio buffer requirement, the Table below sets out
+the criteria that has to be met by each class of banks before bonus payments can be
+made to directors and employees.
+Table 3: Criteria for payment of bonus to directors and employees
+Criteria Banks with Regional and National Authorization
+CET119 Greater than 8.0% of TRWA
+Composite Risk Rating (CRR) Low or Moderate
+92. Any bonuses not paid because of failure to meet the criteria set out in Table 3 above
+shall be forfeited and shall not be paid in the subsequent years.
+7.3 Conditions for Payment of Discretionary Obligations
+93. An NIB should be mindful of its capital adequacy and liquidity positions, amongst
+others, in its decision to fulfill its discretionary obligations to a group entity, parent or
+member of its group.
+19 This consists of the sum of the minimum CET 1 (as per Table 1), CCB 1 and HLA (where applicable). 18 e.g.,
+discretionary technical service fees, management fees or other discretionary payments.
+23
+Classified as Confidential
+94. Where payments in respect of technical service fees, management fees or other
+agreed or discretionary payments to a group entity or group member/parent have been
+made, details of such payments shall be provided to the CBN not later than three (3)
+months after payment.
+7.4 Conditions for Payment of dividends in respect of CET1
+95. Payments of dividends shall be subject to the provisions of the Banks and Other
+Financial Institutions Act (BOFIA).
+96. The maximum allowable dividend shall be determined taking into consideration the
+bank’s: (i) level of CET 1capital, (ii) the level of non-performing loans (NPLs), and (iii)
+Composite Risk Rating (CRR) at the point in time. The bank’s maximum dividend for
+a given financial year shall therefore be restricted to the applicable pay-out ratio
+contained in Appendix 1.
+8. Disclosure requirements
+97. To help improve transparency of regulatory capital and enhance market discipline,
+NIBs are required to publicly disclose the following as part of their Pillar 3 disclosures:
+a) A full reconciliation of all regulatory capital elements back to the balance sheet
+in the audited financial statements;
+b) A description of all limits and minima, identifying the positive and negative
+elements of capital to which the limits and minima apply;
+c) A description of the main features of capital instruments issued;
+d) Full terms and conditions of all instruments included in regulatory capital;
+d) Where applicable, counter cyclical buffer requirements;
+e) Where applicable, geographic breakdown of exposures used in the calculation
+of the counter cyclical buffer requirement.
+24
+Classified as Confidential
+Appendix 1: Maximum Dividend Pay-out Ratio
+1. Dividends for the purposes of this Guideline shall be the summation of dividends in
+respect of CET1 and AT1 capital.
+2. Regardless of the type of authorization and the level of CET 1 ratio, no dividend
+shall be paid where:
+a) The non-performing loans (NPL) ratio is great than 10%, or,
+b) The Composite Risk Rating (CRR) is High, or
+c) The leverage ratio is below the minimum threshold
+3. In all the other cases (scenarios), the maximum dividend pay-out ratio shall be as
+follows:
+Determination of Maximum Payout Ratio Using CET1, CCB1, CCB2 and HLA
+NIBs
+CET1 Scenario 1 CRR High Above Average Moderate Low
+NPL NPL > 10% NPL > 10% NPL > 10% NPL > 10%
+7% - 7.25% 0% 0% 0% 0%
+7.26% - 7.5% 0% 0% 0% 0%
+7.51% - 7.75% 0% 0% 0% 0%
+7.76% - 8% 0% 0% 0% 0%
+> 8 0% 0% 0% 0%
+NIBs
+CET1 Scenario 2 CRR High Above Average Moderate Low
+NPL NPL > 8% & NPL≤ 10% NPL > 8% & NPL≤ 10% NPL > 8% & NPL≤ 10% NPL > 8% & NPL≤ 10%
+0% 0% 5% 5%
+0% 5% 10% 15%
+7.26%
+7.51% 0% 5% 20% 25%
+7.76% - 8% 0% 10% 30% 40%
+> 8 0% 15% 40% 50%
+NIBs
+CET1 Scenario 3 CRR High Above Average Moderate Low
+NPL NPL > 5% & NPL≤ 8% NPL > 5% & NPL≤ 8% NPL > 5% & NPL≤ 8% NPL > 5% & NPL≤ 8%
+0% 0% 5% 10%
+0% 5% 15% 20%
+7.26%
+7.51% 0% 10% 30% 40%
+7.76% - 8% 0% 15% 40% 55%
+25
+Classified as Confidential
+> 8 0% 20% 55% 75%
+NIBs
+CET1 Scenario 4 CRR High Above Average Moderate Low
+NPL NPL ≤ 5% NPL ≤ 5% NPL ≤ 5% NPL ≤ 5%
+0% 5% 10% 10%
+0% 5% 20% 25%
+7.26%
+7.51% 0% 15% 40% 50%
+7.76% - 8% 0% 20% 55% 75%
+> 8 0% 25% 75% 100%
+Computation of Maximum Distributable Profit
+NGN
+Current Year Profit (after tax) a XXX
+Less: Statutory Reserves Adjustment b (xxx)
+Less: Regulatory Risk Reserve adjustmentxx c (xxx)
+Adjusted Profit d=(a-b-c,0) xxx
+Maximum Dividend Pay-Out Ratio (from the Table e xx%
+above)
+Maximum Distributable Profit f= (d) x (e) xxx
+xx
+This precludes transfers or writebacks from Regulatory Risk Reserve
+26
+Classified as Confidential

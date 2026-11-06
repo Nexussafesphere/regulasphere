@@ -1,0 +1,172 @@
+GUIDELINES FOR CLEARANCE OF INFORMATION
+TECHNOLOGY (IT) PROJECTS BY PUBLIC
+INSTITUTIONS
+2018
+Table of Contents
+1.0 PREAMBLE ....................................................................................................... 3
+2.0 AUTHORITY ...................................................................................................... 4
+3.0 SHORT TITLE AND COMMENCEMENT .......................................................... 5
+4.0 DEFINITIONS .................................................................................................... 5
+5.0 GUIDELINES ..................................................................................................... 6
+6.0 COMPLIANCE AND MONITORING .............................................................. 8
+7.0 BREACH ........................................................................................................... 9
+8.0 ENFORCEMENT .............................................................................................. 9
+9.0 REVIEW AND AMENDMENT .......................................................................... 9
+2
+1.0 PREAMBLE
+1.1 These guidelines are issued to ensure a coordinated,
+standardized and an orderly approach to the deployment of
+Information Technology (IT) systems by Public Institutions (PIs). PIs are
+required to obtain clearance from the National Information
+Technology Development Agency (NITDA) for their IT projects.
+1.2 The purposes of these guidelines are to ensure:
+a) that IT projects are not unduly duplicated;
+b) integration of IT systems and services by PIs to save costs, promote
+shared services, interoperability and improve efficiency;
+c) that the technology and services procured are suitable for the
+country from the point of view of security and the environment,
+among others;
+d) that there is indigenous capacity for after-sales-service to sustain
+the project beyond the initial deployment;
+e) that the project promotes indigenous content and preference
+shall be given to indigenous companies where capacity or the
+product or service exists; and
+f) that the technology being implemented is up-to-date.
+3
+2.0 AUTHORITY
+These guidelines are issued pursuant to:
+a) chapter 3.1 of the National Information Technology Policy of 2000
+which states that the nation shall use IT as the major driving force
+to re-engineer and rapidly transform governance to interface with
+the needs of its citizenry by establishing transparent ‘Government
+Wide Information System’ at all levels.
+b) section 6 of the NITDA Act 2007 which mandates the Agency to
+do the following:
+i) create a framework for the planning, research,
+development, standardization, application, coordination,
+monitoring, evaluation and regulation of Information
+Technology practices, activities and systems in Nigeria and
+all matters related thereto and for that purpose…;
+ii) develop guidelines for electronic governance and monitor
+the use of electronic data interchange and other forms of
+electronic communication transactions as an alternative to
+paper-based methods in government, commerce,
+education, the private and public sectors, labour, and other
+fields, where the use of electronic communication may
+improve the exchange of data and information;
+iii) render advisory services in all information technology matters
+to the public and private sectors;
+4
+iv) perform such other duties, which in the opinion of the
+Agency are necessary or expedient to ensure the efficient
+performance of the functions of the Agency under this act.
+3.0 SHORT TITLE AND COMMENCEMENT
+This Guidelines shall be cited as ‘Guidelines for Clearance of IT
+Projects by PIs’ and shall come into effect when it is signed by the
+Director General of NITDA.
+4.0 DEFINITIONS
+Information Technology (IT): encompasses all forms of technology
+used to create, store, process, transmit and use information in its
+various forms (business data, voice, conversation, still images, motion
+pictures, multimedia presentation and other forms including those
+not yet conceived).
+Information Technology (IT) Projects: any governmental activity
+relating to information technology which involves direct or indirect
+costs and includes the creation/development, acquisition and/or
+distribution of IT products, applications and services.
+Public Institutions (PIs): any organisation established or owned by the
+Federal, State or Local government in Nigeria
+OSGF: Office of the Secretary to the Government of the Federation
+5
+NITDA Requirements: checklist as created by NITDA from time to time
+for the purpose of accessing and evaluating projects prior to
+clearance
+Clearance: approval to a project issued by NITDA upon evaluation
+of a proposed project or service to be deployed by any PI.
+FORM ITC.1: an instrument for gathering relevant data or information
+about the proposed IT project for the purpose of evaluation and
+clearance.
+5.0 GUIDELINES
+5.1 PIs shall obtain approval from NITDA for all their IT projects. Such
+approval may be through automatic electronic system or a formal
+letter signed by an authorized person appointed by the Director
+General.
+5.2 PIs requesting for approval from NITDA, with respect to their IT
+projects shall fill a copy of FORM ITC.1 and shall comply with the
+following requirements:
+i) describe in detail each proposed IT project and the designated
+location for such project;
+ii) describe in detail the service(s) or specification(s) and
+configuration of the IT products and services required for such
+project;
+iii) specify the current market prices of all products or estimated
+cost of services needed to actualize each project;
+6
+iv) specify the expected duration for each project
+implementation;
+v) comply with the provisions contained in the Regulatory
+Guidelines for Nigerian Content Development in ICT 2013 (or as
+amended); and
+vi) provide justification and deliverables for the proposed IT
+project.
+5.3 Upon submission of the above application, NITDA shall carry out
+technical evaluation of the proposed IT projects to determine if the
+project conforms with the objectives listed in section 1 of this
+Guidelines and decide.
+5.4 a) NITDA shall ensure that approvals are given within 20 working
+days, from the date of submission of the application for the
+request of advice and/or approval by PIs.
+b) Where NITDA is unable to carry out a conclusive technical
+evaluation of the IT project within 20 working days, it shall:
+i) write to such PI informing it of the delay; and
+ii) request for any further information the PI may provide to
+complete the process.
+c) Where NITDA is unable to reach a decision within 20 working
+days and further fails to write to the PI as specified in section
+5.4(b) and 5.4(a) respectively, it shall be assumed that the IT
+project has been approved for execution.
+7
+d) Notwithstanding section 5 above, NITDA may withhold
+approval for IT projects where the proposed project does not
+satisfy or meet the requirements of this Guidelines or other
+extant laws and regulations of the Federal Government.
+e) Refusal of approval for any IT project shall be done in writing
+and shall:
+i) specify in detail the reason for the refusal; and
+ii) give advice to the PI on how NITDA’s requirements can be
+met.
+5.5 a) NITDA shall from time to time, set thresholds for IT projects
+clearance, taking into consideration the type of PI, the volume
+and value of IT procurement, the type of technology or system
+being sought to be procured among others. Appendix 1 of this
+Guidelines outlines the thresholds for IT projects clearance.
+b) The set thresholds in Appendix 1 are subject to change from
+time to time by NITDA. When the thresholds are changed, it
+becomes effective 90 days after publication on NITDA’s
+website.
+6.0 COMPLIANCE AND MONITORING
+a) NITDA is responsible for ensuring compliance with the provisions of
+this Guidelines.
+b) NITDA shall monitor PIs to ensure compliance with the provisions of
+this Guidelines.
+8
+c) Upon a written request, PIs shall permit NITDA officials or agents to
+carry out inspection of any IT project being undertaken by the
+organisation.
+d) Upon completion of the cleared IT project, the PI shall notify NITDA
+in writing to obtain a certificate of compliance.
+7.0 BREACH
+Any breach of this Guidelines is a criminal offence under sections 17
+and 18 of the National Information Technology Development
+Agency Act of 2007.
+8.0 ENFORCEMENT
+NITDA shall enforce compliance with the provisions of this Guidelines
+in accordance with the National Information Technology Policy 2000
+and the National Information Technology Development Agency Act
+of 2007.
+9.0 REVIEW AND AMENDMENT
+This Guidelines may be reviewed and amended as the need arises.
+Any such reviews shall be guided by the developmental aspirations
+of the country, the development of PIs and improvement of overall
+efficiency in public service delivery.
+9

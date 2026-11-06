@@ -1,0 +1,945 @@
+1. New Rule
+New Rules on Issuance and Allotment of Private Companies’ Securities
+2. Sundry Amendments
+a. Amendments to Rules on Corporate Bonds
+b. Amendments to Rule 39- Annual Report
+c. Amendments to Rule 41- Quarterly Reports
+d. Amendments to Part N- Miscellaneous Rules
+e. Amendments to Schedule 1- Part D- SEC Fees on Market Deals
+f. Amendments to the Rules on Private Equity Funds
+g. Sundry Amendments to CIS Rules
+h. Amendments to Rule 450- New Sub-rule (9) General Rules for CIS
+Details of the Rules are as follows:
+LEGEND: Additions are underlined
+1. NEW RULES ON THE ISSUANCE AND ALLOTMENT OF PRIVATE COMPANIES’
+SECURITIES
+1. Definition of Terms
+Bonds/Debentures are non-convertible debt instruments with defined maturities,
+variable periodic interest payments and amortized or bullet principal repayments at
+maturity;
+Qualified Investor means an institutional investor or high net worth individual as
+defined in the Commission’s rules;
+Securities in these rules refers to fixed income securities including bonds, debentures
+and alternative asset classes such as sukuk.
+2. Scope/Applicability
+These rules shall apply to:
+1
+a) Debt securities issuances by private companies either by way of public offer or
+other methods as may be approved by the Commission, where the offer is:
+i. Published, advertised or disseminated in a newspaper, broadcast,
+cinematograph, internet media or any other means by which the public is
+made aware of the offer;
+ii. made to anyone or circulated among persons on the terms that the person
+or persons to whom it is made may renounce or assign the benefit of the
+securities to be obtained in favour of any other person or persons;
+iii. made to or circulated among members or debenture holders of the
+company concerned or clients of the person circulating information on the
+offer or in any other manner;
+iv. made to one or more persons to acquire securities dealt in by a securities
+exchange or the invitation states that an application has been or shall be
+made for permission to deal in those securities on a securities exchange.
+b) Registered exchanges and platforms which admit debt securities issued by private
+companies for trading, price discovery or information repository purposes.
+c) Registered capital market operators who are parties in issuances and allotment of
+debt securities of private companies
+3. Commencement
+These rules shall become effective immediately on the date issued by the Commission
+4. Existing Debt Securities of Private Companies
+At the issuance of these rules, a private company with existing debt securities which
+are:
+a. held by qualified investors, the issuer shall no later than three (3) months from
+the date of issuance of these rules, file an application for the registration of the
+outstanding securities to the Commission.
+2
+Failure to comply with this provision shall attract a penalty of not less than ₦2,000,000
+(Two Million Naira) and a further sum of ₦100,000 (One hundred thousand Naira) for
+every day the violation continues.
+5. Eligibility
+a) A private entity seeking to issue securities under these rules shall:
+i. be a company duly incorporated under Companies and Allied Matters Act
+(CAMA), or other enabling Laws;
+ii. have at least three (3) years track record of operation.
+Provided that, it shall not be required where:
+a. the private company is set up by a state or municipal government for the
+purpose of issuing bonds.
+b. the company has existed for less than three (3) years, a guarantor who must
+have a minimum of three (3) years operational track record and investment
+grade rating shall be provided.
+No Issuer shall offer securities if it is in default of payment of interest or repayment
+of principal in respect of previous debt issuance(s) for a period of more than six (6)
+months.
+b) Issuers and the bonds to be issued shall be rated by a rating agency (optional for
+private placements);
+c) The credit rating of a bond shall not be below investment grade;
+d) All necessary approvals (where applicable) in relation to the issue, from other
+regulatory authorities shall be obtained and filed with the Commission. Any
+3
+conditions imposed by such regulatory authorities, shall be complied with throughout
+the tenor of the bond.
+6. General
+a) These rules shall apply only to debt securities issued by a private company.
+b) Private companies may issue debt securities under a shelf programme in
+accordance with the Commission’s rules on Shelf Registration.
+c) The option of book building in the issuance of debt securities shall be available to
+a private company, in accordance with the provisions of the Commission’s rules on
+Book Building.
+d) Any party that makes any misrepresentation to prospective investors or violates
+the provisions of these rules, shall be subject to sanctions/penalty as prescribed in
+these rules and the ISA.
+7. Restrictions
+a) A private company shall not offer its equity securities (shares) to the public under
+any circumstance.
+b) Debt securities issued under these rules, shall be sold only to qualified investors.
+c) Only registered capital market operators shall be parties to debt securities
+issuances under these rules.
+d) No private company or any person acting on its behalf shall offer, sell or allot
+securities to the public without the prior registration of the securities by the
+Commission.
+e) Securities purchased in a public offer pursuant to these rules shall only be traded
+on a registered securities exchange.
+4
+8. Conditions for Securities Issuance
+A private company may issue its securities under these Rules provided that: -
+a) Only bonds/debentures and other debt instruments including sukuk and as may
+be determined by the Commission from time to time, shall be issued;
+b) For sukuk issuances, the issuer shall comply with the provisions on sukuk (as
+applicable) and set out in the Commission’s Rules, as amended from time to time.
+c) The securities shall be offered to and traded only by qualified investors;
+d) A private company may undertake a maximum of three debt securities issuances
+within a one-year period, whether through a shelf program, either in series or
+tranches or one-off offering, the total amount to be raised not exceeding ₦15
+billion, provided that where a private company intends to undertake any further
+debt securities issuance, it shall be required to re-register as a public company.
+9. Registration Requirements
+A private company intending to offer its debt securities by way of an offer to the public
+or private placement under these rules, shall, along with a duly completed checklist for
+debt securities issued by private companies, file the following with the Commission:
+a) A copy each of the board and shareholders’ resolutions authorizing the issue;
+b) Current CAC report on the statutory information of the issuer including, evidence
+of registration, statement of share capital, particulars of directors and company
+secretary, and shareholders and their respective holdings;
+c) Memorandum and Articles of Association of the issuer. Provided that where the
+document has already been filed with the Commission and there has been no
+5
+change since the previous filing, the issuer shall file an undertaking that there has
+been no change(s) to the document;
+d) A signed copy of the Issuer’s latest audited accounts for the preceding 3 years,
+with the latest account not more than 9 months old at the time of filing with the
+Commission. Provided that the account shall remain valid throughout the offer
+period.
+e) A draft prospectus containing the following information:
+i. Amount of securities offered;
+ii. Basic terms of the securities to be offered, including status of the bond,
+minimum subscription, coupon rate, maturity, listing;
+iii. Offer period;
+iv. Purpose of the offering/use of proceeds;
+v. Risks of investment;
+vi. Tax considerations
+vii. Company’s profile/business;
+viii. Management and Board;
+ix. Extract of 3 years audited accounts;
+x. Reporting accountant’s report;
+xi. Rating reports (where applicable);
+xii. Extract of Solicitor’s opinion on the claims and litigation of the issuer
+xiii. Any other information that the Commission may require from time to time.
+f) Draft trust deed (in the case of a shelf programme, a programme trust deed);
+g) Draft vending agreement between the issuer and issuing house;
+h) Draft joint issuing houses’ agreement (where applicable);
+i) Draft underwriting agreement and sub-underwriting agreement (where
+applicable);
+6
+j) Form SEC 6 (duly completed)
+k) Letter of “No Objection” from the relevant regulatory body (where applicable);
+l) Details of any asset or collateral provided to secure the debt issue, or third-party
+guarantee (where applicable)
+m) A copy of the mandate letter from the issuer to the issuing house;
+n) Letters of consent given by the parties to the issue, sworn to before a Notary Public
+or Commissioner for Oaths. Consent letters shall not be notarized by a person who
+is also a named signatory on the consent letter or who is a member or employee
+of the firm whose consent is required. Where the consent is contained in a power
+of attorney, it shall be executed and stamped by the stamp duties office;
+o) A sworn declaration that the Issuer has fully disclosed all material facts in the offer
+document. The declaration shall be signed by two directors and the company
+secretary;
+p) Schedule of claims & litigations of the Issuer and the solicitor’s opinion;
+q) Letter of confirmation of going concern from the directors of the issuer;
+r) Any other document required by the Commission under these Rules and
+Regulations.
+10. Execution of Offer Documents
+a) The copies of the approved prospectus shall be signed by the directors of the issuer
+and other parties to the offer and together with other offer documents, shall be
+forwarded to the Commission for registration. Where a party will not be available
+to sign the offer documents, he shall execute a power of attorney in favor of any
+7
+other available party to sign on his behalf. The power of attorney shall be filed
+with the offer documents.
+b) Upon signing the offer documents or holding a completion board meeting the
+following executed documents must be filed within 2 business days with the
+Commission (where applicable):
+i. Executed shelf prospectus;
+ii. Executed supplementary prospectus/ pricing supplement;
+iii. Vending agreement (signed and stamped);
+iv. Programme and series trust deeds (signed and stamped);
+v. Underwriting agreement (signed and stamped);
+vi. Sub-underwriting agreement (signed and stamped);
+vii. Specimen e-allotment notice;
+viii. Signed newspaper advert material;
+ix. Power of attorney in case of absentee parties;
+x. Any other material information.
+c) Where the securities registered by the Commission under this part are not offered
+to the public or select qualified investors within a period of 6 months after the
+registration, the Issuer shall revert to the Commission, for a revalidation of the
+registration before they are offered to the public.
+11. Allotment
+a) For securities offered under these rules, whether listed or not, the issuer and the
+issuing house shall be responsible for the allotment of the securities of the
+company, in accordance with the guidelines prescribed hereunder.
+i. No fresh offer of securities shall be made unless the allotment with respect to
+any previous offer has been concluded or the offer aborted.
+8
+ii. An allotment of securities shall not be made, unless the sums payable on
+application for the amount stated in the prospectus have been paid to and
+received by the issuer and issuing house.
+iii. In the case of a fixed price offer, where the issue is less than 50% subscribed,
+the offer shall be aborted and the Commission shall be notified within one (1)
+business day.
+iv. Where the offer is aborted, subscribers’ funds shall be refunded within two (2)
+business days.
+v. In the case of an over-subscription, a minimum modified pro-rating approach
+shall be adopted. This entails that all subscribers to the offer shall be allotted
+the minimum subscription units as specified in the offer documents, and then
+the residual balance shall be pro-rated i.e. all subscribers would be allotted
+equal proportion of the amount applied for. Where the minimum subscription
+cannot accommodate all the subscribers, the minimum to be allotted shall be
+reduced so as to accommodate all the subscribers.
+vi. The issuer/issuing house shall within five (5) working days of allotment, publish
+the allotment and approval on the issuer’s website.
+vii. The Commission may declare any irregular allotment of securities null and void
+and may prescribe appropriate measures to rectify such irregularities.
+12. Listing of Securities
+a) A private company may list its securities on a registered securities exchange
+upon approval by the Commission.
+b) Such securities shall be listed not later than thirty (30) days after completion
+of allotment.
+9
+13. Summary Report on Completion of Offer
+The issuing house shall within twenty-one (21) working days of allotment, file with
+the Commission a summary report containing among others, the following:
+a) Post allotment information including: -
+i. summary of applications received;
+ii. list of allottees of 50,000 units of securities or more and list of all
+allottees acquiring 5% or more of the securities on offer;
+iii. list of all applications received including list of those rejected and the
+basis for rejection;
+iv. Statement of issue proceeds account;
+v. Joint consent letter signed by the Issuer and the Issuing House(s)
+consenting to the basis of allotment.
+vi. Evidence of publication of allotment
+b) Problems arising generally from the conduct of the issue;
+c) Satisfactory compliance of parties with their obligations under the issue;
+d) Details regarding the return of surplus monies;
+e) Status of listing of the securities at the exchange;
+f) Details and evidence of payment of net proceeds of the issue to the issuer;
+10
+g) Analysis of total costs incurred during the course of the offer;
+h) Any other relevant information and recommendation.
+14. Utilization of Proceeds
+a) The issuer is prohibited from using the proceeds of the issue for purposes other
+than those stated in the offer document without the prior approval of the
+Commission;
+b) The issuer shall file with the Commission not later than ninety (90) days after
+the conclusion of an issue on the appropriate SEC Form, detailed information
+on the utilization of proceeds. Evidence of such utilization shall be provided as
+appendix to the report. The rendition shall be on a quarterly basis until issue
+proceeds are fully utilized.
+15. Reporting
+a) The Issuer, Issuing House and the Trustee shall comply with the following
+continuous reporting and disclosure requirement as may be prescribed by the
+Commission from time to time:
+i. Quarterly report on utilization of proceeds
+ii. Quarterly unaudited financial statements of the Issuer
+iii. Annual audited financial statements of the Issuer
+iv. Review of annual rating report
+v. Annual Shariah certification (where applicable)
+vi. Any other information that the Commission may from time-to-time
+request
+11
+b) Failure to file the periodic report/returns with the Commission within the
+prescribed period shall attract a penalty of not less than ₦1,000,000 (One
+Million Naira) and a further sum of ₦50,000 (Fifty Thousand Naira) for every
+day the default continues.
+16. Code of Conduct
+Registered exchanges and capital market operators shall strictly abide by the Code of
+Conduct for Capital Market Operators and their Employees as set out in the Commission’s
+Rules and Regulations.
+17. Sanctions/Penalty
+a) Any person who issues or allots securities without the prior approval of the
+Commission, or violates any provisions of these rules shall be liable to any one or
+more of the following sanctions:
+i. A penalty of not less than ₦10,000,000 (Ten Million Naira) and a further
+sum of ₦100,000 (One Hundred Thousand Naira) for every day the violation
+continues;
+ii. Suspension, or withdrawal of the registration of the capital market
+operator(s) involved;
+iii. Disgorgement of proceeds/income from the transaction; and
+iv. The Commission may ratify or rescind a transaction if it is in the interest of
+the public to do so;
+v. Any other sanction the Commission deems fit in the circumstance.
+18. Fee Structure
+a) The following registration fee shall be applicable:
+First ₦500 Million @ 0.15%
+Next ₦500 Million @ 0.145%
+12
+Balance above ₦1 Billion @ 0.1425%
+b) A non-refundable filing fee of ₦100,000 (One Hundred Thousand Naira only)
+shall be payable to the Commission.
+c) The fees chargeable by the parties shall also be in line with the fees regime
+provided in the Commission’s Rules and Regulations.
+2. SUNDRY AMENDMENTS
+A. Amendments to Rules on Corporate Bonds
+Full text of Existing Rule
+567. Registration Requirement
+These rules shall apply to all bond issuance by any public company, foreign public
+companies and supranational bodies.
+Documents/Information Required:
+In relation to any issue, offer or invitation made pursuant to these rules, the following
+documents shall be filed along with the registration statement:
+(a) Duly completed form SEC 6;
+(b) Appropriate filing and registration fees;
+(c) Two (2) copies of the board resolution authorizing the issue of the bond;
+Provided that a resolution of the general meeting shall be required where;
+(i) The amount to be borrowed is beyond the specified limit on the borrowing
+powers of directors in the Memorandum and Articles of Association of the Issuer.
+13
+(ii) The bond to be issued is convertible.
+(d) Two (2) copies of the Memorandum and Articles of Association of the Issuer certified
+by the Corporate Affairs Commission;
+(e) A copy of certificate of incorporation of the issuer certified by the company secretary;
+(f) A signed copy of the Issuers latest audited accounts for the preceding three (3) years,
+with the latest account not more than nine (9) months old at the time of filing with the
+Commission;
+(g) Reporting accountant report;
+(h) Consent letters of the parties to the offer;
+(i) Two (2) copies of the draft vending agreement between the issuer and the issuing
+house;
+(j) Draft underwriting agreement (where applicable);
+(k) Rating report by a registered rating agency;
+(l) A letter of “No Objection” from the relevant regulatory body (where applicable);
+(m) Two (2) copies of draft trust deed;
+(n) A draft prospectus, right circular, placement memorandum or any form of information
+memorandum shall contain the following information: -
+i. Background information on the issuer and/or originator in the case of asset-backed
+securities (ABS) issue including mortgage backed securities (MBS);
+ii. Profile of directors of the issuer;
+14
+iii. A description of the transaction and structure of the issue;
+iv. Details of the utilization of proceeds. If proceeds are to be utilized for project, details
+of the project;
+v. Details of estimated expenses for the issue;
+vi. Conflict of interest situations, risk factors and mitigating factors;
+vii. For issuances made for the purpose of refinancing an existing debt, information on
+the existing debt should be provided;
+viii. Coupon rate, the date of maturity or if the issue matures severally, a brief information
+on the serial maturities;
+ix. Names, telephone numbers and facsimile number and the e-mail addresses of principal
+officers of the issuer and principal advisers of the issue;
+x. Terms and conditions of the issue;
+xi. Any other material information in relation to the issue.
+(o) Declaration by the issuer on compliance with all requirements of the Act;
+(p) Such other material information as may be required by the Commission.
+568. Condition for Approval
+The issuance of bonds by public companies and supranational bodies shall be subject to
+the following conditions:
+a. Eligibility of Debt Offering
+i. Any public company, foreign public company or supranational body is eligible to
+issue corporate bonds;
+ii. All necessary approvals (where applicable) in relation to the issue, from other
+regulatory authorities shall be obtained and filed with the Commission together with
+15
+the registration statement. Any conditions imposed by such regulatory authorities,
+shall be complied with throughout the tenor of the bond;
+iii. All issues of corporate bonds shall be rated by a rating agency (optional for private
+placements;
+iv. For a bond that will be issued through public offering, the credit rating shall not be
+below an investment grade;
+v. No Issuer shall offer bond if it is in default of payment of interest or repayment of
+principal in respect of previous debts issuance for a period of more than six (6)
+months.
+(b) Mode of issue
+Corporate bonds may be issued by way of an offer for subscription, rights issue or private
+placement.
+(c) Resolution
+There shall be a resolution by the board authorizing the issue of the bond.
+Provided that a resolution of the general meeting resolution shall be required where:
+(i) The amount to be borrowed is beyond the specified limit on the borrowing powers of
+directors in the Memorandum and Articles of Association of the issuer;
+(ii) The bond to be issued is convertible.
+(d) Disclosure and creation of charge
+Where the debenture is secured, the issuer shall ensure the assets on which the
+debenture is secured are adequate and this should be specifically stated together with
+the ranking of the charge(s) in the offer documents.
+In case of second or residual charge or subordinated obligation, the offer documents shall
+clearly state the risks associated with such subsequent charges by giving details.
+16
+Amendment to the Rule:
+The issuance of bonds by public companies and supranational bodies shall be subject to
+the following conditions:
+1. Eligibility of Debt Offering
+a) Any public company, foreign public company or supranational body is eligible
+to issue corporate bonds;
+b) All necessary approvals (where applicable) in relation to the issue, from other
+regulatory authorities shall be obtained and filed with the Commission together
+with the registration statement. Any conditions imposed by such regulatory
+authorities, shall be complied with throughout the tenor of the bond;
+c) All issuers of corporate bonds and the bonds to be issued shall be rated by a
+rating agency (optional for private placements). Provided that for an SPV, the
+Sponsor rating shall be forwarded.
+d) For a bond that will be issued through public offering, the credit rating shall
+not be below an investment grade;
+e) No Issuer shall offer bonds if it is in default of payment of interest or repayment
+of principal in respect of previous debts issuance for a period of more than 6
+months.
+2. Mode of issue
+Corporate bonds may be issued by way of an offer for subscription, rights issue or
+private placement.
+3. Resolution
+17
+There shall be a resolution by the board authorizing the issue of the bond provided
+where the issuance is by a special purpose vehicle, the sponsor’s resolution shall
+be filed.
+Provided that a resolution of the general meeting shall be required where: -
+a. The amount to be borrowed is beyond the specified limit on the borrowing
+powers of directors in the memorandum and articles of association of the
+Issuer;
+b. The bond to be issued is convertible.
+4. Disclosure and creation of charge
+Where the debenture is secured, the Issuer shall ensure the assets on which the
+debenture is secured are adequate and this should be specifically stated together
+with the ranking of the charge(s) in the offer documents.
+In case of a second or residual charge or subordinated obligation, the offer
+documents shall clearly state the risks associated with such subsequent charges
+by giving details.
+5. Registration Requirements
+a. An issuer shall register securities to be issued under this Rule with the Commission
+by filing an application on the appropriate SEC Form as provided in the Schedules
+to these Rules and Regulations accompanied by the following documents (where
+applicable): -
+i. a copy of the resolution(s) by the general meeting authorizing the offer. The
+resolution shall be certified by the company secretary;
+ii. a copy of the board resolution authorizing the issue of the bond provided where
+the issuance is by a special purpose vehicle, the sponsor’s resolution shall be
+filed;
+iii. a copy of the memorandum and articles of association (including amendments
+thereto) of the Issuer certified by the Corporate Affairs Commission (CAC);
+iv. a copy of certificate of incorporation of the Issuer certified by the CAC. Where
+a copy has already been filed with the Commission a photocopy of the
+certificate of incorporation certified by the company secretary may be
+forwarded;
+18
+v. A signed copy of the Issuers latest audited accounts for the preceding 3 years,
+with the latest account not more than 9 months old at the time of filling with
+the Commission. Provided that the Account shall remain valid throughout the
+offer period.
+vi. In the case of a new company, an audited statement of affairs disclosing the
+following information:
+a. financial statements;
+b. date of incorporation;
+c. Issued share capital;
+d. paid-up capital which shall not be less than 25% of the issued share capital
+of the company;
+e. profile of promoters/directors;
+f. profile of management staff;
+g. a summary of the objectives and business of the company.
+vii. A copy each of the draft prospectus and abridged prospectus containing the
+following: -
+a. Background information on the Issuer and/or originator in the case of asset-
+backed securities (ABS) issue including mortgage-backed securities (MBS);
+b. Profile of directors of the Issuer;
+c. A description of the transaction and structure of the issue;
+d. Details of the utilization of proceeds. If proceeds are to be utilized for the
+project, details of the project;
+e. Details of estimated expenses for the issue;
+f. Conflict of interest situations, risk factors;
+g. For issuances made for the purpose of refinancing an existing debt,
+information on the existing debt should be provided;
+h. Coupon rate, the date of maturity or if the issue matures severally, brief
+information on the serial maturities;
+i. Names and telephone numbers along with the e-mail addresses of principal
+officers of the Issuer and principal advisers to the issue;
+j. Terms and conditions of the issue;
+k. Any other material information in relation to the issue.
+viii. a copy of the draft trust deed
+ix. reporting accountant report;
+19
+x. a copy of the draft underwriting agreement and sub-underwriting agreement;
+xi. a copy of draft vending agreement, between Issuer and the issuing house.
+Where there are joint issuing houses, the terms of their relationship should be
+incorporated in the vending agreement;
+xii. a letter of “No Objection” from the relevant regulatory body;
+xiii. letters of consent given by the parties to the issue, sworn to before a Notary
+Public or Commissioner for Oaths. Consent letters shall not be notarized by a
+person who is also a named signatory on the consent letter or who is a member
+or employee of the firm whose consent is required. Where the consent is
+contained in a power of attorney, it shall be executed and stamped by the
+stamp duties office;
+xiv. evidence of technical agreement (if any) reached between the Issuer and
+technical draft partner(s), advisers/consultants;
+xv. a copy of CAC Form containing the particulars of directors, certified by the CAC;
+xvi. a copy of the mandate letter by the Issuer to the Issuing House;
+xvii. evidence of payment of registration and filing fees;
+xviii. rating report by a registered or recognized rating agency, the rating of the
+Issue and the Issuer or Sponsor in the case of an SPV, shall be of Investment
+grade and shall be annually reviewed throughout the life of the bond;
+xix. list of claims & litigations of the Issuer and the solicitor’s opinion;
+xx. a sworn declaration that the Issuer has fully disclosed all material facts in the
+offer document. The declaration shall be signed by the Chief Executive Officer
+(CEO), the company secretary and the Chief Financial Officer (CFO) of the
+Issuer;
+xxi. any other document required by the Commission under these Rules and
+Regulations.
+b. Where the Issuer had already filed such documents with the Commission (e.g.
+Memorandum and Articles of Association or certificate of incorporation or
+certificate of increase in share capital, etc.), such issuer need not file the
+documents in subsequent transactions. Provided the Issuer enters into an
+undertaking that since the previous filing, there has been no change in the
+document already filed with the Commission.
+20
+c. Where it is intended to list on the Securities Exchange or with any association or
+body of securities dealers recognized by the Commission, the Issuer shall in
+addition file with the Commission such copies of the application to the Securities
+Exchange, association or body of security dealers and a certificate that an
+application to the effect has been made.
+d. The copy of the approved prospectus shall be signed by the directors of the Issuer
+and other parties to a public offer and together with other offer documents, shall
+be forwarded to the Commission for registration. Where a party will not be
+available to sign the prospectus, he shall execute a power of attorney in favor of
+any other available party to sign on his behalf. This shall be filed with the offer
+documents.
+e. Upon signing the offer documents or holding a Completion Board Meeting the
+following documents must be filed within 3 Business Days with the Commission
+(where applicable): -
+i. A signed/executed copy of the shelf prospectus;
+ii. A signed/ executed copy of the prospectus/ pricing supplement;
+iii. A copy of vending agreement (signed/ sealed and stamped);
+iv. A copy each of programme and supplemental trust deeds (signed, sealed and
+stamped);
+v. A copy of underwriting agreement (signed, sealed and stamped));
+vi. A copy of sub-underwriting agreement (signed, sealed and stamped);
+vii. A copy of specimen e-allotment notice;
+viii. A signed copy of newspaper advert material;
+ix. power of attorney in case of absentee parties;
+x. any other material information.
+f. Where the securities registered by the Commission under this part are not offered to
+the public within a period of 6 months after the registration, the Issuer shall revert to
+the Commission for a revalidation of the registration before they are offered to the
+public.
+6. Sponsors without Financial Track Record.
+Where the Sponsor of an SPV has no financial track record, the following shall
+apply:
+21
+I. The offer shall be supported by credit enhancement in the form of guaranty
+by a registered/recognized Guarantor. For the purpose of this rule, the
+guarantor shall be a financial institution or any other entity as may be
+approved by the Commission.
+II. The Guarantor must be AAA rated;
+III. A Guarantee Agreement must be forwarded which shall include amongst
+others:
+a. Details of the nature and extent of the payment obligations of the Special
+Purpose Vehicle (SPV) to be guaranteed by the Guarantor for the benefit
+of the beneficiaries.
+b. The irrevocability and unconditionality of the Guarantee Agreement,
+including a waiver of all defences to a claim.
+c. The mechanics and timelines for the payment of claims under the
+guarantee
+B. Amendment to Rule 39- Annual Report
+C. Amendment to Rule 41- Quarterly Report
+D. Amendment to Part N- Miscellaneous Rules
+E. Amendment to Schedule 1 Part D- SEC Fees on Market Deals
+Details of the amendments are as follows:
+LEGEND: Additions are underlined
+22
+B. Amendment to Rule 39 (7)- Penalty
+Full Text of Existing Rule:
+Any company that fails to file its annual report with the Commission as in (1) above
+shall be liable to a fine of ₦1 million and the sum of ₦25,000.00 for every day the
+default continues.
+Amendment:
+Any public company that fails to file its annual report with the Commission as in
+(1) above comply with any of the provisions of Rule 39 above shall be liable to a
+penalty of not less than ₦1 million and the sum of ₦25,000.00 for every day the
+default continues.
+C. Amendment to Rule 41 (5) - Penalty
+Full Text of Existing Rule:
+Any company which fails to file quarterly report with the Commission shall be liable
+to a fine of N1million and the sum of N25,000 for every day the default continues.
+Amendment:
+Any public company which fails to file quarterly report with the Commission comply
+with any of the provisions of Rule 41 above shall be liable to a fine of ₦1 million
+and the sum of ₦25,000.00 for every day the default continues for each of the
+violation.
+D. Amendment to PART N: MISCELLANEOUS RULES
+Full Text of Existing Rule 602 (Title):
+Attendance at General Meetings of Securities Exchanges/other S.R.Os, public
+companies, collective investment schemes, and court-ordered meetings in mergers
+and take-overs.
+Amendment:
+23
+Attendance at General Meetings of Securities Exchanges/other S.R.Os, public
+companies, collective investment schemes, and court-ordered meetings in mergers
+and take-overs.
+E. Amendment to Schedule 1, Part D: SEC Fees on Market Deals
+Full Text of Existing Rule:
+PART D
+Others
+S.E.C. FEES ON MARKET DEALS
+2. Filing fee for proxy materials N5,000.00
+3. Fees for inspection, copying and certifying
+records kept by S.E.C.:
+(a) Inspection of any document N500.00
+(b) Certification of any document:
+(1) First page N1000.00
+(2) Every subsequent page N100.00
+(c) Photocopying (each page) N100.00
+Amendment:
+PART D
+Others
+OTHER S.E.C. FEES ON MARKET DEALS
+24
+2. Filing fee for proxy materials for general meetings N5,000.00 500,000.00
+3. Fees for inspection, copying and certifying records kept by S.E.C.:
+(a) Inspection of any document ₦1000.00
+(b) Certification of any document:
+(1) First page ₦1000.00
+(2) every subsequent page ₦100.00
+(c) Photocopying (each page) ₦100.00
+F. Amendments to the Rules on Private Equity Funds
+1. Rule 557 — Definition of Terms
+Full Text of Existing Rule:
+In these rules, except otherwise stated, the following terms are defined as follows:
+"Private Equity Funds" means a type of collective investment scheme that invests
+primarily in private equity/unlisted companies, whether or not in an attempt to gain
+control of the company.
+"Qualified Investors" shall have the same meaning as defined in these rules.
+A Private Equity Fund shall be subject to authorization and registration by the
+Commission.
+Amendment:
+25
+In these rules, except otherwise stated, the following terms are defined as follows:
+“P Equity Funds" means a type of collective investment scheme that invests
+primarily in private equity/unlisted companies, whether or not in an attempt to gain
+control of the company, based on a specified investment strategy, and defined
+investment horizon.
+"Qualified Investors" shall have the same meaning as defined in these Rules.
+2. Rule 558 — Applicability
+Full Text of Existing Rule:
+These rules shall apply to all private equity funds with a minimum commitment of ₦1
+billion investors' funds.
+Amendment:
+A Private Equity Fund shall be subject to authorization and registration by the
+Commission.
+Provided that Private Funds with a target fund size of ₦5 billion or less shall not be
+subject to registration but shall file governing documents as provided for under the
+general requirements in these Rules for the purpose of obtaining a "no objection" from
+the Commission prior to commencement of operations raising capital.
+3. Rule 560 — Restrictions
+Full Text of Existing Rule:
+A private equity fund shall not:
+26
+a.
+solicit funds from the general public, but shall privately source funds from qualified
+investors alone;
+b.
+invest more than 30% of the Funds' assets in a single investment.
+Amendment:
+a. A private equity fund shall not solicit funds from the general public, but shall privately
+source funds from qualified investors alone and; investment restrictions shall be
+disclosed in the fund's governing documents.
+Provided that not more than 39% 70% of the Fund's assets shall be invested in a
+single investment;
+b. Where a Private Equity Fund targets pension fund assets, it the Private Equity Fund
+Manager shall at all times maintain a proprietary investment of not less than 3% of
+the fund size in the Fund;
+Provided that where a sovereign wealth fund or any multilateral development
+finance institution is an investor in the Private Equity Fund, the fund manager shall
+maintain a minimum proprietary investment of 1% in the Fund.
+c. The total management fees and expenses of a Private Fund shall not exceed 2% of
+the total sum raised in Nigeria;
+d. The total performance fee of a Private Equity Fund shall not exceed 20% of the total
+sum raised in Nigeria.
+4. Rule 561 — General Requirements
+Full Text of Existing Rule:
+27
+An application for authorization and registration of a private equity fund shall be filed
+along with the information memorandum to be issued to the target investors. The
+information memorandum shall amongst others contain the following information:
+1. the investment policy and objective of the fund;
+2. the industry or geographical focus of the fund;
+3. the fund managers experience in private equity;
+4. the investment criteria for target portfolio companies;
+5. the names and profile of the fund managers principal officers and management
+team;
+6. tax issues;
+7. Material risks of investing in the fund;
+8. a statement of any minimum investment commitment required of an investor;
+9. total capital commitment;
+10. net target investment return;
+11. distribution of proceeds and sharing ratio;
+12. relevant fees and charges connected with investment in the fund;
+13. provision for admission of new and withdrawal of existing investors;
+14. valuation methodology and frequency of valuation;
+15. exit routes from investments;
+16. management participation in the fund;
+17. repayment of capital;
+18. duration of the fund and extension;
+19. prototype agreement between the fund manager and investors;
+20. the establishment of an anti-money laundering program and duty to report
+suspicious activity;
+21. the duties, responsibilities and liabilities of the fund manager;
+28
+22. provision for meetings and voting quorum.
+23. economic development impact.
+24. provision for termination or winding up.
+Amendment:
+An application for authorization and registration of a private equity fund shall be filed
+along with the information memorandum to be issued to the target investors. The
+information memorandum shall amongst others contain the following information:
+1. the investment policy and objective of the fund;
+2. the industry or geographical focus of the fund;
+3. the Fund Manager's experience in private equity;
+4. the investment criteria for target portfolio companies;
+5. the names and profiles of the Fund Manager's principal officers and management
+team;
+6. tax issues;
+7. Material risks of investing in the fund;
+8. a statement of any minimum investment commitment required of an investor;
+9. total capital commitment;
+10. net target investment return;
+11. distribution of proceeds and sharing ratio;
+12. relevant fees and charges connected with investment in the fund.
+13. provision for admission of new and existing investors;
+14. valuation methodology and frequency of valuation;
+15. exit routes from investments;
+16. management participation in the fund.
+17. repayment of capital;
+18. duration of the fund and extension;
+19. prototype agreement between the Fund Manager and investors;
+29
+20. the establishment of an anti-money laundering program and duty to report
+suspicious activity;
+21. the duties, responsibilities and liabilities of the Fund Manager;
+22. provision for meetings and voting quorum.
+23. economic development impact.
+24. provision for termination or winding up.
+25. policy on conflict of interest
+5. Rule 562 — Reporting
+Full Text of Existing Rule:
+1. A private equity fund manager shall submit to the Commission:
+a. Quarterly returns of the fund which shall state amongst others:
+i. The total number of investors in the fund;
+ii. The total commitment received from investors;
+iii. The total commitment already drawn-down;
+iv. The current investments of the fund;
+v. The current value of the assets of the fund.
+b. Annual account/report of the fund.
+2. A private equity fund manager shall issue semi-annual reports to the investors which
+shall contain relevant information including the following:
+a. Details of total commitments;
+b. Draw-down and distributions;
+c. Changes to investment strategy (if any);
+d. Current and new investments;
+e. Detailed realization summary by investments;
+f. Valuation of each investment;
+g. Statement of benefits, fees and net management fee.
+Amendment:
+30
+1. A private equity Fund Manager shall submit to the Commission:
+a. Quarterly returns of the fund which shall state amongst others:
+i. The total number of investors in the Fund;
+ii. The total commitment received from investors;
+iii. The total commitment already drawn-down;
+iv. The current investments of the Fund;
+v. The current value of the assets of the Fund.
+b. Annual account/report of the Fund.
+2. In addition to any reports and information required by the investor, a private equity
+Fund Manager shall issue semi-annual reports to the investors which shall contain
+relevant information including the following:
+a. Details of total commitments;
+b. Draw-downs and distributions;
+c. Changes to investment strategy (if any);
+d. Current and new investments;
+e. Detailed realization summary by investments;
+f. Valuation of each investment;
+g. Statement of benefits, fees and net management fee.
+6. Rule 563 — Valuation
+Full Text of Existing Rule:
+1. A private equity fund investments' shall be valued at fair value, where fair value is
+the amount for which an asset could be exchanged between knowledgeable willing
+parties in an arm's length transaction.
+2. In the absence of an active market for the financial instrument, the valuer shall
+estimate fair value utilizing a disclosed valuation methodology.
+31
+Amendment:
+1. The assets held by a private equity Fund shall be valued "in good faith" by the
+Fund Manager on the basis of appropriate valuation methods based on principles
+approved by the fund's advisory board.
+2. The valuation shall be documented and the supporting data in respect of each
+security so valued shall be preserved at-least for a minimum period of seven (7)
+years after the expiration of the scheme.
+3. The methods used to arrive at the value good faith' shall be reviewed annually by
+the statutory auditor of the Fund.
+4. The valuation policy approved by the board of the Fund Manager shall be disclosed
+in the Fund information document.
+G. Sundry amendments to CIS Rules
+(1) Rule 466. Filing Executed and Registered Trust Deed
+Creation of new sub-rules (4) and (5) as follows:
+(4) A fund manager shall obtain the consent of the trustees and approval of the
+Commission prior to amending a trust deed.
+(5) An executed copy of the amended trust deed shall be submitted to the Commission
+within 7 working days of obtaining approval. Where such amendments require the
+ratification of unitholders, the executed copy of the amended trust deed shall be
+filed with the Commission within 7 working days after of the ratification by
+unitholders provided that the meeting of unitholders shall be convened not later
+than 2 months after the Commission's approval of the amended trust deed.
+(2) Rule 533. Filing Executed and Registered Trust Deed
+Creation of new sub-rules as follows:
+(4) A fund manager shall obtain the approval of the Commission and consent of the
+trustees prior to amending a trust deed.
+32
+(5) An executed copy of the amended trust deed shall be submitted to the Commission
+within 7 working days of obtaining approval. Where such amendments require the
+ratification of unitholders, the executed copy of the amended trust deed shall be filed
+with the Commission within 7 working days after of the ratification by unitholders
+provided that the meeting of unitholders shall be convened not later than 2 months
+after the Commission's approval of the amended trust deed.
+3. Offer Process for Closed-Ended Collective Investment Schemes/450(B)
+Existing Rule:
+B. Executed Offer Documents
+Convening of a completion board meeting for a closed-ended CIS offer shall be optional;
+however, executed Offer documents of a closed-ended CIS offer shall be submitted to
+the Commission within 5 working days of clearance by the Commission.
+Amendment:
+Convening of a completion board meeting for a closed-ended CIS offer shall be optional;
+however, executed Offer documents of a closed-ended CIS offer shall be submitted to
+the Commission within 5 10 working days of clearance by the Commission.
+4. Offer Process for Closed-Ended Collective Investment Schemes/ 450(B)
+D. Opening and Closing of Offer
+Existing Rule
+a) An offer for a closed-ended scheme shall remain open for a period not exceeding 28
+working days.
+Amendment:
+a) An offer for a closed-ended scheme shall remain open for a period not exceeding 28
+working days;
+33
+Provided that this shall not apply to Infrastructure Funds and other Alternative
+Investment Schemes targeted at qualified investors, which shall disclose the
+applicable offer period in their offering document.
+5. Offer Process for Open-Ended Collective Investment Schemes/ 450(C)
+Existing Rule:
+B. Registration Requirements
+(2) The Registration Statement shall be accompanied by the following documents —
+j. Such other relevant documents as may be required from time to time
+Amendment:
+(2) The Registration Statement shall be accompanied by the following documents —
+j. schedule of scheme set-up costs
+k. Such other relevant documents as may be required from time to time
+6. Offer Process for Open-Ended Collective Investment Schemes/ 450(C)
+C. Filing of Executed Scheme Document
+Existing Rule:
+Executed Scheme Documents shall be submitted to the Commission within 3 working
+days of their clearance.
+Amendment:
+Executed Scheme Documents shall be submitted to the Commission within 3 10 working
+days of their approval, before operations and marketing of fund can commence.
+7. Rule on Payment of Administrative Charges for Review of Supplemental
+Amendments to Trust Deeds and Amendments to Sundry Other Agreements,
+and Sundry Filings for CISs/Schedule I, Part D, Others
+34
+(1) Every proposed alteration to any document or other filing submitted with respect to
+the administration of a scheme shall attract the following processing charges:
+NATURE OF ALTERATION CHARGE
+(a) Supplemental trust deed ₦100 000
+(b) Amended and Restated trust deed ₦200 000
+(c) Where (b) above involves the merger of ₦50,000(additional)
+two or more funds
+(d) Amendments to an other ₦100,000
+(e) New agreement/document not previously ₦100,000
+filed during the scheme offer or launch
+(f) Request for legal opinion or advisory Not less than ₦50,000
+clarifications
+(g) Advert materials ₦20,000 (per submission)
+8. General Rules for Collective Investment Schemes (CIS)
+Existing Rule:
+(3) (f) A supplementary shelf prospectus shall—
+(i) state such information as may be specified in these Rules and Regulations on
+contents of prospectus;
+(ii) state the offer period which should not be longer than twenty-eight (28)
+working days from the date of the issue of the Supplementary Prospectus or such
+longer period as may be allowed by the Commission;
+Amendment:
+(3) (f) A supplementary shelf prospectus shall—
+(i) state such information as may be specified in these Rules and Regulations on
+contents of prospectus;
+(ii) state the offer period which should not be longer than twenty-eight (28) working
+days from the date of the issue of the Supplementary Prospectus or such longer
+period as may be allowed by the Commission; Provided that this shall not apply to
+Infrastructure Funds and other Alternative Investment Schemes targeted at qualified
+investors, which shall disclose the applicable offer period in their offering document.
+(iii) disclose for infrastructure funds or other alternative investment schemes targeted
+at qualified investors, that no subsequent series shall be issued until at least 50%
+35
+70% of the proceeds of the previous issuance has been utilized according to the
+investment objective and policy of the fund.
+9. Part C. Securities, Registration Fees for Units/Securities and Others
+Filing fee for application documents of portfolio products, flat rate of ₦I00,000.00
+10. Part D. SEC Fees on Market Deals
+Existing Rule:
+2. Filing fee for proxy materials ₦500,000
+Amendment:
+2. (a) Filing fee for proxy materials (company) ₦500,000
+(b) Fling fee for materials (CIS) ₦50,000
+H. Amendment to Rule 450:
+New Sub-Rule (9) General Rules for CIS
+1. The fund manager of a scheme shall provide every unitholder with an electronic
+investment statement at within two weeks after the end of each month.
+a. The investment statement shall be an unaudited financial summary of the scheme's
+operations comprising abridged and concise statement of comprehensive income,
+statement of financial position, cash flow statement and statement of changes in
+equity of the scheme.
+b. The investment statement shall disclose:
+i. the scheme's yield for the period and a month on month comparison.
+ii. the number of units held by the unitholder and the unit-price as at the date of
+the statement.
+iii. a breakdown of inflows and outflows from the unit-holder's account
+including any accrued or deducted expenses, capital appreciation or
+depreciation and any income accruing to the account of the unitholder.
+36
+2. The fund manager of a scheme shall disclose on its website:
+a. Daily bid and offer prices of each scheme under its management calculated in
+accordance with the Basis of Computation of Bid and Offer Prices for Collective
+Investment Schemes under the rules and regulations.
+b. Details of the schemes under its management including the parties, risk profile and
+tax considerations of each scheme.
+c. Annual total expense ratio of each scheme for the last five accounting years in
+ascending order.
+d. Year on year comparison of each schemers yield for the last five accounting years
+including comparison with the scheme's stated benchmark.
+e. Approved Trust deed including approved supplemental/amendments of each
+scheme.
+f. Rights of the unitholders of each scheme.
+g. Distribution frequency of each scheme and a distribution table of the last 10 years
+showing the distribution reference date, dividend type (interim or final) dividend
+announcement date, dividend record date, dividend ex-date, dividend payment
+date, gross dividend, tax deducted, net dividend and the financial years to which
+the dividends relate to.
+h. Full audited financial accounts of each scheme for the last five years.
+i. The SEC approved initial full SEC approved prospectus and/or the updated
+prospectus of each scheme.
+Subject to the prior approval of the Commission, a fund manager shall issue a 3-page
+updated prospectus on an annual basis disclosing the information to be contained in
+a prospectus including the scheme's 1, 5 and 10-year total return performance
+compared to the scheme's benchmark with a disclaimer that past performance is not
+an indication of future performance.
+j. Any approvals obtained from the Commission affecting a scheme's operations
+including changes to any party to the scheme.
+37
+

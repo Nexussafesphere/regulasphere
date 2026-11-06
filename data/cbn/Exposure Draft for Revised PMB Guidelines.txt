@@ -1,0 +1,1279 @@
+
+CENTRAL BANK OF NIGERIA
+DRAFT GUIDELINES
+FOR THE LICENSING AND REGULATION
+OF
+PRIMARY MORTGAGE BANKS
+IN NIGERIA
+APRIL 2019
+CONTENTS
+CHAPTER 1 .............................................................................................................................. 5
+PRIMARY MORTGAGE BANKING OPERATIONS ............................................................ 5
+1.1 PRIMARY MORTGAGE BANKING BUSINESS .................................................... 5
+1.2 PERMISSIBLE ACTIVITIES ..................................................................................... 5
+1.3 NON-PERMISSIBLE ACTIVITIES .......................................................................... 5
+CHAPTER 2 .............................................................................................................................. 7
+APPLICATION FOR LICENCE ............................................................................................. 7
+2.1 CATEGORIES OF PRIMARY MORTGAGE BANKS ............................................ 7
+2.2 REQUIREMENTS FOR AN APPROVAL-IN-PRINCIPLE: ..................................... 7
+2.3 GENERAL CONDITIONS FOR GRANTING A FINAL LICENCE ......................... 9
+2.4 CONDITIONS PRECEDENT TO COMMENCEMENT OF OPERATIONS ......... 10
+2.5 FINANCIAL REQUIREMENTS............................................................................... 11
+2.6 GOVERNANCE REQUIREMENTS ........................................................................ 11
+CHAPTER 3 ............................................................................................................................ 13
+SOURCES OF FUNDS ........................................................................................................ 13
+CHAPTER 4 ............................................................................................................................ 14
+STATUTORY RETURNS, DISCLOSURE REQUIREMENTS AND COMPLIANCE ............... 14
+4.1 RENDITION OF RETURNS .................................................................................. 14
+4.2 DEADLINE FOR SUBMISSION OF RETURNS ..................................................... 14
+4.3 DOMESTIC REPORT & AUDIT OPINION ON GOING-CONCERN ................ 15
+4.4 PUBLICATION OF AUDITED FINANCIAL STATEMENTS .................................. 15
+4.5 REPORT ON INTERNAL CONTROL ................................................................... 16
+4.6 REPORTING REQUIREMENTS ............................................................................ 16
+4.7. DISCLOSURE ...................................................................................................... 16
+4.8 KNOW YOUR CUSTOMER ................................................................................ 17
+4.9 COMPLIANCE WITH EXAMINERS’ RECOMMENDATIONS ........................... 17
+CHAPTER 5 ............................................................................................................................ 18
+PRUDENTIAL REQUIREMENTS .......................................................................................... 18
+5.1 OPERATING RATIOS ......................................................................................... 18
+5.2 PROVISIONING FOR NON-PERFORMING CREDITS ...................................... 20
+5.3 OTHER KNOWN LOSSES (OKL) ........................................................................ 22
+5.4 MAINTENANCE OF STATUTORY RESERVES .................................................... 22
+2
+CHAPTER 6 ............................................................................................................................ 24
+REGULATORY APPROVALS ............................................................................................. 24
+6.1 APPOINTMENT OF DIRECTORS AND MANAGEMENT STAFF ....................... 24
+6.2 QUALIFICATION AND TENURE OF BOARD AND MANAGEMENT .......... 25
+6.3 DISQUALIFICATION OF DIRECTORS AND OFFICERS ................................... 26
+6.4 APPOINTMENT OF EXTERNAL AUDITORS ....................................................... 27
+6.5 BRANCH EXPANSION, RELOCATION/CLOSURE .......................................... 29
+6.6 ACCESS TO THE NATIONAL HOUSING FUND [NHF] .................................... 30
+6.7 CHANGES IN THE OWNERSHIP STRUCTURE ................................................... 31
+CHAPTER 7 ............................................................................................................................ 32
+COMPLIANCE WITH LAWS, RULES AND REGULATIONS .............................................. 32
+7.1 COMPLIANCE ................................................................................................... 32
+7.2 PROHIBITIONS ................................................................................................... 32
+7.3 PENALTIES FOR VARIOUS OFFENCES ............................................................. 33
+CHAPTER 8 ............................................................................................................................ 38
+GENERAL ........................................................................................................................... 38
+ANNEXURE 1 ........................................................................................................................ 39
+QUESTIONNAIRE FOR MAJOR SHAREHOLDERS AND APPOINTEES TO BOARD AND
+MANAGEMENT POSITION IN BANKS AND OTHER FINANCIAL INSTITUTIONS IN
+NIGERIA ............................................................................................................................ 39
+A. BIODATA ............................................................................................................ 39
+B. COMPETENCE AND CAPABILITY ........................................................................ 39
+C. HONESTY, INTEGRITY, AND REPUTATION ...................................................... 39
+D. FINANCIAL SOUNDNESS AND/OR SOLVENCY ................................................ 46
+E. MISCELLANEOUS .................................................................................................. 46
+ANNEXURE 2 ........................................................................................................................ 48
+MONTHLY RETURNS ......................................................................................................... 48
+3
+These revised guidelines are issued by the Central
+Bank of Nigeria [hereinafter referred to as “the
+CBN” or “the Bank”] in exercise of the powers
+conferred on it by the Central Bank of Nigeria Act
+CAP C4 LFN 2010 and the Banks and Other
+Financial Institutions Act CAP B3 LFN 2010
+[hereinafter referred to as “BOFIA”].
+4
+CHAPTER 1
+PRIMARY MORTGAGE BANKING OPERATIONS
+1.1 PRIMARY MORTGAGE BANKING BUSINESS
+A Primary Mortgage Bank [PMB] shall be construed as any company
+that is licensed to carry out primary mortgage banking business in
+Nigeria. Primary Mortgage Banking Business in Nigeria entails
+granting loans directly to customers to purchase, renovate or build
+residential or commercial real estate.
+1.2 PERMISSIBLE ACTIVITIES
+Primary mortgage banks are permitted to engage in the following
+businesses from or within any part of the federation:
+a) Mortgage finance;
+b) Real estate construction finance within the permitted limits;
+c) Acceptance of savings, demand and time/term deposits;
+d) Drawing from mortgage funds (e.g. National Housing Fund
+and/or other related mortgage endowments) for on-lending;
+e) Financial advisory services for mortgage customers;
+f) Granting Mortgage/housing related Consumer loans. These are
+enhancements to residential mortgages which shall be limited to
+furniture, home appliances and generators subject to a
+maximum of 10% of total loans;
+g) Financing of rent-to-own properties;
+h) Home improvement loans;
+i) Incremental housing finance; and
+j) Other activities the CBN may approve from time to time.
+1.3 NON-PERMISSIBLE ACTIVITIES
+Primary mortgage banks shall NOT engage in the following activities:
+a) Grant consumer or commercial loans other than as stated in
+Section 1.2 (f);
+b) Foreign currency denominated mortgage loans to customers;
+c) Leasing;
+d) Estate agency or facilities/project management;
+5
+e) Real estate development;
+f) All other businesses NOT expressly permitted by these guidelines;
+and
+g) Other activities that the CBN may classify as non-permissible from
+time to time.
+6
+CHAPTER 2
+APPLICATION FOR LICENCE
+2.1 CATEGORIES OF PRIMARY MORTGAGE BANKS
+There shall be two (2) categories of PMBs:
+A) State Primary Mortgage Banks (Regional PMBs)
+A State PMB is authorized to operate in one State or the Federal
+Capital Territory (FCT).
+B) National Primary Mortgage Banks (National PMBs)
+A National PMB shall be permitted to carry on its business operations in
+more than one (1) state including the FCT.
+2.2 REQUIREMENTS FOR AN APPROVAL-IN-PRINCIPLE:
+Any person seeking a licence for the operation of a primary
+mortgage bank in Nigeria shall apply in writing to the Governor of
+the Central Bank of Nigeria. The application shall be accompanied
+with the following:
+a) A non-refundable application fee of N1,000,000.00 [One Million
+Naira only] or any other amount that may be determined by the
+Bank from time to time, in bank draft, payable to the Central Bank
+of Nigeria.
+b) A detailed feasibility report containing information that will include:
+i) The objectives and aims of the proposed mortgage bank
+(including a vision & mission statement);
+ii) The need for the services of the mortgage bank;
+iii) The branch expansion program [if any] within the first 5
+years;
+iv) The proposed training programme for staff and
+management succession plan;
+v) A five-year financial projection for the operation of the
+mortgage bank indicating expected growth and profitability;
+vi) Details of the assumptions which form the basis of the
+7
+financial projections;
+vii) The organizational structure of the mortgage bank indicating
+the functions and responsibilities of the top management
+team;
+viii) The composition of the Board of Directors and the
+curriculum vitae of each member including other directorships
+held [if any];
+ix) The conclusions based on the assumptions made in the
+feasibility report.
+c) A copy of the draft Memorandum and Articles of Association;
+d) A list (in tabular form) showing the names of the promoters,
+amounts subscribed, details of the payment instrument (bank
+name and cheque number), their business and residential
+addresses and the names and addresses of their bankers;
+e) Evidence of escrowing the minimum capital deposit into CBN
+account via NIBSS. The minimum capital deposit will be refunded
+with interest after the proposed bank obtains its final licence;
+f) A draft detailed manual of operations;
+g) verifiable evidence of payment of capital contribution by each of
+the subscribers to the shares of the proposed bank, including
+statement of the bank account from which the capital
+contribution by the subscriber was paid, covering a period of nine
+(9) months (6 months before and 3 months after the transaction
+date of the capital contribution).
+h) Valid means of identification of the proposed directors;
+i) Bank Verification Numbers (BVN) of the proposed directors;
+j) Two (2) Credit Bureau reports in respect of each of the
+promoters/directors; and
+k) Tax clearance certificates of each of the promoters/directors for
+the immediate past three (3) years.
+The application will be subjected to an appraisal which may lead to
+8
+an Approval-in-Principle (AIP), if successful. The AIP will state
+conditions to be complied with for the grant of a final licence. The
+CBN shall communicate the status of the application to the applicant
+not later than 90 days of receipt of the application.
+No proposed mortgage bank shall incorporate/register its name with
+the Corporate Affairs Commission (CAC) until an Approval-in-
+Principle (AIP) has been obtained from the CBN, a copy of which shall
+be presented to the Corporate Affairs Commission.
+After incorporation and opening of a corporate account, the
+proposed PMB may apply for and be paid 20% of its capital deposit
+to enable it meets its pre- operational expenses.
+2.3 GENERAL CONDITIONS FOR GRANTING A FINAL LICENCE
+a) The promoters of a proposed PMB shall submit the following
+documents to the CBN before such company is considered for the
+grant of a final licence and thereafter, permitted to commence
+operations.
+(i) A Copy of the shareholders' register in which the equity interest
+of each shareholder is properly reflected [together with the
+original for sighting];
+(ii) A copy of the share certificate issued to each shareholder.
+(iii) A Certified true copies of Form CAC2 (Statement of Share
+Capital and Return of Allotment), Form CAC3 (Notice of
+Situation/Change of Registered Address) and Form CAC7
+(Particulars of Persons who are first Directors of the Company);
+(iv) An undertaking stating that:
+ The Board of Directors approved by the CBN has been
+constituted.
+ It shall not engage in capital reduction.
+ Quorum for its Board meetings shall be 2/3 of members.
+ It shall not change the Board composition, external auditor or
+engage a management staff without the prior written
+approval of the CBN.
+ Its directors shall comply with the Code of Conduct for
+9
+Directors of Other Financial Institutions in Nigeria.
+ It shall put in place and implement a contingency funding
+plan after the commencement of operations
+(v) A certified true copy (CTC) of the Memorandum and Articles
+of Association filed with the Corporate Affairs Commission.
+(vi) A CTC of the certificate of incorporation of the company
+[together with the original for sighting purposes only].
+(vii) A list of the proposed management team, attaching the
+personally signed and dated curriculum vitae (CV) of each
+person.
+(viii) The proposed firm of external auditors, attaching a profile of
+the firm.
+(ix) Evidence of acquisition of a conducive and well equipped office
+space, which shall be subject to CBN inspection prior to
+recommendation for final licence.
+(x) Evidence of membership of Mortgage Banking Association of
+Nigeria (MBAN).
+(xi) Technical service agreement or a written declaration that it is not
+applicable to the proposed PMB, if it is not.
+(xii) Tax Identification Number (TIN) of the proposed bank.
+(xiii) Evidence of registration with at least two (2) credit bureaux
+2.4 CONDITIONS PRECEDENT TO COMMENCEMENT OF OPERATIONS
+Where the company has been granted a final licence for mortgage
+banking operations, it will submit the following documents prior to
+commencement of business:
+(i) An application for the refund of the balance of its capital deposit
+(where it had received a percentage of the capital deposit post AIP
+or full sum with accrued interest where it had not), giving its bank
+details such as account name, account number, sort code and
+branch address.
+10
+(i) A copy of the letters of offer and acceptance of employment
+by management staff and a written confirmation that the
+management team approved by the CBN had been installed.
+(ii) The opening statement of affairs audited by an approved firm of
+chartered accountants.
+(iii) A letter to the CBN, stating the proposed date of commencement
+of business.
+CAVEAT
+a) The CBN may at any time vary or review any condition of a licence
+or impose additional conditions.
+b) Where a licence is granted subject to certain conditions, the PMB
+shall comply with those conditions to the satisfaction of the CBN
+within such period as may be deemed appropriate in the
+circumstances. Any PMB that fails to comply with such conditions
+shall be guilty of an offence under BOFIA.
+2.5 FINANCIAL REQUIREMENTS
+The financial requirements which may be varied as the CBN considers
+necessary, are as follows:
+Minimum capital (National PMB) - N8,000,000,000.00
+Minimum capital (Regional PMB) - N5,000,000,000.00
+Non-refundable application fee - N1,000,000.00
+Non-refundable licensing fee - N2,000,000.00
+Change of name fee - N100,000.00
+2.6 GOVERNANCE REQUIREMENTS
+a) The number of directors on the board of a Mortgage Bank shall be a
+minimum of seven [7] and a maximum of twelve [12]. The non-
+executive members shall outnumber the executive directors at any
+point in time.
+b) For non-Nigerian directors, a certificate/statement of good conduct
+from the Police Service (or other appropriate authority) in country of
+domicile shall accompany the resume, completed Approved Persons
+Questionnaire and copies of academic and professional qualification
+11
+certificates.
+c) For resident non-Nigerian directors, reference shall be made to his
+employer, university, and legal permit to reside and work in Nigeria. This
+is in addition to a certified true copy of the director’s passport,
+completed Approved Persons Questionnaire and copies of academic
+and professional qualification certificates.
+d) All directors and top management staff of PMIs shall comply with the
+requirements of the relevant governance codes, Approved Persons
+Guidelines and related regulations issued by the CBN from time to time.
+NOTE: The attached Approved Persons Regime' Questionnaire
+(annexure 1) shall be filled and attached to the document of each
+significant shareholder (holding at least 5% of the bank's equity),
+proposed director and management staff's signed curriculum vitae (CV).
+12
+CHAPTER 3
+SOURCES OF FUNDS
+The sources of funds of a PMB shall consist of the following:
+a) Equity paid-up share capital and reserves.
+b) Debenture/other loans.
+c) Funds from NHF and other on-lending facilities.
+d) Savings, time/term and demand deposits.
+e) Any other source(s) as may be approved by the CBN.
+13
+CHAPTER 4
+STATUTORY RETURNS, DISCLOSURE REQUIREMENTS AND COMPLIANCE
+4.1 RENDITION OF RETURNS
+In compliance with the provisions of Section 25 of BOFIA, the following
+returns are to be submitted to the Bank by every PMB:
+(i) Monthly Returns and attached schedules (see annexure 2):
+Monthly returns shall be submitted through electronic channel(s) as
+may be prescribed by the CBN from time to time.
+(ii) Anti-Money Laundering/Combating the Financing of Terrorism
+Returns: An AML/CFT return shall be made monthly to the Head,
+Nigeria Financial Intelligence Unit (NFIU) and CBN in line with the
+frequency specified in the AML/CFT Prohibition Act and CBN
+AML/CFT regulations. Where there are no qualifying transactions, a
+NIL return must be filed.
+(iii) Monthly returns on consumer complaints, to the Director, Consumer
+Protection Department, CBN.
+(iv)Half yearly mortgage lending returns, to the Director, Other
+Financial Institutions Supervision Department, CBN.
+(v) Daily report on loans and advances, which should be reported to
+the CRMS before disbursement to beneficiaries.
+(vi)Monthly upload on the status of all loans and advances, to at least
+two Credit Bureaux.
+4.2 DEADLINE FOR SUBMISSION OF RETURNS
+Every Mortgage bank shall submit the required returns to the Bank
+within the period specified as follows:
+a. In accordance with the provisions of the Money Laundering
+Prohibition Act and CBN’s AML/CFT Regulation.
+14
+b. Half yearly mortgage lending returns not later than twenty eight
+(28) days after the end of each half-year.
+c. Monthly returns, not later than fourteen [14] days after the end of
+each month.
+4.3 DOMESTIC REPORT & AUDIT OPINION ON GOING-CONCERN
+Section 29(8) of BOFIA requires the approved auditor to forward to the
+Bank, a copy of the domestic report [management letter] on the PMB's
+activities, not later than 3 months after the end of the PMB's financial
+year.
+Every audited financial statement of a mortgage bank shall contain
+opinion on the ability of such an institution to continue into the
+foreseeable future as required by the International Auditing Guidelines
+No. 23 on going-concern.
+Any auditor that fails to comply with the requirement of this section
+shall be sanctioned by the Bank.
+4.4 PUBLICATION OF AUDITED FINANCIAL STATEMENTS
+In accordance with the provisions of Section 27(1) of BOFIA, as
+amended;
+a) Every PMB shall submit its audited financial statements and the
+abridged version of the accounts to the Director, Other Financial
+Institutions Supervision Department for a statement of no objection
+before publication.
+b) A PMB shall, subject to a no objection from the CBN, not later than 4
+months after the end of its financial year:
+(i) Publish the abridged version of its approved financial
+statements in at least two daily newspapers printed in and
+circulating in Nigeria; and
+(ii) Exhibit same in a conspicuous position in each of its offices
+and branches in Nigeria.
+15
+c) Every published account of a PMB shall disclose in details,
+penalties paid as a result of contravention of the provisions of
+BOFIA, and provisions of other extant policies/guidelines. The
+auditor's report shall also reflect such contravention(s).
+d) Copies of the newspapers in which the approved account is
+published shall be forwarded to the Central Bank of Nigeria.
+e) Every audited financial statement must bear the auditors'
+signature, seal and certification stamp.
+f) The financial statements must be accompanied with:
+(i) Copies of all relevant certificates of deposit, placement and
+sums on call from the respective correspondent banks; and
+(ii) A breakdown of quoted investment (if any), showing name
+of company, number of units and historical cost of investment.
+4.5 REPORT ON INTERNAL CONTROL
+a) The bank must as part of its audited financial statements include
+a statement on the effectiveness of the internal controls signed
+off by the Board of Directors.
+b) The internal control framework adopted by the bank should be
+developed in line with the Committee of Sponsoring Organizations
+of the Treadway Commission Framework (COSO), 2004, and should
+comprise the following areas of Internal control; control
+environment, risk assessment, control activities, information and
+communication and monitoring.
+4.6 REPORTING REQUIREMENTS
+All PMBs must publish financial reports in line with the International
+Financial Reporting Standards (IFRS).
+4.7. DISCLOSURE
+a) Every PMBs must develop, implement and submit evidence
+of implementation of an internal control framework (this should
+16
+be clearly ascertainable from its manual of operations).
+b) A PMB shall make a declaration on the risks faced by the entity
+and the controls implemented to mitigate the identified risks as part
+of its directors' report.
+4.8 KNOW YOUR CUSTOMER
+The entity must evidence the existence and implementation of policies
+on Know Your Customer (KYC) requirements which the financial
+institution performs in identifying its clients and other relevant
+information on their business relationship.
+4.9 COMPLIANCE WITH EXAMINERS’ RECOMMENDATIONS
+a) All PMBs are required to comply with the recommendations and
+directives contained in examination reports conducted by the
+CBN/NDIC.
+b) All PMBs are required to convene a meeting of the Board of Directors
+within 2 weeks after the receipt of CBN/NDIC examination reports,
+where the management of the PMB shall present the examination
+report.
+c) The Board shall, not later than two weeks after the presentation of the
+examination report, communicate its response to the CBN/NDIC.
+17
+CHAPTER 5
+PRUDENTIAL REQUIREMENTS
+5.1 OPERATING RATIOS
+Every PMB shall comply with the following prudential requirements:
+a. Cash Reserve Ratio [CRR]: A minimum cash reserve ratio of two percent
+[2%] of adjusted deposit liabilities1 shall be in its reserve account with
+the CBN.
+b. Liquidity Ratio: A minimum ratio of twenty percent [20%] on specified
+liquid assets against deposit liabilities. Specified liquid assets shall
+include treasury bills, fund placements, money at call and short-term
+investments with not more than 90 days maturity.
+c. Capital Adequacy Ratio [CAR]: A minimum capital adequacy ratio of
+ten percent [10%] against risk assets.
+d. Mortgage Assets to Total Assets Ratio: A minimum of sixty percent [60%]
+of mortgage assets to total assets.
+e. Mortgage Assets to Loanable Funds2 Ratio: A minimum of 70% of
+loanable funds should be used in the creation of mortgage assets. For
+the avoidance of doubt, loanable funds shall be construed as the
+amount of total deposit plus funds from NHF and other on-lending
+facilities less cash reserve and liquidity ratios of a Primary Mortgage
+Bank.
+f. Real Estate Construction Finance to loanable funds: A maximum of
+thirty percent [30%] of real estate construction finance to loanable
+funds.
+g. Fixed Assets/Long-term Investments and Branch Expansion: No PMB
+shall be allowed to finance any of the following other than from
+shareholders' funds unimpaired by losses:
+(i) acquisition of fixed assets;
+1 Total deposits plus deposits in suspense and dormant accounts
+2 Loanable funds = total deposits plus sums received from FMBN/NHF for on-lending.
+18
+(ii) equity investments and investment in long-term debentures;
+(iii) Branch expansion: In consideration of request for any or a
+combination of the above options, reference shall be made to the
+aggregate value of the listed items against the shareholders' funds
+unimpaired by losses.
+(iv) For the avoidance of doubt, the eligible shareholders' funds shall
+be derived only from the most recent audited financial statement
+approved by the Bank.
+h. Maximum equity Investment Holding Ratio: No Mortgage Bank shall
+invest more than ten percent [10%] of its shareholders' funds
+unimpaired by losses in the equity of any venture or undertakings
+without the prior approval of the Bank.
+i. Minimum mortgage assets in residential mortgage: No mortgage bank
+shall invest less than 75% of its mortgage assets in residential
+mortgages.
+j. Capital Funds to Net Credit Ratio: Every Mortgage Bank shall maintain
+at all times a minimum ratio of 1:10 between its shareholders' funds
+unimpaired by losses and net credits.
+k. Maximum Exposure to a Single Borrower [Single Obligor Limit]: No
+Mortgage Bank shall grant credit which in aggregate value is more
+than five percent [5%] in the case of an individual and twenty percent
+(20%), in the case of a corporate body, of its shareholders' funds
+unimpaired by losses to a single borrower. For avoidance of doubt, the
+credit as applicable to this section shall include any advance, loan,
+financial guarantee, credit facility or any other liability; and for the
+purpose of this section, all advances, loans or credit facilities extended
+to any person shall be aggregated in the determination of the
+specified limit and shall include all credits extended to any subsidiaries
+or associates of a body corporate.
+l. Non-performing loans to total loans ratio: No PMB shall permit the non-
+performing loans in its portfolio to exceed 10% of total loans and
+advances. Once this ceiling is breached, the PMB must suspend
+granting new loans and advances until it has made such recoveries as
+would keep this ratio within the permissible range.
+m. Maximum loan to value ratio: 80%. The equity contribution of the
+19
+borrower must not fall below 20%.
+Any director or manager of a PMB who, during his or her tenure, fails to
+ensure compliance with the prudential requirements for a period of six
+consecutive months without satisfactory explanation and evidence of
+efforts being made to address the contravention shall be appropriately
+sanctioned in line with extant regulation.
+The Bank shall however, inform in writing the Board of every PMB of the
+observed prudential deficiency and shall request it to forward its
+corrective action plan.
+5.2 PROVISIONING FOR NON-PERFORMING CREDITS
+In line with the approved prudential requirements for banks and other
+financial institutions (which took effect on July 1, 2010), the nature and
+tenor of specialized loans shall be key factors in providing for non-
+performing facilities. To this end, the loans of a PMB may be categorized
+into three (3) namely; Mortgage loans, commercial real estate
+financing and other loans.
+a. Mortgage Loans. (Annexure 6 of the prudential requirements)
+Category Classification Days past due Treatment of Income % of Provision
+1 Watch list Where mark-up/ Unrealized mark-up/ 1% of total
+interest or principal is interest to be put in outstanding
+overdue (past due) Suspense Account principal balance
+by more than 90 and not to be
+days from the due credited to Income
+date Account except when
+realized in cash.
+1A Substandard Where mark-up/ As above 10% of total
+interest or principal is outstanding
+overdue (past due) principal balance
+by more than 180
+days from the due
+date
+2 Doubtful Where mark-up/ As above Unprovided
+interest or principal is balance should
+overdue (past due) not exceed 50% of
+by more than 1 year the estimated net
+20
+from the due date realizable value of
+the security3
+3 Lost Where mark-up/ As above 100% of total
+interest or principal principal
+is overdue (past outstanding
+due) by more than balance
+2 years from the
+due date
+b. Commercial Real Estate Financing
+Category Classification Days past due Treatment of Income % of Provision
+Watch list Where the amount Unrealized mark-up/ 1% of total
+1 recovered during a interest to be put in outstanding
+period is between Suspense Account principal
+60% and 75% of the and not to be balance.
+amount due and/ or credited to Income
+any installment Account except when
+thereof is overdue by realized in cash.
+more than 180 days.
+Substandard Where the amount As above 25% of total
+1A recovered during a outstanding
+period is less than principal
+60% of the amount balance.
+due and/or any
+installment thereof is
+overdue by 180 days
+to 1 year.
+Doubtful Where the amount As above
+2 recovered during a 50% of total
+period is less than outstanding
+60% of the amount principal
+due and/or any balance.
+installment thereof is
+overdue by 1 year to
+2 years.
+Very Doubtful Where the amount As above 75% of total
+3 recovered during a outstanding
+period is less than principal
+60% of the amount balance
+due and/or any
+3 Determine the net realizable value of collateral as objectively as possible, divide this value
+by two and net off earlier provisions on the same loan. Unprovided balance should then be
+< 50%.
+21
+installment thereof is
+overdue by 2 years
+to 3 years.
+Lost Where the amount As above 100% of total
+4 recovered during a outstanding
+period is less than principal
+60% of the amount balance
+due and/or any
+installment thereof is
+overdue by more
+than 3 years.
+c. Other Loans (all loans that are neither mortgage nor commercial real
+estate loans but which are permissible under section 1.2. The provisions
+for loans that meet this criteria shall remain as follows:
+Category Classification Days past due Treatment of Income % of Provision
+1 Sub-standard 91 – 180 days Unrealized mark-up/ 10% on total
+interest to be put in outstanding
+Suspense Account principal.
+and not to be
+credited to Income
+Account except
+when realized in cash.
+2 Doubtful 181 – 360 days As above 50% on total
+outstanding
+principal.
+3 Lost Above 360 days As above 100% of total
+outstanding
+principal.
+NB: Performing loans would still attract 1% general provision
+5.3 OTHER KNOWN LOSSES (OKL)
+All assets for which the net realizable value has fallen below the
+historical cost shall have the difference in value recognized and
+charged to the income account as “other known losses”.
+5.4 MAINTENANCE OF STATUTORY RESERVES
+Every PMB shall maintain a reserve fund and shall out of its net profit
+after taxation and before any dividend is declared, transfer to the
+22
+statutory reserves as follows:
+a) Where the reserve fund is less than the paid-up share capital, a
+minimum of 20% of the net profit; or
+b) Where the reserve fund is equal to or in excess of the paid-up
+share capital, a minimum of 10% of net profit;
+c) No transfer to the reserve fund shall be made until all identifiable
+losses have been made good.
+23
+CHAPTER 6
+REGULATORY APPROVALS
+6.1 APPOINTMENT OF DIRECTORS AND MANAGEMENT STAFF
+Every appointment of a director and management staff by the bank
+shall require the prior written approval of the Bank.
+For this purpose:
+a) In the case of director[s] the following documents shall be
+submitted to the Bank:
+(i) A copy of the resolution of an Annual General Meeting
+[AGM] or an Extra-Ordinary General Meeting [EGM] in the
+case of a reconstitution of the board of directors of a PMB;
+(ii) A copy of the resolution of the Board of Directors of such
+mortgage bank in case of filling any vacancy, due to
+retirement, resignation or death;
+(iii) A copy of a detailed curriculum vitae of the proposed
+director which shall contain career history to date and any
+other directorship appointments;
+(iv) A completed copy of the Approved Persons Regime
+Questionnaire (see Annexure 1).
+After obtaining the approval of the Bank, the mortgage bank
+shall forward the following documents:
+(v) A certified true copy of form CAC7A [Notice of Change of
+Directors, or in the name, residential address or postal address
+of Director] reflecting the change in Board
+composition.
+(vi) A duly completed Director’s Code of Conduct Form
+obtained from the Bank.
+b) In the case of a management staff, the mortgage bank shall
+24
+submit the following documents to the Bank:
+(i) A copy of the operating organizational structure
+approved by the Bank;
+(ii) A copy of the Board resolution signed by a director and the
+Company Secretary in support of the appointment;
+(iii) A copy of the detailed curriculum vitae of the appointee
+showing educational attainments and career history;
+(iv)A completed copy of the Approved Persons Regime
+Questionnaire (see Annexure 1).
+Any PMB that contravenes the requirement of this Section shall be
+subject to the sanction prescribed by the Bank.
+6.2 QUALIFICATION AND TENURE OF BOARD AND MANAGEMENT
+a. The following minimum qualifications and experience are mandatory
+for officers who may occupy the key/top management positions in a
+PMB.
+i) Managing Director/Chief Executive - a recognized University
+Degree, its equivalent or Professional qualification with at least 10
+years post qualification experience in banking, finance or other
+related fields.
+ii) Departmental Head - a recognized University Degree, its
+equivalent or Professional qualification with at least 7 years post
+qualification experience in banking, finance or other related
+fields.
+iii) Any person with any other qualifications or experience that may
+be considered adequate by the CBN can hold any of positions [i]
+and [ii] within the institution.
+iv) Every PMB shall be required to obtain a CBN approval in writing for
+its organizational structure and top management team.
+25
+b. Managing Director/Executive Director of a PMB shall hold office for a
+fixed term of not more than 5 years and such term may be renewed
+only once, while non-executive directors shall serve for a fixed term of
+not more than 4 years and such term may be renewed only thrice. For
+avoidance of doubt, the maximum tenure of a managing director/
+executive director shall not exceed a total of 10 years while a non-
+executive director shall serve for periods not exceeding 12 years in
+total.
+6.3 DISQUALIFICATION OF DIRECTORS AND OFFICERS
+a. Every PMB shall, before appointing any director or chief executive,
+seek and obtain the Bank’s written approval for the proposed
+appointment.
+b. No person shall be appointed or shall remain a director, secretary or
+an officer of a bank who:
+i) Is of unsound mind or as a result of ill health is incapable of
+carrying out his duties; or
+ii) Is declared bankrupt or suspends payments or compounds
+with his creditors including his bankers; or
+iii) Is convicted of any offence involving dishonesty or fraud; or
+iv) Is guilty of serious misconduct in relation to his duties; or
+v) In the case of a person possessed of professional
+qualification, is disqualified or suspended (otherwise than of
+his own request) from practicing his profession in Nigeria by
+the order of any competent authority made in respect of him
+personally.
+c. No person who has been a director of or directly concerned in the
+management of a PMB which has been wound up by the Federal
+High Court shall, without the express authority of the Governor, act
+or continue to act as a director of, or be directly concerned in the
+management of any other bank.
+d. Any person whose appointment with a PMB has been terminated or
+who has been dismissed for reasons of fraud, dishonesty or
+26
+conviction for an offence involving dishonesty or fraud shall not be
+employed by any PMB in Nigeria.
+e. Any bank which knowingly acts in contravention of subsection (1),
+(2), 45 (3) or (4) of BOFIA is guilty of an offence and liable on
+conviction to a fine of N100,000.
+f. No person who has been a director, or has been directly involved in
+the management of a failed licensed mortgage Bank, finance
+company, discount house, deposit money bank or any other
+financial institution shall, without the written authority of the
+Governor of Central Bank of Nigeria, act or continue to act as a
+director or be indirectly involved in the management of any
+licensed Mortgage Bank.
+6.4 APPOINTMENT OF EXTERNAL AUDITORS
+a) Every PMB shall appoint an “approved Auditor” for the duties and under
+the conditions specified hereunder.
+b) The duties of the approved Auditor shall include the issuance of a
+report to the shareholders on the financial statements of a mortgage
+bank and such report shall contain statements as to the matters and
+such other information that may be prescribed from time to time by
+the Bank.
+c) The report of the approved Auditor shall be read together with the
+report of the directors at the annual general meeting of the
+shareholders of the mortgage bank.
+d) Auditors of the PMB shall be subject to tenure rules and limits as
+stipulated by the CBN.
+e) The approved auditor shall be an auditor who satisfies the following
+requirements:
+(i) membership of a recognized professional accountancy body in
+Nigeria;
+(ii) approved by the Central Bank of Nigeria;
+27
+(iii) resident in Nigeria;
+(iv)carrying on in Nigeria, a professional practice as an
+accountant and/or auditor.
+f) No person shall be appointed as the auditor of a mortgage bank if:
+(i) He has any interest in that bank otherwise than as a depositor;
+(ii) He is a director, officer or agent of such bank;
+(iii) His firm is one in which a director of the mortgage bank has
+any interest as partner or director;
+(iv) He is indebted to the mortgage bank.
+g) Any auditor who, after appointment, is subsequently affected by
+Section f (i-iv) above shall immediately cease to continue as an
+auditor of the mortgage bank.
+h) If an approved auditor, in the course of his duties as an auditor of a
+mortgage bank, is satisfied that:
+(i) there has been a contravention of BOFIA or that an offence under
+any other law, regulations or guidelines has been committed by
+the mortgage bank or any of its officers; or
+(ii) Losses have been incurred by the mortgage bank which
+substantially reduce its capital funds; or
+(iii) Any irregularity which jeopardizes the interest of depositors or
+creditors of the mortgage institution or any other irregularity has
+occurred; or
+(iv)He is unable to confirm that the claims of depositors or creditors
+are covered by the assets of the mortgage institution;
+He shall immediately report the matter to the Central Bank of
+Nigeria.
+i) The approved auditor shall also forward to the CBN, a copy of his
+domestic report on the activities of the mortgage bank not later than
+28
+three [3] months after the end of the financial year of such mortgage
+bank.
+j) The approved auditor shall have the right of access at all times to all
+books, accounts and vouchers of the mortgage bank and shall be
+entitled to require from the directors, managers and officers of the
+mortgage bank all information and explanations that he considers
+necessary for the performance of his audit.
+k) If any mortgage bank fails to appoint or fill a vacancy for an
+approved auditor, the CBN shall appoint a suitable person for that
+purpose and shall fix the remuneration to be paid by the PMB to such
+auditor.
+l) The appointment of an approved auditor shall not be
+determined without a prior written approval of CBN.
+m) Any approved auditor who acts in contravention of the
+foregoing requirements or fails deliberately or negligently to comply
+with the requirements of this section shall be liable to a fine of a
+maximum of N500,000 or a determination of his status as an approved
+auditor to all financial institutions under the supervisory purview of the
+CBN.
+n) An approved auditor shall hold office for a continuous period not
+exceeding 10 years.
+6.5 BRANCH EXPANSION, RELOCATION/CLOSURE
+a) No PMB shall open, relocate or close a branch without prior approval
+in writing of the Bank.
+b) Every application for the opening of a new branch shall be
+accompanied with the following documents:
+(i) A copy of Board resolution in support of the proposed branch;
+(ii) A detailed feasibility report on the proposed branch showing:
+ The rationale for the proposed branch.
+29
+ The initial capital outlay for the proposed branch.
+ Projected income and expenditures for a 3-year period.
+ The proposed organizational structure of the proposed branch.
+ The staffing requirements.
+ The assumption for the financial projections in the report.
+c) The PMB seeking approval for the opening of a new branch must
+have a track record of good financial performance, regularity in the
+rendition of all required returns, compliance with laws, rules and
+regulations.
+d) Every application for the closure of a branch shall be
+accompanied with the following:
+(i) A copy of Board resolution authorizing the closure.
+(ii) Reasons for the closure with relevant evidence.
+(iii) Arrangements put in place to settle the customers of the
+affected branch.
+6.6 ACCESS TO THE NATIONAL HOUSING FUND [NHF]
+a) No PMB shall be allowed to apply for the NHF without obtaining
+from the CBN, a written approval/clearance of its capacity to be
+considered for such facilities.
+b) In appraising requests from the PMBs, the Bank shall take into
+consideration the following factors:
+(i) Compliance with the minimum paid-up share capital and
+capital adequacy ratio;
+(ii) Asset quality;
+(iii) Management competence/stability;
+(iv) The integrity of the directors of the mortgage bank;
+(v) Earnings trends;
+(vi) Liquidity; and
+30
+(vii) Compliance with laws, rules and regulations.
+c) The written approval/clearance from the Bank shall accompany
+every application by a cleared mortgage bank to the
+Federal Mortgage Bank of Nigeria [FMBN] or any other institution
+legally empowered to disburse such funds.
+d) Every mortgage bank shall utilize wholly and exclusively all funds
+obtained from the NHF for mortgage lending or the creation of
+mortgage assets.
+e) Aggregate funds obtained from the NHF shall be shown separately in
+the balance sheet of every mortgage bank.
+f) Any audited financial statements of a PMB that fails to show
+separately, the aggregate funds obtained from the NHF in the
+balance sheet of such an institution shall not be considered for
+approval by the Bank.
+6.7 CHANGES IN THE OWNERSHIP STRUCTURE
+Except with the prior written consent of the Bank, no PMB shall enter
+into an agreement or arrangement:
+a) which results in a change in the control of the PMB;
+b) for the sale, disposal or transfer of the whole or any part of
+the business of the PMB;
+c) for the amalgamation or merger of the PMB with any other
+person;
+d) for the reconstruction of the PMB; and
+e) to employ a management agent or to transfer its business to any
+such agent.
+31
+CHAPTER 7
+COMPLIANCE WITH LAWS, RULES AND REGULATIONS
+7.1 COMPLIANCE
+Every PMB shall comply with the requirements of the monetary policy guidelines,
+the provisions of BOFIA, the CBN Act 2007, Money Laundering (Prohibition) Act
+2011 (as amended), CBN AML/CFT Regulations 2013, all relevant guidelines,
+rules and regulations, Uniform Underwriting Standards as well as circulars and
+supervisory/regulatory letters issued by the Bank from time to time.
+7.2 PROHIBITIONS
+A mortgage bank shall not:
+a) Grant any loan, advance or credit facility for the building, improvement or
+extension of a dwelling house unless adequate security has been taken on an
+existing property or the property in respect of which the loan or advance is
+being granted;
+b) Grant any loan, advance or credit facility on the security of its own shares;
+c) Pay dividend on its shares until all its preliminary expenses, organizational
+expenses, shares issue expenses, amount of losses incurred and other
+capitalized expenses not represented by tangible assets have been
+completely written off and adequate provisions made on actual and
+contingent losses on risk assets;
+d) Employ or continue the employment of any person who is or has at any time
+been adjudged bankrupt or has suspended payment to or has compounded
+with his creditors or who is or has been convicted by a court for an offence
+involving fraud, dishonesty or professional misconduct;
+e) Permit to be outstanding without the prior approval in writing of the Bank,
+unsecured advances, loans or credit facilities of an aggregate amount in
+excess of N1,000,000 to:
+(i) Any of its directors whether such advances, loans or credit facilities are
+obtained by the directors jointly or severally;
+32
+(ii) Any firm, partnership or private company in which the PMB or any one or
+more of its directors is/are interested either directly or as a guarantor;
+(iii) Any public or private company in which the PMB or any one or more of
+its directors jointly or severally maintains shareholding of not less than five
+percent either directly or indirectly.
+f) Engage in any business other than those for which it was licensed; and
+g) Write-off any director/insider related facility without the prior written approval
+of the Bank.
+7.3 PENALTIES FOR VARIOUS OFFENCES
+S/N OFFENCES PENALTIES
+1 Operating without a valid licence. Outright closure of the bank and prosecution of its
+promoters.
+2 Engaging in activities outside the A fine of N100,000 for each day of the default with a
+approved business. maximum of N5 million. In addition, the bank should
+forfeit the estimated profit.
+3 Failure to service credit facility Forced repayment of the facility plus the accrued
+granted to Directors and their interest and suspension of the Director from the
+relations. membership of the Board until the payment is finally
+redeemed. Removal from the Board if failure to pay
+persists beyond 365 days.
+4 Failure to obtain the approval of the A fine of N100,000 payable, by the institution, for
+CBN for the appointment of new each of the Directors or top management staff so
+Directors and top management appointed. In addition, the appointee should cease
+staff. to function in that position.
+5 Late rendition of monthly or A fine of N10,000 for each day of the default.
+quarterly returns.
+6 Late submission of audited Financial A fine of N10,000 for each day in which the bank
+statements. fails to submit the statement.
+7 Failure to convene a special i) A fine of N20,000 for each day during which the
+meeting of the Board of Directors for offence continues.
+the presentation of an Examination ii) Removal of MD and/or EDs where the non-
+Report within four weeks compliance is for a period more than eight
+weeks.
+8 Failure to convey the response of i) A fine of N20,000 for each day during which the
+the Directors to the CBN within two offence continues.
+weeks of the presentation. ii) Removal of MD and/or EDs where the non-
+compliance is for a period more than six weeks.
+33
+S/N OFFENCES PENALTIES
+9 Submission of false/Inaccurate a) For the bank, a fine of N2,000,000
+information to regulators. b) For individuals, a fine of N100,000
+Failure to render accurate returns three times within
+a financial year will attract suspension of the
+Managing Director and all relevant officers
+responsible for submitting the information.
+10 Failure to publish annual accounts in A fine of N500,000 for non-publication and
+the newspaper. thereafter publish in a newspaper
+11 Failure to disclose contraventions A fine of N2,000,000 for non-disclosure and
+and penalties in the audited thereafter publish again, disclosing the
+financial statements. contraventions.
+12 Failure to maintain proper books of A fine of N1,000,000 for the bank, N100,000 for each
+accounts and records. Director and N50,000 each for the officers involved.
+13 Failure to provide any information In the case of the bank, a fine not more than
+required by the CBN in the N500,000.
+prescribed period and manner.
+In the case of individuals, a fine not more than
+N50,000 in addition to other disciplinary action
+deemed necessary by the CBN.
+14 Failure to report dismissed bank staff A fine of N500,000 payable per staff by the bank.
+to the CBN/NDIC.
+15 Failure to report fraud and forgeries A fine of N500,000 payable by the bank.
+to CBN/NDIC.
+16 a) Opening or relocation of branch a) A fine of N500,000 and closure of such branch.
+without the approval of the CBN.
+b) Closing of branch without the b) A fine of N500,000 in addition to re-opening the
+approval of the CBN. branch.
+17 Use of depositors’ funds for A fine not less than N1,000,000 in addition to an
+assets acquisition. immediate injection of funds by the shareholders to
+the extent of the use of the depositors’ funds.
+34
+S/N OFFENCES PENALTIES
+18 Revaluation of fixed assets without Reversal to the previous value and issuance of a
+CBN approval. warning letter.
+Failure to reverse to the previous value after a
+warning letter has been issued will lead to three
+months suspension of the Managing Director without
+pay.
+19 Failure to disburse the NHF funds and A fine of N1,000,000 payable to CBN. In addition, the
+keep appropriate records as PMB shall pay interest at MPR to the FMBN during the
+stipulated in the guidelines. period the funds were kept. The Managing director
+and the officer concerned shall be sanctioned by
+the CBN.
+20 Change in ownership, take over or A fine of not more than N2million. In addition a letter
+amalgamation without CBN of warning shall be served on all the directors.
+approval.
+21 Contravention of the single obligor A fine of not less than N500,000 for the bank and
+limit without CBN approval. N100,000 with a warning letter for the approving
+officer.
+22 Change of name without the A fine of N500,000 and an immediate reversal to the
+approval of the CBN. former name.
+23 Failure to display operating licence A fine of N100,000 and the immediate display of the
+and interest rates in a conspicuous licence/interest rate.
+location in the Head-
+Office/Branches.
+24 Failure to implement the A fine of N100,000 for each recommendation not
+recommendations contained in the implemented and a warning letter to the Board and
+examination report Management.
+25 Change of External Auditors without A warning letter to the Board, in addition to
+the approval of the CBN. reinstating the former External Auditor.
+26 Failure to report Director A fine of N500,000 on the bank. In addition, the
+related credits to the responsible officer shall be appropriately
+CBN/NDIC. sanctioned.
+27 Failure by any Director to complete Disqualification and removal of the Director from
+the code of conduct forms. Office.
+35
+S/N OFFENCES PENALTIES
+28 Failure of any Director to comply Removal of the Director from Office.
+with the Code of Conduct for
+Directors.
+29 Holding AGM without approved A fine of N2,000,000 and a warning letter to the
+audited financial statements. bank.
+30 Failure to establish an Anti- Money i) A minimum monetary penalty on each member
+Laundering/ Combating the of the Board shall be N500,000.
+Financing of Terrorism (AML/CFT)
+Unit/desk function ii) A minimum monetary penalty on the PMB on
+the PMB shall be N5 million.
+31 Failure to appoint an AML/CFT i) A minimum monetary penalty on each member
+compliance officer for the bank. of the Board shall be N500,000.
+ii) A minimum monetary penalty on the PMB on the
+PMB shall be N5 million.
+32 Failure to render cash transaction A monetary penalty of N2 million on the PMB.
+returns/suspicious transactions report
+to Nigerian Financial Intelligence
+Unit (NFIU).
+36
+S/N OFFENCES PENALTIES
+33 (i) Failure to attain the prescribed Revocation of licence.
+minimum paid-up share capital
+within the time allowed.
+(ii) Persistent failure/refusal to render the Revocation of licence.
+required returns in the prescribed
+form for a period of six months.
+(iii) Persistent failure to comply with any Revocation of licence.
+other requirement of the monetary
+policy guidelines, provisions of the
+Banks and Other financial
+Institutions Act (BOFIA) 1991 as
+amended, as well as other
+circulars issued by the CBN for a
+period of twelve months.
+(iv) Engaging in activities prejudicial to Revocation of licence.
+the Nigerian economy.
+(v) Persistent failure to meet matured Revocation of licence
+obligations to customers.
+(vi) Engaging in functions and activities Revocation of licence
+outside the scope of the licence.
+(vii) Any other act which in the opinion Revocation of licence
+of the CBN constitutes a serious
+offence.
+37
+CHAPTER 8
+GENERAL
+a. The CBN shall maintain a black book for directors, officers and
+employees of any financial institution who commit acts relating to
+fraud, dishonesty and financial malpractices against their institutions.
+All mortgage banks are therefore, enjoined to submit the names of
+such officers, detailing the offences and attaching documentary
+evidence for the purpose of updating the black book.
+b. The penalties for any breach of the provisions of these guidelines
+which are not expressly specified against the appropriate section of
+these guidelines or other regulations of the CBN shall be as set out in
+the relevant provisions of the CBN Act and BOFIA
+c. All PMBs shall conspicuously display their operating licenses and anti-
+money laundering caution notices in their Head Offices and Branches
+d. All PMBs shall put in place complaints management processes that
+are easily accessible, timely and independent to address disputes
+that may arise from relationship with the consumers of their products.
+e. This Guidelines comes into effect on January 1, 2018 while the
+minimum capital requirement of N15 billion takes effect from January
+1, 2019.
+FINANCIAL POLICY & REGULATION DEPARTMENT
+AUGUST 2017
+38
+ANNEXURE 1
+QUESTIONNAIRE FOR MAJOR SHAREHOLDERS AND APPOINTEES TO BOARD AND
+MANAGEMENT POSITION IN BANKS AND OTHER FINANCIAL INSTITUTIONS IN
+NIGERIA
+This questionnaire is designed to elicit information which would enable the CBN
+ascertain your propriety as a shareholder or member of the board/top
+management in the institution. You are therefore, required to answer every
+question that relates to you honestly and where applicable, provide evidence
+to support your answer. Please note that the CBN would periodically request
+you to attend a performance review interview.
+A. BIODATA
+1. Name of Institution
+2. Name of the appointee/major shareholder
+3. Any relationship with the institution
+4. Current employment
+5. Occupation
+6. Date of Birth
+7. Place of Birth
+8. Nationality
+9. Entry/resident permit (foreigners)
+10. Parental history
+B. COMPETENCE AND CAPABILITY
+1. Give details of educational institutions attended, academic and
+professional qualifications obtained with dates, in a resume
+format.
+2. Give in a resume format, your:
+(a) Employment history
+(b) Type(s) of business(es)
+(c) Title(s) and duties attached to it
+(d) Date(s) of employment
+(e) Name(s) of employer(s), date(s) and place(s) of the
+employment.
+(f) Reason for leaving, position attained and two referees from
+former employer(s)
+C. HONESTY, INTEGRITY, AND REPUTATION
+Please answer the following questions by entering a tick in the appropriate
+box. If answer to any of these questions is YES, use a separate sheet with
+proper reference to the question to provide details.
+39
+40
+S/N Question Yes No
+1 Have you ever been tried for any offence or otherwise
+found liable by a civil, criminal or tribunal in Nigeria or
+elsewhere, or is being subject to any pending proceedings
+which may lead to a conviction? If yes, please give details
+of the charge and if convicted, the date of conviction,
+particulars of the offence and the penalty imposed.
+2 Have you been required to give evidence in any trial or
+proceedings involving fraud, dishonesty or similar matters,
+whether in Nigeria or elsewhere other than as an expert
+witness? If yes, give details.
+3 Have you ever been associated with any illegal activity
+concerning banking business, deposit taking, financial
+dealing and other business? If yes, give details.
+4 Have you ever been censured, disciplined, warned,
+made a subject of public reprimand by a regulatory
+body, or made the subject of a court order at the
+instigation of a regulatory body in your personal
+capacity? If yes, give details.
+5 Have you ever served as a director in a company that was
+censured, disciplined, warned, made a subject of public
+reprimand by a regulatory body, or made the subject of a
+court order at the instigation of a regulatory body?
+If yes, give details.
+41
+S/N Question Yes No
+6 Have you ever been subject to any findings or any
+settlement in civil/criminal proceedings particularly with
+regard to investments, financial/business, misconduct,
+examination malpractice, money laundering, fraud,
+formation or management of a corporate body etc. by
+the Bank, other regulators, professional bodies or
+government bodies/agencies? Please give details of the
+circumstances and how it was resolved (if not pending).
+7 Have you ever been involved with a company or firm or
+other organization that has been refused registration/
+licence to carry out trade, business etc? If yes, give details.
+8 Have you ever been involved with a company/firm whose
+registration/ licence has been revoked, cancelled, or
+gone into liquidation or other similar proceedings? If yes,
+give details.
+9 Have you ever been barred from being Chief Executive,
+Chairman, Director or Sponsor/Strategic Investor of a
+company? If yes, give details.
+42
+S/N Question Yes No
+10 Have you ever been dismissed or asked to resign in
+Nigeria or elsewhere in order to avoid legal or disciplinary
+action? If yes, give details.
+11 Have you ever been denied membership of any
+professional body or entry to any profession or vocation
+whether in Nigeria or elsewhere? If yes, give details.
+12 Have you ever resigned from an organization, professional
+or regulatory body in Nigeria or elsewhere in order to avoid
+legal or disciplinary action? If yes, give details.
+13 Have you ever been in default of payment of dues owed
+to any financial institution in individual capacity or as
+partner in a partnership firm or in any private
+unlisted/listed company? If yes, give details.
+14 Has any loan or credit facility (or part thereof) extended to
+you by any financial institution or lending agency been
+restructured, renegotiated, provided against or been the
+subject of write-off or forgiveness for reasons of non-
+payment by you? If so please provide full details of the
+debts, the circumstances surrounding the action and the
+current status.
+43
+S/N Question Yes No
+15 Have you ever been in default of taxes in individual
+capacity or any partnership firm or in any private
+listed/unlisted company? If yes, give details.
+16 Have you ever been associated as a director or chief
+executive
+with a corporate body whose corporate and tax records,
+including custom duties, excise and value added tax, has
+been found unsatisfactory by the Federal Inland Revenue
+Services? If yes, give details.
+17 Have you entered into any agreement with any other
+person (natural or legal) which will influence the way in
+which you exercise your voting rights or the way in which
+you otherwise behave in your relationship with the bank or
+holding company? If yes, give details.
+18 Are you a director on the Board of Directors of any other
+Financial Institution(s)? If yes, give details.
+19 Are you a Chairman, Chief Executive, Chief Financial
+Officer (by whatever name/designation called) of a
+Company registered by the Securities and Exchange
+Commission? If yes, give details.
+44
+S/N Question Yes No
+20 Do you own or control any other company? If yes, give
+details.
+21 Have you been or are you working as consultant or
+adviser to the bank or bank parent company in which
+you intend to become a director? If yes, give details.
+22 Are you an employee of the bank? If yes, give details.
+23 Are you an employee of a company or organization
+whose sponsors or significant shareholders have
+substantial interest
+in the bank? If yes, give details.
+24 Do you have any immediate relative who holds a top
+management position (AGM and above) or significant
+shares in the institution with which this question relates or
+with any entity affiliated to it? If yes, give details.
+45
+S/N Question Yes No
+25 Is there any other information that is relevant for the
+purpose of this evaluation? If yes, give details.
+D. FINANCIAL SOUNDNESS AND/OR SOLVENCY
+You are required to:
+1. Forward to the CBN, a statement of your net worth comprising
+your assets at current values and total liabilities as at the date of
+appointment, which must be accompanied by a sworn affidavit;
+2. Forward to the CBN, your bankers‟ declaration that you are
+not in any way indebted to them. If you are, the outstanding
+amount of the debts should be stated clearly indicating the
+performance status of the debt (performing or non-
+performing) and if it is adequately secured or not as well as the
+nature and type of security(ies) offered;
+3. Submit to the CBN, a report from at least, two Credit Bureaux
+registered in Nigeria in respect of you;
+4. Submit to the CBN, a copy of your tax clearance certificates
+for the last three years;
+5. Forward to the CBN, any other information that could assist it in
+determining your financial stability
+E. MISCELLANEOUS
+1. Is any member of your family in any relationship with the institution
+to which this questionnaire relates? If so, please state the nature
+of the relationship.
+2. Are you a serving Non-Executive Director? If yes, when were you
+first appointed?
+46
+3. Please state the number of board meetings you have
+attended since your appointment in the following format:
+Year Number of meetings
+4. What percentage of the financial institution’s shares do you
+currently own?
+_________________________________________________________________
+_________________________________________________________________
+5. Have you been employed by an audit firm that assigned you to
+work on this institution’s financial statements during the
+last two years? If so, please state the name of the audit firm:
+DECLARATION BY THE APPOINTEE
+I, hereby
+declare that the answers to the above questions are true and that I am
+fully aware that any concealment, provision of false or misleading
+information aimed at influencing the approval of my appointment will
+constitute a breach of Section 60 of BOFIA, 1991, as amended.
+I therefore, affirm that the information supplied above (including the
+attachment) are to the best of my knowledge, true and where any of it is
+discovered to be false, I shall be disqualified from the appointment
+being sought and subsequent appointments by any financial institution
+under the purview of the CBN.
+Signature of Appointee/Significant Shareholder:
+Date
+WITNESSED BY (Managing Director of requesting Primary Mortgage Bank)
+Signature of Appointee:______________________________________________
+Date:________________________________________________________________
+47
+ANNEXURE 2
+MONTHLY RETURNS
+(I) Statement of assets and liabilities;
+(II) Income statement for the month.
+(III) Report on interest rates;
+(IV) Schedule of other liabilities;
+(V) Breakdown of other liabilities;
+(VI) Schedule of other assets;
+(VII) Breakdown of other assets;
+(VIII) Schedule of placements with banks in Nigeria;
+(IX) Schedule of takings from banks;
+(X) Schedule of takings from other financial institutions;
+(XI) Schedule of commercial papers;
+(XII) Schedule of money at call with banks;
+(XIII) Schedule of money at call from banks;
+(XIV) Schedule of placement with other financial institutions;
+(XV) Schedule of money at call with other financial institutions;
+(XVI) Schedule of money at call from other financial institutions;
+(XVII) Schedule of loans and advances to banks in Nigeria;
+(XVIII) Schedule of loans and advances from banks in Nigeria;
+(XIX) Schedule of loans and advances to other financial institutions in
+Nigeria;
+(XX) Schedule of loans and advances from other financial institutions in
+Nigeria;
+(XXI) Schedule of Bankers Acceptances;
+(XXII) Schedule of other creditors;
+(XXIII) Schedule of current account balances with banks in Nigeria;
+(XXIV) Schedule of current account balances due to banks in Nigeria;
+(XXV) Schedule of credit approvals and disbursement by sub-sector;
+(XXVI) Report on undrawn commitments;
+(XXVII) Fund sources and interest costs;
+(XXVIII) Report on deposit ownership;
+(XXIX) Report on lending above statutory limit;
+(XXX) Report on dismissed/terminated staff;
+(XXXI) Returns on fraud and forgeries;
+(XXXII) Schedule of non-interest income;
+(XXXIII) Schedule of non-performing credit;
+(XXXIV) Schedule of non-performing other assets;
+(XXXV) Schedule of off-balance sheet engagements [contingent
+liabilities].
+48

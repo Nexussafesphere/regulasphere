@@ -1,0 +1,1047 @@
+National Cloud
+Investment Strategy
+Size the Opportunity, Signal the Support,
+August 2026
+Start the Conversation
+Table of Contents
+Executive Summary 5 Vision Statement 6
+1. Strategic Objectives 6 2. Background 9
+3. A Consistent Strategy for Digital Transformation 11 4. Legal and Regulatory Foundation 13
+5. Institutional and Regulatory Governance 15 6. Pillars of This Strategy 19
+7. Why Invest in Nigeria's Cloud Ecosystem 25 8. Key National Indicators 26
+9. The Market for Cloud Services 27 10. Public Sector Primed for Consolidation 27
+11. Private Sector Poised for Hyperscale 28 12. Regional Competitive Positioning 29
+Consolidation
+13. National Investment in Cloud 29 14. Investment Pathway: Approval in Principle 31
+15. Infrastructure Development Constraints and 35 16. Risk Register 35
+Enablers
+18. Implementation and Monitoring 38
+17. Implementation Roadmap 36
+20. Invitation to Invest 42
+19. Conclusion 41
+22. References 44
+21. Abbreviations 42
+02
+DETAILED NAVIGATION
+Sections & Subsections
+1.1 Why This Strategy Matters 7
+2.1 Cloud Infrastructure as National Strategic
+9
+Infrastructure
+5.1 Investor Engagement Principles 15
+5.2 SovGov — the Sovereign Cloud Governance
+16
+Committee
+6.1 Pillar 1 — Policy & Regulatory Environment 19
+6.2 Pillar 2 — Funding and Investment Mobilisation 20
+6.3 Pillar 3 — Infrastructure Development & Connectivity21
+6.4 Pillar 4 — Digital Skills & Workforce Development 22
+6.5 Pillar 5 — Innovation and Local Content
+22
+Development
+6.6 Pillar 6 — Cybersecurity & Data Protection 23
+7.1 Why Nigeria Needs This 25
+7.2 Why Nigeria Is Ready for This 26
+10.1 Federal Government Spending 27
+10.2 State Government Spending 28
+11.1 Low Digitalisation, Promising Penetration, Low 28
+Localisation 11.2 Increasing Sophistication of Service Offerings 28
+14.1 What NITDA Can Offer 31 14.2 AIP Process 32
+14.3 NITDA Investor Support Services 32 18.1 Performance Measurement 38
+03
+CHAPTER I
+Executive
+Overview
+The opportunity, national vision and
+strategic objectives
+Executive Summary
+Nigeria stands at a defining moment in the evolution of its digital economy. As cloud computing, artificial
+intelligence, digital public infrastructure, and data-driven services reshape economies worldwide, the
+demand for secure, resilient, and locally available digital infrastructure continues to grow. This National Cloud
+Investment Strategy sets out Nigeria's roadmap to harness this opportunity by positioning the country as the
+preferred destination for cloud infrastructure, hyperscale data centres, sovereign compute, and digital
+infrastructure investment in West Africa.
+Nigeria's cloud computing services market is projected to nearly triple within five years, growing from an
+estimated US$1.03 billion in 2025 to US$3.28 billion by 2030 (Mordor Intelligence January 2025). This growth
+is underpinned by one of Africa's largest and most dynamic digital markets, a rapidly expanding fintech and
+technology ecosystem, increasing digital public service delivery, rising enterprise cloud adoption, and a
+youthful, digitally connected population. Government intends to reinforce this demand by progressively
+implementing Cloud First requirements across Federal Public Institutions, aggregating eligible public-sector
+demand, and enabling certified providers to participate through the Digital Regulatory Platform.
+US$1.03bn US$3.28bn ~26%
+Estimated market, 2025 Projected market, 2030 Indicative CAGR
+Nigeria has established one of Africa's most comprehensive regulatory and institutional foundations for
+cloud adoption through the National Sovereign Cloud Initiative (NSCI). As part of the Initiative, Government
+has developed a suite of complementary regulatory, governance, and assurance instruments, including the
+National Cloud Guideline 2026 (NCG 2026), the National Cloud Technical Guideline, the National Digital
+Infrastructure Assurance Framework (NDIAF), this National Cloud Investment Strategy, and other supporting
+frameworks to operationalise the Initiative's objectives. Collectively, these instruments provide investors with
+regulatory certainty, clear governance arrangements, defined institutional responsibilities, and a structured
+Approval in Principle (AIP) pathway for cloud investment.
+This Strategy is built around six mutually reinforcing pillars: a predictable policy and regulatory environment;
+investment mobilisation and financing; world-class digital infrastructure and connectivity; digital skills and
+workforce development; innovation and local content development; and cybersecurity and data protection.
+Together, these pillars provide the strategic foundation for developing a competitive, secure, and sustainable
+cloud ecosystem capable of supporting both national priorities and regional digital transformation.
+Beyond meeting Nigeria's domestic requirements, this Strategy positions the country to become a regional
+cloud and digital infrastructure hub serving West Africa and the broader African Continental Free Trade
+Area (AfCFTA). By combining market scale, regulatory certainty, strategic geography, and Government
+commitment, Nigeria offers investors a unique opportunity to participate in building the digital infrastructure
+that will power Africa's next phase of economic growth.
+05
+Investors, cloud service providers, infrastructure developers, technology companies, financial institutions,
+and development partners are invited to engage with Government through the structured investment
+pathway established under this Strategy. Together, Government and industry can build the trusted digital
+infrastructure that will underpin Nigeria's digital future and serve as the foundation for regional digital growth.
+NATIONAL VISION
+Vision Statement
+VISION
+To establish Nigeria as Africa's premier hub for sovereign cloud,
+hyperscale digital infrastructure, and trusted data services, powering
+national transformation, regional digital integration, and a globally
+competitive digital economy through secure, resilient, and sustainable
+cloud infrastructure.
+SECTION 1
+Strategic Objectives
+This Strategy pursues seven strategic objectives, each of which is developed in detail in the sections that
+follow:
+01
+Attract hyperscale and strategic cloud infrastructure investment into Nigeria, including data centres,
+sovereign compute capacity, and related digital services.
+02
+Strengthen sovereign cloud capacity for government and regulated sectors, consistent with the
+National Sovereign Cloud Initiative and the National Digital Infrastructure Assurance Framework
+(NDIAF).
+03
+Establish Government as the anchor customer for the domestic cloud market, through Cloud First
+implementation, compliance monitoring, and demand aggregation
+04
+Promote indigenous participation and local content across the cloud value chain, including certified
+indigenous cloud service providers and service integrators.
+05
+Build a skilled cloud workforce across government, academia, and industry, closing the gap between
+the talent Nigeria produces and the talent the cloud economy requires.
+06
+06
+Provide a predictable, transparent regulatory and investment pathway, so that investors can plan
+around clear rules, defined timelines, and named institutional counterparts.
+07
+Position Nigeria as a regional cloud and data-centre hub under AfCFTA, converting scale and
+market leadership into cross-border digital trade advantage.
+1.1 Why This Strategy Matters
+Nigeria's digital economy has reached an important inflection point. Over the past two decades, Government
+has progressively established the legal, policy, and institutional foundations necessary to support cloud
+computing, digital infrastructure, data protection, and digital public services. The National Sovereign Cloud
+Initiative (NSCI) consolidates these efforts into a coordinated national programme that provides regulatory
+certainty, promotes digital sovereignty, and strengthens Nigeria's digital infrastructure.
+While these regulatory instruments establish the governance framework for cloud adoption, investors
+require a complementary strategy that clearly articulates the commercial opportunity, Government's long-
+term commitment, institutional arrangements, and investment pathways. This National Cloud Investment
+Strategy fulfils that role.
+The Strategy complements the National Cloud Computing Guideline 2026, the National Cloud Technical
+Guideline, the National Digital Infrastructure Assurance Framework (NDIAF), by translating regulatory certainty
+into investment confidence. It provides investors, development partners, financial institutions, and technology
+providers with a coherent understanding of Nigeria's cloud ambitions, implementation priorities, and
+collaborative approach to market development.
+Ultimately, this Strategy seeks to bridge the gap between policy and investment by demonstrating that
+Nigeria is not only regulating cloud computing but actively creating an enabling environment for long-term
+investment, innovation, and sustainable digital economic growth.
+07
+CHAPTER II
+Foundations &
+Policy
+The policy, legal and strategic groundwork
+for this Strategy
+SECTION 2
+Background
+As global cloud spending and data-centre investment accelerate, the digital economy's contribution to
+Nigeria's GDP is set to continue rising, reflecting a broader continental and global shift toward Cloud First
+digital infrastructure.
+Nigeria's digital economy is a driver of national growth, and a historic opportunity exists to harness this
+momentum. Nigeria's domestic cloud computing market is projected to nearly triple, from , a compound
+annual growth rate of roughly 26% (Mordor Intelligence Report January 2025).
+The Information and Communication Technology (ICT) sector has become a primary engine of economic
+diversification, contributing (11.18% of real GDP Q2 2025), according to National Bureau of Statistics data.
+These trends underscore the critical role of digital infrastructure in driving economic growth, enhancing
+public sector efficiency, and fostering innovation.
+Public and Private sectors institutions are increasingly adopting digital platforms to improve service accessibility,
+operational efficiency, transparency, and responsiveness to citizens and businesses. This transition is driving
+demand for secure, scalable, and interoperable cloud infrastructure capable of supporting public services at
+national scale.
+The National Sovereign Cloud Initiative (NSCI) is Nigeria's foundational programme for sovereign cloud
+adoption. It will be operationalised through a structured suite of instruments the National Cloud
+Computing Guideline 2026, its accompanying National Cloud Technical Guideline, and the National Digital
+Infrastructure Assurance Framework (NDIAF), which together define the guideline, technical, and assurance
+requirements for cloud adoption in Nigeria. This Strategy is the investment-facing companion document that
+translates the regulatory foundation into a clear proposition for capital. Through the progressive
+implementation of the Cloud First mandate across Federal Public Institutions (FPIs), Government intends to
+act as an anchor customer and market catalyst by aggregating eligible public-sector demand, promoting
+shared digital infrastructure, and enabling certified providers to participate through the Digital Regulatory
+Platform.
+2.1 Cloud Infrastructure as National Strategic Infrastructure
+Cloud infrastructure has evolved beyond a conventional information technology service to become a
+foundational component of modern economies. It provides the digital infrastructure upon which governments
+deliver public services, businesses innovate and compete, financial systems operate securely, and emerging
+technologies such as artificial intelligence, big data analytics, the Internet of Things (IoT), and digital public
+infrastructure are developed and deployed. As economies become increasingly data-driven, access to
+trusted, resilient, and scalable cloud infrastructure has become a strategic national capability.
+09
+For Nigeria, cloud infrastructure is central to achieving the objectives of the Renewed Hope Agenda,
+accelerating digital transformation, enhancing public sector efficiency, strengthening national
+competitiveness, and supporting sustainable economic growth. It underpins the delivery of digital
+government services, financial technology, healthcare, education, agriculture, manufacturing, e-commerce,
+and other strategic sectors that are critical to the country's socio-economic development.
+Cloud infrastructure also plays a vital role in strengthening national resilience. The ability to securely host
+critical government systems and strategic data, maintain continuity of essential public services, protect
+critical information infrastructure, and support rapid recovery from cyber incidents or physical disruptions is
+increasingly dependent on robust and resilient cloud capabilities. Equally important, the availability of high-
+quality digital infrastructure enhances investor confidence, attracts technology investment, enables
+innovation, and supports the development of indigenous digital capabilities.
+Recognising this strategic importance, the Federal Government through the National Information Technology
+Development Agency (NITDA) established the National Sovereign Cloud Initiative (NSCI) as a national
+programme to accelerate the development of a secure, resilient, and globally competitive cloud ecosystem.
+Rather than focusing solely on technology adoption, the Initiative adopts a whole-of-government approach
+that integrates policy, regulation, investment, infrastructure development, digital skills, cybersecurity, and
+ecosystem development to strengthen Nigeria's digital economy and position the country as a preferred
+destination for cloud investment.
+Accordingly, cloud infrastructure is recognised as strategic national digital infrastructure. Through
+coordinated implementation of the NSCI and its complementary regulatory, governance, and
+investment instruments, Government seeks to create an enabling environment that encourages private
+sector investment, promotes innovation, strengthens digital sovereignty, and positions Nigeria as the regional
+hub for cloud services, hyperscale data centres, artificial intelligence infrastructure, and trusted digital
+services serving West Africa and the broader African Continental Free Trade Area (AfCFTA).
+STRATEGIC OUTCOMES
+The recognition of cloud infrastructure as strategic national infrastructure is intended to:
+01 Position Nigeria as the preferred regional destination for cloud infrastructure, hyperscale data
+centres, and digital infrastructure investment.
+02 Strengthen national digital sovereignty and the resilience of critical government and economic
+infrastructure.
+03 Enable trusted digital public infrastructure and accelerate the digital transformation of government
+and strategic sectors.
+04 Support the growth of artificial intelligence, fintech, digital trade, and other data-driven industries
+through secure, scalable computing infrastructure.
+05 Create high-value employment, stimulate indigenous innovation, attract foreign direct investment,
+and enhance Nigeria's competitiveness within the African Continental Free Trade Area (AfCFTA).
+10
+SECTION 3
+A Consistent Strategy for Digital Transformation
+“Availability of clear policies and guidelines signals a stable and predictable regulatory
+environment, which is essential for long-term investment.”
+Nigeria’s drive to attract investment in data centres and hyperscalers is not a recent development but rather
+the culmination of a deliberate and consistent multi-year strategy to build a resilient and sovereign digital
+economy. Successive government initiatives have progressively laid the groundwork, demonstrating a
+sustained commitment to digital-led growth. This investment strategy is the next logical step in an evolution,
+not a revolution, building upon established policies, legal frameworks, and actionable roadmaps.
+3.1 Foundational Policies and Strategies
+01
+National Information Technology Policy (2001)
+02
+Nigerian Government Enterprise Architecture (NGEA) (2019; NGEA v2.0 under revision)
+03
+Nigeria Data Protection Regulation (NDPR) (2019)
+04
+National Digital Economy Policy and Strategy 2020–2030 (NDEPS)
+05
+Nigeria Cloud Computing Policy (2019)
+06
+Nigeria Data Protection Act (NDPA) (2023)
+07
+National Artificial Intelligence Strategy (NAIS) (2024)
+08
+National Cloud Computing Guideline 2026
+The cornerstone of this journey was the 2019 Nigeria Cloud Computing Policy, which formally introduced the
+“Cloud First” principle. This directive mandated that Federal Public Institutions (FPIs) prioritise cloud-based
+solutions for IT procurement, aiming to reduce capital costs, enhance service delivery, and drive efficiency.
+This policy was intrinsically linked to broader national goals, such as the Economic Recovery and Growth
+Plan (ERGP), which identified ICT as a primary enabler for economic development, and remains consistent
+with the current administration’s Renewed Hope Agenda, which prioritises digital transformation and
+infrastructure modernisation as key drivers for economic diversification and job creation.
+11
+The National Digital Economy Policy and Strategy (2020–2030) established Nigeria's long-term vision for a
+digitally enabled economy and continues to provide the overarching national policy framework. The FMCIDE
+Strategic Blueprint: Accelerating our Collective Prosperity through Technical Efficiency (2023–2027) builds
+upon that foundation by translating national policy into an actionable implementation agenda focused on
+digital infrastructure, digital public infrastructure, innovation, emerging technologies, digital inclusion, and
+talent development under the Renewed Hope Agenda. The National Sovereign Cloud Initiative and this
+National Cloud Investment Strategy are strategic instruments developed within this broader policy continuum.
+3.2 Actionable Roadmaps and Implementation
+NITDA has translated these high-level policies into actionable plans through its Strategic Roadmap and
+Action Plan (SRAP). The initial plan, SRAP 1.0 (2021–2024), demonstrated tangible success by achieving 41 of
+64 initiatives, with impact felt across developmental regulations, support for digital innovation and
+entrepreneurship, advancements in digital literacy and skills, and digital transformation in critical sectors
+including agriculture, education, and public institutions.
+The current NITDA Strategic Roadmap and Action Plan 2.0 (2024–2027) continues this momentum, explicitly
+supporting implementation of the National Cloud Computing Guideline and the development of digital public
+infrastructure.
+NITDA's strategic priorities are implemented through coordinated regulatory programmes, strategic
+partnerships, and inter-agency governance arrangements that bring together Federal Public Institutions,
+sector regulators, development partners, and the private sector. This collaborative implementation model
+ensures that national digital transformation initiatives are supported by sustained institutional coordination,
+clear governance structures, and effective execution, providing investors with confidence that Nigeria's
+cloud and digital infrastructure agenda is backed by long-term Government commitment.
+12
+SECTION 4
+Legal and Regulatory Foundation
+NITDA's mandate under the NITDA Act (2007) to plan, develop, and regulate Information Technology in
+Nigeria is the legal foundation for this Strategy and for the wider National Sovereign Cloud Initiative. That
+mandate covers policy formulation, standards-setting, and regulation of IT practice across public and private
+sectors, including cloud computing and data infrastructure.
+Building directly on this legal foundation, the National Cloud Computing Guideline 2026 represents a
+significant evolution of the earlier 2019 cloud policy. Where the first policy established the “Cloud First”
+principle, National Cloud Computing Guideline provides the critical architecture for implementation at scale.
+It introduces a comprehensive National Cloud Technical Guideline with detailed implementation guidelines
+for Federal Public Institutions (FPIs) and service providers, and it institutes SovGov, Nigeria’s sovereign
+cloud governance committee, to ensure robust oversight and compliance.
+A central pillar of National Cloud Computing Guideline 2026 is the Digital Regulatory Platform which is
+a dedicated portal designed streamline procurement, ensure transparency, and promote the adoption of
+certified cloud solutions across Nigeria.
+Together, this consistent progression of policy, law, and strategy demonstrates Nigeria’s commitment to
+creating a sophisticated, secure, and investment-friendly digital ecosystem. The National Cloud Investment
+Strategy is therefore a direct and intentional continuation of this long-standing national vision.
+13
+CHAPTER III
+Governance &
+Institutions
+Regulatory roles, investor principles and the
+cloud ecosystem
+SECTION 5
+Institutional and Regulatory Governance
+Cloud and data-centre investment in Nigeria engages more than one regulator. This section clarifies which
+institution is responsible for which decision, so that investors and partners have a single, unambiguous
+reference for engagement. The table below is not exhaustive: other institutions, including the Federal
+Ministry of Power, NERC, NMDPRA, the Federal Ministry of Environment, ONSA/ngCERT, state governments,
+and development finance institutions are engaged on specific matters described in the relevant sections of
+this Strategy.
+INSTITUTION MANDATE RELEVANT TO CLOUD INVESTMENT ROLE IN THIS STRATEGY
+FMCIDE Provide overall policy direction Issue National Sovereign Cloud Policy and
+provide strategic oversight
+Strategy owner and principal point of contact for
+NITDA Lead IT regulatory agency; issuer of the Cloud First
+regulatory guidance, including Approval in
+Guidline, NDIAF, Cloud Technical Document 2026;
+and secretariat to SovGov Principle (see Section 14)
+Nigeria Data Protection Enforcement of the NDPA 2023 and its GAID; approval of Data protection compliance,
+Commission (NDPC) PII cross-border data transfer mechanisms; data
+controller/processor registration
+Central Bank of Nigeria Foreign exchange policy and access; oversight of FX access and repatriation queries; data
+(CBN) financial-sector data and payment systems infrastructure governance for cloud hosting of regulated
+financial services (see Section 6.2)
+Nigerian Communications Licensing and regulation of telecommunications Connectivity, IXPN interconnection, and last-mile
+Commission (NCC) infrastructure fibre matters under Pillar 3
+Nigerian Investment Pioneer Status incentives, One-Stop Investment Centre, Primary channel for fiscal incentive applications;
+Promotion Commission general FDI facilitation and investor aftercare coordinates with NITDA on sector-specific
+(NIPC) regulatory clearance
+Sector regulators (e.g. Sector-specific licensing and data/security requirements Engaged on a case-by-case basis where sector-
+NAICOM, NUPRC, NERC) specific hosting or interoperability requirements
+apply
+Bureau of Public Public procurement regulation and oversight Governs public-sector procurement
+Procurement (BPP) (see Section 18)
+5.1 Investor Engagement Principles
+Implementation of this Strategy shall be guided by the following principles in engaging domestic and
+international investors:
+01 Regulatory Coordination: Investors should experience a coordinated regulatory environment in
+which relevant institutions work collaboratively to facilitate investment while respecting their
+respective statutory mandates.
+15
+02 Transparency: Regulatory requirements, certification procedures, technical standards, and
+investment pathways shall be publicly available and communicated clearly.
+03 Predictability: Investment decisions should be supported by clear policies, published procedures,
+defined timelines, and consistent regulatory interpretation.
+04 Single Point of Engagement: NITDA shall serve as the primary point of engagement for cloud
+investment matters and coordinate interactions with relevant government institutions where
+necessary.
+05 Technology Neutrality: Regulatory decisions shall remain technology-neutral and promote innovation,
+competition, and fair market participation.
+06 Collaborative Problem Solving: Government recognises that digital infrastructure projects are
+complex and will continue working collaboratively with investors to address implementation
+challenges while maintaining regulatory integrity.
+5.2 SovGov — the Sovereign Cloud Governance Committee
+SovGov, instituted under National Cloud Computing Guideline 2026, is an advisory body comprising
+representatives from NITDA, sector regulators, and other relevant stakeholders. Its role is to support the
+implementation of the regulatory and technical documents issued under the National Sovereign Cloud Initiative
+providing a single forum where cross-cutting issues such as certification standards, data classification disputes,
+and coordination with sector regulators are worked through collaboratively, rather than requiring investors to
+navigate eachagency independently. NITDA serves as secretariat, and SovGov's full membership, terms of
+reference, and meeting cadence will be published on approriate NITDA channels as the committee is
+operationalised.
+16
+Nigeria's Cloud Ecosystem
+Institutionalgovernance,marketparticipationandpublicvalue
+SovGov
+POLICY+OVERSIGHT INVESTMENT+DELIVERY
+SectorRegulators Advisoryandcoordinationforum PartnerInstitutions
+NDPC·CBN·NCC·NIPC·sectorbodies BPP·stategovernments·DFIs·ministries
+NITDA
+Leadregulator·Strategyowner·SovGovsecretariat
+Digital Regulatory Platform
+Certification·listing·public-sectorprocurement
+CloudProviders ServiceIntegrators DataCentres FPIs+Businesses Citizens+Users
+Domestic+global Implementationpartners Compute+infrastructure Demand+servicedelivery Publicvalue+trust
+Figure 1: Nigeria's Cloud Ecosystem — institutional and market relationships.
+17
+CHAPTER IV
+Strategic
+Pillars
+The six pillars underpinning Nigeria’s
+cloud investment strategy
+SECTION 6
+Pillars of This Strategy
+This strategy is developed fully aware of the challenges that new and existing investors in the country may
+already be considering as risk factors, with a view to de-risking investment. It rests on six pillars, summarised
+below and detailed in the sections that follow. The pillars build in sequence: a stable policy and regulatory
+foundation (Pillar 1) underpins the capital mobilisation needed to fund infrastructure (Pillar 2); that
+infrastructure (Pillar 3) requires a skilled workforce to operate it (Pillar 4); together these enable Nigeria to
+become a producer rather than a consumer of digital innovation (Pillar 5); and cybersecurity and data
+protection (Pillar 6) provide the trust layer that underwrites every preceding pillar.
+1 Policy & Regulatory Environment 2 Funding and Investment Mobilisation
+A modern, predictable, progressive Mobilise and de-risk public and private
+investment regulatory landscape capital
+3 Infrastructure Development & 4 Digital Skills & Workforce Development
+Connectivity
+A skilled pipeline of cloud talent across
+World-class fibre, data centre, power government, academia and industry
+and IXP infrastructure
+5 Innovation and Local Content 6 Cybersecurity & Data Protection
+Development
+Resilience, trust and clear compliance
+Nigeria as a net producer, not just standards for data in the cloud
+consumer, of digital innovation
+6.1 Pillar 1 — Policy & Regulatory Environment
+A modern, predictable, and progressive investment policy and regulatory environment, establishing a
+local landscape built on trust, regulatory clarity, and stability. This pillar aims to build global confidence in Nigeria’s
+governance structures, accelerate public sector transformation, stimulate the growth of a resilient local cloud
+industry, and present a predictable regulatory front to international investors.
+STRATEGIC ACTIONS
+01 Invest in collaborative policy and regulations development.
+02 Develop clear implementation guidelines under National Cloud Computing Guidelines 2026.
+19
+03 Design incentives for local cloud providers and foreign providers making significant investments,
+coordinated through NIPC (see Section 5).
+6.2 Pillar 2 — Funding and Investment Mobilisation
+Achieving Nigeria’s cloud ambitions will require sustained investment in cloud infrastructure, digital public
+infrastructure, and cloud skills development. This pillar seeks to mobilise and catalyse public and private
+capital, attract strategic investments, and deploy innovative financing mechanisms that strengthen investor
+confidence and support the long-term growth of Nigeria’s cloud ecosystem.
+To achieve these objectives, Government may explore blended financing mechanisms, public-private
+partnerships, development finance, infrastructure funds, and other investment mobilisation instruments to
+support cloud and data centre investments while promoting local participation and sustainable ecosystem
+growth. Before considering any new financing vehicle, Government will first assess the capacity of existing
+infrastructure, innovation, and development-finance mechanisms to support strategic cloud infrastructure,
+sovereign compute capacity, research, and skills development, so that any new instrument is additive rather
+than duplicative.
+STRATEGIC ACTIONS
+01 Ensure routine and new strategic budgetary commitments to cloud infrastructure within FPIs.
+02 Partner with foreign investors to position Nigeria as a preferred destination for global cloud
+investment.
+03 Unlock strategic capital for the local cloud ecosystem, including through the potential designation of
+dedicated technology development zones, an option requiring further policy development to define
+legal basis, designating authority, and applicable incentives.
+FOREIGN EXCHANGE CONSIDERATIONS
+Foreign exchange access and repatriation certainty are consistently raised by hyperscale and data-centre
+investors as a precondition for capital commitment. This Strategy does not itself establish foreign-exchange
+policy; that authority rests with the CBN. NITDA's role is to ensure that cloud and data-centre investment is
+appropriately represented in any FX facilitation windows and investor-protection mechanisms made
+available by CBN and NIPC to strategic infrastructure sectors. Coordination on this item is placed with the
+SovGov committee, working jointly with CBN and NIPC; specific FX terms will be confirmed through that
+channel rather than committed to in this document.
+No specific FX facilitation mechanism is committed in this strategy; the coordination pathway above
+reflects the current state of engagement between NITDA, CBN and NIPC on this issue.
+20
+6.3 Pillar 3 — Infrastructure Development & Connectivity
+World-class digital infrastructure comprising national fibre optic networks, hyperscale-ready data-centre
+infrastructure, resilient energy solutions, and Internet Exchange Points (IXPs) enable secure, reliable, and
+affordable digital connectivity across Nigeria. This pillar seeks to accelerate nationwide broadband
+connectivity through strategic investments, including leveraging the implementation of Project BRIDGE and
+the rollout of approximately 90,000 km of additional fibre optic backbone infrastructure, while promoting the
+development of globally competitive data centres, strengthening power infrastructure for digital facilities,
+expanding internet exchange capacity, and creating the digital foundation required to position Nigeria as a
+regional hub for cloud services, artificial intelligence, digital public infrastructure, and cross-border digital
+trade.
+POWER & ENERGY
+01 Grid reliability: national grid capacity and reliability remain insufficient for uninterrupted hyperscale
+operation in most locations, requiring embedded generation or hybrid power as the practical
+baseline rather than the exception.
+02 Power Purchase Agreements (PPAs): facilitate and incentivise PPAs and hybrid power infrastructure,
+coordinated with the Federal Ministry of Power and NERC, to give investors a predictable route to
+securing dedicated capacity.
+03 Embedded/captive generation: clarify the licensing pathway for embedded generation and gas-to-
+power arrangements serving data-centre campuses, working with NERC and the Nigerian
+Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) where gas supply is
+involved.
+04 Siting near power corridors: infrastructure corridor access (Section 6.3 enablers, Section 15) should
+explicitly prioritise proximity to available or plannable power capacity when identifying data-centre-
+ready sites.
+ENVIRONMENTAL & SOCIAL SUSTAINABILITY
+01 Water usage: large data centres are water-intensive for cooling; investors should be able to
+reference water-availability guidance for candidate sites, particularly in water-stressed states.
+02 Renewable energy: encourage, without mandating, renewable and hybrid power sourcing for new
+data-centre capacity, aligned with any forthcoming national data-centre sustainability guidance.
+03 Carbon and efficiency reporting: continuous alignment future National Cloud Computing Guideline
+updates with internationally recognised data- centre efficiency metrics (e.g. Power Usage Effectiveness)
+to give investors a comparable disclosure basis.
+04 Coordination: sustainability requirements, if formalised, should be coordinated with the Federal
+Ministry of Environment rather than set unilaterally by NITDA.
+21
+STRATEGIC ACTIONS
+01 Advance ongoing projects to expand national fibre infrastructure and last-mile access.
+02 Attract data-centre investment through Public-Private Partnership (PPP) arrangements.
+03 Facilitate and incentivise Power Purchase Agreements (PPAs) and hybrid power infrastructure for
+data-centre campuses.
+6.4 Pillar 4 — Digital Skills & Workforce Development
+This pillar seeks to build a skilled workforce capable of designing, operating, securing, and innovating with
+cloud technologies. It aims to strengthen the pipeline of talent across education, industry, and government by
+embedding foundational cloud and digital skills into relevant curricula, expanding industry-academia
+collaboration, and delivering targeted capacity-building programmes for institutions. The objective is
+to produce job-ready professionals, strengthen indigenous technical capability, and enable Government and
+industry to adopt and manage cloud services effectively.
+STRATEGIC ACTIONS
+01 Deliver training on vendor-agnostic cloud principles and practices.
+02 Establish industry-academia partnerships oriented around Cloud First development.
+03 Embed foundational cloud skills into curricula from primary through tertiary education.
+6.5 Pillar 5 — Innovation and Local Content Development
+This pillar seeks to reposition Nigeria from being predominantly a consumer of digital technologies to
+becoming a competitive producer of cloud-enabled products, platforms, and services. It aims to support
+innovation hubs and startups that can build, scale, and export cloud-native solutions, promote indigenous
+participation and local value creation in public procurement, and strengthen national research capacity in
+cloud computing and related emerging technologies.
+STRATEGIC ACTIONS
+01 Co-invest in world-class innovation hubs that enable Nigerian startups to build, scale, and export
+cloud-native solutions.
+02 Promote indigenous participation and local value creation in cloud procurement, consistent with
+applicable public procurement law, competition principles, technical requirements, security
+considerations, and Nigeria's international obligations.
+22
+03 Develop national research capacity that leverages the cloud to drive innovation.
+6.6 Pillar 6 — Cybersecurity & Data Protection
+Cybersecurity and data protection are fundamental enablers of Nigeria's cloud ecosystem, providing the
+trust, resilience, and regulatory certainty required to support digital transformation, critical government
+services, and private sector innovation. This pillar seeks to strengthen the security and resilience of cloud
+infrastructure, safeguard citizens' rights and sensitive data, and foster confidence among investors, service
+providers, government institutions, and users through a secure, risk-based, and internationally aligned cloud
+environment.
+Government will continue to strengthen national cybersecurity capabilities, promote the adoption of
+recognised security and data protection standards, and encourage collaboration among public institutions,
+cloud service providers, and sector regulators to ensure a resilient and trusted digital ecosystem capable of
+supporting Nigeria's long-term digital economy ambitions.
+STRATEGIC ACTIONS
+01 Strengthen the implementation of nationally recognised cybersecurity and cloud security standards
+to improve the resilience, security, and trustworthiness of cloud infrastructure and digital services.
+02 Promote collaboration among government, cloud service providers, sector regulators, and relevant
+stakeholders to enhance cyber resilience, incident response, information sharing, and the protection
+of critical digital infrastructure.
+03 Foster a secure and trusted cloud ecosystem by supporting continuous compliance with applicable
+cybersecurity, data protection, and risk management requirements, while promoting international
+best practices and investor confidence.
+23
+CHAPTER V
+The Investment
+Case
+Why Nigeria, the market and the numbers
+behind the opportunity
+SECTION 7
+Why Invest in Nigeria's Cloud Ecosystem
+Nigeria's competitive advantages for cloud and data-centre investment rest on a combination of market
+scale, Government demand, regulatory reforms, private-sector maturity, regional access, infrastructure
+investment, and workforce potential. The sections below set out the demand-side case (why Nigeria needs
+this investment) and the readiness case (why Nigeria is positioned to absorb it now).
+7.1 Why Nigeria Needs This
+Investment in cloud computing infrastructure and services is an essential enabler and multiplier for digital
+transformation and economic development. Meeting this demand will require credible long-term partners
+capable of deploying secure, scalable, and locally available cloud infrastructure.
+DRIVING PUBLIC SECTOR EFFICIENCY AND SERVICE DELIVERY
+Cloud computing offers Nigeria the opportunity to modernise public administration by reducing
+fragmentation across ministries and agencies. Cloud-based platforms enable centralised tax systems,
+procurement, and identity management, improving transparency, interoperability, and citizen satisfaction.
+SUPPORTING THE GROWTH OF THE DIGITAL ECONOMY
+Nigeria's digital economy depends heavily on scalable cloud infrastructure. Sectors such as fintech, e-
+commerce, and health tech use cloud services to process transactions securely, scale operations, and reach
+wider markets, underscoring the cloud's role as a growth enabler.
+ENABLING STARTUPS AND INNOVATION
+Nigeria hosts one of Africa's most vibrant startup ecosystems, anchored by an established network of tech
+hubs across the country. Cloud services lower entry barriers by providing affordable, on-demand computing
+power, allowing entrepreneurs to focus on product development rather than infrastructure.
+ENHANCING DATA SECURITY AND DIGITAL SOVEREIGNTY
+A national cloud strategy strengthens digital sovereignty by ensuring sensitive government and citizen data
+is hosted locally, reducing reliance on foreign servers. Cybersecurity-enabled cloud solutions can also help
+mitigate the cost of cyberattacks to the Nigerian economy, while boosting investor confidence in Nigeria’s
+digital economy.
+BOOSTING PRODUCTIVITY AND JOB CREATION
+Cloud adoption drives productivity gains across sectors such as agriculture and manufacturing. At the same
+time, the expansion of cloud services creates new jobs in fields like cloud engineering, cybersecurity, and
+data science, directly supporting Nigeria's young workforce.
+25
+ENABLING REGIONAL COMPETITIVENESS
+Nigeria's participation in the African Continental Free Trade Area provides a strategic platform for deeper
+regional digital integration and expanded cross-border trade in services, strengthening the long-term case
+for locating regional cloud capacity in Nigeria.
+7.2 Why Nigeria is Ready for This
+Nigeria's readiness is supported by expanding digital demand, public-sector transformation, a mature fintech
+ecosystem, increased local internet traffic, and ongoing investment in national connectivity infrastructure.
+Nigeria stands at a pivotal moment, presenting a compelling case for hyperscale data-centre investment on
+the continent. This readiness is not based on future promises but on the convergence of present-day
+realities. A massive, young, and digitally sophisticated population of is driving sustained growth in local data
+traffic and rising demand for faster, more reliable digital experiences.
+This demand is met by a mature private sector, anchored by a fintech industry that processes large volumes
+of digital transactions. At the same time, Nigeria's Government is advancing a broad digital transformation,
+building on a foundation of to modernise public services, which requires secure, sovereign data
+infrastructure.
+Nigeria's participation in AfCFTA provides a strategic platform for deeper regional digital integration and
+expanded cross-border trade in services, strengthening the long-term case for locating regional cloud
+capacity in Nigeria. As the nation embraces the growth of artificial intelligence, the need for low-latency local
+computing has become a strategic priority.
+SECTION 8
+Key National Indicators
+8.1 A GOVERNMENT IN DIGITAL 8.2 AFRICA’S FINTECH POWERHOUSE 8.3 GATEWAY TO SUB-SAHARAN
+TRANSFORMATION AFRICA
+Electronic payment transaction value
+National Identity Number (NIN) Nigeria GDP
+enrolment N1.07 quadrillion
+US$187.76 billion
+127 million IDs (~US$702.6bn) in
+(2024)
+2024
+One of the largest digital identity
+World Bank data; nominal USD GDP has
+databases in Africa; requires robust, local
+Up 79.6% from 600 trillion in 2023, per declined since 2023-2024 following naira
+data management (NIMC, Dec 2025)
+NIBSS data; USD figure is an approximate devaluation
+conversion at prevailing 2024 exchange
+rates as reported by the source
+26
+8.3 GATEWAY TO SUB-SAHARAN 8.3 GATEWAY TO SUB-SAHARAN 8.4 AI-READY, DIGITALLY
+AFRICA AFRICA SOPHISTICATED POPULATION
+Active internet users IXPN peak data traffic E-commerce market size
+148 million+ (NCC, 2 Tbps (March US$9.35 billion
+Dec 2025) 2026) (2025)
+Growing connected population Doubled from ~1 Tbps in April 2025; Projected to grow at ~12.46% annually,
+indicator that keeping traffic local is a driven by a mobile-first consumer base
+growing priority
+SECTION 9
+The Market for Cloud Services
+The Nigerian market for cloud services is shaped by private sector demand and public sector requirements,
+especially turnkey service delivery transformations on the horizon.
+Demand for cloud services in Nigeria is driven by two principal market segments: a growing private sector,
+led by fintech, e-commerce and digitally enabled SMEs; and a large public sector progressively modernising
+service delivery and consolidating eligible ICT demand.
+As federal and state governments progressively modernise service delivery and consolidate eligible ICT
+demand, the public sector has the potential to become one of the country's largest and most stable
+consumers of certified cloud services.
+SECTION 10
+Public Sector Primed for Consolidation
+10.1 Federal Government Spending
+At the federal level alone, annual IT spending spans digitising government services, upgrading legacy data
+centres, and supporting foundational systems. NITDA's research and statistics function will publish a
+consolidated federal IT spend estimate to support investor due diligence.
+This spending is often siloed within individual ministries and agencies, leading to duplication and inefficiency.
+Further, the choice of infrastructure for new and existing projects has hitherto not been standardised,
+leaving every institution to decide based on its current capabilities often defaulting to on-premise.
+27
+10.2 State Government Spending
+At the state level, fragmentation between ministries, departments and agencies is also common, with large
+year-on-year variability in technology spending.
+SECTION 11
+Private Sector Poised for Hyperscale Consolidation
+The private sector, particularly the SME segment, is a key driver of Nigeria's economic growth, and cloud
+adoption can materially improve its efficiency and reach.
+11.1 Low Digitalisation, Promising Penetration, Low Localisation
+Nigeria’s private sector presents a compelling dual opportunity for investors, defined by a sharp contrast
+between highly digitised industries (media & entertainment, banking, financial services & insurance (BFSI),
+fintech and e-commerce) and a vast, underserved foundational economy (MSMEs, healthcare, education).
+This dynamic creates a market with both proven, existing demand hosted in non-localised clouds, and
+enormous future growth potential from cloud-native innovation.
+11.2 Increasing Sophistication of Service Offerings
+There is increasing demand for data-heavy applications, with profound implications for infrastructure.
+Advanced analytics and the future adoption of AI/ML services are computationally intensive and require
+significant data processing power. Performing these tasks at operational scale over high-latency
+international links is often inefficient, slow, and cost-prohibitive.
+SECTION 12
+Regional Competitive Positioning
+Nigeria competes for cloud and data-centre investment with several established and emerging African
+markets. Its principal competitive advantages are the scale of domestic demand, the depth of its fintech and
+digital-services ecosystem, strategic access to West Africa, expanding connectivity infrastructure, and
+Government's commitment to aggregating public-sector cloud demand. However, Nigeria must continue to
+address power reliability, foreign-exchange exposure, permitting complexity, skills availability, and regulatory
+coordination to convert these advantages into sustained investment.
+28
+SECTION 13
+National Investment in Cloud
+Leveraging past successes in telecoms and other industries, the Nigerian Government is actively supporting
+existing and emerging investments in cloud while assembling the resources required to develop this sector.
+Drawing lessons from the successful deregulation of the telecommunications sector, which unlocked
+unprecedented private investment and digital growth, the Nigerian Government is keen on implementing a
+similar, private sector-led playbook for cloud infrastructure.
+The strategy is not for Government to build and operate data centres, but to act as a strategic enabler de-
+risking investment, facilitating access to applicable incentives, and creating a clear pathway for private
+capital to build the nation's digital infrastructure.
+Incentive measures may include tax-related incentives, expedited permitting, access to suitable
+infrastructure corridors, power infrastructure support, public-private partnership support, investment
+facilitation, and other measures to be discussed with relevant government entities during implementation.
+Fiscal incentives are channelled through NIPC's existing Pioneer Status and One-Stop Investment Centre
+mechanisms rather than a new, separate NITDA incentive regime, to avoid creating parallel or conflicting
+instruments for investors.
+29
+CHAPTER VI
+Investment
+Pathway
+The Approval in Principle process
+and NITDA investor support
+SECTION 14
+Investment Pathway: Approval in Principle
+An investor considering Nigeria needs a clear, predictable pathway from initial interest to operational
+certainty. Section 14 sets out that pathway.
+The Investor Journey
+Adefinedroutefromfirstcontacttopublic-sectorparticipation
+01 02 03 04 05 06
+Digital
+Expression Approvalin Infrastructure Full Procurement
+Regulatory
+ofInterest Principle Development Certification Platform Subjecttoapplicablerules
+Initialprojectoverview Regulatorystanding Build-out+conditions NCG2026assurance Certifiedserviceaccess
+Eachstagehasadistinctregulatorypurpose;certificationandprocurementremainsubjecttoapplicablerequirements.
+Figure 2: The investor journey, from first contact to procurement.
+14.1 What NITDA Can Offer
+NITDA can offer a structured, time-bound Approval in Principle (AIP): a documented statement, issued after
+regulatory review, confirming that a proposed investment is consistent with the NDIAF, National Cloud Computing
+Guidelines 2026, and applicable data governance requirements, and setting out the conditions under which full
+certification would follow.
+An Approval in Principle issued under this Strategy is a preliminary regulatory facilitation instrument.
+It does not constitute a statutory licence, final certification, procurement commitment, fiscal incentive
+approval, land allocation, foreign-exchange guarantee, or approval otherwise required from another
+competent authority. It does not confer exclusivity or create an entitlement to Government
+patronage. Full certification and operational approval remain subject to satisfaction of applicable
+legal, technical, security, environmental, sector-specific, and institutional requirements.
+31
+14.2 AIP Process
+Approval in Principle Process
+Fourcontrolledstageswithacleardecisionoutput
+STAGE01 STAGE02 STAGE03 STAGE04
+Expressionof Regulatory AIP Full
+Interest Review Issuance Certification
+Projectscope,location, NDIAF,NCG2026,data Formalregulatorystanding Conditionssatisfiedand
+datatypesandtargetsector classificationandNDPA andoutstandingconditions listing on Digital Regulatory
+Platform
+SUBMISSIONRECEIVED CONDITIONSIDENTIFIED AIPDOCUMENTED CERTIFICATIONREADY
+Figure 3: The four stages of the Approval in Principle (AIP) process.
+STAGE DESCRIPTION
+1. Expression of Investor submits project overview (scope, location, data types, target sector) to NITDA
+Interest
+2. Regulatory Review against NDIAF , data classification, National Cloud Computing Guidelines 2026 technical requirements, and
+Review NDPA compliance posture; NDPC consulted where cross-border data transfer is proposed
+3. AIP Issuance Formal Approval in Principle issued, documenting regulatory standing and any outstanding conditions
+4. Full On satisfaction of conditions (e.g. physical build-out, security certification), investor proceeds to full certification under
+Certification NDIAF and, where relevant, listing on the Digital Regulatory Platform.
+14.3 NITDA Investor Support Services
+Recognising that successful digital infrastructure investment requires coordinated engagement across
+multiple institutions, NITDA will serve as the primary regulatory interface for investors seeking to establish
+cloud infrastructure and services within Nigeria.
+Subject to applicable laws and the mandates of relevant government institutions, NITDA will:
+01
+Provide pre-investment consultations on regulatory requirements and applicable technical
+standards.
+02
+Coordinate regulatory engagement with relevant government institutions where cross-sector
+approvals are required.
+32
+03
+Facilitate the Approval in Principle (AIP) process established under this Strategy.
+04
+Provide guidance on certification requirements under the National Cloud Computing Guideline 2026
+and the National Digital Infrastructure Assurance Framework.
+05
+Support investors in understanding Government's Cloud First policy, and opportunities for public
+sector participation.
+06
+Promote continuous dialogue between Government, industry, and development partners to
+strengthen Nigeria's cloud ecosystem.
+These services are intended to improve regulatory clarity, reduce administrative complexity, and enhance
+investor confidence while maintaining compliance with applicable Nigerian laws and regulations.
+Investors may initiate contact through NITDA's Office of the Director-General or via the enquiry channel
+published on the Digital Regulatory Platform, which serves as the confirmed institutional entry
+point for investor engagement. A dedicated investor enquiry mailbox will be published on appropriate
+NITDA channel as part of this Strategy's issuance.
+33
+CHAPTER VII
+Delivery, Risk &
+Monitoring
+Constraints, risk register, roadmap and
+performance measurement
+SECTION 15
+Infrastructure Development Constraints and Enablers
+This section identifies the specific bottlenecks that most directly affect the pace and cost of cloud and data-
+centre investment in Nigeria, distinct from the strategic pillars in Section 6. Each constraint below is paired
+with the intervention required, the lead institution, and an indicative delivery period.
+CONSTRAINT CURRENT EFFECT ON REQUIRED INTERVENTION LEAD INSTITUTION INDICATIVE
+INVESTMENT PERIOD
+Unreliable and costly grid Forces reliance on embedded/captive Facilitate PPAs and hybrid power Federal Ministry of Power; 2026–2029
+power generation, raising total cost of infrastructure; clarify embedded-generation NERC; NMDPRA
+ownership for data centres licensing pathway
+Limited carrier-neutral fibre Constrains latency and resilience for Advance Project BRIDGE and last-mile fibre NCC; IXPN; FMCIDE; NITDA 2026–2029
+redundancy hyperscale-grade connectivity expansion; support carrier-neutral
+interconnection at IXPN
+Land acquisition and Slows site selection and construction Streamline permitting coordination for State governments; NITDA; 2026–2027
+permitting timelines for data-centre campuses designated data-centre-ready sites; NIPC;NEPZA
+prioritise siting near power corridors
+Foreign-exchange access A consistently cited precondition for Ensure cloud and data-centre investment is CBN; NIPC; SovGov 2026–2027
+and repatriation certainty hyperscale capital commitment represented in CBN/NIPC FX facilitation
+windows
+Import duty and customs Raises upfront capital cost for Review customs classification and duty Nigeria Customs Service; 2027–2029
+treatment of data-centre imported servers, cooling, and power treatment for qualifying data-centre Federal Ministry of Finance;
+equipment equipment equipment NITDA
+Shortage of hyperscale- Limits the pipeline of sites meeting Publish a national inventory of data-centre- NITDA; state governments 2026–2027
+ready sites power, connectivity, and land-title ready sites with power and fibre access
+requirements
+Specialist technical skills Constrains the pace at which certified Deliver targeted vendor-agnostic training Federal Ministry of 2026–2029
+(cloud, data-centre indigenous providers and operators and industry-academia partnerships under Education; NITDA; industry
+operations) can scale Pillar 4 partners
+Certification and regulatory Uncertainty over timelines affects Publish firm AIP and certification turnaround NITDA 2027
+processing time investor planning and capital timelines (Section 14)
+deployment
+Access to long-term Limits the bankability of large-scale Engage development finance institutions DFIs; NITDA; Federal 2027–2029
+infrastructure finance data-centre and connectivity projects and blended-finance mechanisms for Ministry of Finance
+qualifying projects
+Risk Register
+The risks most relevant to cloud and data-centre investment in Nigeria are set out below as a structured
+register, with mitigation approaches and lead institutions for each.
+RISK LIKELIHOOD IMPACT MITIGATION LEAD INSTITUTION
+Power supply constraints High High PPA facilitation, embedded generation licensing pathway, siting near power NITDA / Federal
+affecting data-centre corridors (Section 6.3) Ministry of Power /
+uptime NERC
+Financing limitations for Medium High Blended finance, PPPs, development-finance mechanisms, infrastructure funds, NITDA / NIPC / DFIs
+large-scale infrastructure and assessment of existing financing vehicles (Section 6.2)
+35
+RISK LIKELIHOOD IMPACT MITIGATION LEAD INSTITUTION
+Foreign exchange exposure Medium High Coordination with CBN on FX facilitation for strategic infrastructure sectors CBN / NITDA / NIPC
+(Section 6.2)
+Skills gaps in cloud Medium Medium Curriculum embedding, industry-academia partnerships (Pillar 4) NITDA / Federal
+engineering and operations Ministry of Education
+Cybersecurity threats to Medium High Implementation of nationally recognised cloud-security requirements, incident- NITDA / ngCERT /
+cloud-hosted government response coordination, continuous compliance, and applicable certification and NDPC
+data assurance requirements under NCG 2026 and NDIAF
+Regulatory fragmentation Medium Medium SovGov as single coordination forum, institutional roles matrix (Section 5) NITDA / SovGov
+across MDAs and states
+Low adoption readiness Medium Medium Cloud First implementation, institutional readiness support, phased adoption, and NITDA
+across federal/state Digital Regulatory Platform onboarding (Sections 17 and 18)
+institutions
+Investor uncertainty over Medium Medium Formal Approval in Principle pathway; clear public messaging that legal NITDA
+regulatory exclusivity claims exclusivity is not offered (Section 14)
+SECTION 17
+Implementation Roadmap
+Implementation proceeds in three phases, moving from institutional foundation-setting through market scale-
+up to regional consolidation.
+2026–2027 — Foundation
+01
+Operationalise SovGov and publish its membership, terms of reference, and meeting
+cadence.
+02
+Publish the National Cloud Computing Guideline Technical Document and open the
+Digital Regulatory Platform for certification.
+03
+Begin Cloud First implementation and compliance monitoring in pilot Federal Public
+Institutions.
+04
+Publish firm AIP turnaround timelines and the Point of Contact for investor enquiries (Section
+14.3).
+05
+Expected market outcome: regulatory certainty established, providing the foundation
+required for early investment decisions.
+36
+2027–2029 — Scale-Up
+01
+Extend Cloud First implementation and compliance monitoring across all Federal Public
+Institutions and begin state-level adoption.
+02
+Process the first wave of hyperscale and data-centre investments through the AIP pathway.
+03
+Roll out skills programmes and industry-academia partnerships under Pillar 4.
+04
+Reach initial indigenous-provider certification targets.
+05
+Expected market outcome: the domestic cloud ecosystem expands significantly as FPIs
+migrate and private-sector adoption accelerates, creating opportunities for indigenous
+providers, system integrators, and international technology partners.
+2029–2032 — Consolidation
+01
+Establish Nigeria as a recognised regional cloud and data-centre hub under AfCFTA.
+02
+Achieve cross-government adoption of the Digital Regulatory Platform as the
+default procurement channel for cloud services.
+03
+Sustain year-on-year growth in FDI inflows tracked via the AIP pathway.
+04
+Mature a competitive indigenous cloud-service-provider ecosystem, reducing reliance on
+single-vendor dependency.
+05
+Expected market outcome: Nigeria established as West Africa's preferred destination for
+hyperscale cloud infrastructure and regional data centres, supporting increased digital trade
+under AfCFTA.
+37
+SECTION 18
+Implementation and Monitoring
+Implementation of this Strategy shall be coordinated by NITDA through its operational departments,
+regulatory programmes, SovGov, inter-agency governance arrangements, and structured partnerships with
+Federal Public Institutions, sector regulators, development partners, and the private sector. Existing
+institutional coordination mechanisms may support implementation where relevant; however, no single
+mechanism shall substitute for the responsibilities assigned to the respective lead and partner institutions
+under this Strategy.
+REPORTING
+INDICATOR CATEGORY NITDA'S COORDINATING ROLE PARTNER INSTITUTION(S)
+FREQUENCY
+Cloud adoption (FPIs on Track adoption and coordinate Cloud First FPIs; Office of the Head of Service Annual
+certified cloud) implementation and compliance monitoring
+Infrastructure investment Track investment facilitated through the NIPC; CBN; SovGov Annual
+(FDI into data centres) AIP pathway (Section 14)
+Indigenous participation Monitor certification pathway outcomes NITDA; certified indigenous CSPs Annual
+(% of certified providers) via the Digital Regulatory Platform
+Jobs and skills (cloud- Coordinate skills-training reporting with Federal Ministry of Education (training); Annual
+related roles created) Education; coordinate employment data Federal Ministry of Labour and Employment;
+with Labour and NBS National Bureau of Statistics (jobs data)
+Public-sector Aggregate procurement data from the
+SovGov; Bureau of Public Procurement Annual
+procurement value (via Digital Regulatory Platform
+Digital Regulatory distinct from FDI,which is tracked
+Platform) separately above
+Ecosystem growth Publish certified-provider and listed- SovGov secretariat Annual
+(certified providers, listed service counts
+services)
+Targets for each indicator category shall be agreed by NITDA with the relevant partner institution(s) and
+published through appropriate channel, consistent with the reporting frequency above. Execution responsibility
+sits with the named partner institutions in coordination with NITDA; NITDA's role is to convene, track, and
+publish progress rather than to execute each workstream unilaterally.
+18.1 Performance Measurement
+Performance is measured against the outcomes below. Where a baseline has not yet been established,
+NITDA will publish it by the date shown rather than substitute a directional statement for a target.
+OUTCOME KPI BASELINE TARGET DEADLINE
+Government % of FPIs completing cloud- To be established by Q4 2026 100% of FPIs assessed and classified; 2029 (framework
+adoption of Cloud readiness assessment and all new eligible cloud procurements requirement from
+First classifying eligible workloads through the approved framework 2027)
+38
+OUTCOME KPI BASELINE TARGET DEADLINE
+Indigenous provider Number of certified indigenous To be established at Digital Final numeric target to be approved and Q4 2027
+participation cloud service providers on the Regulatory Platform launch (2026) published by NITDA following baseline
+Digital Regulatory Platform validation
+Investment Value and count of investments To be established from the first AIP Final numeric target to be approved and Q4 2027
+mobilisation receiving Approval in Principle issued (2026) published by NITDA following baseline
+validation
+Regulatory AIP and certification processing time To be published by NITDA in 2026 Published turnaround time met or From 2027
+predictability (see Section 14.3) bettered in at least 90% of applications
+Workforce Cloud-related jobs created, To be established jointly with the Final numeric target to be approved and Q4 2028
+development construction and operations Federal Ministry of Labour and published by NITDA following baseline
+Employment and NBS by 2027 validation
+Cross-government Digital Regulatory Platform To be established at Digital All 36 states plus FCT registered; 2032
+adoption adoption rateacross FPIs; number Regulatory Platform launch (2026) Regulatory Platform as default
+of participating states procurement channel across FPIs
+Procurement Procurement cycle time through the To be established at Digital Final numeric target to be approved and Q4 2027
+transparency and Digital Regulatory Platform; Regulatory Platform launch (2026) published by NITDA following baseline
+efficiency SME contract share by value and validation
+volume
+Digital infrastructure Operational data-centre capacity IXPN peak traffic: 2 Tbps (March Final numeric target to be approved and Q4 2027
+capacity (MW); domestic traffic exchanged at 2026); data-centre capacity baseline published by NITDA following baseline
+IXPN to be established by NITDA in 2026 validation
+NITDA shall publish an initial Strategy Performance Baseline and Target Schedule no later than Q4
+2027, consolidating all validated baselines, approved numeric targets, responsible institutions, and
+annual reporting requirements under this Strategy.
+39
+CHAPTER VIII
+Conclusion &
+Reference
+SECTION 19
+Conclusion
+Nigeria's scale, digital economy, strategic location, expanding connectivity infrastructure, innovative private
+sector, and growing demand for cloud services create a significant opportunity to establish the country as a
+leading regional cloud and digital infrastructure hub. Realising this opportunity will require coordinated
+implementation, sustained regulatory certainty, reliable infrastructure, investable project pipelines, and
+effective collaboration between Government and the private sector.
+Through the National Sovereign Cloud Initiative and the regulatory, governance, assurance, and investment
+instruments developed under it, Government is establishing the foundations for a secure, resilient,
+competitive, and investment-ready cloud ecosystem. The Strategy provides a framework for mobilising
+private capital, strengthening domestic capabilities, accelerating cloud adoption, and attracting the
+infrastructure required to support artificial intelligence, digital public services, financial technology, e-
+commerce, and regional digital trade.
+Successful implementation will position Nigeria to meet its domestic cloud and data infrastructure
+requirements while serving the wider West African and African market.
+The implementation of this Initiative will continue to be supported through coordinated implementation,
+transparent stakeholder engagement, periodic performance reporting, and sustained collaboration with
+investors, service providers, sector regulators, development partners, and indigenous technology
+companies.
+41
+SECTION 20
+Invitation to Invest
+Nigeria invites domestic and international investors, cloud service providers, system integrators,
+and development partners to build its sovereign cloud ecosystem together. The regulatory
+foundation is in place: the NITDA Act, the Nigeria Data Protection Act, and the National Cloud
+Guideline 2026 give investors legal certainty. The institutional foundation is in place: SovGov,
+NITDA, and named sector regulators give investors a single, predictable point of engagement. And
+the market foundation is in place: a Government progressively implementing Cloud First
+requirements and aggregating eligible public-sector demand, a fintech-led private sector already
+running on cloud infrastructure, and a young, digitally fluent population driving sustained demand.
+Government's commitment is to regulatory certainty, active collaboration, and long-term market
+development not to picking winners or offering exclusivity that would undermine a competitive
+market. What NITDA offers instead is a defined pathway: submit an Expression of Interest,
+proceed through Approval in Principle, build and certify under NCG 2026, and list on the
+Digital Regulatory Platform as a certified provider to Nigeria's public sector (Section 14).
+Investors ready to take the first step should contact NITDA through the channel set out in Section
+14.3. The opportunity is significant, the framework is defined, and Government is ready to engage.
+SECTION 21
+Abbreviations
+ABBREVIATION MEANING
+AfCFTA African Continental Free Trade Area
+AI Artificial Intelligence
+AIP Approval in Principle
+BFSI Banking, Financial Services and Insurance
+CBN Central Bank of Nigeria
+CSP Cloud Service Provider
+DFI Development Finance Institution
+DG Director-General
+42
+ABBREVIATION MEANING
+ECOWAS Economic Community of West African States
+ERGP Economic Recovery and Growth Plan
+FDI Foreign Direct Investment
+FMCIDE Federal Ministry of Communications, Innovation and Digital Economy
+FPI Federal Public Institution
+FX Foreign Exchange
+GAID General Application and Implementation Directive
+GDP Gross Domestic Product
+ICT Information and Communication Technology
+IT Information Technology
+IXP Internet Exchange Point
+IXPN Internet Exchange Point of Nigeria
+KPI Key Performance Indicator
+MDA Ministry, Department and Agency
+NAICOM National Insurance Commission
+NAIS National Artificial Intelligence Strategy
+NCC Nigerian Communications Commission
+NCG 2026 National Cloud Guideline 2026
+NDEPS National Digital Economy Policy and Strategy
+NDIAF National Digital Infrastructure Assurance Framework
+NDPA Nigeria Data Protection Act
+NDPC Nigeria Data Protection Commission
+NDPR Nigeria Data Protection Regulation
+NERC Nigerian Electricity Regulatory Commission
+NEPZA Nigeria Export Processing Zones Authority
+NGDX Nigeria Data Exchange
+NGEA Nigerian Government Enterprise Architecture
+NIBSS Nigeria Inter-Bank Settlement System
+NIMC National Identity Management Commission
+43
+ABBREVIATION MEANING
+NIN National Identity Number
+NIPC Nigerian Investment Promotion Commission
+NITDA National Information Technology Development Agency
+NMDPRA Nigerian Midstream and Downstream Petroleum Regulatory Authority
+NSCI National Sovereign Cloud Initiative
+NUPRC Nigerian Upstream Petroleum Regulatory Commission
+PPA Power Purchase Agreement
+PPP Public-Private Partnership
+SI System Integrator
+SME Small and Medium Enterprise
+SPV Special Purpose Vehicle
+SRAP Strategic Roadmap and Action Plan
+USD United States Dollar
+44
+Size the Opportunity.
+Signal the Support.
+Start the Conversation.
+45
+

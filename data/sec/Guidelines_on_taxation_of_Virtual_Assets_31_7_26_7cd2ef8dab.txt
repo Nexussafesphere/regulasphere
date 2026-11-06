@@ -1,0 +1,940 @@
+NIGERIA REVENUE SERVICE
+PLOT 1241, KUR MOHAMMED AVENUE, CENTRAL AREA, ABUJA, NIGERIA
+INFORMATION CIRCULAR
+NO. 2026/21 PUBLICATION DATE: 31st July 2026
+SUBJECT: GUIDELINES ON THE TAXATION OF VIRTUAL ASSETS
+These Guidelines are issued for the information and guidance of taxpayers, Virtual
+Asset Service Providers (VASPs), Peer-to-Peer (P2P) marketplace operators, tax
+consultants, financial institutions, and all persons engaged in Virtual Assets (VA)
+activities.
+1.0 Introduction
+These Guidelines have been developed to establish a clear and standardised
+framework for the tax administration of VA and VA transactions in Nigeria.
+2.0 Purpose
+The purpose of these guidelines is to provide an administrative guide on the taxation
+of VAs in Nigeria, including -
+(a) the tax obligations of persons engaged in VAs transactions;
+(b) the registration, reporting, filing and record keeping obligations applicable to
+taxpayers and VAs service providers;
+(c) the valuation and computation of taxable income arising from VAs transactions;
+and
+(d) clarity in the administration and enforcement of the tax laws relating to VA.
+3.0 Legal Framework
+(a) Section 4 of the Nigeria Revenue Service Establishment Act, 2025;
+(b) Ninth Schedule to the Nigeria Tax Act, 2025 (the “NTA”);
+(c) Section 79 and the Fifth Schedule to the Nigeria Tax Administration Act, 2025
+(the “NTAA”); and
+(d) Any relevant provision under the above-mentioned Acts relating to VAs.
+4.0 Scope of application
+These Guidelines apply to any person who -
+(a) acquires, disposes of, exchanges or otherwise deals in VA;
+1 | Pa ge
+(b) receives income or any payment in the form of VA;
+(c) operates as a VASP and P2P marketplace;
+(d) derives income, profits or gains from VAs that is liable to tax in Nigeria; or
+(e) provides services relating to VA.
+5.0 Classification and Tax Treatment of Virtual Assets
+For the purposes of these Guidelines, VA are classified into six categories each with
+its own tax treatment -
+Category Characteristics Examples Tax treatment
+Category 1 — • Functions as a medium of Bitcoin, Ether, • Income tax on gains
+Cryptocurrencies exchange, store of value, or unit Solana, BNB, arising from the disposal
+and exchange of account. etc. of VA;
+tokens • Not pegged to any fiat currency • Stamp duty on eligible
+or asset. token transfers.
+• Value determined by market
+supply and demand.
+Category 2 — • Designed to maintain a stable USDT, USDC, • Income tax on gains
+Stablecoins and value by reference to a fiat BUSD, DAI, arising from the disposal
+payment tokens currency. PYUSD etc. of VA;
+• Functions as a payment and • Stamp duty on eligible
+settlement instrument. token transfers.
+Note: stablecoins offering
+yield or an investment
+return are assessed under
+Category 4 in respect of
+that yield component.
+Category 3 — Represents ownership of Tokenised • Income tax on gains
+Security and economic interest in an underlying equity, revenue- arising from the disposal
+investment asset, enterprise, or cash flow, sharing tokens, of VA;
+tokens regulated as securities under the asset-backed • Stamp duty on eligible
+Investments and Securities Act, tokens, token transfers.
+2025. tokenised
+bonds, and
+The exemption under
+other tokenised
+section 184(h) NTA on
+assets.
+stocks and shares applies
+to tokenised Nigerian
+stocks and shares
+specifically; it does not
+2 | Pa ge
+Category Characteristics Examples Tax treatment
+apply to all Category 3
+tokens.
+Category 4 — Provides access to a specific Gaming tokens, • Income tax on gains on
+Utility and product, platform or protocol. access tokens, disposal. Staking rewards,
+governance Includes tokens that generate DAO DeFi yield, and liquidity
+tokens yield, staking rewards, or DeFi governance rewards taxable as income
+returns. votes, staking at receipt — (see
+derivative paragraphs 9.5 and 9.6).
+tokens, receipt
+tokens etc.
+Category 5 — Unique digital assets. Digital art, Tax treatment depends on
+NFTs music NFTs, economic substance and
+collectibles, creator/investor/trader
+property NFTs status. see paragraph 9.5
+etc.
+Category 6 — A digital form of central bank eNaira; foreign Same treatment applicable
+Sovereign digital money, denominated in the CBDCs held by to fiat currencies; no VA tax
+currency national unit of account, issued by Nigerian obligations arise.
+and constituting a direct claim by residents.
+the central bank of the issuing
+jurisdiction.
+6.0 Applicable Taxes
+VA transactions shall be subject to the applicable taxes imposed under the NTA. A
+single transaction may give rise to more than one tax liability such as income tax, VAT
+or stamp duty, where different taxable events arise from the same transaction.
+6.1 Income tax
+6.1.1 Income Tax of Individuals
+(1) A resident individual who derives income, profits or gains from VA transactions
+shall be liable to income tax of individuals in accordance with the provisions of the
+NTA.
+(2) Income liable to tax includes —
+(a) gains realised on the disposal of VA;
+(b) employment income received in VA;
+(c) professional or consultancy fees received in VA;
+(d) business income received in VA;
+3 | Pa ge
+(e) mining rewards;
+(f) staking rewards;
+(g) decentralised finance (DeFi) rewards;
+(h) yield on investment;
+(i) liquidity mining incentives;
+(j) protocol rewards;
+(k) royalties received in VA;
+(l) airdrops and hard fork distributions that constitute taxable income; and
+(m) every other income arising from VA activities that is chargeable to tax under
+the NTA.
+(3) Income shall be recognised at the FMV of the VA on the date the taxpayer acquires
+unrestricted ownership or control of the asset.
+(4) Taxpayers shall declare such income in their annual income tax returns together
+with any supporting documentation prescribed by the relevant tax authority.
+(5) Where VA are received as employment income or emoluments, the employer shall
+report the remuneration in VA and the quantity paid, together with its FMV in USD
+as at the date of payment, in accordance with section 14 of the NTAA.
+6.1.2 Income Tax of Companies
+(1) A company that derives profits from VA transactions shall be liable to income
+tax of companies under the NTA.
+(2) Taxable profits include all income and gains derived from VA, including income
+and gains from—
+(a) trading in VA;
+(b) operation of VA exchanges;
+(c) transaction fees charged by VASPs;
+(d) brokerage commissions;
+(e) custody services;
+(f) wallet administration services;
+(g) token issuance activities;
+(h) mining operations;
+(i) staking activities;
+(j) decentralised finance activities;
+(k) investment gains; and
+(l) any other income or profit arising from VA business activities.
+(3) The taxable profits of a company shall be computed in accordance with the
+relevant provisions of the NTA.
+4 | Pa ge
+(4) VASPs, like every other company, shall bear their own corporate income tax
+liability on their revenues. This is separate from their deduction of tax at source
+obligations.
+6.1.3 Non-resident
+(1) A non-resident person that derives income, profits or gains from VA activities in
+Nigeria shall be liable to tax in accordance with the relevant provisions of the NTA and
+the NTAA.
+(2) The provisions relating to Significant Economic Presence (SEP) and Nigerian-source
+income shall apply to VA activities in the same manner as they apply to any other
+taxable business.
+(3) The tax liability and other obligations of non-resident persons in Nigeria are set
+out in the Information Circular on Taxation of Non-Resident Persons and Guidelines
+for Filing Income Tax Returns by Foreign Companies, both at
+www.nrs.gov.ng/resources.
+6.2 Value Added Tax (VAT)
+(1) The transfer of ownership of a VA shall not, of itself, constitute a taxable supply
+for VAT purposes.
+(2) VAT shall, however, apply to taxable supplies connected with VA transactions
+including—
+(a) exchange fees charged by VASPs;
+(b) brokerage commissions;
+(c) custody fees;
+(d) wallet management fees;
+(e) listing fees;
+(f) transaction facilitation fees;
+(g) advisory services;
+(h) digital platform service fees;
+(i) professional services rendered in connection with VA; and
+(j) every other taxable service supplied for consideration.
+(3) Where VAs are used as consideration for taxable goods or services, VAT shall apply
+to the underlying supply in the same manner as if payment had been made in fiat
+currency.
+(4) The supplier shall account for and remit VAT in accordance with the applicable tax
+laws.
+5 | Pa ge
+(5) Where a non-resident VASP supplies taxable digital services to persons in Nigeria,
+the provider shall comply with the registration and compliance obligations applicable
+to non-resident suppliers.
+(6) Where a non-resident supplier does not charge VAT, the resident company is
+required to self-charge.
+(7) All VAT liabilities shall be computed using the FMV of the VA at the time of
+transaction and remitted in the currency of transaction.
+6.3 Stamp Duties
+(1) Stamp duty applies to TOKEN to FIAT and FIAT to TOKEN transfers under item 33
+of the Ninth Schedule to the NTA.
+(2) Where the transaction is facilitated through a VASP or other recognised
+intermediary, the VASP or intermediary shall deduct and remit the applicable stamp
+duty in accordance with procedures prescribed by the Service.
+(3) Where a VA is used to settle a transaction that independently attracts stamp duty
+under the NTA, the applicable duty on the underlying instrument shall remain payable.
+(4) Nothing in these Guidelines shall be construed as exempting any dutiable
+instrument from stamp duty merely because settlement is effected through a VA.
+(5) Payments for goods or services using VA are not dutiable except where the
+underlying transaction is independently dutiable under the instruments listed in the
+Ninth Schedule to the NTA.
+(6) Where a transaction is settled using VA, the applicable duty on the underlying
+instrument under the Ninth Schedule shall be chargeable on the instrument.
+(7) The stamp duty applicable on VA transfers and any other duty under the Ninth
+Schedule to the NTA are separate duties and both may apply to the same transaction.
+(8) The stamp duty obligation crystallises at the point of the TOKEN to FIAT or FIAT
+to TOKEN conversion in Nigeria and is not affected by the subsequent transmission of
+the token to an offshore recipient.
+(9) The duty is borne by the transferee of the token in every dutiable transaction. The
+stamp duty is withheld from the token credited to the transferee and does not reduce
+the fiat consideration payable under the transaction.
+(10) A VASP shall withhold the stamp duty in token units from the tokens credited to
+the transferee and remit the duty so withheld to the Service not later than the 15th
+and 30th of the month of transaction.
+(11) Application of stamp duty charge -
+6 | Pa ge
+Transaction Who bears the duty Collection
+Buyer acquires Buyer is the transferee of the • VASP withholds stamp duty (in tokens) at
+token with fiat token the applicable rate (see paragraph 8.0)
+from the token being credited to the buyer.
+• Buyer receives the token net of stamp duty
+in token units.
+• Buyer pays the full fiat consideration.
+• Seller receives full fiat.
+Seller disposes of Buyer of the token is the • VASP withholds stamp duty (in tokens) at
+token for fiat transferee the applicable rate (see paragraph 8.0)
+from the token being credited to the buyer/
+counterparty.
+• Buyer receives the token net of stamp duty
+in token units.
+• Seller delivers the full token quantity and
+receives the full fiat consideration.
+Cross-border B2B Nigerian • VASP/ Intermediary withholds stamp duty
+payment — business/payer/buyer is the (in tokens) at the applicable rate (see
+Naira-to-token transferee of the token paragraph 8.0) from the token being
+conversion by credited to the buyer / business before
+Nigerian onward transmission to the foreign
+intermediary counterparty.
+• The foreign recipient is not the transferee
+for the purpose of Nigerian stamp duty.
+Illustration 1 – Stamp Duty
+Token/Fiat Acquisition
+1. User A pays ₦1,000,000 to acquire 1 BTC at a market price of ₦1,000,000 per BTC.
+2. Stamp duty at 1.5% = 0.015 BTC withheld from token credited to User A.
+3. Net BTC credited to User A = 0.985 BTC. Seller receives ₦1,000,000 in full. VASP
+remits 0.015 BTC to NRS.
+4. User A later sells 0.985 BTC at ₦2,000,000 per BTC (proceeds = ₦1,970,000).
+5. User A receives ₦1,970,000 in full. Buyer receives 0.985 BTC less 1.5% stamp duty
+= 0.970225 BTC.
+7.0 Taxable and Non- Taxable Events
+7.1 Taxable Events
+7 | Pa ge
+S/N Event Tax consequence Collection Income Stamp VAT in
+mechanism Tax Duty in
+(WHT/
+PAYE)
+in
+1 Purchase of • Stamp duty under VASP/escrow N/A Token N/A
+VA with fiat Ninth Schedule item deducts stamp duty acquired
+— VASP or 33; from token credited
+P2P escrow • No income tax. to buyer.
+2 Cross- • Stamp duty at Nigerian N/A Token Currency
+border B2B applicable rate intermediary acquired of
+payment – under Ninth withholds stamp transaction
+Naira to Schedule item 33; duty in token before
+token • No income tax at onward
+conversion conversion; transmission.
+by • VAT on service fees
+intermediar at applicable rate.
+y
+3 Sale of VA For Category 1: • In the case of Token Token N/A
+for fiat - • Income tax on crypto and disposed acquired
+VASP or P2P chargeable gain in exchange tokens: (Categor
+escrow dollar; VASP/escrow y 1); N/A
+(Category 1) • WHT at applicable withholds on gross (Categor
+rate on gross proceeds in token y 2)
+proceeds; disposed;
+• Stamp duty at • VASP/escrow
+applicable rate on deducts stamp
+transferee. duty from token
+credited to buyer;
+• VASP reporting +
+For Category 2:
+annual return.
+• No WHT;
+• Gain is measured
+against underlying
+pegged fiat;
+• Declared in self-
+assessment return
+where gain arises;
+• Stamp duty applies.
+4 Sale of VA • Income tax on • VASP/escrow Token Token N/A
+for fiat - chargeable gain withholds on gross disposed acquired
+8 | Pa ge
+VASP or P2P (dollar-referenced proceeds in token
+escrow gain); disposed;
+(Category 3) • WHT on gross • Passive income:
+proceeds; WHT in token
+• Passive incomes received;
+(dividends, interest, • VASP reporting +
+revenue shares) are annual return.
+taxable at dollar FMV
+on receipt.
+5 Payment for • Income tax on real • VASP reporting + Token N/A Currency
+goods/servi dollar gain from the annual return; disposed of
+ces using VA disposal of the VA; • Vendor accounts for transaction
+• VAT on underlying and remits VAT at
+supply at applicable standard rate on
+rate; underlying supply
+• No stamp duty VASP/escrow
+withholds on gross
+proceeds in token
+disposed.
+6 Employment Income tax on dollar • PAYE to be Naira N/A N/A
+income or FMV converted to deducted by
+emoluments Naira at CBN/NAFEM employer at source
+paid in VA rate at payroll date where Nigerian
+(monthly). taxpayer;
+• Self-assessed by
+recipient on annual
+return where
+employer is non-
+resident or does
+not deduct.
+7 Professional • Income tax • Deducted by payer Naira N/A Currency
+fees computed and paid at source where its of
+received in in Naira; Nigerian taxpayer; transaction
+VA • For the purpose of • Self-assessed by
+income tax, VA at recipient on annual
+dollar FMV return where payer
+converted to Naira is non-resident or
+at CBN/NAFEM rate does not deduct;
+on date of • Recipient accounts
+transaction; for VAT in Naira.
+• WHT on fees;
+9 | Pa ge
+• VAT on professional
+fees at applicable
+rate
+8 Mining • Income tax on VASP reporting + Token N/A N/A
+rewards rewards computed Annual self- received
+received and paid in Naira; assessment returns.
+• For the purpose of
+income tax, VA at
+dollar FMV
+converted to Naira
+at CBN/NAFEM rate
+on the date of
+receipt;
+• WHT on rewards
+where distributed by
+licensed VASP.
+9 Staking • Income tax on VASP reporting + Token N/A N/A
+rewards rewards computed Annual self- received
+received and paid in Naira; assessment returns
+• For the purpose of
+income tax, VA at
+dollar FMV
+converted to Naira
+at CBN/NAFEM rate
+on the date of
+receipt;
+• WHT on rewards;
+• Cost base stepped
+up.
+10 Airdrop/ • Income tax on VASP reporting + Token N/A N/A
+Hard fork rewards computed Annual self- received
+distribution and paid in Naira; assessment returns
+— realisable • For the purpose of
+FMV at income tax, VA at
+receipt dollar FMV
+converted to Naira
+at CBN/NAFEM rate
+on the date of
+receipt;
+• WHT on rewards
+10 | Pa ge
+cost base stepped up
+to FMV.
+11 Airdrop/ Income tax on full Annual self- Token N/A N/A
+Hard fork proceeds at disposal. assessment returns disposed
+distribution on disposal.
+— no
+realisable
+FMV at
+receipt
+12 NFT sale by • Income tax on • Marketplace Token/fia N/A Currency
+creator income or profits reporting + t of
+computed and paid annual return; received transaction
+in Naira; • creator accounts
+• For the purpose of for VAT.
+income tax, VA at
+dollar FMV
+converted to Naira
+at CBN/NAFEM rate
+on the date of
+receipt;
+• VAT on supply at
+applicable rate.
+13 NFT resale • Income tax on real • VASP/marketplace Token N/A N/A
+by investor dollar gain; reporting + annual disposed
+• WHT at applicable return;
+rate on gross • WHT in token
+proceeds. disposed.
+14 DeFi yield, • Income tax on • Annual self- Token N/A N/A
+lending and rewards computed assessment; received
+liquidity and paid in Naira; • WHT at applicable
+rewards • For the purpose of rate where
+income tax, VA at distributed by
+dollar FMV licensed VASP.
+converted to Naira
+at CBN/NAFEM rate
+on the date of
+receipt;
+• WHT on rewards
+cost base stepped
+up.
+11 | Pa ge
+15 Gift of VA to • No income tax on • No collection at N/A N/A N/A
+third party donor; time of gift;
+• Recipient acquires • Gain computed on
+VA for a recipient's disposal
+consideration in accordance with
+determined in NTAA.
+accordance with
+section 36(2) NTA;
+• Gain deferred to
+recipient's disposal.
+16 Collateral Income tax on gain • VASP/protocol at Token N/A N/A
+liquidation determined as liquidation; liquidated
+on DeFi follows: • WHT at applicable
+loan default • Liquidation rate on gross
+proceeds less cost proceeds.
+base of collateral at
+CBN/NAFEM rate on
+liquidation date.
+7.2 Non-Taxable Events
+The events listed in this paragraph do not, of themselves, constitute a taxable disposal
+or taxable supply but they may establish the cost base for future disposals.
+7.2.1 Holding of Virtual Assets
+The mere holding of a VA after acquisition shall not constitute a taxable event.
+Accordingly, any unrealised appreciation in the value of a VA shall not be subject to
+income tax until the occurrence of a taxable disposal.
+7.2.2 Transfers Between Wallets
+The transfer of a VA between wallets owned and controlled by the same individual
+shall not constitute a disposal for income tax purposes, provided that there is no
+change in the beneficial ownership of the VA. This does not apply where the transfer
+involves a company, partnership, trust, unincorporated association or any other legal
+person, or where there is any change in beneficial ownership.
+7.2.3 Staking Lock-Up
+The transfer or commitment of a VA into a staking, validation or similar protocol solely
+for the purpose of participating in network operations shall not constitute a disposal
+and shall not give rise to income tax.
+7.2.4 Minting of Non-Fungible Tokens
+12 | Pa ge
+The creation or minting of a Non-Fungible Token (NFT) shall not constitute income, a
+disposal of property or a taxable supply. Tax liability shall arise only upon the first
+sale, transfer or other disposal of the NFT for consideration.
+7.2.5 Tokenisation of Real-World Assets
+The tokenisation of a real-world asset shall not, of itself, constitute a disposal of the
+underlying asset where there is no change in beneficial ownership. The conversion of
+ownership rights into digital tokens shall be regarded as a change in the form of
+ownership and shall not give rise to income tax.
+7.2.6 Collateralised Loans
+The receipt of funds or other consideration under a loan secured by VA shall not
+constitute taxable income. Such receipt shall be treated as the creation of a liability
+and shall not give rise to a taxable gain.
+7.2.7 Taxable Supply
+The transfer of a VA does not in itself constitute a taxable supply and does not attract
+VAT.
+7.2.8 Central Bank Digital Currencies
+The eNaira and all CBDCs are excluded from the VA tax framework.
+8.0 Applicable Rates and Collection of Tax
+These rates shall apply until revised by subsequent legislation, regulation or
+instrument issued by the Service.
+8.1 Rates and Collection mechanism
+Tax Legislative basis Rate Collection Mechanism
+Income tax on gains on NTA 2025 Applicable rates under Self-assessed and paid by
+disposal. the NTA the taxpayer in
+• Progressive rates for accordance with the filing
+individuals and payment provisions of
+• 30% for companies the NTAA.
+other than small
+companies.
+13 | Pa ge
+Income tax on disposal Deduction of Tax at WHT rate of 1% on VASP/ VASP-operated P2P
+proceeds deducted at Source Regulations gross disposal proceeds marketplaces to withhold
+source for assets in (WHT Regulations) from the VA disposed of.
+Category 1, 3 and 5 where
+applicable.
+Income tax on gains on NTA 2025; NTAA Applicable rates under Self-assessed and paid by
+disposal- Category 2 (self-assessment the NTA the taxpayer in
+stablecoins. applies). • Progressive rates for accordance with the filing
+individuals and payment provisions of
+• 30% for companies the NTAA.
+Income tax on income WHT Regulations 10% • Deducted at source by
+receipts (staking, mining, payer according to the
+airdrops, DeFi yield) WHT rules.
+(Treated as passive • Where the payer is a non-
+income). resident person or fails to
+deduct the tax, the
+recipient shall declare the
+income and account for
+the tax in the annual self-
+assessment return.
+• Where tax is not
+deducted at source, the
+taxpayer shall account for
+the income in the annual
+tax return.
+14 | Pa ge
+Income tax on income WHT Regulations 5% or 10% as • Deducted at source by
+from applicable. payer according to the
+consultancy/professional WHT rules.
+fees • Where the payer is a non-
+resident person or fails to
+deduct the tax, the
+recipient shall declare the
+income and account for
+the tax in the annual self-
+assessment return.
+• Where tax is not
+deducted at source, the
+taxpayer shall account for
+the income in the annual
+tax return.
+Stamp duty on Item 33, Ninth 1.5% Collected by the VASP/
+TOKEN/FIAT transactions. Schedule to the VASP-operated P2P
+NTA 2025 marketplaces from the VA
+credited to the transferee.
+The fiat consideration
+shall not be reduced by
+the amount of the stamp
+duty.
+VAT on VASP service fees NTA 2025 7.5% VASP/ VASP-operated P2P
+marketplaces to deduct
+and remit the Service in
+accordance with the
+NTAA.
+Income tax on VASP NTA 2025 30%, subject to section VASP self-assess and file
+profits 57 of the NTA. income tax returns of
+companies.
+8.2 Collection Mechanism for Peer-to-Peer (P2P) Activity
+The following is the P2P transaction category and collection mechanism subject to
+supervised intermediary.
+15 | Pa ge
+Category Description Collection Mechanism
+Category A — P2P The VASP holds the seller's VA Full collection obligation under paragraph
+on VASP-operated in escrow, matches parties, 8.1. Same as regular exchange VASPs.
+marketplace with confirms the fiat payment leg,
+escrow and releases the asset to the
+buyer on confirmation.
+Category B — P2P Platform matches parties but Same treatment as regular exchange
+on facilitation does not hold assets. May be a VASPs.
+platform without VASP if it systematically Registration and reporting obligations
+escrow facilitates VA transactions. apply where the platform qualifies as a
+VASP.
+Category C — True No intermediary of any kind. Annual Self-assessment returns by
+off-platform bilateral Wallet-to-wallet, messaging taxpayer applies.
+transactions apps, in-person arrangements.
+9.0 VALUATION AND COMPUTATION OF TAXABLE GAINS
+9.1 The dollar-referenced gain computation
+9.1.1 The Rule
+(1) The income tax on gain arising from the disposal of VA in Category 1 is computed
+by reference to the USD value of the asset at acquisition and at disposal. Only the
+resulting dollar gain is then converted to Naira at the CBN/NAFEM rate on the disposal
+date for the purpose of determining the Naira tax liability.
+(2) Gains arising on disposal of VA in Category 2 are measured against the underlying
+pegged fiat currency and will in normal circumstances be nil or negligible.
+9.1.2 The Computation Formula
+Step 1 — Dollar cost base: The USD price of the asset at acquisition.
+a. For fiat acquisitions, total fiat paid divided by net token units received after
+stamp duty deduction, converted to dollars at the CBN/NAFEM rate on the
+acquisition date.
+b. For swap acquisitions: the dollar FMV of the asset received on the swap date.
+Step 2 — Dollar disposal proceeds. The USD price of the asset at disposal.
+a. For fiat disposals: Naira proceeds received divided by the CBN/NAFEM rate on
+the disposal date.
+b. For swap disposals: the dollar FMV of the asset received on the swap date.
+16 | Pa ge
+Step 3 — Dollar gain or loss. Dollar disposal proceeds minus dollar cost base. If
+negative, this is a dollar loss available for annual netting under paragraph 9.4.
+Step 4 — Naira taxable gain. Multiply the dollar gain by the CBN/NAFEM rate on
+the disposal date. The resulting Naira figure is the assessable gain for income tax
+purposes.
+Step 5 — Token deducted at source.
+a. Apply the applicable WHT rate (paragraph 8.0) to the gross disposal proceeds
+expressed in token terms to determine the token quantity to be withheld by the
+VASP at source.
+b. WHT is computed on gross proceeds, not on the gain.
+c. The Naira equivalent of the withheld token at the CBN/NAFEM rate on the
+withholding date constitutes the taxpayer's WHT credit on the annual return.
+Illustration 2 — Disposal for fiat with dollar-referenced gain
+1. User A acquires 0.985 BTC (net after stamp duty) by paying ₦1,000,000.
+CBN/NAFEM rate at acquisition = ₦1,000/$.
+2. Dollar cost base = $1,000 (= ₦1,000,000 ÷ ₦1,000/$).
+3. User A sells 0.985 BTC. Proceeds = ₦1,970,000. Rate at disposal =
+₦1,500/$.
+4. Dollar disposal proceeds = $1,313.33. Dollar gain = $313.33.
+5. Taxable Naira gain = $313.33 × ₦1,500 = ₦470,000. The Naira depreciation
+component (₦500,000) is excluded from taxable income.
+6. For comparison: Under a straight Naira-to-Naira computation (without the
+dollar-referenced methodology), the apparent gain would be ₦1,970,000 −
+₦1,000,000 = ₦970,000. The difference of ₦500,000 represents the effect
+of Naira depreciation from ₦1,000/$ to ₦1,500/$ during the holding period.
+Only the real dollar gain of $313.33, converted at the disposal date rate, is
+assessable.
+Illustration 3 — TOKEN/TOKEN swap
+1. User A acquired 2 ETH at $1,500 per ETH. Dollar cost base = 2 × $1,500 =
+$3,000.
+17 | Pa ge
+2. User A swaps 2 ETH for 0.1 BTC when ETH = $2,000 and BTC = $40,000. The
+swap is treated as a disposal of 2 ETH and an acquisition of 0.1 BTC.
+3. The FMV of the ETH disposed of is 2 × US$2,000 = US$4,000. Accordingly,
+the gross disposal proceeds are US$4,000.
+4. The gain on disposal is computed as follows — (i) Dollar disposal proceeds =
+US$4,000 (ii) Dollar cost base = US$3,000 (iii) Dollar gain = US$1,000
+5. CBN/NAFEM rate on swap date = ₦1,600/$. Taxable Naira gain = $1,000 ×
+₦1,600 = ₦1,600,000.
+6. The VASP shall deduct withholding tax at 1% of the gross disposal proceeds
+from the ETH disposed of.
+Gross disposal proceeds = 2 ETH
+Withholding Tax = 1% × 2 ETH = 0.02 ETH
+The VASP shall remit 0.02 ETH to the Service. This amount enters the annual
+netting calculation as a WHT credit.
+7. Dollar cost base of 0.1 BTC acquired = FMV of ETH given up = $4,000. This
+becomes the starting cost base for computing the gain when User A
+subsequently disposes of the BTC.
+9.2 Assets not in USD
+(1) Where a token is not directly priced in USD, its dollar FMV is derived by converting
+through its primary trading pair at the transaction timestamp. For example, a token
+priced in Bitcoin is converted to dollars using the Bitcoin dollar price at that timestamp;
+a token priced in Ether is converted using the Ether dollar price.
+(2) All prices must be sourced from an aggregator approved by the Service. The
+Service shall publish on its website, and may update from time to time, the list of
+approved aggregators or valuation sources for the purposes of these Guidelines.
+(3) The USD remains the reference currency for all gain computations.
+(4) Where no verifiable market price exists in any trading pair, the taxpayer must
+document the valuation methodology and retain it for at least six years unless
+otherwise permitted by the Service.
+9.3 Cost base
+9.3.1 Fiat acquisitions
+18 | Pa ge
+(1) The cost base per unit is the total fiat consideration paid divided by the net token
+units received after stamp duty deduction, converted to dollars at the CBN/NAFEM
+rate on the acquisition date.
+(2) Where the cost base per unit therefore exceeds the market price per unit by the
+stamp duty component, then the duty paid at acquisition is embedded in the cost base
+and is not separately deductible at disposal.
+9.3.2 TOKEN/TOKEN swap
+The cost base of the new token received is the dollar FMV of the token disposed of at
+the swap date, divided by the number of units of the new token received.
+9.3.3 Gratuitous receipts
+(1) For gratuitous receipts including staking rewards, mining rewards, airdrops with a
+realisable FMV at receipt, hard forks and promotional tokens, the cost base is stepped
+up to the dollar FMV at the time of receipt, since the full receipt value is already
+assessable as income at that point.
+(2) For hard fork distributions with no realisable FMV at the date of receipt, the cost
+base is nil and the full disposal proceeds are taxable on first disposal, consistent with
+treatment under paragraph 9.6
+(3) FIFO is the default cost base method, or Weighted Average Cost is accepted as an
+alternative where elected consistently from the commencement of VA activity and
+applied without interruption. A taxpayer shall not switch methods retrospectively.
+9.4 Annual netting of gains and losses
+(1) Gains and losses from all VA disposals in a year of assessment shall be computed
+in USD and netted at year-end.
+(2) Each disposal gain or loss shall first be computed in USD and then converted to
+Naira using the CBN/NAFEM exchange rate on the date of the transaction.
+(3) The resulting Naira amounts shall be aggregated to determine the net assessable
+income (or loss) from VA disposals for the year.
+(4) Tax withheld by VASPs shall be credited against the final tax liability, with any
+balance payable or refundable through the annual return.
+(5) VA losses may only be set off against VA gains.
+(6) Losses from non-VA activities shall not be offset against VA gains, and VA losses
+shall not be offset against non-VA income as provided under section 27 of the NTA.
+(7) Capital losses may be carried forward indefinitely and set off only against future
+VA gains.
+19 | Pa ge
+(8) In the case of individuals, trading losses incurred in the course of a VA trading
+business shall be deductible subject to section 28 of the NTA while in the case of
+companies, trading losses shall be carried forward in accordance with the provisions
+of NTA.
+(9) Losses arising from transactions between connected persons shall be computed
+by reference to the FMV of the asset at the time of disposal, and not the actual
+consideration.
+9.5 Special rules for certain transactions
+The following rules shall apply to specified VA transactions—
+(1) Stablecoins: Gains arising from the disposal of stablecoins shall be determined by
+reference to the underlying pegged fiat currency. No withholding tax shall apply to the
+disposal of stablecoins. Any taxable gain shall be reported through the self-assessment
+return.
+(2) Cross-border Transactions: The conversion of Naira into VAs for cross-border
+settlement shall not constitute a taxable disposal for the purpose of income tax. Any
+subsequent disposal of the VA shall be subject to the applicable tax provisions.
+(3) Employment and Professional Income: VAs received as employment income or
+emoluments, or professional fees shall be valued at their FMV on the date of receipt
+and taxed in accordance with the applicable provisions of the NTA.
+(4) Staking, Mining and DeFi Rewards: VAs received as staking rewards, mining
+rewards, liquidity rewards or other decentralised finance incentives shall constitute
+taxable income on the date of receipt. The value recognised as income shall become
+the acquisition cost of the asset.
+(5) Non-Fungible Tokens: Income derived by a creator from the sale of an NFT shall
+constitute business income. Gains arising from the disposal of an NFT held as an
+investment shall be taxed in accordance with these Guidelines.
+9.6 Airdrop computation
+(1) The taxable amount is the FMV of the received tokens in USD on the date of
+receipt, converted to Naira using the prevailing CBN/NAFEM exchange rate on that
+date.
+(2) The cost base of the received tokens is stepped up to the FMV at receipt to prevent
+double taxation on future disposal.
+(3) In the case of a hard fork, the cost base of the original tokens remains unchanged
+and is not reduced or apportioned. The new tokens acquire a separate cost base
+equal to their FMV on the date of receipt.
+20 | Pa ge
+(4) Where no active market, observable bid price, or redemption mechanism exists at
+receipt, the taxable amount at receipt is nil. Tax is deferred until first disposal, at
+which point the full disposal proceeds (converted to Naira) are taxable with a nil
+cost base.
+(5) Taxpayers must document the absence of FMV at receipt and retain records for
+six (6) years.
+(6) Tokens with no identifiable issuer/origin, no realisable FMV, and no prospect of
+realisation attract no tax liability at receipt or on disposal (unless actual proceeds
+are received).
+(7) Sub-paragraphs (4) to (6) does not apply to airdrops or hard fork distributions
+which remain subject to the general rules, i.e. those with no observable FMV or
+that are effectively worthless, benefit from the deferred taxation rule.
+10.0 Wrapped Tokens and DeFi Receipt Tokens
+10.1 Wrapped tokens
+(1) The conversion of a VA into its wrapped equivalent, including the conversion of
+Bitcoin (BTC) into Wrapped Bitcoin (WBTC), shall not constitute a taxable disposal
+where —
+(a) the taxpayer retains the beneficial ownership of the underlying VA;
+(b) the wrapped token represents the same underlying asset; and
+(c) no consideration is received other than the wrapped token.
+(2) The acquisition cost and holding period of the original VA shall be carried over to
+the wrapped token.
+(3) The subsequent unwrapping or redemption of the wrapped token for the
+underlying VA shall likewise not constitute a taxable disposal.
+10.2 DeFi receipt tokens
+(1) The deposit of a VA into a decentralised finance protocol in exchange for a receipt
+token, including the deposit of Ether (ETH) in exchange for stETH or similar receipt
+tokens, shall not constitute a taxable disposal where —
+(a) the receipt token represents the taxpayer's continuing interest in the deposited
+VA;
+(b) the taxpayer retains the beneficial ownership of the underlying asset; and
+(c) the transaction does not result in the realisation of value.
+21 | Pa ge
+(2) The cost base and holding period of the underlying VA shall be transferred to the
+receipt token.
+10.3 Subsequent disposal
+Where a wrapped token or DeFi receipt token is—
+(a) sold;
+(b) exchanged for another VA;
+(c) used as consideration for goods or services; or
+(d) otherwise disposed of in a transaction involving a change in beneficial
+ownership,
+the transaction shall constitute a taxable disposal, and the gain or loss shall be
+computed in accordance with these Guidelines.
+10.4 Income from Wrapped Tokens and DeFi Protocols
+(1) Income derived from wrapped tokens or DeFi receipt tokens, shall constitute
+taxable income on the date the taxpayer acquires unrestricted ownership or control of
+the income.
+(2) The FMV recognised as income shall constitute the acquisition cost of the VA
+received for the purpose of any subsequent disposal.
+11.0 Remittance of tax
+11.1 Token-native remittance
+(1) Income tax deducted at source and stamp duty shall be remitted to the Service
+in the originating token of the transaction.
+(2) VAT shall be remitted in the currency of transaction in all cases.
+(3) No intermediate Naira conversion is required at the point of withholding for
+income tax or stamp duty.
+(4) Naira translation for income tax purposes shall occur only once, at the annual
+tax return stage, using the CBN/NAFEM exchange rate applicable on each
+transaction date.
+11.2 Token Treasury
+(1) For the initial implementation of these Guidelines, the Service shall accept only
+tokens that are supported and transacted by participating registered VASPs.
+22 | Pa ge
+The Service may publish and update the list of supported tokens from time to
+time.
+(2) Where a token is not on the list of supported tokens and requires conversion
+to a supported token, the cost of such conversion shall be borne by the Service
+and shall not reduce the taxpayer’s WHT credit.
+(3) The list of supported tokens is for the purposes of remittance and shall not
+determine whether a VA is taxable.
+11.3 Currency of Remittance per transaction Type
+Transaction Income tax WHT Stamp duty remittance VAT remittance
+type remittance
+FIAT/TOKEN • no income tax at • Token received by • VAT on VASP
+acquisition acquisition; buyer, service fee
+• cost base established • withheld in token units; • Remittance in
+• remitted in token currency of
+transaction
+Cross-border • no income tax at • Token credited to • VAT on intermediary
+B2B payment - conversion; Nigerian business, service fee
+Naira-to-token • cost base established • withheld in token units • Remittance in
+conversion by Nigerian intermediary currency of
+before onward transaction
+transmission;
+• remitted in token
+TOKEN/FIAT Token being disposed of • Token received by • VAT on VASP
+disposal (originating token) buyer/counterparty, service fee
+• withheld in token units; • Remittance in
+• remitted in token currency of
+transaction
+TOKEN/TOKEN Token being disposed of N/A. • VAT on VASP
+swap (originating token) service fee
+• Remittance in
+currency of
+transaction
+Gratuitous Token received N/A N/A
+receipts
+(staking,
+23 | Pa ge
+mining,
+airdrops)
+Employment • Naira Remittance, N/A Remittance in currency
+income or • deducted by of transaction where
+emoluments / employer at source applicable
+PAYE where it is a resident
+taxpayer;
+• self-assessed by
+recipient on annual
+return where
+employer is non-
+resident or does not
+deduct.
+Professional • Naira Remittance, N/A Remittance in currency
+fees in VA • deducted by payer at of transaction where
+source where the applicable
+payer is a Nigerian
+taxpayer;
+• self-assessed by
+recipient on annual
+return;
+• self-assessed by
+recipient where payer
+is non-resident or
+does not deduct.
+12.0 Taxpayer Obligations
+(1) Any person engaged in VAs activities shall register for tax purposes and obtain
+a Tax ID.
+(2) VASPs and P2P escrow operators are required to make a valid Tax ID a
+precondition for account activation in accordance with section 8 of the NTAA.
+12.1 Obligations of VASPs
+Every VASP and P2P marketplace operator shall —
+(a) deduct tax from taxable transactions outlined in these Guidelines;
+(b) collect stamp duty where applicable as provided under these Guidelines;
+(c) charge and account for VAT on taxable supplies;
+24 | Pa ge
+(d) remit all taxes collected or withheld, to the relevant tax authority within the
+time specified in NTAA or the Deduction of Tax at Source (Withholding)
+Regulations;
+(e) submit all returns provided in sections 11, 22, 25, 28 and any other relevant
+returns provided under the NTAA; and
+(f) maintain records in accordance with section 31 and the Fifth Schedule to the
+NTAA.
+13.0 Non-compliance
+The penalties set out in this paragraph apply to the defaults relating to compliance
+with these Guidelines and are without prejudice to the application of any other penalty,
+interest or offence prescribed under the NTAA or any other applicable law –
+Default Penalty
+1. Failure to register ₦50,000 (first month); ₦25,000 per
+subsequent month.
+2. Failure to file returns or filing incomplete ₦100,000 (first month); ₦50,000 per
+returns subsequent month of default.
+3. Failure to keep books and records ₦50,000 (company); ₦10,000 (individual).
+4. Failure to deduct tax at source 40% of the amount not deducted.
+5. Failure to remit tax deducted at source 10% per annum + CBN MPR interest + amount
+deducted but not remitted.
+6. VASP or P2P marketplace operator non- ₦10,000,000 (first month); ₦1,000,000 per
+compliance subsequent month of default.
+7. False or fictitious VAT refund claim 100% of amount claimed + CBN MPR interest.
+8. Non-payment of tax — Naira transactions 10% of amount due + CBN MPR interest.
+9. Non-payment of tax — foreign currency 10% of amount due + SOFR plus spread.
+transactions
+10. Failure to attend to demands, request or ₦100,000 (first day); ₦10,000 per subsequent
+notices day of default.
+11. Failure to disclose facts in a dutiable ₦100,000 (administrative penalty), fine of
+instrument; and ₦50,000 (on conviction), imprisonment term
+not exceeding three years or both fine and
+imprisonment.
+25 | Pa ge
+Default Penalty
+12. Failure to notify change of address ₦100,000 (first month); ₦50,000 per
+subsequent month of default.
+14.0 Amendment or Review of Guidelines
+The Service may, at any time, withdraw or replace these Guideline or publish an
+amended or updated version.
+15.0 Enquiries
+All enquiries on any aspect of this publication should be directed to:
+The Executive Chairman
+Nigeria Revenue Service
+Plot 1241, Kur Mohammed Avenue,
+Central Area,
+Abuja, Nigeria.
+Or
+Director,
+Tax Policy and Advisory Department
+Nigeria Revenue Service
+Revenue House,
+Plot 1241, Kur Mohammed Avenue,
+Central Area,
+Abuja, Nigeria.
+Or
+Visit our website: www.nrs.gov.ng
+Email: enquiries@nrs.gov.ng
++2349073777777; +2349072111111; +2349074444441; +2349074444442
+26 | Pa ge
+Glossary
+B2B Business-to-Business
+BUSD Binance USD
+BTC Bitcoin
+CBN MPR Central Bank of Nigeria Monetary Policy Rate
+CBDC Central Bank Digital Currency
+DAI Decentralised Stablecoin
+DAO Decentralised Autonomous Organisation
+DOLLAR USD
+DeFi Decentralised Finance
+ETH Ether
+FMV Fair Market Value
+FIFO First in First Out
+ISA Investments and Securities Act
+NAFEM Nigerian Autonomous Foreign Exchange Market
+NFT Non-Fungible Tokens
+NRS Nigeria Revenue Service
+NTA Nigeria Tax Act
+NTAA Nigeria Tax Administration Act
+P2P Peer-to-Peer
+PAYE Pay As You Earn
+PYUSD PayPal USD
+SOFR Secured Overnight Financing Rate
+USD United States Dollar
+USDC USD Coin
+USDT Tether USD
+27 | Pa ge
+VA Virtual Asset
+VASP Virtual Asset Service Provider
+28 | Pa ge

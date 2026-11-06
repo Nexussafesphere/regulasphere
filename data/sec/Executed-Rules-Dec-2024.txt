@@ -1,0 +1,444 @@
+NEW RULES AND SUNDRY AMENDMENTS TO THE RULES AND REGULATIONS OF
+THE COMMISSION
+PREAMBLE
+New Rules
+1. New Rule on Issuance of Commercial Papers
+Sundry Amendment
+2. Amendment to Rule 8 (Exemptions)
+3. Amendment to the Rule on Annual Supervision Fees for Collective Investment
+Schemes
+The details of the New Rules and Amendments are as follows:
+1. NEW RULE ON ISSUANCE OF COMMERCIAL PAPERS
+1. Definition of Terms
+For the purposes of these rules, the following words and expressions have the following
+meanings, unless the context otherwise requires: -
+“Asset-Backed Commercial Paper” means a Commercial Paper that is collateralized
+or secured by physical assets of the Issuer.
+“CAMA” –means Companies and Allied Matters Act 2020 or as may be amended from
+time to time.
+“Clean Commercial Paper” means a Commercial Paper that is not secured or backed
+by a guarantee.
+“Collecting/Receiving Agent” means a SEC-registered issuing house or a deposit
+money bank licensed by the CBN, that collects funds from investors on behalf of the
+Issuer”
+1
+“Commercial Paper or CP” means an unsecured promissory note with a maturity of
+not less than 30 days and cumulatively not more than 364 days, including rollovers.
+“Central Securities Depository” shall have the meaning provided in the Commission’s
+Rules and Regulation
+“Issuer” means an entity intending to raise capital through the issuance of commercial
+papers. Reference to Issuers in this rule shall include promoters in cases where the
+Issuer is a non-operating SPV.
+“Issuing and Placing Agent or IPA” means a SEC-registered issuing house or
+financial adviser that facilitates the placement of commercial papers with investors and
+registration of commercial papers with the Commission.
+“Issuing, Placing, and Collecting/Receiving Agent or IPCA” means a SEC-
+registered issuing house or financial adviser combining the role of a collecting/receiving
+and issuing and placing agent.
+“Non-Interest Commercial Paper or NICP” means a commercial paper structured
+in accordance with general Shariah principles and should be either asset-based or asset
+backed.
+“Receiving Bank and Paying Agent” means a deposit money bank licensed by the
+CBN and registered as a receiving bank with the Commission, that collects funds from
+and disburses payments to investors on behalf of the Issuer.
+“Rollover” shall refer to the issuance of a commercial paper for the purpose of
+refinancing a maturing commercial paper.
+“Sponsor” for the purpose of these rules shall mean an Issuing and Placing Agent or
+an Issuing, Placing and Collecting/Receiving Agent.
+“Trustee” means a person or entity that administers assets under CP/NICP issues and
+carries out any other fiduciary responsibilities for the benefit of investors.
+2. Scope
+These rules shall be applicable to all issuances of CPs. The rules should be read in
+conjunction with the Investment and Securities Act and general provisions of the
+Commission's Rules and Regulatory Guides.
+2
+3. Eligibility
+a. The following rules set out the eligibility criteria for prospective Issuers of CP. Where
+the commercial paper is to be issued by an SPV, the promoters of the SPV shall be
+required to meet the eligibility criteria set out below:
+i. The Issuer shall be a company duly incorporated under the CAMA or other
+enabling law;
+ii. The Issuer must have been in operation for a minimum of five (5) years;
+iii. The Issuer shall have three (3) years audited financial statements, the most
+recent being not older than nine (9) months from the Issuer’s last financial
+year end. A Management Account signed by the Chief Executive Officer (CEO)
+and the Chief Finance Officer (CFO) filed under oath may be accepted where
+the Issuer’s latest audited Account has become stale. Provided that where CPs
+are to be issued to retail investors, the issuer’s latest audited account shall be
+current and valid;
+iv. Where the CPs are to be issued to retail investors, the Issuer’s shareholders’
+funds (unimpaired by losses) shall not be less than Five Hundred Million Naira
+(₦500,000,000.00) as certified by its auditors and reflected in its latest audited
+financial statement, and shall be maintained at or above that level for the
+period any of its CPs remain outstanding;
+v. Where the CP is guaranteed, the Issuer shall hold an approved credit or a
+comparable agreement with the guarantor;
+vi. Issuers shall attain a credit rating of investment grade from a rating agency
+registered with the Commission;
+vii. No Issuer shall offer CPs if it is currently in default of payment of interest or
+repayment of principal in respect of any existing debt issuances;
+viii. Where the Issuer does not meet the eligibility requirements stipulated above,
+the CP issuance shall be backed by a guarantor or such other credit
+enhancement provider that meets the eligibility requirements;
+3
+ix. Such other eligibility criteria as may be prescribed by the Commission from
+time to time.
+4. Conditions for CP Issuance
+a) All CPs proposed to be issued shall first be approved by the Commission.
+b) The credit rating of the CP shall not be below investment grade;
+c) The maturity date of all outstanding CP issues shall fall within the validity period
+of the Issuer’s rating filed with the Commission. Where the rating will expire prior
+to the maturity of the CPs, the Issuer shall provide an extended or renewed
+investment-grade rating, no later than five (5) business days prior to the
+expiration of the initial rating;
+d) CPs shall be issued or sold to qualified institutional investors, high net worth
+individuals and retail investors.;
+e) Offerings of CPs by way of a private placement shall not exceed five (5) working
+days from the date the issue opens for subscription. Any unsold portion of the
+issue after five (5) working days of its opening for subscription shall not be issued.
+f) For a public offer, the offer period shall not exceed ten (10) working days;
+g) Issuers of NICPs shall in addition to these rules, comply with all relevant laws,
+Shari’ah rulings, principles and standards as issued by Accounting and Auditing
+Organization for Islamic Financial Institutions (AAOIFI), or other standard setters,
+recognized by the Commission.
+5. General
+a) Mode of Issuance
+i. CPs may be issued as one-off issuances or series under a shelf programme
+in accordance with the Commission’s rules on Shelf Registration;
+ii. CPs shall be in the form of promissory notes and be issued at such discount
+to face value or interest rate, as may be determined by the Issuer;
+4
+iii. CPs may be issued as securitised debt in form asset-backed securities,
+mortgage-backed securities or such other securitised structure as the
+Commission may permit;
+iv. Every issue of CP, and each CP rollover shall be treated as a new and
+separate issue;
+v. A CP may be issued by way of public offer or private placement;
+vi. The minimum size of a CP issue shall be One Hundred Million Naira
+(₦100,000,000) or such minimum size as the Commission may stipulate
+from time to time;
+vii. A CP issuance may be underwritten in line with the provisions of the
+Commission’s rule on underwriting;
+b) Subscription Level
+i. The minimum level of subscription for a CP issuance shall be stated in the
+offer documents;
+ii. The minimum subscription level shall not be below 50% of the offer size;
+iii. Where a CP issue is underwritten, the underwriting shall cover not less
+than the minimum level of subscription.
+iv. Where a CP issue not underwritten is below the minimum subscription level
+or less than 50% subscribed, the issue shall be aborted by the Issuer, and
+any subscription monies received shall be returned to the subscribers
+within two (2) business days of the closing date of the offer.
+v. Where a CP is issued for purposes of raising working capital only, the
+requirements of a minimum subscription level shall not be applicable.
+5
+c) Tenor and Rollover of CPs
+i. CPs shall be issued for tenors not less than 30 days and not more than 364
+days;
+ii. A CP may be rolled over at maturity, provided that the initial issuance and the
+rollover cumulatively, do not exceed 364 days and a disclosure to this effect
+is made in the offer document of the initial CP and subject to the written
+consent of the investor(s);
+iii. A CP issue shall be deemed a rollover where, the funds of the investors from
+the matured CP issuance are withheld at the instance of the Issuer for
+investment in a new or rollover CP issuance; provided that the prior consent
+of the existing investors shall be sought before the rollover.
+iv. A CP shall not be rolled over more than two (2) times and the combined tenors
+of the initial CP issue and any subsequent rollover(s) shall not exceed 364
+days;
+v. Where an investor objects to the rollover, the Issuer shall effect payment of
+the value of the CP held by the investor on the maturity date based on the
+initial terms of the issue. Failure by the Issuer to make such payment, shall
+result in a default and attract a penalty of not less than Five Million Naira
+(₦5,000,000) in the first instance and Fifty Thousand Naira (₦50,000) for
+every day the default continues.
+d) Credit Enhancement and Guarantees
+i. Issuers of CPs may be provided with credit enhancement in form of full or
+partial credits or guarantees by any of the following entities:
+A. Federal Government of Nigeria;
+B. CBN-Licensed Banks;
+C. Development Finance Institutions;
+D. Credit Guarantee Agencies and Corporations;
+E. Any other category of guarantor as may be approved by the
+Commission.
+6
+ii. The guarantee of NICPs shall be subject to the relevant Shari’ah principles;
+iii. Corporate entity guarantors shall have a minimum of investment-grade credit
+rating;
+iv. Guarantors of a CP Issue shall be deemed to be secondary obligors of the CP
+issue;
+v. In the event that the Issuer’s credit risk crystallizes, the guarantor as the
+secondary obligor shall redeem its guarantee of the CPs by disbursing funds
+to the beneficiaries as provided for in the deed of guarantee.
+6. Registration Requirements for CPs– Pre-Issuance
+a) A prospective Issuer of CPs through a programme or a one-off issuance shall,
+along with a duly completed checklist for the issuance of commercial papers, file
+the following:
+i. A copy of the resolution authorizing the issue, as may be permitted by the
+Issuer’s Memorandum and Articles of Association;
+ii. Current CAC report on the statutory information of the Issuer including,
+evidence of registration, statement of share capital, particulars of directors
+and company secretary, and shareholders, and their respective holdings;
+iii. Memorandum and Articles of Association of the Issuer. Provided that where
+the document has already been filed with the Commission and there has
+been no change since the previous filing, the Issuer shall file an
+undertaking that there has been no change(s) to the document;
+iv. A signed copy of the Issuer’s latest audited accounts for the preceding 3
+years, with the latest account not more than 9 months old at the time of
+filling. A Management Account signed by the Chief Executive Officer (CEO)
+and the Chief Finance Officer (CFO) filed under oath may be accepted
+7
+where the Issuer’s latest audited Account has become stale and it shall
+remain valid throughout the offer period. Provided that where CPs are to
+be issued to retail investors, the issuer’s latest audited account shall be
+current and valid;
+v. A draft prospectus containing the following information:
+A. Amount of CPs;
+B. Basic terms of the CPs to be offered, status of the CPs including
+credit enhancement, rollovers, minimum subscription,
+discount/interest rate, maturity, listing;
+C. Offer period;
+D. Purpose of the offering/use of proceeds;
+E. Details of repayment plan and source of funding for the issue;
+F. Risks of investment;
+G. Tax considerations
+H. Company’s profile/business;
+I. Management and Board;
+J. Extract of 3 years audited accounts;
+K. Rating reports;
+L. Any other information that the Commission may require from
+time to time.
+vi. Draft Trust Deed or Programme Trust Deed (in the case of asset-backed
+CPs and NICPs);
+8
+vii. Draft Issuing Placing and Collection/Receiving Agency Agreement (where
+applicable);
+viii. Draft Issuing and Placing Agent Agreement (where applicable);
+ix. Draft Paying Agent Agreement (where applicable);
+x. Draft underwriting agreement (where applicable);
+xi. Deed of Guarantee (where applicable);
+xii. Letter of “No Objection” from the relevant regulatory body (where
+applicable);
+xiii. Details of any asset or collateral provided to secure the CP issue, or third-
+party guarantee (where applicable)
+xiv. A copy of the mandate letter from the Issuer to the Sponsor;
+xv. Letters of consent given by the parties to the issue, sworn to before a
+Notary Public or Commissioner for Oaths. Consent letters shall not be
+notarized by a person who is also a named signatory on the consent letter
+or who is a member or employee of the firm whose consent is required.
+Where the consent is contained in a power of attorney, it shall be executed
+and stamped by the stamp duties office;
+xvi. A sworn declaration that the Issuer has fully disclosed all material facts in
+the offer document. The declaration shall be signed by two directors and
+the company secretary;
+xvii. Schedule of claims & litigations of the Issuer and the solicitor’s opinion;
+xviii. Letter of confirmation of going concern from the directors of the Issuer;
+xix. Evidence of payment of filing, processing and registration fees;
+xx. Any other document required by the Commission under these Rules and
+Regulations.
+9
+b) For registration of a CP programme only, the approved programme documents shall
+be signed and submitted to the Commission within five (5) working days from the
+date of approval.
+c) For series issuances under a registered CP programme, the Issuer shall file a pricing
+supplement disclosing a summary of the terms of the CPs to be offered.
+d) Applications that meet pre-issuance registration requirements shall within 24 hours
+receive the approval of the Commission for the offer to open.
+e) The offer shall open within five (5) days of obtaining the approval of the Commission.
+7. Registration Requirements for NICPs – Pre-Issuance
+a) A prospective Issuer of NICPs shall, in addition to the registration requirements
+for CPs as applicable under a programme or one-off issuance, file the following:
+i. Evidence of the appointment of a Shariah Adviser, who:
+A. Has never been convicted of any offence arising from criminal
+proceedings;
+B. Has never been declared bankrupt;
+C. Possesses the necessary qualification and expertise in Islamic
+commercial jurisprudence and Islamic finance.
+ii. A Shar’iah compliance certificate/report in respect of the NICP, which shall
+outline the basis, rationale and structure of the NICP issue, and its
+compliance with the
+applicable Shari’ah principles and standards;
+iii. Outstanding NICPs shall require a Shariah recertification on a quarterly
+basis.
+8. Post-Issuance Requirements
+a) The copies of the approved prospectus shall be signed by the directors of the
+Issuer, the Sponsor and other parties to the issue. Where a party will not be
+10
+available to sign the offer documents, he shall execute a power of attorney in
+favor of any other available party to sign on his behalf.
+b) Upon conclusion of the offer, the following executed documents shall be filed
+within five (5) business days with the Commission (where applicable): -
+i. Executed prospectus;
+ii. Executed supplementary prospectus/ pricing supplement;
+iii. Issuing placing and collection/receiving agent or Issuing and Paying
+Agent agreement (signed and stamped);
+iv. Issuing and placing agent agreement (signed and stamped)
+v. Paying agent agreement
+vi. Programme and series trust deeds (signed and stamped);
+vii. Deed of guarantee (signed and stamped);
+viii. Duly completed relevant SEC form for registration of securities
+ix. Underwriting agreement (signed and stamped);
+x. Power of attorney in case of absentee parties;
+xi. Any other material information.
+c) Where the CPs approved by the Commission to be issued, are not offered to the
+public or selected qualified investors within a period of one (1) month from the
+date of the Commission’s approval, the Issuer shall revert to the Commission, for
+a revalidation of the registration before the CPs can be offered. The revalidation
+process shall entail filing the following information:
+i. Updated financial information (where necessary);
+ii. Any material event or changes that may likely render information
+previously disclosed in the offer documents inaccurate or a
+misrepresentation;
+iii. Schedule of changes to the offer documents (if any);
+iv. Attestation of compliance with this requirement signed by the Issuer
+and the Sponsor;
+v. Evidence of payment of revision fees (where changes are made to
+the offer documents).
+11
+9. Maturity and Redemption
+a) Upon maturity of a CP, the Paying Agent shall effect payment in full, through
+automatic transfers to the bank account of the CP holder.
+b) For the purposes of these rules, a part-payment of the CP value to investors shall
+be considered a default and shall attract a penalty of not less than ₦5,000,000
+(Five Million Naira) in the first instance and a further sum of ₦50,000 (Fifty
+Thousand Naira) for every day the default continues.
+10. Rollover of a CP
+a) Where a CP is rolled over, the Issuer may be required to provide additional
+documents as may be determined by the Commission;
+b) An Issuer shall notify the Sponsor of a decision to rollover a CP,. The Issuer shall
+prior to the maturity of the CP comply with the following:
+i. For a 30-day to 90-day CP, inform the Sponsor and the Paying Agent of its
+intention to rollover no later than ten (10) business days before the
+maturity date of the CP;
+ii. For a CP with a tenor above 90 days, inform the Sponsor and the Paying
+Agent of its intention to rollover no later than fifteen (15) business days
+before the maturity date of the CP;
+c) The Sponsor shall notify the investors of the Issuer’s intention to rollover and
+obtain their written consent. The Sponsor, for the purpose of the rollover shall
+comply with the following:
+i. For a 30-day to 90-day CP, inform the investors of the Issuer’s intention to
+rollover no later than ten (10) business days before the maturity date of
+the CP;
+ii. For a CP with a tenor above 90 days, inform the investors of the Issuer’s
+intention to rollover no later than fifteen (15) business days before the
+maturity date of the CP;
+12
+d) The Sponsor shall notify the Commission of the rollover, at least ten (10) business
+days before maturity, and file the applicable pricing supplement for the
+Commission’s approval, along with the following:
+i. A notice of the rollover;
+ii. List of investors who have consented to the terms of the rollover;
+iii. Sworn declaration by the Issuer that it has obtained the written consents
+of investors who have agreed to the terms of the rollover;
+iv. Central securities depository report, confirming the holdings of investors
+who have agreed to the terms of the rollover;
+e) The Sponsor shall notify the Commission of the completion of the rollover within
+5 days from the maturity date of the CP.
+11. Allotment
+a) For CPs offered under these rules, whether listed or not, the Issuer and Sponsor shall
+be responsible for the allotment of the CPs, in accordance with the guidelines
+prescribed hereunder:
+i. No fresh offer of CPs shall be made unless the allotment with respect to any
+previous offer has been concluded or the offer aborted.
+ii. An allotment of CPs shall not be made, unless the sums payable on application
+for the amount stated in the prospectus have been paid.
+iii. In the case of an over-subscription, the Issuer may absorb may absorb the entire
+oversubscription and a minimum modified pro-rating approach shall be adopted.
+This entails that all investors in the offer shall be allotted the minimum
+subscription units as specified in the offer documents, and then the residual
+balance shall be pro-rated i.e. all investors would be allotted equal proportion of
+the amount applied for. Where the minimum subscription cannot accommodate
+all the investors, the minimum to be allotted shall be reduced so as to
+accommodate all the investors.
+13
+iv. The Issuer and Sponsor shall within five (5) working days of allotment, publish
+the allotment on the Issuer’s website.
+v. The Commission may declare any irregular allotment of CPs null and void and
+may prescribe appropriate measures to rectify such irregularities.
+12. Listing of Securities
+a) CPs may be listed on a registered securities exchange.
+b) Such CPs shall be listed not later than seven (7) days after completion of
+allotment.
+13. Summary Report on Completion of Offer
+The Sponsor shall within ten (10) working days of allotment, file with the Commission
+a summary report containing among others, the following:
+a) Allotment report including: -
+i. summary of applications received;
+ii. list of investors acquiring 5% or more of the CPs;
+iii. list of all applications received including list of those rejected and the basis
+for rejection;
+iv. Statement of issue proceeds account;
+v. Joint consent letter signed by the Issuer and the Issuing House(s)
+consenting to the basis of allotment.
+vi. Evidence of publication of allotment
+b) Issues arising generally from offer;
+c) Satisfactory compliance of parties with their obligations under the issue;
+d) Details regarding the return of surplus monies;
+e) Status of listing of the securities at the exchange (where applicable);
+14
+f) Details and evidence of payment of net proceeds of the issue to the Issuer;
+g) Analysis of total costs incurred during the course of the offer;
+h) Any other relevant information and recommendation.
+14. Utilization of Proceeds
+a) The Issuer is prohibited from using the proceeds of the issue for purposes other
+than those stated in the offer document without the prior approval of the
+Commission;
+b) The Issuer shall file with the Commission not later than 30 days after the
+conclusion of an issue on the appropriate SEC Form, detailed information on the
+utilization of proceeds.
+c) Evidence of such utilization shall be provided as appendix to the report. The
+rendition shall be on a quarterly basis until issue proceeds are fully utilized.
+15. Reporting
+a) The Issuer, Sponsor and the Trustee shall comply with the following continuous
+reporting and disclosure requirement as may be prescribed by the Commission
+from time to time: -
+i. Quarterly report on utilization of proceeds
+ii. Annual audited financial statements of the Issuer
+iii. Review of annual rating report
+iv. Annual Shariah certification (where applicable)
+v. Any other information that the Commission may from time-to-time request
+b) Failure to file the periodic report/returns with the Commission within the
+prescribed period shall attract a penalty of not less than ₦1,000,000 (One Million
+Naira) and a further sum of ₦50,000 (Fifty Thousand Naira) for every day the
+default continues.
+15
+16. Sanctions/Penalty
+a) Any person who issues or allots CPs without the prior approval of the Commission,
+or violates any provisions of these rules, except for sections with specified
+penalties, shall be liable to any one or more of the following sanctions:
+i. A penalty of not less than ₦5,000,000 (Five Million Naira) and a further sum
+of ₦50,000 (Fifty Thousand Naira) for every day the violation continues;
+ii. Suspension, or withdrawal of the registration of the capital market operator(s)
+involved;
+iii. Disgorgement of proceeds/income from the transaction; and
+iv. Ratification or Rescission of a transaction if it is in the interest of the public to
+do so;
+v. Any other sanction the Commission deems fit in the circumstance.
+16
+2. AMENDMENT TO RULE 8- EXEMPTIONS
+LEGEND: Additions are underlined; Deletions are struck through;
+Deletion of the current Rule 8 (1)(a) and merging of the opening paragraph with 8(1)
+(b) as follows:
+(1) The provisions of the Act and these rules and regulations requiring
+registration shall not apply to:
+(a) any note, draft, currency, bill of exchange or banker’s acceptance which arises
+out of a current transaction or the proceeds of which have been or are to be
+used for current transactions and which has a maturity at the time of issuance
+not exceeding nine (9) months exclusive of days of grace, or the maturity of
+which is likewise limited;
+(b) any security issued by a person, organized and operated exclusively for
+religious, educational, benevolent, charitable or reformatory purposes and not
+for pecuniary profit and no part of the net earning which accrues to the benefit
+of any person, shareholder or individual and subject to such other terms
+and conditions as may be stipulated by the Commission. Any issue of securities
+pursuant to this exemption shall not exceed in aggregate value the sum of
+N5,000,000;
+The provisions of the Act and these rules and regulations requiring registration shall
+not apply to any security issued by a person, organized and operated exclusively for
+religious, educational, benevolent, charitable or reformatory purposes and not for
+pecuniary profit and no part of the net earning which accrues to the benefit of any
+person, shareholder or individual and subject to such other terms and conditions as
+may be stipulated by the Commission. Any issue of securities pursuant to this
+exemption shall not exceed in aggregate value the sum of N5,000,000 ₦20,000,000.
+17
+18

@@ -1,0 +1,2324 @@
+FEDERAL REPUBLIC OF NIGERIA
+NATIONAL INFORMATION and COMMUNICATION
+TECHNOLOGY (ICT) POLICY
+By
+The Ministry Of Communication Technology
+June 2012
+PREAMBLE:
+On the 17th of July 2011 the President and Commander in Chief of the Nigerian
+Armed Forces of the Federal Republic of Nigeria, Dr. Goodluck Ebele Jonathan
+appointed a Minister for the new Ministry of Communication Technology. The
+President’s action was a culmination of many years of consultations between
+Government and ICT stakeholders, which resulted in several policy
+recommendations and reports.
+The Hon Minister of Communications Technology, Mrs. Omobola Johnson, on 25th
+August 2011, set up an Adhoc Committee to harmonize all the various policies for
+the different sectors in the ICT industry (Telecommunications, Broadcasting,
+Information Technology and Postal Services). The Committee was inaugurated on
+25th August 2011 by the Honourable Minister at the Conference room of the Ministry
+and given a 6-week timeframe within which to conclude its assignment.
+The Term of Reference for the Committee was:
+To harmonize all existing Policies in the Information and Communications
+Technology Sector into a Single Information and Communications Technology
+Policy.
+Following considerable input from industry stakeholders, civil societies, and the
+private sector, the Honourable Minister for Communications Technology inaugurated
+a Finalization Committee on the 22nd of May 2012 to ensure that the eventual Policy
+document captures all relevant input, and reflects, and addresses the needs of all
+Nigerians.
+The Finalization Committee was chaired by Professor R. Akwule, and included new
+members who joined from across private sector, Government, civil society, and the
+academia.
+(See appendix 3 for full list of members).
+National ICT Policy - 2012 Page 2
+1.0 INTRODUCTION 7
+1.1 Background 7
+2.0 VISION AND MISSION STATEMENT 8
+2.1 Vision 8
+2.2 Mission 8
+3.0 ICT IN THE CONTEXT OF NIGERIA’s VISION 20:2020 9
+4.0 ICT POLICY DEVELOPMENT IN NIGERIA 11
+4.1 Industry Indicators 12
+5.0 INDUSTRY STRUCTURE AND SUBSECTORALPROFILES 14
+5.1 Current Government Institutional Structure 14
+5.1.1 Telecommunications 14
+5.1.2 Information Technology 17
+5.1.3 Postal Services 19
+5.1.4 Broadcasting 21
+6.0 POLICY OBJECTIVES 24
+7.0 POLICY FOCUS AREAS 26
+7.1 Policy, Legal, and Regulatory Framework 26
+7.1.1 Situation Analysis 26
+7.1.2 Policy Objectives 26
+7.1.3 Strategies 27
+7.2 ICT Infrastructure 27
+7.2.1 Situation Analysis 27
+7.2.2 Objectives 28
+7.2.3 Strategies 28
+7.3 Internet and Broadband 28
+7.3.1 Situation Analysis 29
+7.3.2 Objectives 29
+7.3.3 Strategies 29
+7.4 Capacity Building 30
+7.4.1 Situation Analysis 30
+7.4.2 Objectives 30
+7.4.3 Strategies 30
+7.5 Universal Access and Service 31
+7.5.1 Situation Analysis 31
+7.5.2 Objectives 32
+7.5.3 Strategies 32
+7.6 Transition from Analogue to Digital Broadcasting 33
+National ICT Policy - 2012 Page 3
+7.6.1 Situation Analysis 33
+7.6.2 Policy Objectives 33
+7.6.3 Strategies 33
+7.7 Community Broadcasting 34
+7.7.1 Situation Analysis 34
+7.7.2 Objectives 34
+7.7.3 Strategies 34
+7.8 ICT and Youth 35
+7.8.1 Situation Analysis 35
+7.8.2 Objectives 35
+7.8.3 Strategies 35
+7.9 Local Content Development 36
+7.9.1 Situation Analysis 36
+7.9.2 Software Development 36
+7.9.3 Situation Analysis 36
+7.9.4 Objectives 36
+7.9.5 Strategies 37
+7.10 Hardware Production 37
+7.10.1 Situation Analysis 38
+7.10.2 Objectives 38
+7.10.3 Strategies 38
+7.11 Safety and National Security 39
+7.12 Situation Analysis 39
+7.12.1 Objectives 40
+7.12.2 Strategies 40
+7.13 Coordinated ICT Development across All Sectors 41
+7.13.1 Situation Analysis 41
+7.13.2 Objectives 41
+7.13.3 Strategies 42
+7.14 Research, Development, and Innovation 42
+7.14.1 Situation Analysis 43
+7.14.2 Objectives 43
+7.14.3 Strategies 43
+7.15 Investment and Funding 44
+7.15.1 Situation Analysis 44
+7.15.2 Objectives 44
+7.15.3 Strategies 44
+7.16 Public Private Partnership 45
+7.16.1 Situation Analysis 45
+National ICT Policy - 2012 Page 4
+7.16.2 Objectives 45
+7.16.3 Strategies 45
+7.17 Reform of the Postal Sector 46
+7.17.1 Situation Analysis 46
+7.17.2 Objectives 46
+7.17.3 Strategies 47
+7.18 Outsourcing 47
+7.18.1 Situation Analysis 47
+7.18.2 Objectives 48
+7.18.3 Strategies 48
+7.19 Management of Scarce Resources 48
+7.19.1 Situation Analysis 49
+7.19.2 Objectives 49
+7.19.3 Strategies 49
+7.20 Regional / International Cooperation and Collaboration 50
+7.20.1 Situation Analysis 50
+7.20.2 Policy Objectives 50
+7.20.3 Strategies 51
+7.21 ICT and the Environment 51
+7.21.1 Situation Analysis 51
+7.21.2 Objectives 52
+7.21.3 Strategies 52
+7.22 ICT and the Consumer 53
+7.22.1 Situation Analysis 53
+7.22.2 Objectives 53
+7.22.3 Strategies 53
+7.23 ICT and the Civil Society 54
+7.23.1 Situation Analysis 54
+7.23.2 Objectives 54
+7.23.3 Strategies 54
+7.24 Open Data and ICT 54
+7.24.1 Situation analysis 55
+7.24.2 Objectives 55
+7.24.3 Strategies 55
+8.0 PROPOSED SECTORAL STRUCTURE 56
+8.1 Proposed Government Institutional Structure 56
+8.2 The Role of the Government 56
+8.3 The Role of the Ministry 56
+8.4 The Role of the Converged Regulator 57
+National ICT Policy - 2012 Page 5
+8.5 The Role of the ICT Development Agency 59
+8.6 The Role of the Public Postal Operator 60
+8.7 The Role of Government owned companies 60
+9.0 POLICY IMPLEMENTATION AND REVIEW 62
+10.0 CONCLUSION 63
+National ICT Policy - 2012 Page 6
+1.0 INTRODUCTION
+1.1 Background
+Over the years, the Federal Government of Nigeria has initiated or adopted several
+related policies and laws aimed at guiding the development of the ICT sector and
+harnessing its huge potential for national development. But Nigeria, like other
+nations, faces the inevitability of the fast technological and market convergence of
+the global ICT industry, and must therefore continue to evolve new ICT policy
+frameworks to accommodate convergence and maximize the potential of ICT tools
+for national development.
+The reality of ICT convergence has not yet been reflected in Nigeria where the
+institutions that regulate and/or develop the ICT sector still function as distinct actors
+in the industry, without much coordination. Though there have been significant gains
+over the last decade, especially with regard to mobile telephony, the lack of industry
+convergence in the Nigerian ICT sector has resulted in fragmentation and inefficient
+management of resources.
+The goal of this National ICT Policy therefore is to provide a framework for
+streamlining the ICT sector, and enhancing its ability to catalyze and sustain socio-
+economic development critical to Nigeria’s vision of becoming a top 20 economy by
+the year 2020. Concurrently, the policy thrusts will facilitate the transformation of
+Nigeria into a knowledge-based economy and will be used to develop action plans,
+sub-sectoral policies and specific implementation guidelines as appropriate.
+National ICT Policy - 2012 Page 7
+2.0 VISION AND MISSION STATEMENT
+2.1 Vision
+Nigeria as a knowledge-based and globally competitive society.
+2.2 Mission
+To fully integrate Information and Communication Technologies into the socio-
+economic development of Nigeria, in order to transform Nigeria into a knowledge-
+based economy.
+National ICT Policy - 2012 Page 8
+3.0 ICT IN THE CONTEXT OF NIGERIA’s VISION 20:20200
+The long-term strategic vision for the ICT sector was elaborated in the National
+Development Plan titled “Nigeria Vision 20:2020”. According to the document:
+The increasing globalization driven by ICT makes it
+imperative for Nigeria as an emerging market to irreversibly
+consider the application and promotion of ICT strategy to
+facilitate its rapid growth and development. This will involve
+the development of a vibrant ICT sector to drive and expand
+the national production frontiers in agriculture, manufacturing
+and service sectors. It would also require the application of
+the new knowledge to drive other soft sectors: governance,
+entertainments, public services, media sector, tourism, et
+cetera.
+The Vision 20:2020 document further acknowledges the following:
+In respect of knowledge and digital divide the situation
+remains worrisome. This is, in terms of knowledge
+generation, penetration of ICT, access to and usage of
+internet and telephone penetration (fixed and mobile) and
+physical infrastructure. The knowledge and digital divide cuts
+across geographical, gender and cultural dimensions. It
+exists among the 36 states of the Federation plus the
+Federal Capital Territory, the 774 Local Governments, rural
+and urban areas, men and women, rich and poor, young and
+old, able bodied and disabled, illiterate and educated.
+This National ICT Policy has been developed to organize the sector for performance
+and efficiency, so that it can support the development goals of Nigeria’s Vision
+20:2020.
+National ICT Policy - 2012 Page 9
+The National Vision 20:2020 document indicates the role of ICT in respect of several
+sectors and offers specific examples as to how ICT can propel development of the
+national socio-economic sub sector with respect to Agriculture, Oil and gas, Health,
+Education, Finance, Governance, Infrastructure Support, Knowledge-Based
+Economy, Labour Employment and Productivity, and Research and Development.
+National ICT Policy - 2012 Page 10
+4.0 ICT POLICY DEVELOPMENT IN NIGERIA
+Prior to 1999, development in the ICT sector of Nigeria was far below expectation for
+a country of its size and resources. For example, total fixed telephone lines were
+less than 400,000 while regular internet users were less than 200,000. From a policy
+and regulatory standpoint, the Federal Government of Nigeria adopted the National
+Telecommunications Policy (NTP) in 2000 to guide the development of the
+telecommunications industry in Nigeria. This was followed by the enactment of the
+Nigerian Communications Act (NCA) 2003 to give legal effect to the NTP. Previously,
+the National Mass Communications Policy recommended the creation of a regulatory
+body to regulate Broadcasting and this led to the promulgation of Decree 38 of 1992
+that established the National Broadcasting Commission (NBC).
+In a similar vein, the National Information Technology Policy was approved in 2001
+to guide the IT industry in Nigeria, and was followed by the enactment of the National
+Information Technology Development Agency Act 2007 which became the legal
+platform for the creation of the National Information Technology Development
+Agency NITDA. It is noteworthy that there has never been a national Postal policy;
+however, Decree No. 41 of 1992 established the Nigeria Postal Service (NIPOST) to
+provide postal services in Nigeria.
+These policy and regulatory developments along with other government and private
+sector initiatives have resulted in significant improvement of the ICT sector. For
+instance, Nigeria has moved from approximately 400,000 available fixed telephone
+lines pre-1999 to over 90.5 million available mobile telephone lines by the first
+quarter of 2011, making Nigeria’s telecommunications market the fastest growing in
+Africa. There is now modest ICT deployment in the functioning of government
+organizations, as well as in the private sector. In addition, ICT now drives some
+activities in the financial and oil and gas sectors while various e-Government
+initiatives are ongoing in various departments across the three tiers of government.
+National ICT Policy - 2012 Page 11
+4.1 Industry Indicators
+S/N Indicator Source
+i. In dividual access to Mobile 63.9% National Bureau of statistics
+telephones report on ‘access to ICT
+services’
+ii. In dividual ownership of mobile 43.6% 2009 Collaborative survey of
+handsets socio economic activity in
+Nigeria by the
+NBS/CBN/NCC
+iii. H ousehold Ownership of mobile 59% 2009 Collaborative survey of
+telephones (representing socio economic activity in
+70.6% of Nigeria by the
+those with NBS/CBN/NCC
+access)
+iv. A ccess to fixed Telephony 0.4% 2009 Collaborative survey of
+socio economic activity in
+Nigeria by the
+NBS/CBN/NCC
+v. A ccess to computers 4.5% 2011Annual NBS/CBN socio
+economic report: access to
+ICT
+vi. T elevision access 67.6% 2009 Collaborative survey of
+socio economic activity in
+Nigeria by the
+NBS/CBN/NCC
+vii. R adio access 41.2% 2009 Collaborative survey of
+socio economic activity in
+Nigeria by the
+NBS/CBN/NCC
+viii. O wnership of radio 41.2% 2009 Collaborative survey of
+socio economic activity in
+Nigeria by the
+NBS/CBN/NCC
+ix. In ternet access 6.5% 2009 Collaborative survey of
+socio economic activity in
+Nigeria by the
+NBS/CBN/NCC
+x. B roadcasting stations in operation 291 Nigerian Broadcasting
+nationwide Corporation
+xi. B roadband penetration 6.1% ITU
+xii. P ost offices including postal 2,015 2009 Collaborative survey of
+agencies and post shops socio economic activity in
+Nigeria by the
+National ICT Policy - 2012 Page 12
+NBS/CBN/NCC
+xiii. L icensed courier companies 250 NIPOST
+xiv. P eople employed in 4.969 million 2009 Collaborative survey of
+communication sector - 1,124 socio economic activity in
+(female) - Nigeria by the
+3.845 (male) NBS/CBN/NCC
+The National Bureau of Statistics, and other industry sources indicate the following:
+National ICT Policy - 2012 Page 13
+5.0 INDUSTRY STRUCTURE AND
+SUBSECTORALPROFILES
+5.1 Current Government Institutional Structure
+A Ministry of Communication Technology has been created recently, and the
+following Agencies were brought under its purview: Nigerian Communications
+Commission (NCC), National Information Technology Development Agency (NITDA),
+and Nigerian Postal Service(NIPOST). Two Limited Liability Companies that are
+wholly owned by Government- Nigeria Communications Satellite Limited and Galaxy
+Backbone Plc - have also been brought under the Ministry.
+The ICT Industry today comprises of the following distinct sectors as described
+below:
+5.1.1 Telecommunications
+There has been tremendous advancement in the development of the
+telecommunications (telephony) sector in Nigeria, particularly since the
+commencement of mobile services using GSM technology in 2001. Nigeria in recent
+years has been adjudged as the fastest growing mobile market in Africa and one of
+the fastest in the world.
+The telecommunications sector is governed by the Nigerian Communications Act
+2003 (NCA 2003), and The Wireless Telegraphy Act, 1990. The NCA 2003 affirms
+the Nigerian Communications Commission (NCC) as the independent regulatory
+authority for the telecommunications sector. The objectives of the regulator include:
+i. Creating an enabling regulatory environment to facilitate the supply of
+telecommunications services and facilities;
+ii. Facilitating the entry of private entrepreneurs into the telecommunications
+market;
+iii. Promoting fair competition and efficient market conduct among all players in
+the industry; and
+National ICT Policy - 2012 Page 14
+iv. Establishing the Universal Service Provision Fund to promote the widespread,
+availability and usage of network services and application services throughout
+Nigeria.
+With the liberalization of the industry in the year 2000, several services and licenses
+have been introduced into the sector. These include:
+i. Fixed Telephony;
+ii. Cellular Mobile Telephony;
+iii. Long Distance Transmission;
+iv. Global Mobile Personal Communications Services;
+v. International Data Access;
+vi. High Speed Data Transmission;
+vii. Value Added Services;
+viii. Internet Service; and
+ix. Unified Access Service License.
+The telecoms network comprises the following:
+There are five (5) licensees using Global System for Mobile Communications (GSM),
+and Eight (8) licensees using Code Division Multiple Access (CDMA) in the country.
+A number of other operators also exist in other market segments, including the
+following; Interconnect Exchange Houses, International Data Access License (IDA),
+Fixed Wireless Networks, amongst others. The current telecommunications sector is
+highly competitive though with a huge market share imbalance between the GSM
+players and CDMA players, with the market share currently at 91% and 9%
+respectively.
+In 2006, the NCC in response to technology convergence introduced the Unified
+Access Service Licenses (UASL’s). The UASL is a technology neutral license that
+enables holders to offer a variety of services including voice, data, ISP services
+amongst others.
+National ICT Policy - 2012 Page 15
+The growth in subscriber lines and tele-density has been very impressive. From a
+modest start of about 400,000 fixed and 25,000 mobile telephone lines in 2001, the
+industry by July 2011 had an active base of about 90 million subscribers
+representing a tele-density of 60. This growth was the result of continued uptake of
+digital mobile services, (with about 98% market share) and the adoption of a Unified
+Licensing Regime.
+The Communications sector has actively contributed to Gross Domestic Product
+(GDP). The percentage share of GDP from Communications, according to NCC,
+rose from 0.06 in 1999 to 2.39 in 2007, 2.90 in 2008, and 3.66 in 2009. Private
+investment in the telecoms subsector rose from US$50 million in the year 1999 to
+over US$18.0 billion at the end of 2009.
+Some of the achievements in the telecom sector have been supported by extensive
+optical fibre projects across the country, as well as the deployment of satellite
+communications. The NCC initiated the establishment of Internet Exchange Points
+(IXPs), the Wire Nigeria Project (WIN) and the States Accelerated Broadband
+Initiative (SABI).
+The USPF is a mechanism to extend service to unserved and underserved areas of
+the country. The NCC contributes 40% of Annual Operating Levy (AOL) received to
+the Fund. Projects under the Fund include:
+i. School Access Program;
+ii. Community Communication Centres;
+iii. Backbone Transmission Infrastructure;
+iv. Rural Broadband Internet Project; and
+v. Accelerated Mobile Phone Expansion Project.
+Despite this growth, a substantial part of the country (approximately 20%) remains
+uncovered, therefore lacking access to even basic voice services. Furthermore, only
+a minority percentage of the population has access to qualitative multimedia
+broadband services including the Internet.
+National ICT Policy - 2012 Page 16
+5.1.2 Information Technology
+The promulgation of the indigenization decree in 1977 led to the increase in the
+number of indigenous vendors in the computer business, and stimulated more
+aggressive marketing by the vendors which in turn resulted in a significant increase
+in the number of computer installations and usage in the country.
+Before 1999, development in the IT sector of Nigeria was minimal. For instance,
+regular internet users were less than 200,000 out of a population of over One
+Hundred and Twenty Million. The Federal Government therefore embarked on major
+reforms in the sector which included:
+i. Development and launch of National Policy on Information Technology in
+2001 and the establishment of NITDA to implement the policy, co-ordinate,
+and regulate information technology development in the country; and
+ii. Establishment of the Nigeria Internet Registration Association (NIRA) in 2006
+to increase Nigeria’s presence in the cyberspace.
+NITDA’s enabling Act was passed into law by the National Assembly in April, 2007.
+According to NITDA Act of 2007, the mandates of the Agency include the following:
+i. Creating a framework for the planning, research, development,
+standardization, application, coordination, monitoring, evaluation and
+regulation of Information Technology practices, activities and systems;
+ii. Providing guidelines to facilitate the establishment and maintenance of
+appropriate infrastructure for information technology and systems;
+iii. Developing guidelines for electronic governance, networking of public and
+private sector establishments; and for the standardization and certification of
+Information Technology Systems in Nigeria;
+iv. Rendering advisory services in all information technology matters to the public
+and private sectors and creating incentives to promote the use of information
+technology in all spheres of life in Nigeria including the setting up of
+Information Technology parks;
+v. Introducing appropriate regulatory policies and incentives to encourage
+private sector investment in the Information Technology industry;
+National ICT Policy - 2012 Page 17
+vi. Determining critical areas in Information Technology requiring research
+intervention and facilitating Research and Development in those areas;
+vii. Advising the Government on ways of promoting the development of
+Information Technology in Nigeria including introducing appropriate
+information technology legislation, to enhance national security and the
+vibrancy of the industry;
+viii. Development and implementation of standards, guidelines and regulatory
+framework for Information Technology; and
+ix. Accelerating Internet and Intranet penetration in Nigeria and promoting sound
+Internet governance by giving effect to the Second Schedule of NITDA Act
+which deals with the governance of the Nigeria Country Code top Level
+domain name (ng).
+Various efforts by NITDA and other stakeholders have culminated in significant
+development in the IT sector.
+Also, analysts project that the Nigerian PC market, which is still in its infancy, is
+expected to expand by 21.5% annually on average from 2009 to 2014 with a notable
+shift towards mobility which would increase laptop and other mobile PC sales.
+The hardware market in Nigeria is shared between multinationals and about five
+local Original Equipment Manufacturers (OEMs), with approximately 90% of the
+software used in Nigeria being imported. However, efforts are being made to
+encourage the patronage of “Made in Nigeria Software” to save the country from the
+huge foreign exchange being expended on foreign software annually.
+Government initiatives and policies have led to the creation of the requisite enabling
+environment thereby leading to both local and foreign direct investment in IT
+development in Nigeria. Prices of IT equipment and services have fallen
+considerably. This will make services and equipment available to more Nigerians as
+well as enable access to online information.
+National ICT Policy - 2012 Page 18
+The potential in the Nigerian IT industry is enormous, mainly because the market is
+vast and citizens are eagerly waiting to embrace new technologies which are now
+the modern tools of sustainable socio-economic development.
+5.1.3 Postal Services
+NIPOST is the dominant operator and regulator of the sector. It has a network of
+1,065 post offices and more than 3,000 additional postal agencies distributed
+nationwide in 547 of the 774 local government areas in Nigeria. This extensive
+network penetration into rural areas along with the variety of services offered, have
+enabled NIPOST to serve as a tool for the promotion of social, financial and digital
+inclusion.
+There are 250 licensed courier operators in the country, in addition to a large number
+of courier grey market operators. As at the end of 2010 the annual turnover of the
+industry was over Three Hundred and Fifty Billion Naira (=N= 350,000,000,000).
+However, the dual role of NIPOST as a regulator and operator compromises its
+effectiveness.
+The Postal Sector is an amalgam of transport, logistics and distribution, and related
+entities that are involved in the linking of communities by movement of messages,
+information, goods and services. The postal sector is empowered to do the following:
+i. Collection (pick up), transportation and distribution of letter mail (letters,
+newspapers, journals, periodicals, brochures, leaflets and similar printed
+matters), parcels and packages, express and courier dispatches, whether for
+domestic or foreign destinations;
+ii. Post office counter services;
+iii. Other postal services which include mailbox rental services, "poste restante"
+services, philately and public postal services;
+iv. Licensing of private postal operators;
+v. Providing financial services; and
+vi. Providing e-Services.
+The other stakeholders in the postal sector are:
+National ICT Policy - 2012 Page 19
+i. Private Postal Operators;
+ii. Public Private Partners, including the Postal Agencies;
+iii. Operators such as Aviation Handling Companies, Customs, and Police; etc.;
+iv. Financial Services Operators; and
+v. E-Services Providers.
+The postal code system developed by NIPOST in 2000, and an efficient addressing
+framework are key tools required for the repositioning of NIPOST. Its current
+operations are hampered by the fact that most of the country does not have well-
+organized street naming and house numbering address systems by Local
+Government Authorities.
+NIPOST also faces substantial competition from private sector operators in the
+postal sector. International and local courier companies and transport companies are
+competing with NIPOST in various segments of the postal market; not only in the
+market for courier items, but also in the letter and parcel markets. To date,
+approximately 250 courier firms have been legally licensed. However, many
+transport companies (legal and illegal) are active in the postal market.
+NIPOST is also confronted with substitution of physical mail by electronic
+communications such as fax and email. Although these means of electronic
+communication are not yet pervasive in Nigeria, they will certainly become important
+factors in the future.
+Several Public Private Partnership (PPP) initiatives have been developed within the
+sector, notable among which are:
+i. NETPOST Limited: Created to provide ICT services through NIPOST’s
+network of post offices around the country;
+ii. National Mail Route Network: An outsourced service to private transport
+operators to assist NIPOST in its mail distribution system;
+iii. Post Cash: A financial service product for international and local cash
+remittances; and
+National ICT Policy - 2012 Page 20
+iv. National Cargo Services: Setup for transportation and delivery of cargo (items
+weighing above 50kg).
+The competition in the postal market might be considered a favourable phenomenon
+reflected in the fact that private customers and businesses have a choice between
+various providers of postal services. However, this competition does not appear to
+have influenced or inspired the operation of NIPOST fundamentally, especially with
+respect to efficiency and product differentiation. This may be as a result of NIPOST’s
+legal status and the obligation of the Federal Government of Nigeria (FGN) to cover
+losses incurred by the agency.
+A restructuring of NIPOST - including the removal of its regulatory function and, in
+the least, corporatization of the agency - is necessary for the continued vibrancy and
+relevance of the Nigerian Postal sector in the new knowledge-based environment.
+5.1.4 Broadcasting
+Broadcasting plays a very important role in the lives of the citizens worldwide and is
+the most effective means of reaching the largest number of people simultaneously.
+The Federal, Regional and State governments monopolized broadcasting in Nigeria,
+until the promulgation of Decree 38 of 1992 (as amended) which established the
+National Broadcasting Commission (NBC) and charged it with the responsibility of
+liberalizing and regulating the broadcasting industry in the country. The law
+empowers the Commission to license broadcast stations, allocate frequencies,
+regulate content and, generally set standards for quality broadcasting in the country.
+According to the Act, the Commission’s Mandate includes the following:
+i. Advising the Federal Government generally on the implementation of National
+Mass Communication Policy with particular reference to broadcasting;
+ii. Receiving and processing applications for the establishment, ownership and
+operation of broadcasting stations;
+iii. Recommending applications through the Minister to the President,
+Commander-in-Chief of Armed Forces for grants of radio and television
+licenses; and
+National ICT Policy - 2012 Page 21
+iv. Regulating and establishing a National Broadcasting Code and setting
+standards with regard to the content and quality of materials for broadcast.
+The Code contains guidelines on a variety of issues including licensing,
+sanctions, etc.
+The categories of broadcasting services include:
+i. Terrestrial and Satellite free-to-air sound/television;
+ii. Satellite subscription direct-to-home sound broadcasting;
+iii. Community broadcasting;
+iv. Content distribution service (syndication); and
+v. Internet broadcast.
+The legislative, regulatory and licensing framework for the broadcast sector is
+transparent and liberalized, and seeks to regulate broadcasting only in
+circumstances where market forces are inadequate to realize public policy
+objectives. Broadcast licenses will not be granted to any religious organization or
+political party. Private and community interests are encouraged to contribute to the
+development of the industry, while foreign interests are also encouraged to invest
+and assist in developing broadcast services in the country.
+Today, as a result of the deregulation of the Nigerian broadcast industry, the number
+of Federal, State and private broadcasting stations in operation in the country has,
+as at 2012, risen to 291, from less than 30 before deregulation. This comprises of:
+i. 100 radio stations;
+ii. 147 Television stations;
+iii. 35 Cable Retransmission Stations known as MMDS; and
+iv. 4 Direct to Home (DTH) Stations.
+The Federal Government recognizes that there are different funding models for
+broadcasting services, which contribute to the achievement of public interest
+objectives in unique ways. This facilitates the provision of a range of broadcasting
+services through both Government and private sector funding.
+National ICT Policy - 2012 Page 22
+There is a shortage of qualified broadcasters in Nigeria and the Commission is
+seeking ways to encourage training and skill development within the sector. Based
+on ITU recommendations, Nigeria, along with other countries has committed to
+transit from analogue to digital terrestrial broadcasting and broadcasting on the VHF
+band. Consequently, the Commission has set a June 17, 2015 deadline for the
+switchover from analogue to digital broadcasting.
+In addition to the above listed agencies the Nigerian ICT Industry is driven mainly by
+the private sector comprising operators, suppliers and investors.
+National ICT Policy - 2012 Page 23
+6.0 POLICY OBJECTIVES
+The main objective of the National ICT Policy is to create a conducive environment
+for the rapid expansion of ICT networks and services that are accessible to all at
+reasonable costs; and that contribute to the development of the various socio-
+economic sectors. The specific objectives of this National ICT Policy therefore are:
+i. To ensure that the reality of convergence is reflected in the ICT sector,
+notably in the areas of regulation, operation, and service delivery;
+ii. To unify all Policy Administrators under a single Ministry;
+iii. To facilitate the development of an appropriate legal framework for effective
+implementation of ICT policies;
+iv. To promote universal access to high quality and advanced Information and
+Communication Technologies and services;
+v. To develop and enhance indigenous capacity in ICT technologies and
+software development;
+vi. To ensure the country’s effective participation in regional and international ICT
+fora in order to promote ICT development in Nigeria, meet the country's
+international obligations and derive maximum benefit from international
+cooperation in these areas;
+vii. To actualize the implementation of an administrative and legal framework for
+the transition to digital broadcasting and ensure a smooth switchover in
+accordance with ITU guidelines;
+viii. To develop the framework for the implementation of Community Broadcasting
+in Nigeria;
+ix. To reposition the Postal subsector so that it can deliver universal access to
+postal services, to all Nigerians;
+x. To pursue the elimination of multiple regulation and taxation in the ICT sector;
+xi. To foster the development of Broadband services that will enable Nigerians
+enjoy the benefits of globalization and convergence;
+xii. To ensure an enabling environment, and provide incentives in order to sustain
+investments into the Information and Communications (ICT) sector in Nigeria;
+xiii. To promote cyber, digital, ICT infrastructure, and national security;
+National ICT Policy - 2012 Page 24
+xiv. To utilize ICT in energizing and supporting the various programs and sectors
+that contribute to the Nigerian socioeconomic development including
+Agriculture, Education, Finance, Health, Justice Administration, Oil and Gas,
+Power, Small & Medium Sized Enterprises, Solid Minerals, Sports, Trade and
+Commerce, Transport, Youth Development, etc; and
+xv. To facilitate the creation of a robust and consolidated national digital archive.
+National ICT Policy - 2012 Page 25
+7.0 POLICY FOCUS AREAS
+7.1 Policy, Legal, and Regulatory Framework
+The reality of technological and market convergence implies that existing policies
+relating to the ICT sector in Nigeria are in need of a critical review. Most of the
+objectives in the existing policies have been overtaken by technological
+advancement and market transformation worldwide. A key requirement is the
+development of appropriate policies, as well as legal and regulatory framework that
+foster an enabling environment.
+7.1.1 Situation Analysis
+Currently, there are various uncoordinated policies guiding different facets of the
+Nigerian ICT sector, just as there are several laws relating to different aspects of the
+sector. Apart from the fact that these policies and laws are uncoordinated and
+fractious in nature, the presence of gaps and a lack of cohesiveness and
+incomprehensiveness make them ineffective support bases for the converged ICT
+sector, not to mention the fast evolving developments in the digital world.
+Therefore, an urgent exists for the publication of a unified and comprehensive ICT
+Policy that would guide the entire sector, as well as a review of all existing ICT-
+related legislation, to ensure the institution of a proactive legal framework that
+supports convergence and the rapid developments in the digital world.
+7.1.2 Policy Objectives
+i. To review existing legislation and facilitate, where necessary, the enactment
+of Laws that would enhance the development of ICT sector for national
+growth;
+ii. To enact appropriate legislation that ensures protection of physical ICT
+infrastructure, addresses cyber security, and enhances national security; and
+iii. To prevent the occurrence of multiple regulations, the occurrence of which is
+a disincentive to investors.
+National ICT Policy - 2012 Page 26
+7.1.3 Strategies
+The Government will:
+i. Review and harmonize all existing Laws;
+ii. Enact new laws, where necessary, to fill gaps and further support
+development of the sector; and
+iii. Amend the relevant sections of the Constitution of the Federal Republic of
+Nigeria, 1999 (as amended) to permit the issuance of broadcasting licenses
+by the Converged Regulator.
+7.2 ICT Infrastructure
+Globalization makes it compelling for Nigeria to enhance the development of its
+National ICT Infrastructure in order to respond effectively to new challenges.
+Therefore, it is necessary to develop ICT infrastructure in support of National
+development.
+7.2.1 Situation Analysis
+The relative paucity of ICT infrastructure in the country has greatly hindered the
+provision of efficient and affordable ICT services to the citizens, and has adversely
+affected the socio-economic development of Nigeria. Government shall therefore
+define, develop and deploy national information infrastructure for national
+transformation with a view, amongst others, to attaining vision 20:2020.The ICT
+policy focus should include:
+i. National ICT backbone and Broadband infrastructure;
+ii. Infrastructure that will foster digital literacy and Internet usage;
+iii. Reasonably priced Universal Access to ICT;
+iv. Protection of ICT infrastructure;
+v. National physical infrastructure (including power);
+vi. Financial systems infrastructure; and
+vii. The secure and sustained adoption of the national critical internet
+infrastructure ccTLD.ng.”
+National ICT Policy - 2012 Page 27
+7.2.2 Objectives
+i. To facilitate and support development of a nationwide ICT infrastructure that
+will support national broadband connectivity and accelerate socio-economic
+development;
+ii. To connect all Federal & State networks to a National fibre backbone; and
+iii. To provide a reliable, accessible, secure and reasonably priced ICT
+connectivity to national and international ICT Infrastructure.
+7.2.3 Strategies
+The Government will:
+i. Encourage the upgrading and expansion of ICT infrastructures;
+ii. Support the accelerated deployment of fibre optic and wireless backbone
+infrastructure that ensures high bandwidth availability, universal access
+throughout the country;
+iii. Encourage the development and interconnection of all National Databases;
+iv. Coordinate the integration of national e-Government network infrastructure
+and services;
+v. Ensure appropriate security for ICT infrastructure nationwide;
+vi. Advocate the acceleration of the ongoing power sector reforms which are
+critical to the development of the ICT industry;
+vii. Facilitate expedient access to Rights of Way (ROW) over public land, and
+access to other state-owned infrastructural resources; and
+viii. Provide institutional support for addressing the incidence of multiple taxation
+and regulation in the ICT sector.
+7.3 Internet and Broadband
+Internet and Broadband have been globally acknowledged as the foundation for
+transformation to a knowledge-based economy. It is also widely acknowledged that
+broadband infrastructure is an enabler for economic and social growth in the digital
+economy. Broadband has the potential of enabling entire new industries and
+introducing significant efficiencies into education delivery, health care provision,
+energy management, ensuring public safety, government/citizen interaction, and the
+overall organization and dissemination of knowledge.
+National ICT Policy - 2012 Page 28
+7.3.1 Situation Analysis
+Although there are some initiatives aimed at deploying broadband in Nigeria, many
+challenges remain, especially with the deployment of a national fibre optic based
+network to distribute approximately 10 terabytes of capacity already delivered to
+landing points in Nigeria. Therefore, there is an urgent need to accelerate the pace
+of ongoing efforts, and also to introduce new initiatives to address this challenge.
+This is necessary for the actualization of the developmental goals of vision 20:2020.
+The Government will therefore pursue, by the end of 2017, a five-fold increase in
+Broadband penetration over the 2012 penetration rate.
+7.3.2 Objectives
+i. To accelerate the penetration of reasonably priced broadband Internet in the
+country;
+ii. To foster broadband usage for national development; and
+iii. To ensure the rapid development of a broadband policy support and
+implementation framework.
+7.3.3 Strategies
+The Government will:
+i. Provide periodic review of the broadband penetration targets in order to
+determine further action for broadband expansion;
+ii. Promote both supply, and demand side policies that create incentives for
+broadband backbone and access network deployment;
+iii. Facilitate broadband development and deployment, leveraging on existing
+universal service frameworks;
+iv. Provide special incentives to operators to encourage them to increase their
+investment in broadband rollout;
+v. Promote e-Government and other e-services that would foster broadband
+usages;
+vi. Enhance the equitable distribution of the value and/or benefits of telecoms
+infrastructure (in general) and broadband (in particular) amongst economically
+active members of the Nigerian population;
+National ICT Policy - 2012 Page 29
+vii. Enhance the capabilities of the Nigerian population to make use of, and
+contribute to broadband, and in so doing increase its relevance to the socio
+economic development of the country and its populace; and
+viii. Establish a methodology for assessing progress of broadband development in
+Nigeria in a structured way that (i) highlights and (ii) seeks to address
+bottlenecks along/across all layers.
+7.4 Capacity Building
+Transformation to a knowledge-based economy requires significant investment in the
+development of ICT skills. These skills are required to support innovation,
+infrastructure and effective business models that underpin a knowledge-based
+society.
+7.4.1 Situation Analysis
+Proficiency in ICT is still very low among ICT professionals and the general
+populace. This translates to a huge skills gap which inturn signposts untapped
+benefits that ICT could potentially deliver to Nigeria’s socio economic development.
+Therefore, strengthening of ICT human capital should be accorded the highest
+priority.
+7.4.2 Objectives
+i. To integrate ICT into the national education curriculum;
+ii. To promote the culture of lifelong learning;
+iii. To promote development of ICT skilled personnel; and
+iv. To support training and capacity building among public sector employees in
+the development and use of ICT tools and applications to improve the delivery
+of Government services.
+7.4.3 Strategies
+The Government will:
+v. Facilitate the establishment of globally competitive training institutions in the
+field of ICT;
+vi. Introduce mandatory training and appropriate courses for ICT at all tiers of
+education;
+National ICT Policy - 2012 Page 30
+vii. Encourage continuous training for professionals through specialized training
+institutes (e.g. NTA College, Jos; Radio Nigeria Training School, Lagos; etc);
+viii. Foster an ICT driven educational administration environment;
+ix. Train and retool teachers and facilitators at all levels, to enhance their ICT
+competence;
+x. Promote ICT awareness and proficiency in mass and non-formal education
+with emphasis on children, youth, women, and the physically challenged;
+xi. Promote the development of instructional materials in electronic format; and
+xii. Develop and implement ICT training programs for public sector employees, in
+connection with the implementation and institutionalization of e-Government
+and other digital functions within Government offices.
+7.5 Universal Access and Service
+It is globally acknowledged that citizen’s access to ICT networks and services is a
+desirable national development goal. However, in many developing countries
+including Nigeria, significant portions of the population are either unserved or
+underserved. Lack of access has obvious consequences for national development
+such as stymied digital literacy, and diminished participation in elections and
+democratic governance.
+7.5.1 Situation Analysis
+A large proportion of Nigerians live in rural areas and most of these rural
+communities do not have access to basic ICT services. In addition, some Nigerians
+reside in urban areas that are unserved or underserved. Consequently, urgent
+intervention is needed to ensure provision of Universal Access and delivery of quality
+services through the nationwide development of ICT infrastructure and services. Of
+prime importance are basic voice /data services, Broadband Internet access, related
+facilities and applications.
+Nigeria, following international best practices is addressing the challenges through
+the development of various initiatives in the sector. It is important that the pursuit of
+the goals of universal access/service be accelerated as indicated in Vision 20:2020.
+Government shall therefore encourage and promote Universal Access and Services
+for all citizens of Nigeria through effective public and private partnerships.
+National ICT Policy - 2012 Page 31
+7.5.2 Objectives
+i. To extend universal access/service nationwide in the shortest possible time;
+ii. To ensure ubiquitous broadband presence nationwide for citizen access to the
+information super-highway;
+iii. To ensure that citizens have access to all ICT services at reasonable prices;
+and
+iv. To ensure that ICT contributes to national growth and improves the welfare of
+the citizens.
+7.5.3 Strategies
+The Government will:
+i. Extend the definition of universal service/access to incorporate digital literacy
+and nationwide broadband presence;
+ii. Utilize existing infrastructure (Post Offices, Schools, Libraries) to extend
+universal access/service;
+iii. Promote the use of e-Services nationwide for all population groups, including
+in remote and underserved areas;
+iv. Evaluate existing funding mechanisms to improve efficient use of resources in
+pursuit of universal access/service;
+v. Continue to promote aggressive and rapid fibre-optic network deployment
+through a regime of incentives and subsidies as well as the promotion of
+public private partnerships;
+vi. Provide personal computers in public places (e.g. post offices, schools, public
+libraries, etc.) in small and large communities to help low-income segments of
+society gain access to the internet and for educational purposes;
+vii. Increase the use of Universal Service Provision Funds for effective and
+efficient delivery of intervention services to unserved and underserved areas
+of the country; and
+viii. Ensure that marginalized groups become an integral part of the ICT
+stakeholder community, as participants, innovators, leaders and beneficiaries
+of the knowledge economy in Nigeria’s emergent information society.
+National ICT Policy - 2012 Page 32
+7.6 Transition from Analogue to Digital Broadcasting
+There is a current global trend towards conversion from analogue to digital
+broadcasting. Some of the benefits of migration include higher quality reception,
+access to more channels, and availability of a wider spectrum of value added
+services.
+7.6.1 Situation Analysis
+Transition from analogue to digital broadcasting has significant implications for
+subscribers, the regulator, content providers, and the Government. These challenges
+range from financial considerations to content integrity, and the entire management
+of the migration process. There is also the issue of how to mobilize indigenous
+participation, especially in the production of Set Top Boxes. It is important for Nigeria
+to take advantage of the opportunities inherent within this transformation.
+Government shall therefore facilitate a National Broadcasting System that promotes
+freedom of expression, access to information and knowledge, as well as ensures
+transparency and accountability in governance. The Government therefore needs to
+urgently address these challenges before the ITU changeover date of June 17, 2015.
+7.6.2 Policy Objectives
+i. To comply with ITU mandate of migrating from analogue to digital
+broadcasting by June 2015;
+ii. To properly manage the digital dividend that will result from the migration; and
+iii. To facilitate and promote reasonably priced Community Broadcasting as a
+tool for promoting universal access and the Rights to Freedom of Expression.
+7.6.3 Strategies
+The Government will:
+i. Provide a clear roadmap for harvesting the “digital dividend” spectrum, and
+ensure competitive allocation and efficient use of the resource;
+ii. Ensure compliance of migration by the ITU mandated date;
+iii. Embark on appropriate publicity campaign for the purpose of sensitizing the
+general public on the transition from analogue to digital broadcasting;
+National ICT Policy - 2012 Page 33
+iv. Ensure availability and cost effectiveness of set top boxes;
+v. Encourage and facilitate local manufacturing of set top boxes; and
+vi. Develop a licensing regime for signal distributors.
+7.7 Community Broadcasting
+Community broadcasting has been acknowledged as critical as a tool for promoting
+universal access and the Rights to Freedom of Expression. Community broadcasting
+typically augments the services of the National Broadcasting System by attending to
+needs that cannot be adequately addressed at Federal, State and Local levels by
+public and commercial broadcast operators. Community-based broadcasting stations
+will contribute towards bringing the nation's ethnic communities and special interest
+groups into focus. It will also empower them with access to, and the ability to send
+and share information.
+7.7.1 Situation Analysis
+Community broadcasting in Nigeria has been minimal and yet it is acknowledged
+that community broadcasting can play a useful role in national development by
+targeting specific groups and/or communities. Efforts should therefore be made to
+promote a robust community broadcasting culture, including IP-based retransmission
+of broadcast signals.
+7.7.2 Objectives
+i. To implement full community broadcasting in Nigeria;
+ii. To facilitate widespread access to broadcasting; and
+iii. To ensure appropriate content that educates, enlightens and empowers
+Nigerians.
+7.7.3 Strategies
+The Government will:
+i. Create an enabling framework and environment that will further the
+advancement of community broadcasting sector in Nigeria; and
+ii. Amend the relevant sections of the Constitution of the Federal Republic of
+Nigeria, 1999 (as amended) to permit the issuance of broadcasting licenses,
+including community radio by the Converged Regulator.
+National ICT Policy - 2012 Page 34
+7.8 ICT and Youth
+The youth are critical catalysts in Nigeria’s socioeconomic development plans, and
+are acknowledged to be an ICT-oriented generation. For Nigeria to harness the huge
+potential that ICT offers, it is important to leverage ICTs for positive youth
+orientation/development, and also to ensure that youths use ICTs responsibly and
+productively.
+7.8.1 Situation Analysis
+The National Youth Policy defines anyone between the ages of 18 and 35 as a
+Nigerian Youth. According to population statistics, seventy percent (70%) of Nigeria’s
+167 million population fall into this group, making it foundational and critical to
+National development. However, unemployment, under employment, and lack of
+entrepreneurial skills and / or opportunities present a very serious potential for
+increased social ills.
+7.8.2 Objectives
+i. To leverage ICT in addressing Youth-specific development and orientation
+issues; and
+ii. To ensure that the Youth use ICT responsibly and for positive purposes.
+7.8.3 Strategies
+The Government will:
+i. Promote the use of ICTs, in partnership with Youth-focused bodies and
+relevant MDA’s to deliver information and content that emphasize National
+Unity, tolerance and ethical values;
+ii. Support the delivery of programmes designed to ensure that the youth focus
+on positive application of ICT;
+iii. Promote Incentive and support schemes targeted at youth entrepreneurship
+initiatives in ICT;
+iv. Ensure that the youth is protected adequately in cyberspace; and
+v. Promote the incorporation of ICT within the education curriculum at all levels.
+National ICT Policy - 2012 Page 35
+7.9 Local Content Development
+ICT could be used to leverage Local Content Development in Nigeria from a two-
+pronged approach - through both Software and Hardware development.
+7.9.1 Situation Analysis
+ICT local content (including software and hardware) is grossly underdeveloped in
+Nigeria. This has resulted in over-dependence on foreign importation of software and
+hardware, and diminished opportunity for economic empowerment and capacity
+building within the context of ICT. In addition, there has been the considerable drain
+on Nigeria’s foreign exchange. Consequently, urgent efforts must be put in place to
+remedy this situation.
+7.9.2 Software Development
+The software industry is a multi-billion dollar industry and Nigeria can benefit
+tremendously from developing its own domestic software industry to create
+applications for aspect of human endeavour including Agriculture (e-Agriculture),
+Business (e-Business), Education (eLearning), Governance (e-Government), Health
+(e-Health) etc. This can cater for both domestic and export markets.
+7.9.3 Situation Analysis
+The sector has received limited support from Government and has generally faced
+the challenge of scarcity of indigenous capacity, and intense foreign competition.
+There is need for Government to create an enabling environment to encourage
+private sector software innovation and development.
+7.9.4 Objectives
+vi. To position Nigeria as a leader in software development where the software
+industry becomes a major contributor to national wealth;
+vii. To provide incentives for the growth of the software industry;
+viii. To promote software development education in the country;
+ix. To encourage promotion of software development and content for local and
+export markets;
+x. To ensure rapid indigenization and domestication of high technology ICT
+products and services; and
+National ICT Policy - 2012 Page 36
+xi. To encourage the attainment of a significant increase in local content of ICT
+software and services by 2015.
+7.9.5 Strategies
+The Government will:
+i. Ensure that indigenous software meets international standards;
+ii. Provide incentives and initiatives that will significantly increase the number of
+software developers within the next five years;
+iii. Build a strong interface between the software industry, academia and also the
+business world to improve relevance of the end product;
+iv. Promote collaboration amongst software developers;
+v. Ensure that security and privacy in software information system are
+maintained;
+vi. Ensure that intellectual property rights are protected;
+vii. Promote international certification of indigenous software;
+viii. Encourage the creation of major software projects as platform for indigenous
+software industry;
+ix. Promote the patronage of indigenous software products and services;
+x. Promote Free and Open Source Software (FOSS) development, education
+and use in the country;
+xi. Pursue the development of an ICT Local Content Plan for Nigeria by 2013;
+xii. Digitize local content in areas such as music, film, tourism, etc; and
+xiii. Digitize and make available on line local content.
+7.10 Hardware Production
+Hardware is required to unlock the value of software tools and applications. It has
+the potential to form a major part of an economy that supports the innovative output
+of Nigerian developers. Government will endeavorto ensure that by the end of
+2015, at least 50% of Personal Computers in use within Nigeria will be made in
+Nigeria; and by the end of 2017, 50% of internet-enabled devices used within Nigeria
+would be made in Nigeria.
+National ICT Policy - 2012 Page 37
+7.10.1 Situation Analysis
+The hardware component of the ICT industry is substantial. However, the bulk of
+computing and internet-enabled devices in use within Nigeria are imported, reducing
+the potential creation of job opportunities, skills development, and exerting pressure
+on foreign exchange. It is therefore imperative for Nigeria to develop a sustained
+program that will enhance its hardware production industry.
+7.10.2 Objectives
+i. To promote and support the local design and manufacture of ICT hardware;
+ii. To establish appropriate standards for the production of efficient and cost-
+effective hardware; and
+iii. To significantly increase the number of Nigerians that own ICT
+hardware/devices.
+7.10.3 Strategies
+The Government will:
+i. Encourage the establishment and expansion of domestic capacity to produce
+hardware for the ICT sector;
+ii. Encourage the local design and manufacture of ICT hardware that conforms
+to global standards;
+iii. Promote the diffusion of ICT knowledge for optimal use of hardware;
+iv. Facilitate low cost, individual ownership or access to computers for every
+Nigerian;
+v. Ensure rapid indigenization and domestication of high technology ICT
+products and services;
+vi. Encourage joint ventures between Nigerian and foreign enterprises towards
+the production of ICT equipment;
+vii. Encourage the patronage of locally manufactured ICT products;
+viii. Encourage research and development of appropriate ICT devices for the
+physically challenged to enable them enjoy the benefits of the ICT revolution
+in the country;
+ix. Encourage manufacturers to set up factories for the manufacture of Set Top
+Boxes that are required for the transition from analogue to digital broadcasting
+by 2014; and
+National ICT Policy - 2012 Page 38
+x. Provide incentives to encourage Foreign Direct Investment for local
+manufacturing.
+7.11 Safety and National Security
+The protection of life and property as well as the promotion of national security is
+vital for overall economic development. ICT presents opportunities that can be
+leveraged to strengthen the protection of the citizen and the Nation’s territorial
+integrity.
+7.12 Situation Analysis
+a. Cyber Digital Security
+Major challenges facing the country in the area of ICT development include
+cybercrime and underutilization of ICTs for strengthening overall national security.
+There is no ‘Certified Emergency Response Team (CERT)’, nor electronic
+authentication framework. The lack of appropriate legislation and coordination of the
+activities of various security arms of government continue to militate against
+implementation of effective measures to combat cybercrime. Government intends to
+address the formidable privacy, capacity, content and challenges to ensure the
+potentials are realized.
+National ICT Policy - 2012 Page 39
+b. Infrastructure Security
+ICT development continues to be adversely impacted by both negligent and
+deliberate damage to ICT infrastructure. This is a disincentive to investors, even as it
+threatens existing investments, and must therefore be urgently addressed.
+c. National Security
+ICT has the potential to significantly enhance the safety of lives and property in
+Nigeria. Although ICT is increasingly being leveraged by security agencies, the
+policy must provide support for increased utilization of ICT systems and tools for
+intelligence-gathering, crime detection, and enhanced security.
+7.12.1 Objectives
+i. To enhance crime detection, intelligence gathering, and national security,
+including physical and cyber security;
+ii. To protect the rights and privacy of the citizens;
+iii. To foster information sharing among security agencies;
+iv. To ensure protection of the child in cyberspace; and
+v. To build confidence in the use of ICT networks and services.
+7.12.2 Strategies
+The Government will:
+i. Ensure capacity development of its institutions and collaborate with regional
+and international agencies to contain cyber crimes;
+ii. Encourage the review of existing legal instruments pertaining to procedural
+and evidential law to permit the usage of electronic evidence, recognition of
+“cyberspace” and to address jurisdictional issues;
+iii. Ensure that operators take all necessary steps to prevent the use of their ICT
+networks and facilities for the commission of crimes;
+iv. Ensure the use of ICT for the protection of life and property of all citizens;
+v. Ensure the provision of ICT services for emergency and distress situations in
+all parts of the country (on land, sea, and air), and support international co-
+operation;
+National ICT Policy - 2012 Page 40
+vi. Ensure that laws relating to ICT offences are periodically reviewed and
+enforced;
+vii. Ensure that all the necessary legislative instruments for the administration of
+the ICT industry are in place and adequate;
+viii. Ensure the protection of data and safeguard ICT Infrastructure especially
+Critical National Infrastructure;
+ix. Ensure, within the shortest possible time, the provision of dedicated National
+Emergency Lines for distress calls in all parts of the country, especially for
+child safety, law enforcement, road safety and national emergencies;
+x. Facilitate the urgent establishment of a Computer Emergency Readiness and
+Response ecosystem with apex, sectoral and institutional Computer
+Emergency Response Teams (CERT’s), as needed, to serve as standby
+teams of experts that are able to respond to national emergencies, especially
+cyber-threats, attacks and cyber warfare; and
+xi. Ensure that current security measures and hacking countermeasures are
+frequently applied and updated on the nation (.ng) top level domain.
+7.13 Coordinated ICT Development across All Sectors
+Coordination amongst MDA’s in respect of ICT services will eliminate overlaps,
+create more efficiency, reduce government expenditure and encourage holistic
+planning of ICT deployments, capacity building, and utilization.
+7.13.1 Situation Analysis
+ICT development in Nigeria is hampered by the lack of a cohesive framework that
+unites sector development plans with a broader ICT policy environment. This has
+resulted in uneven development across the various sectors, capacity gaps,
+duplication of efforts and resources, and a lack of holistic policy implementation.
+Appropriate measures should therefore be put in place to create an enabling
+environment that will enhance effective and coordinated ICT development across all
+sectors.
+7.13.2 Objectives
+i. To drive the development and update of ICT plans across all sectors of the
+Nigerian economy; and
+National ICT Policy - 2012 Page 41
+ii. To encourage and promote effective use of ICT in Governance within every
+sector and program, including:
+ Agriculture
+ Education
+ Finance
+ Health
+ Justice Administration
+ Oil and gas
+ Power
+ Small & Medium Sized enterprises
+ Solid minerals
+ Sports
+ Trade and Commerce
+ Transport
+ Youth Development
+7.13.3 Strategies
+The Government will:
+i. Promote mechanisms for interfacing between its sectors and tiers to drive the
+development of ICT plans;
+ii. ii. Develop a sector-specific timetable to facilitate timely and organized
+production of sector-specific plans, working with the relevant sectors and tiers
+of government; and
+iii. Ensure that by the end of 2015, all sectors would have developed (where
+nonexistent), or updated their ICT for Development Plans that are aligned to
+this National ICT Policy Document.
+7.14 Research, Development, and Innovation
+Research, Development, and Innovation (RDI) is a strategic imperative for the
+attainment of sustainable development and competitiveness. Research is necessary
+for the technological development of the nation and for reaping the enormous
+benefits that exist in the ICT sector of the economy. Therefore, by the end of 2015, a
+National ICT Policy - 2012 Page 42
+National Research and Development Agenda would have been developed and
+approved.
+7.14.1 Situation Analysis
+Although there is some research and development (R&D) activity in the general area
+of Science and Technology, R&D in the specific area of ICT is, at best, very minimal
+in Nigeria. This adversely impacts innovation, reduces growth potential, and
+continues to constrain the realization of Nigeria’s huge ICT prospects. Therefore, to
+reverse the trend, there is a need to promote R&D activities to stimulate and sustain
+innovation in ICT.
+7.14.2 Objectives
+i. To stimulate and encourage Research, Development and Innovation in ICT;
+ii. To harness and utilize the results of Research, Development and Innovation
+in ICT;
+iii. To ensure that adequate resources are provided for ICT related research;
+iv. To enhance collaboration among stakeholders in the design, execution,
+documentation and exchange of research ideas and results; and
+v. To ensure that by the end of 2015, a National Research and Development
+Agenda would have been developed and approved.
+7.14.3 Strategies
+The Government will:
+i. Promote collaborative R&D in ICT and encourage stakeholders to support
+such efforts in relevant institutions;
+ii. Identify R&D focus areas with the involvement of Industry, Academia and
+Research institutions by 2013;
+iii. Set, review, and implement guidelines for ICT research and development
+initiatives;
+iv. Ensure development of national ICT standards, as well as contribute to global
+standards;
+v. Encourage collaborative ICT R&D in hardware and software as well as high-
+end computing and socio-economic issues;
+vi. Facilitate and nurture local ICT content development; and
+National ICT Policy - 2012 Page 43
+vii. Undertake collaborative research, advocacy, and consultation to monitor the
+impact of the adoption of ICT initiatives on the society and disseminate the
+findings as appropriate.
+7.15 Investment and Funding
+Investment and funding are critical to the success of any national ICT development
+plan and programs. Typically, sources for such funding would include Government,
+the private sector, as well as international organizations. Government has the critical
+role of creating an enabling environment that will attract investment and funding from
+these various stakeholders.
+7.15.1 Situation Analysis
+Although the ICT sector has witnessed tremendous investments over recent years,
+the occurrence of Multiple Regulation and taxation - a phenomenon where players
+in the ICT sector are subjected to various rules, regulations and taxes, for the same
+aspect of a service providers operation, by different tiers and agencies of
+Government (Federal, State and Local) – tends to discourage investors,
+consequently threatening investments and potentially depriving the sector of the
+necessary funding required for ICT improvement and expansion. Therefore, this
+issue must be urgently and appropriately addressed.
+7.15.2 Objectives
+i. To create an enabling environment and facilitate foreign direct investment as
+well as national private sector investment in the ICT industry;
+ii. To further deregulate, liberalise and increase competition in the ICT sector;
+iii. To encourage public-private partnerships for the development of ICT;
+iv. To provide funding of government ICT projects through appropriate budgetary
+allocation; and
+v. To pursue elimination of multiple regulation and taxation within the ICT sector.
+7.15.3 Strategies
+The Government will:
+i. Provide incentives such as appropriate tax and import duty reliefs;
+National ICT Policy - 2012 Page 44
+ii. Facilitate the grant for pioneer status to qualified companies to encourage
+investment in the ICT sector;
+iii. Provide appropriate fiscal incentives to encourage local manufacture of ICT
+equipment and development of software;
+iv. Streamline procedures and requirements for the importation of ICT
+equipment;
+v. In collaboration with relevant agencies of Government, take practical steps to
+reduce the occurrence of multiple regulation and taxation in ICT; and
+vi. Adopt financing models that foster indigenous ICT entrepreneurship.
+7.16 Public Private Partnership
+Partnerships between the government and the private sector have tremendous
+potential forthe qualitative delivery of ICT infrastructure projects, innovation, skills
+acquisition, and outreach of government services to Nigerians. Recognizing the
+Private sector as the main engine of economic growth, Government is keen to foster
+a conducive environment for the functioning of viable, impactful and sustainable PPP
+initiatives.
+7.16.1 Situation Analysis
+Private sector participation has been identified as a major catalyst in ICT
+development across the globe. However, often times, there is confusion as to roles,
+levels of contribution, and rules of overall engagement thus leading to fragmented
+outcomes. Nigeria is therefore yet to take full advantage of the enormous potentials
+inherent in public-private-partnership in ICT development. The necessary enabling
+environment should therefore be created for the realization of these benefits.
+7.16.2 Objectives
+i. To increase ICT related PPP’s for overall sector and Nigeria’s socio economic
+development; and
+ii. To ensure that PPP’s are impactful, sustainable and beneficial to both public
+and private sector participants, and the end beneficiaries.
+7.16.3 Strategies
+The Government will:
+National ICT Policy - 2012 Page 45
+i. Ensure effective cooperation amongst MDA’s that are relevant for the proper
+operation of PPP’s;
+ii. Ensure a clear framework of Intellectual Property Protection and other terms
+of engagement with the private sector exists, to encourage increased private
+sector confidence and investment into PPP’s;
+iii. Ensure that all proposed PPP projects are subjected to viability and
+sustainability assessments;
+iv. Promote awareness of PPP opportunities to the private sector; and
+v. Ensure, where appropriate, incentive schemes to accelerate take off of ICT
+PPP projects.
+7.17 Reform of the Postal Sector
+A ubiquitous and viable postal network - comprising of both private and public
+infrastructure - is a key enabler for the attainment of the developmental goals of the
+country. The sector has significant potential for job creation, and in addition to
+facilitating the dissemination of goods and services, a sustainable postal network is:
+a catalyst for the adoption of ICTs by the public; disseminator of social benefits; and
+is a facilitator of the financial and logistical capabilities necessary to stimulate and
+increase commerce.
+7.17.1 Situation Analysis
+Nigeria’s population of over 167 million people and huge land span of approximately
+910,771 Square Kilometers are factors that contribute to the challenges of meeting
+Universal Service Postal Obligations. Furthermore, overlapping regulatory and
+operational functions, the incidence of grey operators, absence of an accurate
+addressing system, and the unavailability of an up-to-date street-mapping system
+are additional factors that impair the efficient operation of the Postal Sector. The
+Government must therefore reorganize and reposition the Postal sector to ensure it
+can sustainably deliver efficient Postal services to Nigerians.
+7.17.2 Objectives
+i. To reform and stimulate the development and growth of the postal sector in
+Nigeria;
+National ICT Policy - 2012 Page 46
+ii. To expand, strengthen and incorporate the postal network into the national
+infrastructure for attaining a knowledge-based economy;
+iii. To harness the national postal network for the attainment of financial and
+digital inclusion, as well as job creation; and
+iv. To harness the public postal network for effective government administration
+and delivery of government services.
+7.17.3 Strategies
+The Government will:
+i. As a matter of urgency and priority, accelerate and complete the reform of the
+sector through the passing of the Postal Bill which shall provide for the
+separation of the postal regulatory functions from the operations of the public
+postal operator, and allow for the corporatization of the public postal operator;
+ii. Ensure the restructuring and corporatization of the Public Postal Operator to
+achieve greater efficiency and effectiveness in the discharge of its functions;
+iii. Implement Postal Universal Service Obligations and enforce access to quality
+and affordable universal postal service;
+iv. Promote competition in non-exclusive Postal services; and
+v. Utilize the public postal network for government administration and delivery of
+government services.
+7.18 Outsourcing
+Outsourcing is a global multi-billion dollar industry. Many nations have capitalized
+upon the outsourcing opportunity to transform their economies and increase global
+competitiveness. A number of developing nations are also devoting significant
+resources to growing the Business Process Outsourcing (BPO) industry, and thereby
+making it a significant contributor to gross domestic product (GDP). Nigeria is
+particularly well positioned to participate in this industry, because its official language
+is English, and it has a large, fairly well educated, and relatively inexpensive labour
+force.
+7.18.1 Situation Analysis
+Although the Business Process Outsourcing (BPO) global market is estimated to be
+worth hundreds of billions; lack of a robust framework, security concerns, perceived
+National ICT Policy - 2012 Page 47
+lack of local skills, etc are among the factors that have prevented Nigerian
+organizations from participating effectively in, and benefitting from the BPO
+opportunity.
+Therefore, it is important - especially as Government continues to stimulate the
+creation of jobs - to urgently promote a conducive environment that will enable
+Nigerian firms to invest in and participate within the global BPO economy.
+7.18.2 Objectives
+i. To develop a globally competitive Information Technology Enabled Services
+(ITES) sector in Nigeria;
+ii. To facilitate the diversification of the national economy through the
+development of a vibrant outsourcing sector, including developing an export-
+oriented ICT product and service delivery industry;
+iii. To accelerate human resource and ICT infrastructure development to support
+growth in the outsourcing sector; and
+iv. To ensure an integrated and coherent effort and coordination between all tiers
+of Government.
+7.18.3 Strategies
+The Government will:
+i. Promote human capacity development, as well as an enabling, legal,
+regulatory, technological, and infrastructural environment for the sustainable
+development of the outsourcing sector in Nigeria;
+ii. Ensure that all participants in the outsourcing subsector conform to
+international standards and best practices;
+iii. Fund appropriate ICT infrastructure development that will support reliable
+outsourcing businesses; and
+iv. Provide incentives (such as tax relief, pioneer status or other appropriate
+incentive) to encourage strong private sector leadership of the sector.
+7.19 Management of Scarce Resources
+The effective and efficient deployment of ICT requires prudent and judicious
+management of some scarce natural resources or government influenced assets
+which include radio frequency spectrum, electronic addressing system, right of way,
+and orbital slots. It is imperative that appropriate measures are adopted to maximize
+National ICT Policy - 2012 Page 48
+the economic and social benefits that Nigerians derive from the use of these scarce
+resources.
+7.19.1 Situation Analysis
+The resources required for broadcast, implementation of ICT infrastructure, and even
+the deployment of orbital assets, are globally acknowledged to be scarce.
+Overlapping regulatory functions, bureaucracy, and a less-than-holistic approach to
+the management of these resources are challenges that have an adverse effect on
+the overall pace of ICT development in Nigeria. It is therefore very important for the
+Government to urgently put in place a framework for the efficient management of
+these scarce natural resources and government-influenced assets.
+7.19.2 Objectives
+i. To ensure effective planning, allocation, licensing, utilization, assignment and
+monitoring of spectrum;
+ii. To ensure judicious allocation and use of electronic addressing systems;
+iii. To plan and coordinate the allocation of ‘right of way’ to ICT facilities
+providers;
+iv. To devise a national plan for effective co-ordination of Nigeria’s orbital assets;
+v. To ensure that operators gain flexibility for underutilized spectrum to promote
+new and more innovative broadband services;
+vi. To ensure licenses are assigned transparently; and
+vii. To ensure harmonization of IEEE 802.11ac (5GHz), IEEE 802.11ad (60 GHz)
+standards in accord with ETSI, European Union and ITU recommendations.
+7.19.3 Strategies
+The Government will:
+i. Ensure the effective allocation and management of bulk and commercial
+spectrum;
+ii. Ensure the judicious allocation of numbers based on an open non-
+discriminatory and transparent basis;
+iii. Ensure coordination between the relevant agencies that are involved in
+issuing right of way for ICT infrastructure deployment;
+National ICT Policy - 2012 Page 49
+iv. Ensure, in consultation with ITU, the proper coordination and utilization of
+orbital space for effective national development; and
+v. Encourage deployment of ICT services in underserved and unserved areas,
+by identifying appropriate frequencies which could be allocated as license
+exempt frequencies to service providers for deployment of services in the
+rural areas.
+7.20 Regional / International Cooperation and Collaboration
+International co-operation is essential for development of the ICT sector. It affords
+countries the opportunity to share experiences and to set common standards and
+policies for ICT development. It is important to maximize participation in relevant
+international fora in order to accelerate Nigeria’s full integration into the global
+information society.
+7.20.1 Situation Analysis
+ICT development has significant dependencies on international standards
+development discoveries and knowledge exchange. Whilst Nigeria has been a
+participant in international fora, the participation has not been maximized for a
+number of reasons including lack of coordination, short planning cycles, etc. To
+ensure that Nigeria derives maximum benefits from these international
+engagements, it is important for Government to establish a clear mechanism for
+Nigeria’s effective participation in regional /international cooperation and
+collaboration efforts.
+7.20.2 Policy Objectives
+i. To promote effective participation of Nigeria in the activities of various
+international organizations;
+ii. To ensure that Nigeria adopts international best practices and standards in
+the ICT industry;
+iii. To promote existing and future markets for Nigerian ICT products and
+services; and
+iv. To advance the harmonization of ICT policies and legal framework across the
+region.
+National ICT Policy - 2012 Page 50
+7.20.3 Strategies
+The Government will:
+i. Ensure effective participation by Nigeria at all relevant regional and
+international fora through adequate planning and formulation of Nigeria’s
+position and strategies;
+ii. Comply with all membership obligations and provide requisite support to
+regional and international organizations;
+iii. Actively pursue international agreements that promote Nigeria’s ICT
+development agenda;
+iv. Support and participate in sub regional and regional policy harmonization
+initiatives embarked upon by regional organizations;
+v. Ensure that Nigeria occupies strategic positions in regional/international
+organizations;
+vi. Ensure effective implementation and monitoring of collaborative agreements;
+and
+vii. Promote participation in international fora of all stakeholders such as the
+Academia, Civil Societies, Diaspora, Private Sector, and Youth.
+7.21 ICT and the Environment
+Preservation and enhancement of the environment is an established and growing
+worldwide concern. There is increasing interest in the impact of ICT activities on the
+environment. Accordingly, the relationship between ICT and the environment is given
+significant attention in national ICT development plans. Government and ICT
+operatives shall seek to pursue a policy of ‘green communications’ that aims to
+minimize any adverse impact or footprint of ICT development on the environment.
+7.21.1 Situation Analysis
+Despite the huge benefits of pervasive ICT deployments, there are significant
+concerns that need to be addressed, with respect to the adverse impact and other
+consequences associated with ICT infrastructure and equipment including CO2
+emissions, radio-activity and e-waste. E-waste is a recent and emerging issue
+arising substantially out of the operations and effusions in the ICT sector. The
+situation is further compounded in Nigeria by the importation and dumping of
+electronic and electrical waste. Present environmental laws and regulations do not
+National ICT Policy - 2012 Page 51
+adequately address the challenges posed by E-waste.To appropriately manage
+these environmental challenges, Government needs to urgently put in place effective
+policies, strategies and enactments to mitigate the adverse impact of ICT on the
+environment.
+7.21.2 Objectives
+i. To promote the use of environmentally friendly and sustainable ICT;
+ii. To monitor the relationship between the environment and ICT;
+iii. To utilize ICT to minimize environmental degradation and manage natural
+disasters;
+iv. To simultaneously encourage service providers to embrace alternative energy
+sources to power their infrastructure, and thus enhance qualitative and
+effective service provision; and
+v. To adequately provide for the collection, disposal, treatment and recycling of
+e-waste.
+7.21.3 Strategies
+The Government will:
+i. Commit to initiatives, policies and programs that ensure that the environment
+is adequately protected;
+ii. Promote collocation, renewable energy and green initiatives as a means of
+minimizing impact of ICT infrastructure on the environment;
+iii. Partner with international agencies such as the International
+Telecommunication Union (ITU) and the domestic and international industry to
+promote research on ‘green communications’;
+iv. Promote the implementation within Nigeria of international or regional
+initiatives and programmes on the environment that have been duly adopted
+by Nigeria;
+v. Partner and collaborate with the relevant environmental protection MDA’s to
+promote matters of the environment in relation to the ICT sector;
+vi. Sign up to existing conventions that deal with the control and disposal of
+hazardous wastes;
+vii. Develop specific policies and regulatory framework for the management and
+control of e-waste; and
+National ICT Policy - 2012 Page 52
+viii. Partner with relevant Specialized NGOs and donor agencies that deal
+specifically with control, management and disposal of e-waste.
+7.22 ICT and the Consumer
+The consumer is the ultimate reason for the provision of ICT services and products.
+Therefore, efforts must be made to ensure that goods and services offered in
+Nigeriaconform to international standards, and also comply with guidelines set by the
+Regulator. It is also important that the consumer is provided with mediums through
+which they can air their grievances and /or provide feedback to Government.
+7.22.1 Situation Analysis
+The increase in service, device and equipment availability presents new challenges
+in terms of quality assurance, safety standards and other consumer facing
+considerations. Furthermore, the consumer experience in Nigeria in the context of
+ICT services and equipment continues to be diluted as a result of uneven quality of
+service, influx of substandard equipment, and at times, unclear consumer protection
+responsibilities. It is therefore important for the Government to ensure operation ofa
+well-defined and effective consumer protection framework.
+7.22.2 Objectives
+ix. To ensure that the consumer is adequately protected in respect of the quality
+of ICT products and services within Nigeria; and
+x. To ensure that the consumer has access to platforms that will facilitate
+feedback to relevant Government institutions.
+7.22.3 Strategies
+The Government will:
+i. Ensure that consumer protection legislation is updated to reflect evolving
+trends;
+ii. Strengthen the powers and capacity of the regulator to protect consumers;
+iii. Promote the implementation of Government interaction platforms and
+processes;
+iv. Promote awareness campaigns that informs consumers about their rights;
+and
+National ICT Policy - 2012 Page 53
+v. Ensure measurement of Consumer satisfaction through the promotion and
+publication of frequent consumer satisfaction surveys and fora.
+7.23 ICT and the Civil Society
+Civil society has an increasingly relevant role to play in Nigeria’s Socio economic
+development. ICTs present opportunities to collate, evaluate and diffuse information
+in pursuit of civil society’s goals.
+7.23.1 Situation Analysis
+ICTs represent powerful tools that can help civil society organizations to transform,
+strengthen, and extend their operations. However, funding constraints, scarcity of
+skills, and other factors currently prevent civil society organizations from maximizing
+the potential of ICTs. Given their critical role in the society, Government should
+urgently create policies and strategies that address these challenges.
+7.23.2 Objectives
+i. To promote the responsible utilization of ICT’s within Civil Society groups in
+order to strengthen and extend their operations; and
+ii. To foster increased use of ICT’s for interaction and collaboration between civil
+society and government.
+7.23.3 Strategies
+The Government will:
+i. Ensure support for the acquisition of ICT and capacity building for Civil
+Society organizations;
+ii. Promote initiatives that focus on the responsible use of ICTs especially in
+respect of privacy and dissemination of information; and
+iii. Ensure availability of platforms and processes to facilitate Government
+interaction with Civil Society groups.
+7.24 Open Data and ICT
+Open Data deals strategically with how certain data within government confines
+should be made freely available to the public, and allow republishing without
+National ICT Policy - 2012 Page 54
+restrictions. Having an open data policy would help to improve governance and
+support implementation of the new Nigeria Freedom of Information Act (2001).
+7.24.1 Situation analysis
+Following the passage of the FOI bill by the Federal Government of Nigeria, it is
+important to establish a framework that supports the adoption of the Open Data
+initiative. ICT and Open Data policy thrusts will focus on how certain data within the
+government confines will be made freely available to the public, for viewing and
+republishing without restrictions.
+7.24.2 Objectives
+i. To strengthen the role of citizens and civic societies by providing data in
+machine readable formats while working with various sectors of the economy;
+ii. To encourage the development of innovative products using publicly available
+data; and
+iii. To ensure that a portal is always up and running, which provides necessary
+data from all sectors.
+7.24.3 Strategies
+The Government will:
+i. Ensure that a knowledge exchange platform is developed which allows MDA’s
+to exchange experiences and ideas on open projects;
+ii. Ensure that regular workshops, conferences and seminars are done in
+conjunction with civic society in order to educate government practitioners on
+how to publish data online;
+iii. Encourage the development of innovative applications that can provide
+insights into publicly available data; and
+iv. Coordinate the creation of a portal platform where all relevant data from
+MDA’s are maintained and always available.
+National ICT Policy - 2012 Page 55
+8.0 PROPOSED SECTORAL STRUCTURE
+8.1 Proposed Government Institutional Structure
+The proposed Nigeria ICT Government institutional structure shall consist of the
+following components:
+i. Ministry responsible for Communications and Information Technology;
+ii. The Converged ICT Regulator (Telecommunications + Broadcasting + Postal
++ IT);
+iii. The ICT Development Agency;
+iv. The Public Postal Operator (NIPOST);
+v. Government Owned Companies (1) Galaxy Backbone PLC; and (2)
+NigComSat Plc.
+8.2 The Role of the Government
+The role of Government in the ICT sector includes:
+i. Providing overall direction for national ICT development;
+ii. Ensuring policy consistency of ICT sector with other national policies,
+international best practices and conventions; and
+iii. Enacting necessary laws, and taking other required and necessary measures
+promptly in support of the National ICT Policy.
+8.3 The Role of the Ministry
+The Ministry formulates broad ICT Policy. Specific roles of the Ministry shall include
+the following:
+i. Proposing policy options and recommending to Government such measures
+as legislation, fiscal incentives, etc;
+ii. Monitoring the implementation of government policy in the industry;
+iii. Providing leadership and direction to the National Council on ICT;
+iv. Ensuring compliance with the provisions of sections 26 – 30 NCA 2003 ( as
+amended), in respect of the National Frequency Management Council’s
+frequency allocation role;
+National ICT Policy - 2012 Page 56
+v. Ensuring that the Policy is continually reviewed and aligned to the overall
+developmental goals of the country and the aspirations of the Government, in
+consultation with all stakeholders in the industry;
+vi. Ensuring that the ICT sector provides needed support to other sectors of the
+national economy;
+vii. Liaising with other Ministries on matters affecting the ICT sector that require
+inter-ministerial intervention;
+viii. Ensuring and co-coordinating national representation and participation in
+regional and international organizations and activities;
+ix. Liaising with the National Assembly on ICT matters;
+x. Managing the general ICT policy framework for the Federal Republic of
+Nigeria;
+xi. Conducting comprehensive Impact Analysis of ICT initiatives; and
+xii. Ensuring, in collaboration with other relevant MDA’s, the availability of
+comprehensive and accurate ICT data.
+8.4 The Role of the Converged Regulator
+A merger of NCC / NBC will be required to achieve the migration to a converged
+regulator, and will also result in the inclusion of the existing regulatory functions of
+NIPOST(the postal agency) and NITDA, (the IT development agency). The
+regulatory powers of each of these distinct entities will therefore have to be
+reviewed, and subsequently expanded or curtailed as deemed appropriate, to
+achieve the objectives and goals of converged regulation.
+The independent converged regulator will be headed by a Chief Executive and will
+consist of departments including Telecommunications, IT, Broadcasting and Postal,
+each of which will be headed by an executive commissioner. The roles of the
+Converged Regulator shall include the following:
+i. Developing and administering a comprehensive regulatory regime for the ICT
+sector;
+ii. Regulating the ICT industry in line with government policies, objectives and
+goals;
+National ICT Policy - 2012 Page 57
+iii. Promoting, encouraging and protecting private sector led investment in the
+industry through a fair and competitive ICT environment, as well as economic
+and technical regulation of the sector;
+iv. Ensuring a level playing field for all participants through equal opportunity and
+equal access to relevant information, markets and resources such as
+spectrum and electronic addressing system;
+v. Promoting Universal Access to ICT services, including developing regulations
+and designing a framework to guide the attainment of Universal Access, as
+well as enabling funding to help finance investment in ICT for unserved and
+underserved populations;
+vi. Ensuring a conducive regulatory environment that promotes the provision of
+Universal Service Postal Obligations;
+vii. Establishing and enforcing technical/operational standards and practices as
+well as Quality of Service (QoS) standards;
+viii. Balancing regulatory concerns in order to ensure that the interest of all
+Stakeholders are carefully considered and protected;
+ix. Ensuring equitable and transparent assignment of scarce resources such as
+radio frequency spectrum allocated to it by the National Frequency
+Management Council for (commercial ICT providers), electronic addressing
+system, internet names and addresses among others and promoting efficient
+use of same;
+x. Promoting transparency in consultation and rulemaking, including undertaking
+Regulatory Impact Assessments (RIA) on proposed regulatory initiatives;
+xi. Promote and ensure infrastructure sharing among facility and service
+providers to enhance efficient investment decisions, promote competition and
+minimize the impact of ICTs on the environment;
+xii. Reviewing current licensing categories to ensure compliance with the
+converged framework;
+xiii. Preparing and implementing programmes and plans that ensure regulation is
+responsive to, and supports the development of the ICT industry, and the
+provision of ICT services in Nigeria;
+xiv. Advising the Minister on the formulation of the general policies for the ICT
+industry and generally on matters relating to the ICT industry in the exercise
+of the Minister’s functions and responsibilities;
+National ICT Policy - 2012 Page 58
+xv. Generally advising and assisting ICT industry stakeholders and practitioners
+with regulatory advice with a view to the development of the industry;
+xvi. Developing and implementing consumer protection and awareness standards
+for customers of ICT services to ensure fairness and transparency, in the
+provision of valuable services;
+xvii. Publishing periodic reports to provide Performance Assessment of the Sector;
+xviii. Ensuring that tariff setting rules shall be transparent, with stable, predictable
+and understandable standards for current prices and for changes to those
+prices over time; and
+xix. Applying Universal Service Provision Fund (USPF) resources to support all
+required ICT regulatory intervention especially in support of Universal Access
+objectives.
+8.5 The Role of the ICT Development Agency
+The current IT development agency will have its mandate expanded to coordinating
+and driving development across the entire ICT sector. The ICTDA is to be headed by
+a Chief Executive and shall carry out the following functions:
+i. Formulate plans for ICT initiatives as appropriate;
+ii. Provide support to the private sector where appropriate to implement ICT
+developmental initiatives;
+iii. Identify emerging global ICT trends and evaluate their potential impacts on
+Nigerian ICT Industries;
+iv. Facilitate the implementation of e-government initiatives;
+v. Develop frameworks and guidelines, including interoperability and e-
+government frameworks, for development and use of ICT in the Government;
+vi. Facilitate and promote an enabling environment for nurturing and
+development of indigenous and competitive ICT content;
+vii. Facilitate and promote standards for development of ICT projects;
+viii. Conduct studies to aid ICT sector development;
+ix. Advise the Minister on the formulation of the general policies for the ICT
+industry and generally on matters relating to the ICT industry in the exercise
+of the Minister’s functions and responsibilities;
+National ICT Policy - 2012 Page 59
+x. Generally advise and assist ICT industry stakeholders and practitioners with a
+view to development of the industry;
+xi. Provide general guidelines for MDA ICT projects and procurements to
+eliminate duplication and ensure efficient use of government resources;
+xii. Encourage ICT capacity building programme among MDAs, the legislature
+and the judiciary to assist in the transformation of the country into a
+knowledge driven economy;
+xiii. Develop Standards and Guidelines for ICT development;
+xiv. Encourage the development of the outsourcing industry in collaboration with
+other relevant agencies of Government and the Private sector;
+xv. Provide support for research in higher institutions of learning;
+xvi. Provide the basis and wherewithal for construction of all infrastructure ICT
+Parks in the country; and
+xvii. Apply NITDEF resources to support all required ICT development intervention
+and efforts.
+8.6 The Role of the Public Postal Operator
+The Public Postal Operator will:
+i. Restructure and upgrade its organization and operations to effectively deliver
+on its Universal Service obligations and operate on a sustainable commercial
+basis;
+ii. Optimize current and future deployment of physical locations/outlets to
+maximize the reach of the public postal network, by ensuring that there is at
+least one public postal outlet in every Local Government Area by 2015;
+iii. Leverage its physical infrastructure network to achieve social, digital and
+financial inclusion; and
+iv. Establish and maintain a National Addressing Plan, and in collaboration with
+relevant institutions implement national addresses by 2015.
+8.7 The Role of Government owned companies
+Galaxy Backbone PLC and NigComSat were created for specific purposes in respect
+of government ICT infrastructure provision, and exploitation of satellite technology,
+respectively. Although government continues to consider the privatization of these
+National ICT Policy - 2012 Page 60
+companies, they will continue to focus on the delivery of efficient services that serve
+the interests of both Government and the private sector.
+Galaxy Backbone PLC will:
+i. Provide Government’s connectivity requirements, leveraging infrastructure
+and services of the Private Sector, as appropriate;
+ii. Provide data hosting and management services for government MDA’s;
+iii. Provide advisory services to MDA’s in respect of connectivity and data hosting
+services; and
+iv. Provide advisory services in respect of hosting and connectivity for
+transversal government applications.
+NigComSat will:
+i. Continue to pursue commercial exploitation of the Federal Governments
+investment in NigComSat-1R and other assets; and
+ii. Continue to provide Government with security and other required information
+obtained through the satellite resources under its management.
+National ICT Policy - 2012 Page 61
+9.0 POLICY IMPLEMENTATION AND REVIEW
+Successful implementation of any national policy program must be reflected in
+positive, tangible and impactful outcomes. The National ICT policy will be used to:
+i. Develop action plans for the ICT sector; and
+ii. Serve as a guide for developing cross-sectoral policies, and specific
+implementation guidelines as appropriate.
+Therefore, it is important that the policy itself, and the initiatives derived from it are
+subjected to an effective monitoring and review framework. This framework will
+incorporate benchmarks, comprehensive key performance indicators, and project
+monitoring / assessment framework process.
+To enshrine accountability and transparency, the Policy Implementation Review
+process will ensure reports are produced at predetermined periods to provide
+comprehensive updates on the initiatives. The Ministry of Communication
+Technology will produce a report on all sectoral activity on an annual basis.
+National ICT Policy - 2012 Page 62
+10.0 CONCLUSION
+This National ICT Policy is the end result of the harmonization of various existing ICT
+related policies, laws and committee reports, and input from industry stakeholders.
+Though there was extensive consultation even during the harmonization process, a
+stakeholder forum and subsequent broad - based stakeholder input cutting across
+industry bodies, regulators, legal practitioners, civil society, industry bodies,
+consumer associations, service providers, and technocrats; among many others, has
+enriched the process significantly.
+The process has carefully considered the background, history and challenges facing
+the ICT industry in Nigeria that dilute the sectors ability to support the developmental
+goals of the country, especially its vision to be a global top 20 economy by the year
+2020.
+To the extent possible, the interest, views and opinions of every relevant
+constituency were sought, taken into account and captured as appropriate. The
+National ICT Policy is therefore, all-inclusive.
+National ICT Policy - 2012 Page 63
+APPENDIX 1 - LIST OF REFERENCE MATERIALS
+The Committee in carrying out its assignment considered the following documents:
+ Final Report of the Committee for the Review of Communication Policy for
+Nigeria;
+ Report of the Presidential Task Force on Restructuring of Government
+Institutions/Organizations in Telecommunications and ICT Sector in Nigeria;
+ Bureau of Public Enterprise – Draft Report on National Postal Sector Policy (May
+2009);
+ The First National Implementation Plan for Vision 20:2020 Vol. 1;
+ The First National Implementation Plan for Vision 20:2020 Vol. II;
+ National Mass Communication Policy;
+ Draft Document on Broadcasting Policy;
+ Nigerian Communications Act, 2003;
+ Report of the Presidential Committee on Masterplan and Roadmap for the
+Implementation of Information and Communications Technology for National
+Development (Sept. 2010);
+ Nigerian Policy for Information Technology;
+ National Outsourcing Policy and Institutional Framework for Nigeria (Jan. 2007);
+ National Information Technology Development Agency Act, 2007;
+ National Broadcasting Commission Act 1992 as amended;
+ Nigerian Postal Service Act 2004;
+ Draft Communications Policy (2011);
+ National Telecommunications Policy, 2000;
+ NASDR Act 2010;
+ ICRC Act 2007;
+ CAC Act 1990;
+ NOTAP Act 1992;
+ The ICT in Education Policy 2010; and
+ CPN Act 49 of 1993.
+National ICT Policy - 2012 Page 64
+APPENDIX 2 - SELECTED TIMELINES
+S/N Objective / Strategy Target year
+end
+1. To pursue the elimination of multiple regulation and taxation 2015
+in the ICT sector.
+2. Identify R&D focus areas with the involvement of Industry, 2013
+Academia and Research institutions.
+3. Coordinated ICT Development in All sectors: 2014
+By end of 2015, all sectors would have developed (where
+none exist) or updated their ICT for Development Plans that
+are aligned to this Policy document.
+4. Research, Development and Innovation: 2015
+By end of 2015, a National Research and Development
+Agenda would have been developed and approved.
+5. Create a Computer Emergency Readiness and Response
+ecosystem with apex, sectoral and institutional Computer 2014
+Emergency Response Teams (CERT’s), as needed, to serve
+as standby teams of experts that are able to respond to
+national emergencies, especially cyber-threats, attacks and
+cyber warfare.
+6. Hardware Production:
+By end of 2015, at least 50% of Personal Computers in use 2015
+within Nigeria will be made in Nigeria.
+7. By the end of 2017, at least 50% of Internet enabled device 2017
+used in Nigeria will be made in Nigeria.
+8. Broadband:
+By the end of 2017, there would be a five-fold increase in 2017
+Broadband penetration over the 2012 penetration rate.
+9. Pursue the development of an ICT Local Content Plan for 2013
+Nigeria
+10. Implement steps that will encourage manufacturers to set up 2013
+factories for the manufacture of Set Top Boxes that are
+National ICT Policy - 2012 Page 65
+S/N Objective / Strategy Target year
+end
+required for the transition from analogue to digital
+broadcasting.
+11. Introduce mandatory training and appropriate courses for ICT 2014
+at all tiers of education.
+12. Develop and implement ICT training programs for public 2013
+sector employees, in connection with introduction of e-
+Government and other digital functions within Government
+offices; and
+13. Provide institutional support for addressing the incidence of 2013
+multiple taxation and regulation in the ICT sector.
+14. Establish a methodology for assessing progress of broadband 2015.
+development in Nigeria in a structured way that (i) highlights
+and (ii) seek to address bottlenecks along/across all layers.
+15. Transition from Analogue to Digital Broadcasting:
+By the end of 2015, Nigeria would have fully complied with 2015
+the ITU recommendations for migration from analogue to
+digital broadcasting.
+16. By the end of 2017, the country would have achieved 100% 2015
+radio coverage.
+17. Develop a licensing regime for signal distributors 2014
+18. Provide a clear roadmap for harvesting the “digital dividend” 2013
+spectrum and ensure competitive allocation of the resource.
+19. Universal Access and Service:
+By the end of 2017, the country would have achieved a five- 2017
+fold increase in the National Internet Access rate over the
+2011 Access rate.
+20. Ensure that traditionally marginalized groups become an 2014
+integral part of the ICT stakeholder community, as
+participants, innovators, leaders and beneficiaries of the
+National ICT Policy - 2012 Page 66
+S/N Objective / Strategy Target year
+end
+knowledge economy in the emergent information society in
+Nigeria.
+National ICT Policy - 2012 Page 67
+APPENDIX 3 – COMMITTEE MEMBERS
+Prof. Raymond Akwule President DBI Chairman
+Engr. Ngozi Ogujiofor MCT Member
+Alheri Saidu NBC Member
+Mrs. Yetunde Akinloye NCC Member
+Dr. Vincent Olatunji NITDA Member
+Abdul-Karim Baba NIPOST Member
+Mr. Ayoola Oke SA (Telecoms) Member
+Dr. Abiodun Jagun SA (T & P) Member
+Mr. Ola Ogunneye SA (IT) Member
+Dr Ndidi Nnoli - Edozien Growing Business Foundation Member
+Mr Paul Usoro (SAN) Paul Usoro & Co Member
+Miss Yemi Adamolekun Enough is Enough Coalition Member
+Engr Titi Omo -Ettu Telecom Answers associates Member
+Mr Chineye Mba - Infographics Member
+Uzoukwu
+Mr Saheed Adepoju Encipher Limited Member
+Mr Olufemi Adeagbo Comnavig ICT consultants Consultant
+National ICT Policy - 2012 Page 68
+APPENDIX 4 - ANNEX LIST OF ACRONYMMS
+African Telecommunications Union (ATU)
+African Union (AU)
+African Union of Broadcasting (AUB)
+Association of Licensed Telecom Operators of Nigeria (ALTON)
+Association of Telecommunications companies of Nigeria (ATCON)
+Broadcasting Organizations of Nigeria (BON)
+Code Division Multiple Access (CDMA)
+Commonwealth Telecommunications Organisation (CTO)
+Communication Service Providers (CSPs)
+Computer Emergency Response Team (CERT)
+Computer for all Nigerian Initiative (CANI)
+Computer Professionals Registration Council of Nigeria (CPRCN)
+Digital Video Broadcasting (DVB)
+Direct to Home (DTH)
+Education Trust Fund (ETF)
+National Emergency Management Agency (NEMA)
+Federal Government of Nigeria (FGN)
+Federal Ministry of Education (FME)
+Federal Ministry of Science and Technology (FMST)
+Federal Radio Corporation of Nigeria (FRCN)
+Foreign Direct Investment (FDI)
+Global System of Mobile Communications (GSM)
+Honourable Minister of Communications & Information Technology (HMCIT)
+Honourable Minister of Communications Technology (HMCT)
+Honourable Minister, Science and Technology (HMST)
+Information Technology Association of Nigeria (ITAN)
+National Board for Technical Education (NBTE)
+Institute of Software Practitioners of Nigeria (ISPON)
+Interconnect Clearing House of Nigeria (ICN)
+International Mobile Satellite Organisation (IMSO)
+Internet Corporation for Assigned Names and Numbers (ICANN)
+National ICT Policy - 2012 Page 69
+Internet Exchange Point Network (IXPN)
+Internet protocol (IP)
+Internet Protocol Television (IPTV)
+Internet Service Provider (ISP)
+Key Performance Indicator (KPI)
+Knowledge Based Economy (KBE)
+Licensed Interconnect Clearing Houses (ICHs)
+Local Government Area (LGA)
+Millennium Development Goal (MDG)
+Ministry of Information and Communications (MOIC)
+Ministry, Department and Agency (MDA)
+Monitoring and Evaluation (M&E)
+National Broadcasting Commission (NBC)
+National Film/Video Censorship Board (NFVCB)
+National Frequency Management Council (NFMC)
+National Identity Management Commission (NIMC)
+National Information Technology Development (NITDA)
+National Information Technology Development Fund (NITDEF)
+National Office for Technology Acquisition and Promotion (NOTAP)
+National Orientation Agency (NOA)
+National Planning Commission (NPC)
+National Radio Frequency Plan (NRFP)
+National Space Research and Development Agency (NASRDA)
+National Telecommunications Policy (NTP)
+National Television Authority (NTA)
+News Agency of Nigeria (NAN)
+Nigeria Computer Society (NCS)
+Nigeria Telecommunication Ltd (NITEL)
+Nigerian Communications Act 2003 (NCA)
+Nigerian Communications Commission (NCC)
+Nigerian Communications Satellite (NigComSat) Ltd
+Nigerian Film Corporation (NFC)
+Nigerian Internet Group (NIG)
+Nigerian Internet Registration Association (NIRA)
+National ICT Policy - 2012 Page 70
+Nigerian Investment Promotion Commission (NIPC)
+Nigerian Maritime Administration and Safety Agency (NIMASA)
+Nigerian Postal Services (NIPOST)
+Nigerian Press Council (NPC)
+Office of the Head of the Civil Service of the Federation (OHCSF)
+Operation Wire Nigeria (WiN)
+Original Equipment Manufacturer (OEM)
+Personal Computer (PC)
+Petroleum Trust Development Fund (PTDF)
+Public Key Infrastructure (PKI)
+Public Private Partnership (PPP)
+Public Safety Answering Point (PSAP)
+Quality of Service (QoS)
+Regional African Satellite Communications Organisation (RASCOM)
+Research and Development (R & D)
+Rural Broadband Initiative (RUBI)
+Rural Information Technology Centre (RITC)
+Rural Telephony Project (RTP)
+Set Top Boxes (STBs)
+State Accelerated Broadband Initiative (SABI)
+Subscribers Identification Module (SIM)
+Television (TV)
+United Nations (UN)
+United Nations Economic Commission for Africa (UNECA)
+Universal Access Service Licences (UASLs)
+Universal Service Provision Fund (USPF)
+Very Small Aperture Terminal (VSAT)
+Voice of Nigeria (VON)
+Voice Over Internet Protocol (VOIP)
+West African Telecommunications Regulatory Authority (WATRA)
+World Trade Organisation (WTO)
+National ICT Policy - 2012 Page 71
+APPENDIX 5 – GLOSSARY OF TERMS
+B
+Benchmarking The continuous process of measuring product, services
+and practices against strong competitors or recognized
+leaders. It is an on-going activity, intended to improve
+performance.
+BPO (Business Entrusting one or more IT integrated-type business
+Process Outsourcing) processes to an external service provider.
+Broadband Abroadbandsignaling method that handles a wide range
+of frequencies, thus allowing the transmission of high
+quality audio and visual signals.
+Broadcasting Radio communication, whether in sound or visual format,
+transmitted from a source and for reception by members
+of the public or group.
+C
+Computer Means any electronic, magnetic, optical or other high-
+speed data processing device or system which performs
+logical, arithmetic and memory functions by
+manipulations of electronic, magnetic or optical impulses,
+and includes all input, output, processing, storage,
+software and communication facilities which are
+connected or related as a system or network.
+Computer Emergency This is a name given to expert groups that handle
+Response Team computer security incidents. CERTscan exist at multiple
+(CERT) layers i.e. National, sectoral, institutional etc.
+CCTLD.NG Country Code Top-Level domain (ccTLD) is an
+Internettop-level domain generally used or reserved for a
+country or a sovereign.
+Community Radio This is a radio service offering a third model of radio
+broadcasting in addition to commercial and public
+broadcasting. Community stations serve geographic
+communities and communities of interest. They
+broadcast content that is popular and relevant to a local,
+specific audience but is often overlooked by commercial
+or mass-media broadcasters. Community radio stations
+are operated, owned, and influenced by the communities
+they serve.
+National ICT Policy - 2012 Page 72
+Convergence Technological convergence is the tendency for different
+technological systems to evolve toward performing
+similar tasks. Convergence can refer to previously
+separate technologies such as voice (and telephony
+features), data (and productivity applications), and video
+that now share resources and interact with each other
+synergistically.
+CDMA Code-Division Multiple Access (CMDA) refers to any of
+several protocols used in so-called second-generation
+(2G) and third-generation (3G) wireless communications.
+As the term implies, CDMA is a form of multiplexing,
+which allows numerous signals to occupy a single
+transmission channel, optimizing the use of available
+bandwidth. The technology is used in ultra-high-
+frequency (UHF) cellular telephone systems in the 800-
+MHz and 1.9-GHz bands.
+Cloud computing Cloud computing encompasses any free, subscription-
+based, or pay-per-use service that leverages the internet
+to extend ICT capabilities. This could be for many
+purposes such as back up, hosting services, collaborative
+applications, data drop and pick services, etc.
+D
+DNSSEC The Domain Name System Security Extensions
+(DNSSEC) is a suite of Internet Engineering Task Force
+(IETF) specifications for securing certain kinds of
+information provided by the Domain Name System (DNS)
+as used on Internet Protocol (IP) networks. It is a set of
+extensions to DNS which provide to DNS clients
+(resolvers) origin authentication of DNS data,
+authenticated denial of existence, and data integrity, but
+not availability or confidentiality.
+Digital Economy The Digital Economy is the global network of economic
+and social activities that are enabled by platforms such
+as the internet, mobile and sensor networks. The Digital
+Economy is also sometimes called the Internet Economy,
+the New Economy, or Web Economy.
+Digital broadcasting Digital Broadcasting is the practice of using digital data
+rather than analogue waveforms to carry broadcasts over
+television channels or assigned radio frequency bands. It
+is becoming increasingly popular for television usage
+(especially satellite television) but is having a slower
+National ICT Policy - 2012 Page 73
+adoption rate for radio.
+Digital Links Digital Links generally have more efficient bandwidth
+usage than analog links, which allows a content provider
+more room to provide services, or to provide a higher-
+quality signal than had been previously available.
+Digital literacy Digital literacy is the ability to locate, organize,
+understand, evaluate, and
+analyze information using digital technology.
+DTH (Direct to Home) The Direct-To-Home (DTH) service is a digital satellite
+service that provides television services direct to
+subscribers anywhere in the country.
+E
+e–Applications These are Applications that leverage ICT programs,
+infrastructure and devices.
+e-Business e-Business is the application of ICT to support and
+manage all the activities of business.
+e-Commerce The transfer of value for goods and /or services through
+electronic media.
+e-Document A document that exists in any electronic format.
+e-Government Government’s use of ICT to enhance the management of
+its activities.
+e-Health Health services and information delivered or enhanced
+through the use of ICTs.
+e-Signature Signature that identifies and authenticates a particular
+person as the source of an electronic message and the
+contents of the message.
+ETSI The European Telecommunications Standards Institute
+(ETSI) is a not-for-profit organization that has over
+700 ETSI member organizations drawn from 62 countries
+across 5 continents. It produces globally-applicable
+standards for Information and Communications
+Technologies (ICT), including fixed, mobile, radio,
+converged, broadcast and internet technologies and is
+recognized by the European Union(EU)as a European
+Standards Organization.
+Exclusive services These include Postal services of articles up to the
+specified reserved weight (currently 500g); issuance of
+postage stamps; philatelic products, pre-stamped
+envelopes, pre-stamped postcards, aerogrammes and
+international reply coupons; private letters boxes and
+bags; domestic and international postal and money
+orders; and Slogan Die publicity services.
+National ICT Policy - 2012 Page 74
+F
+Fixed Wireless The operation of wireless devices or systems used to
+connect two fixed locations with a radio or other wireless
+link.
+FOSS Free and Open Source Software (F/OSS, FOSS) Open-
+Source Software (FLOSS) is software that is both free
+software and open source.
+Fiber Optic Cable A high capacity transmission medium that uses glass (or
+plastic) threads (fibers) to transmit data digitally
+G
+Gateway This is either hardware or software that serves as a
+bridge between two networks so that data can be
+transferred between a numbers of computers.
+Green Energy efficient information and communications
+Communications technologies (ICT) that reduce total carbon emissions.
+GSM Global System for Mobile Communications (GSM) is
+H
+Hardware The physical interconnections, systems and devices
+required to store and execute software programs.
+I
+ICT Information and Communications Technology is an
+umbrella term that includes any communication device or
+application, encompassing radio, television, cellular
+phones, computer and network hardware and software,
+satellite systems, as well as the various services and
+applications associated with them, such as
+videoconferencing and distance learning.
+ICT Enabled Services A special form of outsourcing service of non-core activities
+to a third party who owns and manages the process; this
+being driven by the need of the organization to reduce
+operating costs on various elements and hence increase
+profitability such as call centre, back office.
+IEEE 802.11 A body of standards for implementing wireless local area
+network (WLAN) computer communication in the 2.4, 3.6
+and 5 GHz frequency bands. They provide the framework
+for wireless network products using the WIFI brand.
+Info Structure An Info Structure is the layout of information in a manner
+such that it can be navigated.
+Information Society A term used to describe a modern population that is
+conversant with — and actively using — information and
+communications technology. A society where the creation
+and exchange of information is a predominant social and
+economic activity.
+National ICT Policy - 2012 Page 75
+Infrastructure An office to coordinate various telecommunications and
+Deployment Office technology projects and agencies.
+Intellectual Property Intellectual property can be described as legal recognition
+and granting of exclusive rights in respect of original ideas
+and or creations. These include musical, technological,
+literary, software processes and applications and artistic
+works.
+Interconnection Refers to physical and logical linking of two separate
+networks so that customers of one network can reach and
+communicate with customers of the other network.
+National ICT Policy - 2012 Page 76
+International Data The Licensee is authorised to provide and operate
+Access License (IDA) International Data Access (IDA) connectivity whether one-
+way or two-way, point-to-point, point to multipoint for
+voice, data or vision or any other kind of message for
+reception within Nigeria or any other international
+destination.
+Internet A "network of networks" linking millions of computers
+worldwide for communications purposes.
+The Internet Protocol The main communications protocol leveraged for relaying
+(IP) network packets across a connected network using the
+internet Protocol suite.
+IP based A Service that allows users to retransmit terrestrial digital
+retransmission broadcasting using IP Muliticast. IP multicast, similar to TV
+broadcasting, allows users to distribute content
+simultaneously to a group of interested receivers on the IP
+network.
+ITU The United Nations agency that is responsible for
+coordinating shared global use of spectrum, setting global
+telecommunications standards and also for ICT
+development.
+K
+Knowledge Economy The knowledge economy is a term that refers either to an
+economy of knowledge focused on the production and
+management of knowledge.
+L
+Liberalization Refers to the relaxation of Government regulation or
+formerly rigid or constraining degree of regulation. This
+creates greater freedom to market entry, providing the
+operators with greater flexibility to invest, alter operations
+and services, and fix or negotiate tariffs. Liberalisation
+does not mean the absence of regulation but a new set of
+regulations able to bring about the indented relaxation.
+License An authorization granted by a regulatory authority for the
+provision of ICT services or for use of the radio frequency
+spectrum.
+M
+MDAs Ministries, department and agencies of the Federal
+Government of Nigeria.
+MIU’s Mobile Internet Units arevehicular-based computer
+centres, equipped with Internet technology usually with the
+goal of bringing Computer Technology awareness and
+Internet access to ruralpopulations.
+National ICT Policy - 2012 Page 77
+MMDS MMDS (Multichannel Multipoint Distribution Service) is a
+POINT to MULTIPOINT broadcast service operating in the
+2.0 to 2.9 GHz. Range that is capable of delivering
+multiple channels of analogue and digital television
+programming.
+Multiple Regulation Used to describe a situation where players in the ICT
+sector are subjected to various rules, and regulations for
+the same aspect of a service providers operation, by
+different tiers and agencies of Government.
+Multiple Taxation Used to describe a situationwhere players in the ICT
+sector are subjected to various taxes, for the same aspect
+of a service providers operation, by different tiers and
+agencies of Government.
+N
+National digital A National Digital Archive is an electronic collection of
+archive past national records. It contains primary
+source documents that have accumulated over the course
+of an individual or organization's lifetime, and are kept to
+show proof, function, or general records.
+Non-exclusive postal These include courier services, parcel services, direct mail
+Services marketing services, postal financial services, electronic
+and hybrid mail, distribution of publications, and agency
+services.
+O
+Open data Open data promotes the notion that certain data sets
+should be freely available to everyone to use and
+republish as they wish, without restrictions from copyright,
+patents or other mechanisms of control.
+Open Source Software Software for which the original program instructions, the
+source code, is made available so that users can access,
+modify, and redistribute it. This is increasingly becoming
+free FOSS (free and open source software and licence
+based variants.
+Operator Means a person or organisation that operates ICT facilities
+and/or services of telecommunications, broadcasting, IT
+applications or postal services.
+Outsourcing Entrusting one or more IT integrated-type business
+processes to an external service provider.
+P
+Portal A Website that provides a one - stop shop to a variety of
+services by transferring the user to the application.
+Poste Restante A service where mail is held by the post office until the
+recipient calls for it. It is a common destination for mail for
+National ICT Policy - 2012 Page 78
+people who are visiting a particular location and have no
+need, or no way, of having mail delivered directly to their
+place of residence at that time.
+National ICT Policy - 2012 Page 79
+PPP Public private partnership is a partnership approach that
+sees government and the private sector bringing their
+assets together, thus sharing risk/reward in the delivery of
+a project, projects and/or service.
+R
+Regulation Means the process of ensuring that public utilities operate
+in accordance with legal rules. These rules may govern
+the offering of service by an operator and includes
+practices, classification and definitions.
+S
+SABI A scheme designed by NCC to take broadband
+infrastructure to all the 36 state capitals of the country as
+well as urban and semi-urban centres.
+Set Top Boxes An information appliance device that generally contains a
+tuner and connects to a television set and an external
+source of signal, turning the signal into content which is
+then displayed on the television screen or other display
+device. Set-top boxes are used in cable television and
+satellite television systems, to transform the signal from
+the cable or satellite to a form that can be used by the
+television set or other receiver. It also enhances the
+quality of signal from cable or satellite.
+Spectrum The word spectrum refers to a collection of various types
+of electromagnetic radiations of different wavelengths.
+Spectrum or airwaves are the radio frequencies on which
+all communication signals travel. In India the radio
+frequencies are being used for different types of services
+like space communication, mobile communication,
+broadcasting, radio navigation, mobile satellite service,
+aeronautical satellite services, defence communication
+etc. Radio frequency is a natural resource but unlike other
+resources it will deplete when used. But it will be wasted if
+not used efficiently.
+Software A collection of computer programs and associated data
+that provides the instructions for telling a computer what to
+do, and how to do it in other to achieve particular
+outcomes.
+T
+Telecommunication Any domestic or international transmission of information
+by wire, radio waves, optical media or other
+electromagnetic systems, between or among points of
+user’s choosing.
+National ICT Policy - 2012 Page 80
+Teledensity Ameans of expressing the number of telephone services
+per hundred persons. Tele-density is sometimes also used
+to express the number of telephone services per hundred
+households.
+National ICT Policy - 2012 Page 81
+Telemedicine Access to shared and remote /distant medical
+examination, diagnosis and treatment by means of
+telecommunications and Information and Communications
+Technology.
+U
+Ultra-high frequency Designates the ITUradio frequency range of
+(UHF) electromagneticwaves between 300 MHz and 3 GHz
+(3,000 MHz), also known as the decimetre band or
+decimetre wave as the wavelengths range from one to ten
+decimetres (10 cm to 1 metre). Radio waves with
+frequencies above the UHF band fall into the SHF (super-
+high frequency) and EHF (extremely high frequency)
+bands, all of which fall into the microwave frequency
+range. Lower frequency signals fall into the VHF (very
+high frequency) or lower bands. See Electromagnetic
+spectrum and Radio spectrum for a full listing of frequency
+bands.
+Universal access Service available, as far as possible, to all the people
+without discrimination on any basis with adequate facilities
+at reasonable cost.
+Universal Service Service available, as far as possible, to all the people
+without discrimination on any basis with adequate facilities
+at reasonable cost.
+Universal service A legal requirement that sets specific minimum levels of
+obligation attainment for service elements of a postal service (or a
+set of postal services) that serves substantially all persons
+in the Nation.
+Universal Service UASL is a technology neutral license that enables holders
+Access license to offer a variety of services including voice, data, ISP
+services amongst others.
+Universal service USPF was created by the NCA 2003 to facilitate the
+provision fund achievement of national policy goals for universal service
+and universal access to Information and Communication
+Technologies (ICTs) in rural, un-served and under-served
+areas in Nigeria.
+V
+VHF (Very high The ITU denoted radio frequency range from 30 MHz to
+frequency) 300 MHz. VHF is commonly used for broadcast, FM radio
+broadcast, television broadcast, land mobile stations
+(emergency, business, private use and military), long
+range data communication with radio modems, amateur
+radio, marine communications, air traffic control
+National ICT Policy - 2012 Page 82
+communications and air navigation systems (e.g. VOR,
+DME&ILS).
+National ICT Policy - 2012 Page 83
+Vision 20:2020 The Nigerian national vision document which lays out the
+country’s vision of becoming one of the world’s top 20
+economies by the year 2020, and the steps need to
+achieve the vision.
+VSAT VSAT stands for "Very Small Aperture Terminal"; a very
+small satellite transmitting and receiving station can
+transfer data, video, and voice via satellite using different
+frequency bands like C, KU,KA.
+W
+WIN The acronym for Wireless Internet Nigeria.WIN is an NCC
+initiative to deepen internet coverage within Nigeria.
+National ICT Policy - 2012 Page 84

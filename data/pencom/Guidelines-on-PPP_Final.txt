@@ -1,0 +1,721 @@
+PenCom
+GUIDELINES FOR PERSONAL PENSION PLAN
+SEPTEMBER 2025
+www.pencom.gov.ng
+National Pension Commission
+Guidelines on Personal Pension Plan
+Table of Contents
+1.0 Preliminary Provisions............................................................................. 5
+2.0 Harmonization of Voluntary Contributions with the PPP .......................... 6
+3.0 Definition of Terms ................................................................................... 7
+4.0 Scope of the Guidelines ........................................................................... 9
+5.0 Objectives of the Guidelines .................................................................... 9
+6.0 Roles and Responsibilities of Stakeholders ........................................... 10
+7.0 Provision of Incentives by PFAs ............................................................ 12
+8.0 Innovative Distribution Products ............................................................ 17
+9.0 Naming and Branding of Personal Pension Plan ................................... 17
+10.0 Investment of PPP Funds/Assets ........................................................ 22
+11.0 Administration of Contingent Withdrawal ............................................. 24
+12.0 Retirement Benefits Administration ...................................................... 24
+13.0 The Procedure for Relinquishment of Child RSA................................. 25
+14.0 Deceased/Missing Persons ................................................................. 25
+15.0 ICT & Digitization of PPP Operations .................................................. 25
+16.0 Returns Renditions............................................................................... 26
+17.0 Reviews and Enquiries......................................................................... 26
+Page 2 of 27
+Guidelines on Personal Pension Plan
+List of Abbreviations
+AML/CFT Anti-Money Laundering and Combating the Financing
+of Terrorism
+APAs Accredited Pension Agents
+BVN Bank Verification Number
+CPS Contributory Pension Scheme
+Commission National Pension Commission
+CBN Central Bank of Nigeria
+CPFA Closed Pension Fund Administrator
+HMO Health Maintenance Organization
+ICT Information Communication Technology
+LPFOs Licensed Pension Fund Operators
+NIN National Identification Number
+NoK Next of Kin
+PRA, 2014 Pension Reform Act, 2014
+PIN Personal Identification Number
+PPPF Personal Pension Plan Fund
+PPPC Personal Pension Plan Contributor
+PPPG Personal Pension Plan Grant
+PPP Personal Pension Plan
+PW Programmed Withdrawal
+POS Point-of-Sale
+PFA Pension Fund Administrator
+PFC Pension Fund Custodian
+SLA Service Level Agreement
+VCs Voluntary Contributions
+Page 3 of 27
+Guidelines on Personal Pension Plan
+About this Guidelines
+These Guidelines on the Personal Pension Plan (PPP) have been
+developed to provide a consistent framework of rules, standards, and
+procedures to guide Licensed Pension Fund Operators (LPFOs) in the
+effective implementation of the PPP.
+The Guidelines also set the strategic direction for expanding pension
+coverage to self-employed individuals, informal sector workers, and
+persons exempted under Section 5 of the Pension Reform Act (PRA),
+2014. They outline the procedures for participant onboarding, specify the
+methods and frequency of pension contribution remittances, and detail
+withdrawal processes. Additionally, these Guidelines clarify the roles and
+responsibilities of various stakeholders involved in the implementation of
+the PPP.
+All requirements are aligned with the provisions of the PRA 2014,
+including associated Rules, Regulations, Guidelines, Frameworks, and
+Circulars issued by the Commission.
+Page 4 of 27
+Guidelines on Personal Pension Plan
+1.0 Preliminary Provisions
+1.1 These Guidelines are issued by the National Pension Commission (the
+Commission) pursuant to Section 2(3) of the Pension Reform Act (PRA),
+2014.
+1.2 Section 2(3) of the Act entitles employees of organizations with less than
+three employees and self-employed persons to participate in the
+Contributory Pension Scheme in accordance with Guidelines issued by the
+Commission.
+1.3 In furtherance of this provision, the Micro Pension Plan earlier introduced
+by the Commission is hereby re-designated as the Personal Pension Plan
+(PPP).
+1.4 These Guidelines establish the Personal Pension Plan (PPP) as the
+framework for extending pension coverage to:
+(a) self-employed persons;
+(b) workers in the informal sector who are not mandatorily covered under
+the Contributory Pension Scheme; and
+(c) employees in the formal sector who are mandatorily covered under
+the Contributory Pension Scheme but who may wish to make
+additional flexible contributions outside the mandatory scheme.
+1.5 These Guidelines prescribe the rules, procedures, and standards
+applicable to the PPP, and are binding on all participants and operators
+under the Scheme.
+Page 5 of 27
+Guidelines on Personal Pension Plan
+2.0 Harmonization of Voluntary Contributions with the PPP
+2.1 For the purpose of clarity and operational consistency, all existing
+Voluntary Contributions (VCs) under the Contributory Pension Scheme
+(CPS) are hereby deemed to form part of the Personal Pension Plan
+(PPP). Accordingly, PFAs shall administer such contributions in line with
+the provisions of these Guidelines.
+2.2 PFAs shall ensure that contributors are properly informed that the
+designation of Voluntary Contributions under the PPP does not affect their
+rights or entitlements already accrued under the CPS.
+2.3 In the case of mandatory contributors under the CPS, additional
+contributions into the PPP may be made:
+a. Directly by the employee (self-contribution), or
+b. Through the employer, who may remit such contributions on behalf of
+the employee, subject to clear instruction and authorization from the
+contributor.
+2.4 PFAs shall establish appropriate processes and platforms to receive
+such contributions, whether directly from contributors or through
+employers, ensuring that records are reconciled and credited promptly
+into the contributor’s Retirement Savings Account (RSA) designated for
+the PPP.
+2.5 Nothing in this Guidance Note shall derogate from the mandatory
+contributions prescribed under Section 4 of the Pension Reform Act
+(PRA) 2014. PPP contributions by mandatory contributors are strictly
+voluntary and supplemental to statutory obligations under the PRA.
+Page 6 of 27
+Guidelines on Personal Pension Plan
+3.0 Definition of Terms
+S/N Term Definition
+Corporate entities duly accredited by
+the Commission to act as
+intermediaries for Pension Fund
+1 Accredited Pension Agents (APAs)
+Administrators in onboarding and
+servicing contributors, particularly in
+underserved and rural areas.
+An 11-digit unique identifier assigned
+2 Bank Verification Number (BVN) to individual customers across the
+Nigerian banking system.
+A pension scheme established under
+3 Contributory Pension Scheme (CPS) Section 3(1) of the Pension Reform
+Act, 2014.
+The segment of the economy
+comprises enterprises, activities, and
+4 Informal Sector workers operating outside formal
+regulatory and institutional
+frameworks.
+Organizations licensed by the
+Commission to manage and administer
+Licensed Pension Fund Operators pension funds in Nigeria, including
+5
+(LPFOs) Pension Fund Administrators (PFAs),
+Pension Fund Custodians (PFCs), and
+APAs.
+An individual or entity legally entitled to
+6 Named Beneficiary benefits accruing to a deceased or
+missing contributor.
+A unique identifier issued by the
+National Identity Management
+7 National Identification Number (NIN) Commission (NIMC), used to validate
+an individual’s biometric and biodata
+details.
+The person nominated by a contributor
+8 Next of Kin (NoK) as the primary contact in the event of
+death, disappearance, or emergency.
+A corporate entity licensed by the
+9 Pension Fund Administrator (PFA)
+Commission to manage and administer
+Page 7 of 27
+Guidelines on Personal Pension Plan
+pension funds under the Contributory
+Pension Scheme.
+A corporate entity licensed by the
+10 Pension Fund Custodian (PFC) Commission to hold pension assets in
+safe custody on behalf of contributors.
+A unique number assigned to an
+11 Personal Identification Number (PIN) individual upon opening a Retirement
+Savings Account (RSA).
+An arrangement designed to provide
+pensions for self-employed individuals,
+persons in the informal sector, and
+employees seeking additional
+12 Personal Pension Plan (PPP)
+voluntary contributions outside the
+mandatory Contributory Pension
+Scheme administered strictly under
+Section 9.1.1c of these Guidelines
+The pool of contributions and assets
+13 Personal Pension Plan Fund (PPPF) accumulated under the Personal
+Pension Plan.
+A financial incentive provided by
+government, development partners,
+14 Personal Pension Plan Grant foundations, or NGOs to support
+contributors in building retirement
+savings under the PPP.
+A formal declaration by a PPP
+15 Retirement (for PPP purposes) contributor to cease work, provided the
+contributor is at least 50 years of age.
+The applicable funds under the
+RSA Active Funds (I, II, III, IV, V, VI
+16 multifund structure designated for
+and VII)
+contributors in active service.
+An individual who earns income
+independently through trade, business,
+or professional services. This includes
+artisans, traders, freelancers,
+17 Self-Employed Person
+consultants, and professionals such as
+lawyers, doctors, accountants, and
+technicians operating outside formal
+employment.
+Additional non-mandatory contributions
+18 Voluntary Contributions (VCs)
+made by RSA holders.
+Page 8 of 27
+Guidelines on Personal Pension Plan
+4.0 Scope of the Guidelines
+4.1 These Guidelines shall apply to the regulation, supervision, and
+administration of the PPP established pursuant to Section 2(3) of the
+Pension Reform Act, 2014.
+4.2 The Guidelines cover the following:
+a. The operational framework for the PPP, including registration,
+contributions, investment, contingent withdrawals, retirement
+benefits, and the administration of benefits in respect of deceased or
+missing persons.
+b. The administration of PPP grants, incentives, and related support
+mechanisms.
+c. The roles, responsibilities, and obligations of stakeholders, including
+the Commission, Pension Fund Administrators (PFAs), Pension Fund
+Custodians (PFCs), Accredited Pension Agents (APAs), and PPP
+contributors.
+d. The standards for returns rendition, record-keeping, and reporting by
+Pension Fund Operators and other accredited entities.
+e. All other matters incidental or related to the effective regulation and
+supervision of the PPP, as may be determined by the Commission
+from time to time.
+5.0 Objectives of the Guidelines
+5.1 The objectives of these Guidelines are to:
+a. Prescribe the eligibility criteria for participation in the Personal
+Pension Plan (PPP).
+b. Establish the procedures for the registration of prospective PPP
+contributors.
+c. Define the framework for making and managing contributions under
+the PPP.
+Page 9 of 27
+Guidelines on Personal Pension Plan
+d. Provide the basis for the administration of PPP grants, incentives, and
+related support mechanisms.
+e. Ensure transparency, accountability, and uniformity in the regulation
+and supervision of the PPP.
+f. Safeguard the rights and interests of PPP contributors and retirees in
+accordance with the provisions of the Pension Reform Act, 2014.
+g. Promote digitization and financial inclusion through scalable ICT
+systems.
+6.0 Roles and Responsibilities of Stakeholders
+The roles and responsibilities of key PPP stakeholders shall be as
+follows:
+6.1 National Pension Commission (the Commission)
+The Commission shall:
+a. Issue Framework and Guidelines for the regulation and supervision
+of PPP.
+b. Protect the rights of contributors and retirees under the PPP.
+c. Create awareness by carrying out public enlightenment and
+education on the establishment, operations and management of PPP.
+d. Where applicable sensitize contributors about matching scheme,
+eligibility requirements, and benefits
+e. Resolve issues between contributors and pension operators as well
+as among other stakeholders under the plan.
+f. Collaborate with National and International Agencies to provide
+incentives to support PPP.
+g. Partner with professional associations and institutions to deepen the
+PPP.
+h. Reserve the discretion to review and adjust the modalities of APAs’
+access to contributors’ phone numbers, email addresses, and other
+contact details, in line with emerging risks, technological
+developments, and industry needs. Any such adjustments, whether
+expanding or restricting APAs’ access, shall be communicated
+Page 10 of 27
+Guidelines on Personal Pension Plan
+through Guidelines, Circulars, or Directives issued by the Commission
+and shall be binding on all stakeholders.
+6.2 Role of Pension Fund Administrators (PFAs)
+6.2.1 PFAs shall open and maintain Retirement Savings Accounts (RSAs) for
+PPP contributors in accordance with the PRA 2014 and directives of the
+Commission.
+6.2.2 PFAs shall issue quarterly RSA statements to PPP contributors and
+provide adhoc statements upon request.
+6.2.3 PFAs shall render daily, monthly, and other periodic returns on the PPP
+Fund in the manner and format prescribed by the Commission.
+6.2.4 PFAs shall establish and maintain customer service channels for the
+resolution of PPP contributor enquiries and complaints.
+6.2.5 PFAs shall manage PPP funds and assets strictly in line with the
+Regulation on Investment of Pension Fund Assets and any directives
+issued by the Commission.
+6.2.6 PFAs shall process, approve, and disburse contingent withdrawals to
+PPP contributors in accordance with applicable rules.
+6.2.7 PFAs shall process and pay retirement benefits to PPP contributors in
+line with the provisions of the PRA 2014 and directives of the
+Commission.
+6.2.8 PFAs shall administer grants or incentives under the PPP strictly in
+accordance with the criteria, procedures, and conditions prescribed by
+the Commission.
+Page 11 of 27
+Guidelines on Personal Pension Plan
+6.2.9 PFAs shall conduct sensitization and public enlightenment programmes
+on the PPP through recognized community structures, including market
+associations, faith-based organizations, professional bodies, and other
+relevant stakeholders, in accordance with guidelines issued by the
+Commission.
+6.2.10 PFAs shall utilize digital platforms, including social media, television,
+and radio, to promote awareness of the PPP and ensure the availability
+of applications that facilitate onboarding, contributions, withdrawals, and
+benefit processing.
+6.2.11PFAs shall provide financial literacy and retirement planning education
+to PPP contributors as may be directed by the Commission.
+6.2.12 PFAs shall educate mandatory contributors on the option to participate
+in the PPP, in line with guidance issued by the Commission.
+6.2.13 PFAs shall develop and offer PPP products variants, subject to the
+approval of the Commission.
+6.2.14 PFAs shall recruit, train, and supervise Accredited Pension Agents
+(APAs) for the facilitation of onboarding, contributions and withdrawals,
+particularly in rural and underserved areas, subject to the approval of the
+Commission.
+6.2.15 PFAs shall carry out such other functions under the PPP as may be
+prescribed by the Commission from time to time.
+7.0 Provision of Incentives by PFAs
+In order to encourage participation in the PPP, PFAs may provide
+incentives strictly within the limits prescribed by the Commission.
+Page 12 of 27
+Guidelines on Personal Pension Plan
+7.1 Allowable incentives shall include:
+7.1.1 Arrangement through licensed insurers and Health Maintenance
+Organizations (HMOs) group policies that provide basic health
+insurance, personal accident cover, burial or life insurance, or other
+Commission approved micro-insurance products designed to enhance
+social protection for PPP contributors.
+7.1.2 Partnerships with licensed financial institutions for the provision of
+financial products and services that enhance contributors’ welfare,
+including access to microcredit facilities, savings products, and
+insurance-linked services.
+7.1.3 Access to financial literacy and retirement planning programmes
+designed to improve contributors’ understanding of the pension system
+and long-term savings culture.
+7.1.4 Access to Commission-approved loyalty or reward schemes, provided
+such schemes are non-cash in nature and do not constitute
+inducement.
+7.1.5 Any other incentives as may be approved by the Commission from time
+to time.
+7.2 Any incentive introduced by PFAs shall:
+7.2.1 Be equal and without discrimination to all PPP contributors under its
+management.
+7.2.2 Be transparently disclosed to contributors at the point of onboarding and
+during the period of implementation, and
+7.2.3 Be subject to the prior review and approval of the Commission
+Page 13 of 27
+Guidelines on Personal Pension Plan
+7.3 Pension Fund Custodians (PFCs)
+7.3.1 PFCs shall receive all contributions remitted under the PPP on behalf of
+PFAs and ensure that such contributions are credited into the
+appropriate RSAs without delay.
+7.3.2 PFCs shall hold PPP funds and assets in safe custody on trust for the
+benefit of PPP contributors.
+7.3.3 PFCs shall settle all transactions relating to investment and benefit
+administration, in line with instructions from PFAs and directives of the
+Commission.
+7.3.4 PFCs shall render daily, monthly, and such other returns as may be
+required by the Commission on PPP assets held under custody.
+7.3.5 PFCs shall provide secure and CBN-approved platforms to support the
+collection of contributions and the administration of benefits.
+7.3.6 PFCs shall ensure that no contribution remains uncredited beyond the
+business day of receipt. Any uncredited contribution shall constitute a
+regulatory breach and shall attract sanctions in line with the
+Commission’s sanction regime.
+7.3.7 PFCs shall carry out such other functions under the PPP as may be
+specified by the Commission from time to time.
+7.4 Personal Pension Plan Contributor (PPP Contributor)
+7.4.1 Every PPP contributor shall open an RSA with any licensed PFA directly
+or through a designated APA.
+7.4.2 PPP contributors shall make contributions into their RSAs only through
+CBN-approved banking or digital channels.
+Page 14 of 27
+Guidelines on Personal Pension Plan
+7.4.3 PPP contributors shall provide accurate and up-to-date information to
+PFAs and shall update their RSA information upon request by the PFA
+or the Commission.
+7.4.4 PPP contributors may transfer his/her RSA from one PFA to another
+strictly in line with the Regulations on RSA Transfer issued by the
+Commission.
+7.5 Accredited Pension Agents (APAs)
+7.5.1 APAs shall act strictly as intermediaries between PFAs and PPP
+contributors, within the scope of authority granted by the Commission.
+7.5.2 APAs shall support the onboarding of PPP contributors, particularly in
+underserved, informal, and rural areas, in accordance with these
+Guidelines and directives of the Commission.
+7.5.3 APAs shall facilitate contributions, withdrawals, and RSA updates
+exclusively through Commission-approved channels integrated with the
+systems of PFAs and PFCs.
+7.5.4 APAs shall conduct sensitization and financial literacy activities on the
+PPP strictly in line with the standards, strategies, and materials approved
+by the Commission and the PFAs they represent.
+7.5.5 APAs shall maintain only minimal records necessary to confirm
+transactions facilitated through them, including transaction references,
+date and channel of facilitation. Such records shall be reconciled with the
+relevant PFA periodically, while full contributor records shall remain with
+the PFA/PFC.
+7,5.6 Have controlled access to contributors’ phone numbers and email
+addresses through PFAs’ Platforms, solely for purposes of onboarding,
+sensitization, and service-related communication.
+Page 15 of 27
+Guidelines on Personal Pension Plan
+7.5.7 For the avoidance of doubt, contributors’ Personally Identifiable
+Information, including phone numbers and email addresses, shall be
+captured and maintained exclusively within PFAs’ systems. APAs may be
+granted controlled access to such controlled information strictly through
+approved digital interfaces, and only for operational purposes directly
+related to their functions under these guidelines. Such access shall be
+logged, auditable, and subject to restrictions prescribed by the
+Commission.
+7.5.8 Not create, maintain, or export independent databases of such
+information. All access and use shall be subject to audit and supervision
+by the Commission.
+7.5.9 Adhere to the terms and conditions of the SLA with stakeholders.
+7.5.10 APAs shall comply at all times with the code of conduct, operational
+standards, and supervisory requirements issued by the Commission.
+7.5.11 APAs shall market and promote the PPP to workers in the informal
+sector strictly under the supervision of PFAs and in accordance with
+strategies approved by the Commission.
+7.5.12 APAs shall build trust and confidence among prospective contributors
+by explaining pension benefits in clear and relatable terms and
+simplifying access to the PPP.
+7.5.13 APAs shall perform any other functions as may be prescribed by the
+Commission from time to time.
+Page 16 of 27
+Guidelines on Personal Pension Plan
+8.0 Innovative Distribution Products
+8.1 APAs may, with the prior approval of the Commission and under the
+supervision of the PFAs they represent, design and distribute innovative
+products and channels for access to the PPP, including but not limited to
+cards, wallets, USSD applications, and POS-linked solutions.
+8.2 All such products and channels shall:
+a. Be fully integrated with the ICT systems of PFAs and PFCs.
+b. Ensure real-time transmission of transactions and
+acknowledgements to contributors.
+c. Comply with the operational, consumer protection, and AML/CFT
+requirements prescribed by the Commission; and
+d. Be subject to periodic review and approval by the Commission.
+8.3 APAs shall not introduce or operate any product, platform, or channel
+outside the scope of prior approval by the Commission.
+9.0 Naming and Branding of Personal Pension Plan
+a. PFAs shall not alter the umbrella name of the Personal Pension Plan
+(PPP). However, they may designate and brand product variants
+under the PPP for marketing purposes, subject to the prior issuance
+of a ‘No Objection’ by the Commission.
+b. PFAs are to conduct adequate due diligence to ensure that chosen
+names are not already in use or trademarked by other pension
+products or companies and organizations.
+Page 17 of 27
+Guidelines on Personal Pension Plan
+9.1 Eligibility for Participation
+9.1.1 The following persons, not being less than eighteen (18) years of age,
+shall be eligible to participate in the PPP:
+a. Self-employed persons and professionals;
+b. Persons engaged in the informal sector; and
+c. Employees under the formal sector who already maintain RSAs
+under the Contributory Pension Scheme, provided that participation
+in the PPP shall be through the same PFA managing their existing
+RSAs.
+9.1.2 Parents or guardians may voluntarily register children or wards below the
+age of eighteen (18) years to participate in the PPP, subject to the
+following conditions:
+a. Contributions shall be funded solely by the parent or legal guardian
+until the child attains the age of eighteen (18) years; and
+b. Ownership and control of such RSAs shall only be relinquished by the
+parent or legal guardian upon the child attaining the age of eighteen
+(18) years.
+9.1.3 Retirees may continue to participate in the PPP after retirement. Such
+retirees shall have access to their accumulated PPP savings once every
+five (5) years, subject to verification by the PFA.
+9.2 Registration Requirements
+a. A prospective PPP Contributor shall be required to open an RSA with
+any PFA.
+b. Existing RSA holders are not required to open another RSA.
+c. The National Identification Number (NIN) slip together with the
+contributor’s registered phone number shall be deemed sufficient
+documentation for registration under the PPP, subject to validation
+Page 18 of 27
+Guidelines on Personal Pension Plan
+and verification in accordance with requirements prescribed by the
+Commission.
+d. Every PPP contributor shall maintain a valid bank account as a
+precondition for onboarding into the PPP.
+e. Other documentation as may be specified by the Commission.
+9.3 Contributions
+a. Funding of PPP accounts shall be executed exclusively through
+contributors’ bank accounts.
+b. Contributions shall be split into two parts: 50% allocated for
+contingent withdrawal and 50% allocated towards retirement savings.
+The Commission may prescribe alternative allocation ratios from time
+to time.
+c. Contributions shall be made only through CBN licensed banks and
+approved payment platforms.
+d. All contributions shall attract instant acknowledgement of receipt with
+evidence (unique transaction reference or equivalent) issued to the
+contributor by the receiving PFA or PFC.
+e. The tax treatment of contributions under the PPP shall be in line with
+the provisions of the Personal Income Tax Act applicable to Voluntary
+Contributions (now PPP) under the CPS. Withdrawals within five (5)
+years shall be subject to tax on income, while withdrawals after five
+(5) years shall be tax-exempt.
+f. Without prejudice to reporting obligations of financial institutions
+PFAs and PFCs are required to inform the Nigerian Financial
+Intelligence Unit of any single lodgement of Five Million Naira
+(₦5,000,000) and above.
+g. Contributions shall be made through bank auto-debits, and any
+CBN-approved payment instrument/platform.
+Page 19 of 27
+Guidelines on Personal Pension Plan
+9.4 Anti-Money Laundering and Combating the Financing of Terrorism
+(AML/CFT)
+9.4.1 All contributions under the Personal Pension Plan (PPP) shall be remitted
+exclusively through Central Bank of Nigeria (CBN) licensed financial
+institutions subject to the Money Laundering (Prevention and Prohibition)
+Act, 2022, and other applicable regulations issued by the CBN and the
+Nigerian Financial Intelligence Unit (NFIU).
+9.4.2 PFAs and PFCs shall ensure full traceability of all transactions and
+maintain complete KYC records of contributors, including NIN, and such
+other identifiers as may be prescribed by the Commission.
+9.4.3 APAs shall not directly collect or retain cash. Their role shall be limited to
+facilitation of contributions through CBN approved channels.
+9.4.4 PFAs may introduce additional AML/CFT measures as they consider
+necessary, provided such measures are consistent with applicable laws.
+9.4.5 The Commission shall rely on the AML/CFT safeguards embedded in the
+banking system while requiring PFAs and PFCs to maintain accurate
+contributor records and comply with supervisory requirements issued by
+the Commission.
+9.4.6 The Commission reserves the right to prescribe additional AML/CFT
+requirements.
+9.5 Administration of Personal Pension Plan Grant
+9.5.1 Definition of Grants:
+For the purpose of these Guidelines “Grants” mean financial incentives
+which may, from time to time, be provided by the Federal Government,
+Page 20 of 27
+Guidelines on Personal Pension Plan
+State Governments, Development Partners, Foundations, Non-
+Governmental Organizations, or other approved entities, to support
+contributors under the PPP in building retirement savings.
+9.5.2 Only the Commission is authorized to solicit for or negotiate grants on
+behalf of the PPP.
+9.5.3 Purpose and Application of Grants:
+a. Where grants are made available, they shall be applied strictly in line
+with the intention and purpose agreed with the donor or funding entity,
+subject to the approval and oversight of the Commission; and
+b. Matching of contributions or other disbursement modalities shall only
+be executed where grant funds have been duly made available and
+verified.
+9.5.4 Investment of Grants:
+a. Where applicable, the investment of grants shall be undertaken in
+accordance with the terms of the agreement with the donor, provided
+that such investment shall at all times remain within the risk
+management framework and regulation on investment of pension
+assets prescribed by the Commission; and
+b. Government-provided grants under the PPP may, subject to the prior
+approval of the Commission, be invested in bankable government
+projects in furtherance of national development objectives. Such
+investments may be excluded from the quantitative limits applicable
+to the Federal Government/Projects under the Regulation on
+Investment of Pension Fund Assets, provided that the Commission
+shall prescribe the conditions, safeguards, and reporting
+requirements applicable to such exemptions.
+Page 21 of 27
+Guidelines on Personal Pension Plan
+9.5.5 Transparency and Record-Keeping:
+a. All grants and matching contributions shall, where applicable, be
+recorded separately in the RSAs of PPP contributors.
+b. PFAs shall maintain accurate records of all grant disbursements and
+investments and render periodic returns to the Commission as may
+be specified.
+c. The Commission shall monitor compliance with donor agreements,
+investment rules, and grant administration criteria.
+10.0 Investment of PPP Funds/Assets
+10.1 All contributions under the PPP, including harmonized Voluntary
+Contributions (VCs) and Micro Pension contributions, shall be pooled
+and managed as the Personal Pension Plan Fund (PPPF).
+10.2 The investment of PPPF assets shall be undertaken strictly in line with the
+Regulation on Investment of Pension Fund Assets and any directives
+issued by the Commission from time to time.
+10.3 In addition to the existing Multi-Fund Structure the following sub-funds
+shall apply to PPP contributors:
+a. Fund 5A (PPP Conservative Fund): The default fund for PPP
+contributors, structured with a lower risk appetite and focused on
+capital preservation. All contributors shall be assigned to Fund 5A
+unless they make an explicit election to opt for Fund 5B; and
+b. Fund 5B (PPP Growth Fund): an optional investment fund for PPP
+contributors who elect, in writing or through authenticated digital
+instruction, to be placed in a higher-risk fund with the potential for
+higher returns.
+Page 22 of 27
+Guidelines on Personal Pension Plan
+10.4 PFAs shall provide PPP contributors with simple, clear, disclosures on
+the investment objectives, risks and expected returns of Fund 5A and
+Fund 5B, to enable contributors make informed choices. Where no
+election is made by a contributor, PFAs shall place the contributor in Fund
+5A default.
+10.5 Both Funds 5A and 5B shall be managed in accordance with the
+prudential and risk management standards prescribed under the
+Regulation on Investment of Pension Fund Assets, subject to such
+modifications as may be approved by the Commission.
+10.6 All movement between Fund 5A and Fund 5B shall be subject to the
+procedures and limits prescribed by the Commission.
+10.7 Grants received under Section 9.5 may, where applicable and with the
+approval of the Commission, be invested in accordance with the donor’s
+terms, provided such investments remain within the Commission’s
+prescribed risk management framework and regulation on investment of
+pension asset.
+10.8 Where the Federal Government provides such grants, investments in
+bankable government projects may be excluded from the quantitative
+limits applicable to the Federal Government or applicable projects, to the
+extent and under such conditions as may be prescribed by the
+Commission.
+10.9 PFAs shall render periodic investment reports to contributors in the format
+prescribed by the Commission, clearly indicating performance, risks, and
+fees charged.
+10.10 Fees and charges applicable to the management of PPP funds shall be
+subject to the provisions of the Regulation on Fees Structure for Pension
+Fund Administrators, as may be amended from time to time.
+Page 23 of 27
+Guidelines on Personal Pension Plan
+11.0 Administration of Contingent Withdrawal
+11.1 A PPP contributor shall be eligible to withdraw 50% of the total
+contributions as contingent withdrawal based on the following:
+i. The PPP Contributor may access the contingent portion of
+contributions available for withdrawal only after 3 months of the initial
+contribution.
+ii. Subsequently, PPP Contributors may withdraw from the contingent
+portion not more than once in every two (2) calendar months.
+iii. The PPP Contributors may choose to convert the contingent portion
+of their contributions to retirement savings at the end of every year.
+iv. The timeframe for processing and payment of contingent
+withdrawals shall be a maximum of 24 hours.
+v. Payment shall be made only to the PPP Contributor’s designated
+bank account.
+vi. PFAs shall approve and pay all requests for contingent withdrawals
+in line with extant regulations.
+vii. PFAs shall report to the Commission all payments made monthly.
+viii. At retirement, the PPP Contributor has the option of transferring
+part/all of outstanding balance on the contingent portion to
+retirement savings.
+ix. PFAs shall publish clear rules on contingent withdrawal to
+contributors at onboarding.
+12.0 Retirement Benefits Administration
+i. The PPP Contributor shall be eligible to access retirement benefits
+upon attaining the age of 50 years.
+ii. A PPP Contributor may, upon retirement, opt to withdraw the total
+balance in the PPP RSA or utilize the balance for Programmed
+Withdrawal (PW).
+iii. The PPP Contributor shall be required to provide the following
+documents at the point of accessing his/her retirement benefits:
+Page 24 of 27
+Guidelines on Personal Pension Plan
+a. Written application or authenticated applications submitted via
+approved digital platforms.
+b. Valid means of identification.
+c. Any other relevant document as may be specified from time to time
+by the Commission.
+iv. PFA and PPP retiree shall jointly execute a PW Agreement, stating
+the terms and conditions of the contract.
+v. PPP retirees on PW have the option to terminate the PW Agreement
+and liquidate the balance in the RSA.
+vi. All payments for contingent and pensions shall be made only to the
+contributor’s retiree’s designated bank account.
+vii. PPP Contributors are not restricted from continuing or resuming
+contributions into their RSAs upon either securing a job or
+engagement in income-generating ventures after retirement.
+13.0 The Procedure for Relinquishment of Child RSA
+a. Written request signed by the parent or legal guardian and submitted
+to the PFA.
+b. Verification of the child’s age using valid identification and NIN.
+c. Formal transfer of account ownership to the child, who shall thereafter
+assume full rights and obligations as the account holder.
+14.0 Deceased/Missing Persons
+The processing of deceased/missing person’s benefits under PPP shall
+be in line with the Regulations for the Administration of Retirement and
+Terminal Benefits issued by the Commission.
+15.0 ICT & Digitization of PPP Operations
+15.1 PFAs, PFCs and APA’s shall digitize the entire process of Personal
+Pension Plan (PPP) administration, including onboarding,
+contributions, withdrawals, benefit processing, and customer support,
+Page 25 of 27
+Guidelines on Personal Pension Plan
+across multiple access channels such as web platforms, mobile
+applications, USSD codes, and Point-of-Sale (POS) systems.
+15.2 PFAs shall ensure that all digital channels are secure, interoperable, and
+capable of generating instant acknowledgments for all transactions
+including verifiable reference numbers.
+15.3 PFAs shall integrate Accredited Pension Agents (APAs) into their digital
+platforms to facilitate real-time onboarding and contributions, particularly
+in informal sector and rural locations.
+15.4 PFAs shall submit to the Commission periodic reports on the status of
+their digital platforms, including capacity, transaction volumes, security
+testing, and user accessibility.
+15.5 LPFOs shall deploy ICT systems with sufficient capacity and scalability
+to handle high transaction volumes, mass onboarding, and multi-channel
+access by tens of millions of PPP contributors without service disruption.
+15.6 LPFOs shall subject their ICT infrastructure to periodic penetration testing
+and vulnerability assessments, conducted by qualified independent
+assessors, to identify and remediate security weaknesses.
+16.0 Returns Renditions
+16.1 Licensed Pension Fund Operators (LPFOs) shall render returns as
+specified by the Commission.
+17.0 Reviews and Enquiries
+17.1 The Commission reserves the right to amend, supplement, or revoke
+these Guidelines from time to time in the interest of effective regulation
+and protection of contributors.
+17.2 All enquiries regarding these Guidelines shall be directed to:
+The Director, Surveillance Department
+Page 26 of 27
+Guidelines on Personal Pension Plan
+National Pension Commission
+174, Adetokunbo Ademola Crescent
+Wuse II
+Abuja-Nigeria
+Email: info@pencom.gov.ng
+Tel: +234-9460-3930
+Page 27 of 27
+Guidelines on Personal Pension Plan

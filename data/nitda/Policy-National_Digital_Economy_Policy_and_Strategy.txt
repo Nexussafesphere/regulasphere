@@ -1,0 +1,1390 @@
+National Digital Economy Policy and Strategy
+1
+National Digital Economy Policy and Strategy
+2
+National Digital
+Economy Policy and
+Strategy (2020-2030)
+CONNationTal Digital EconomEy Policy and StraNtegy TS
+Vision & Mission..........................................................................................6
+President’s Mandate....................................................................................6
+Foreword......................................................................................................7
+President Buhari’s Full Speech During the Launching the National
+Digital Economy Policy and Strategy............................................................9
+Preface.......................................................................................................11
+Digital Nigeria Day.....................................................................................14
+Introduction...............................................................................................15
+Pillars of the National Digital Economy Policy and Strategy.....................18
+3
+Pillar #1 : Developmental Regulation........................................................22
+Pillar #2 : Digital Literacy and Skills..........................................................24
+Pillar #3 : Solid Infrastructure....................................................................27
+Pillar #4 : Service Infrastructure................................................................29
+Pillar #5 : Digital Services Development and Promotion...........................31
+Pillar #6 : Soft Infrastructure.....................................................................33
+Pillar #7 : Digital Society and Emerging Technologies...............................35
+Pillar #8: Indigenous Content Development and Adoption.......................38
+Key Institutions Needed for the Success of the Digital Economy.............40
+National Digital Economy Policy and Strategy
+4
+National Digital Economy Policy and Strategy
+5
+VISION AND MISSION
+VISION
+“To transform Nigeria into a leading digital economy providing quality life and digital
+economies for all.”
+MISSION
+We build a nation where digital innovation and entrepreneurship are used to create
+value and prosperity for all.
+National Digital Economy Policy and Strategy
+PRESIDENT’S MANDATE
+The National Digital Economy Policy and Strategy (NDEPS) has been developed in
+line with the Presidential directives that were given to the Honourable Minister of
+Communications and Digital Economy on assumption of office. Digital technologies
+are transforming every aspect of our lives and the NDEPS will enable Nigeria to take
+advantage of them in order to become a leading player in the global digital economy.
+Our desire to fast-track the development of our digital economy informed the decision to
+rename the Ministry of Communications to the Federal Ministry of Communications and
+Digital Economy. This expanded the Ministry’s schedule to include the Digital Economy
+mandate and the development of our digital economy will facilitate the diversification
+of the economy. We are committed to the diversification of the economy and digital
+technologies will provide an important catalyst for this.
+The pillars of the NDEPS have been carefully selected to include all the key aspects that
+6
+Nigeria needs to focus on in order to actively participate in the global digital economy.
+Special consideration has also been given to our areas of strength and comparative
+advantage as a country. Nigerians are highly innovative and a thriving digital economy
+will create employment opportunities for our teeming population and support in lifting
+millions of Nigerians out of poverty. Furthermore, a digital economy will accelerate
+the attainment of our key objectives of improving security, reducing corruption and
+expanding the economy.
+It is to this end that I have directed the Honourable Minister of Communications and
+Digital Economy to work with all relevant government agencies to ensure that we rapidly
+expand our digital economy to take advantage of the immense opportunities on the
+continent and across the globe.
+I commend the Honourable Minister of Communications and Digital Economy, the
+Expert Review Committee and all stakeholders who participated in the development
+and review of the NDEPS. I am happy with its level of implementation so far and further
+urge all Federal Public Institutions and stakeholders to ensure its full and successful
+implementation.
+Muhammadu Buhari
+National Digital Economy Policy and Strategy
+FOREWORD
+The National Digital Economy Policy and Strategy has been developed to reposition the
+Nigerian Economy in order to take advantage of the many opportunities that digital
+technologies provide. This is in line with the vision of President Muhammadu Buhari,
+GCFR, to diversify the economy of Nigeria away from dependence on the oil and gas
+sector. The growth of the digital technology sector over the past few years is a good
+indication that this sector can serve as a catalyst for the rapid development of the
+economy.
+His Excellency, President Muhammadu Buhari, GCFR, approved the redesignation of the
+Federal Ministry of Communications as the Federal Ministry of Communications and
+Digital Economy (FMoCDE) on the 17th of October, 2019. This has clearly positioned
+Nigeria as early adopters of digital technology and it gives us a good opportunity to
+become major participants in the growing global digital economy.
+7
+The redesignation of the Ministry is in line with the priority areas that the Federal
+Government asked the Ministry to focus on. Among the priorities assigned to the
+Federal Ministry of Communications and Digital Economy is the Development and
+Implemention of a Digital Economy Policy and Strategy for Nigeria.
+This Digital Economy Policy and Strategy document in based on the FMoCDE’s 8-pillars
+for the acceleration of the National Digital Economy for a Digital Nigeria. The 8 pillars
+are:
+1. Developmental Regulation;
+2. Digital Literacy & Skills;
+3. Solid Infrastructure;
+4. Service Infrastructure;
+5. Digital Services Development & Promotion;
+6. Soft Infrastructure;
+7. Digital Society & Emerging Technologies; and
+8. Indigenous Content Development & Adoption.
+These pillars align well with the Economic Recovery and Growth Plan of the Federal
+Government and also address the 3 key focus areas of Mr. President, namely economic
+development, anticorruption and security.
+The task of developing the National Digital Economy is a huge one and we call on all
+stakeholders to make an input to the process and support in the implementation. As
+National Digital Economy Policy and Strategy
+a National document, we also encourage the States and Local Government areas to
+cascade these policies and strategies so that we can be on the same page as we achieve
+the vision of this document which is “To transform Nigeria into a leading global digital
+economy providing quality life and digital economies for all.”
+Dr Isa Ali Ibrahim (Pantami), FNCS, FBCS, FIIM, MCPN
+Honourable Minister
+Federal Ministry of Communications and Digital Economy
+(November 2019)
+8
+National Digital Economy Policy and Strategy
+President Buhari’s Full Speech at
+#eNigeria2019
+I am delighted to participate in this Opening Ceremony of the 2019 e-Nigeria Conference,
+Exhibition and Awards.
+Globally, the Digital Economy is expanding at a very fast pace. In just a few years, this
+platform has transitioned from being a luxury to an absolute necessity. It is in recognition
+of this fact that we decided to re-designate the Federal Ministry of Communications
+as the Federal Ministry of Communications and Digital Economy with a mandate to
+develop and implement a harmonized and well-coordinated digital economy policy and
+strategy for Nigeria.
+The second quarter report by the National Bureau of Statistics for 2019 showed that the
+Information and Communications Technology sector contributed an impressive 13.85%
+to the Gross Domestic Product (GDP) of Nigeria. This clearly shows the importance and
+potential of the ICT sector to our job creation and economic diversification agenda.
+Already, Nigerian ICT startups are leaving their mark on the global stage. For example,
+at the Gulf Information Technology Exhibition (GITEX), a Nigerian Artificial Intelligence 9
+solution provider, Chiniki Guards, took first place, beating 750 contestants from 73
+countries. We shall continue to encourage and support such digital entrepreneurs to
+develop innovative solutions for local and global challenges.
+In public service, the digitisation of key activities such as the use of the Bank Verification
+Number (BVN), Treasury Single Account (TSA) and the Integrated Payroll and Personnel
+Information System (IPPIS) has enabled us to save cost and fight corruption.
+Of course, as we celebrate the successes and explore the opportunities in this sector,
+we must remain mindful of its threats. We all know how the use of unregistered and
+improperly registered SIM cards by terrorists is a key national security threat.
+Today, I am informed that over 9.2 million SIM cards have either been normalized,
+blocked or deactivated in less than 40 days due to improper registration. We encourage
+all Nigerians to ensure that their phones are properly registered. As a Government, our
+priority is to protect the lives and properties of all Nigerians.
+Ladies and Gentlemen, you will all recall that at e-Nigeria 2018 conference, we directed
+that all government funded ICT projects must be reviewed and cleared by National
+Information Technology Development Agency (NITDA). Our goal was to enhance
+the efficiency and effectiveness of government procurement processes. Today, I am
+informed that through this directive, government has saved over 16.8 billion Naira. I
+want to encourage the Ministry and NITDA to sustain this tempo.
+National Digital Economy Policy and Strategy
+Our recent introduction of the Nigerian E-government Masterplan will further consolidate
+our successes to date and increase interoperability among the different Ministries,
+Departments and Agencies of government.
+A key requirement of the E-government Masterplan is for all government institutions
+to create a Digital Transformation Technical Working Group that will work with the
+Ministry of Communications and Digital Economy to ensure seamless and coordinated
+implementation of projects, programs and policies.
+Furthermore, the Nigerian e-Government Interoperability Framework, the Enterprise
+Architecture and the Nigeria Data Protection Regulation are in place and all Ministries,
+Departments and Agencies are expected to comply with these policies.
+I have therefore directed the Federal Ministry of Communications and Digital Economy
+to develop training and sensitization programs that will be rolled out across all key
+MDAs with immediate effect to ensure seamless implementation of the masterplan.
+I wish you very fruitful and impactful deliberations as I look forward to receiving a
+comprehensive report with your recommendations on how we can improve and expand
+Nigeria’s digitization agenda for the betterment of our country.
+Thank you very much for your attention. I hereby declare this Conference open.
+10
+President Muhammadu Buhari, GCFR, Unveiling the NDEPS on November 28, 2019
+National Digital Economy Policy and Strategy
+PREFACE
+On the 12th of June, 2019, His Excellency, of the youngest populations on earth. In
+Muhammadu Buhari, President of the terms of the nation’s geographic position,
+Federal Republic of Nigeria, pledged to lift it is located just between the central and
+100 million Nigerians out of poverty in the western parts of Africa and offers ready
+next 10 years. access to over half of the African continent,
+represented by those that reside in
+In line with this goal, and that of Western and Central Africa, as well as the
+diversifying the economy, various sectors approximately 200 million people living
+will contribute towards achieving the in Nigeria. All these indicators describe
+overall poverty reduction goals. Mr potentials that can be harnessed for the
+President recognized the critical role benefit of the economy. However, there
+that digital technologies can play in are a number of things to be put in place
+this process and recently approved the before our latent potential can drive the
+redesignation of the Federal Ministry of economy.
+Communications as the Federal Ministry 11
+of Communications and Digital Economy. The first issue that needs to be addressed
+In the new appellation, communications is the Developmental Regulation pillar.
+refers to the channel, digital refers to the It will provide support for the effective
+content and economy indicates the central regulation of the digital technology sector
+focus of the entire process. in a way that enables development.
+Citizens are generally regarded to be the
+According to a 2016 Report by Oxford greatest assets in any economy and the
+Economics, the global digital economy is same applies to the digital economy. To
+valued at $11.5 trillion dollars or about drive the digital economy it is important
+15.5% of the Global Economy. This value to develop a large pool of digitally literate
+is expected to rise significantly within and digitally skilled citizens. There is
+the next few years. This Digital Economy currently no detailed data on the state
+Policy and Strategy document aims to of digital literacy in Nigeria but data on
+provide a plan for using digital technology technology adoption , financial inclusion
+as a platform for stimulating growth in and broadband penetration in rural areas
+all sectors of the economy through the suggest the level of digital literacy is
+development of a digital economy for the relatively low. There is a need to support
+country. a programme for mass digital literacy
+and this will be addressed in the Digital
+Nigeria has the largest population in Literacy & Skills pillar.
+Africa, with an average age of 18 years,
+the biggest economy on the continent, the The Solid Infrastructure pillar, for example
+largest natural gas reserves and the one broadband penetration, is another key
+National Digital Economy Policy and Strategy
+issue to be addressed. A significant The growth of solid digital infrastructure
+improvement in the current broadband is no doubt critical to the development
+penetration of 35.4% is critical for the of the digital economy, however, it is
+development of a digital economy in not sufficient. A digital economy also
+Nigeria. According to a study by ITU, needs other conditions to be met. The
+a 10% increase in mobile broadband solid infrastructure that broadband
+penetration in low income countries yields access provides will lead to the growth
+an increase of at least 1.6% in the Gross of the Service Infrastructure pillar and
+Domestic Product (GDP). The deployment a proliferation of digital platforms that
+of fibre networks around the country will enable Government to Citizen (G2C),
+provide a veritable platform for expanding Citizen to Citizen (C2C) and all other
+broadband access but lingering issues like e-commerce models.
+inconsistent Right of Way (RoW) charges,
+reported cases of vandalisation of telecom The National e-govenment Masterplan
+equipment and inadequate power supply has been adopted and is currently being
+have inhibited the penetration of the implemented. It will provide a one-stop-
+broadband. shop for interacting with government. It
+will also provide an Enterprise Architecture
+There is great potential for enhanced and e-Government Interoperability
+broadband penetration due to a number Framework to support platforms that
+of initiatives such as the 40 Terabits per can enhance interactions between
+second (Tbps) broadband (submarine government institutions on the one hand
+fiber cable) capacity that exists at the and government and citizens on the
+12
+landing point in Lagos. However, many other. According to the United Nations
+of these initiatives are grossly under- Conference on Trade and Development
+utilized due to limited distribution of fibre (UNCTAD), Nigeria’s e-commerce spending
+infrastructure to the underserved areas is projected to increase to $75 billion in
+of the country. The deployment of fibre 2025 and the platforms created through
+across the country will appreciably improve support for the service infrastructure
+broadband penetration and will have the pillar will play an important role in this
+added advantage of crashing the cost of projection.
+broadband access. The deployments of
+the 1st and 2nd phases of the National The Digital Services Development and
+Information and Communication Promotion pillar aims to drive the growth
+Technology Infrastructure Backbone in the number of digtal jobs and digital
+(NICTIB) will aid this process. Another ray entrepreneurs in the country. With
+of hope for the solid infrastructure pillar an average age of just over 18 years,
+is the Infrastructure Company (Infraco) Nigeria has a potential critical mass of
+project which aims to lay 120,000km ‘digital natives’ that can transform the
+of fibre across the country to extend country into a regional and global digital
+broadband networks to every Local powerhouse. These creative Nigerians can
+Government Area (LGA) of the Federation play a key role in the creation of digital jobs
+through an Open Access Model. However, across all sectors of the country; jobs that
+all these options will be evaluated to are either based on ICTs or are dependent
+determine their relevance. on ICTs.
+National Digital Economy Policy and Strategy
+The Soft Infrastructure will focus on the Executive Orders 003 and 005 of the
+ensuring that people can feel safe administration of President Muhammadu
+online and that cyberthreats are quickly Buhari, GCFR. This pillar will also provide
+identified and contained. The adoption an enabling environment for indigenous
+and growing popularity of the national content and the enforcement of the local
+digital identity scheme will make citizens content policies.
+feel safe while interfacing with the digital
+economy. Data protection will also play an All these pillars align with the 3 key areas
+important role in the development of the of focus of the administration of President
+soft infrastructure. Muhammadu Buhari, GCFR, namely the
+economy, anticorruption and security.
+The Digital Society and Emerging The content of this document has been
+Technologies pillar will ensure that the amended to reflect the observations of
+gains of the digital economy are mapped the participants at the eNigeria 2019
+to indices of well-being in the lives of Conference, Exhibition and Awards. A
+ordinary citizens. The Indigenous Content total of 3,991 delegates attended eNigeria
+Development and Adoption pillar will 2019.
+provide a policy framework that gives
+preference to digitally skilled Nigerians for
+government funded projects in line with
+13
+National Digital Economy Policy and Strategy
+Digital Nigeria Day
+A day has been designated to promote the commenced a day after on the 24th of
+development of the Digital Economy in October 2019, which coincides with the
+Nigeria. The day will be known as “Digital “World Development Information Day”.
+Nigeria Day” and it will be celebrated
+on the 24th of October every year. The The Digital Nigeria Day is to be marked
+24th of October has also been recognised in every State and the activities should
+by the United Nations as the “World be coordinated by a State Coordinator,
+Development Information Day”. preferably a Commissioner of a relevant
+Ministry in the State. The Federal Ministry
+The United Nations Resolution A/ of Communications and Digital Economy
+RES/65/141 announced this date will collaborate with the States in the
+and noted that “Information and promotion and celebration of the Digital
+communications technologies have the Nigeria Day in a way that emphasizes
+potential to provide new solutions to the strength of the State in the
+development challenges, particularly implementation of the Digital Economy
+in the context of globalization, and can Policy and Strategy.
+foster economic growth, competitiveness,
+14
+access to information and knowledge, The Digital Nigeria Day will provide an
+poverty eradication and social inclusion.” opportunity to identify and promote
+success stories and leading lights in the
+Furthermore, and perhaps more fittingly, expansion of Nigeria’s Digital Economy. It
+it coincides with the period when His will focus on all strata of society, including
+Excellency, President Muhammadu young innovators, the elderly, people
+Buhari, GCFR redesignated the Ministry as living with disabilities, internally displaced
+the Federal Ministry of Communications persons, etc. The activities surrounding
+and Digital Economy (17th October the celebration will also incorporate a
+2019) and when the announcement was robust media enlightenment campaign.
+adopted during the Federal Executive
+Council meeting on the 23rd October
+2019. Furthermore, the implementation
+National Digital Economy Policy and Strategy
+INTRODUCTION
+The Digital Economy
+The Digital Economy (Definition) the physical, digital, and biological spheres.
+The digital economy has been defined It is fundamentally changing all aspects of
+in many ways by various individuals and our lives and reshaping economic, social
+institutions. The European Commission and cultural paradigms across the globe.
+defines the digital economy as an economy
+that “encompasses businesses that sell The significant developments in the digital
+goods and services via the internet, and technology sector have increased access
+digital platforms that connect spare and lowered the cost of digital devices.
+capacity and demand”. Access to the Internet has improved
+productivity and stimulated creativity and
+15
+The World Economic Forum and the Group the emergence of emerging technologies
+of Twenty (G20) define the digital economy have provided a platform for developing
+as “a broad range of economic activities countries like Nigeria to use digital
+comprising all jobs in the digital sector as technology to drive the economy.
+well as digital occupations in non-digital
+sectors”. ICT has been the catch phrase for
+technology for the last few decades.
+In this Policy document, we refer to digital However, in recent years there has been
+economy as: Any aspect of the economy a convergence of the sub-sectors of
+that is based on or driven by digital ICT, including information technology,
+technologies. telecommunications and broadcasting.
+Furthermore, the term ICT conveys the
+Motivation for the Development of a concept of the use of technology.
+Digital Economy
+The development of a digital economy will Digital Technologies, on the other hand,
+create new technological platforms and built upon and extends the concept of
+industries on one hand, while enhancing ICT to include a focus on the creation,
+the efficiency and productivity of existing and not just the use of technology. These
+industries on the other. technologies also encompass emerging
+technologies and the potential for
+The Fourth Industrial Revolution (4IR) is datafication that they provide.
+characterized by a fusion of technologies
+and they have blurred the lines between The digital economy will be built on these
+National Digital Economy Policy and Strategy
+digital technologies. This Policy aims to successful and sustainable adaptation
+provide an environment for the innovative of technology requires that countries
+use of such technologies to develop the play to their strengths and mitigate the
+economy of Nigeria. associated risks.
+Global Context of the Digital Economy Globally, the United States, China and
+The Digital Economy is expanding across India are examples of populous countries
+the globe, albeit at an uneven pace across who have thriving digital economies. These
+different countries. In most countries, countries have the largest populations
+however, the digital economy is constantly in their regions and Nigeria also has
+being developed. the largest population in Africa. This
+strength can be used to an advantage in
+According to a 2016 Report by Oxford the development of a sustainable digital
+Economics, the global digital economy economy in Nigeria.
+is valued at $11.5 trillion dollars or
+approximately 16% of the Global With a Gross Domestic Product (GDP)
+Economy. The global digital economy is valued at $397 Billion, Nigeria has the
+also projected to account for a quarter of largest economy in Africa based on this
+the global economy in the next 10years. 2017 World Bank estimate. Nigeria is
+Nigeria currently does not has a large slice 6th largest producer of oil and has the
+of the global digital economy but effort 10th largest oil reserves in the world and
+is being made to position the nation to this sector has had a defining role on the
+play a leading role in contributing to this economy of Nigeria. However, the volatility
+16
+economy. of the oil sector can have a negative impact
+on a mono-economy that is dependent
+The World Economic Forum predicts that on oil. To address this, deliberate efforts
+over 60% of global GDP will be digitized by are being made by the administration of
+2022 and that over the next decade, digital President Muhammadu Buhari, GCFR, to
+platforms will be used to create close to change this by diversifying the economy.
+70% of new value. Furthermore, according
+to a Report by Ericsson titled “How The Digital Economy in the Nigerian
+Important Are Mobile Broadband Networks Context
+for Global Economic Development”, 10% ICT’s Contribution to Nigeria’s GDP – An
+increase in mobile broadband penetration Emerging Prospect
+results in approximately 0.6% to 2.8% rise ICT’s contribution has been one of the
+in gross domestic product (GDP). fastest growing components of Nigeria’s
+GDP and is emerging as its most important
+Given the wide range of adoption of digital long-term growth prospect. In the second
+technology, it has become clear that quarter of 2019, ICT contributed 13.85%
+every country stands to benefit from it. to the GDP calculations, as against Oil and
+Countries that have adopted and accepted Gas putting in 8.82% in comparison .
+digitalization tend to have the best
+rewards. It is important to note, though, With the execution of a Digital Economy
+that countries need to adapt these digital strategy, the digital technology sector can
+technologies to their specific context double its contribution to the economy
+in order to maximize the benefits. The over the next five years
+National Digital Economy Policy and Strategy
+The name, Ministry of Communications
+Nigeria’s Digital Edge Advantages and Digital Economy, gives a more holistic
+Age Advantage reflection of the mandate of the Ministry;
+Youth are the enablers of any digital communications addresses the channel,
+revolution. Therefore, with a population digital addresses the nature of the
+having an average age of just over 18 years content and economy reflects the central
+and with 60% of the country represented focus of the activities of the Ministry,
+by youth, it indicates that Nigeria is ready which is the development of the economy
+to be the foundation of an African Digital in line with the Economic Recovery and
+Economy. Growth Plan (ERGP) of President Buhari’s
+administration.
+Furthermore, seizing the initiative with
+the youth would make Nigeria the driver The Ministry’s mission statement is We
+of a continent-wide digital economy under Leverage Digital Technologies for National
+the new African Continental Free Trade Economic Development. It encapsulates
+Agreement (ACFTA). the rationale for its being the fulcrum for
+establishing and sustaining a national
+Nigeria, also possesses an infrastructural digital economy.
+advantage over its neighbours, and this
+should also propel the nation to a position
+of digital leadership on the continent.
+Establishment of a Ministry of
+17
+Communications and Digital Economy
+There was an urgent need to have a
+Ministry assigned the role of coordinating
+the activities related to Nigeria’s Digital
+Economy. This need led President
+Muhammadu Buhari, GCFR, to approve
+the redesignation of the Ministry of
+Communications as the Ministry of
+Communications and Digital Economy on
+the 17th of October, 2019. The change
+of name expanded the mandate of the
+Ministry to include a key aspect of the
+priority areas set for the Ministry by
+the Federal Government, which is the
+“Development and Implementation of a
+Digital Economy Policy and Strategy”.
+National Digital Economy Policy and Strategy
+Pillars and Objectives of the National
+Digital Economy Policy and Strategy
+Pillars of the National Digital Economy Policy and Strategy
+The National Digital Economy Policy and Strategy shall be anchored on the 8 pillars of
+the ‘DIGITAL NIGERIA’ Roadmap of the Federal Ministry of Communications and Digital
+Economy (FMoCDE). These pillars are listed below:
+#1 Developmental Regulation
+(effective regulation of the ICT and
+digital sector in a way that enables
+development);
+18
+#2 Digital Literacy and Skills
+(providing policy backing for massive training of
+Nigerians from all works of life in order to enable them
+obtain digital literacy and other digital skills. This pillar
+will also facilitate the training of Nigerians.);
+#3 Solid Infrastructure
+(deployment of fixed and mobile
+infrastructure to deepen the broadband
+penetration in the country);
+#4 Service Infrastructure
+8 Pillars to (support for Government Digital Services and the
+provision of robust digital platforms to drive the
+Accelerate digital economy);
+the Development
+of the Nigerian #5 Digital Services Development and Promotion
+(development of a vibrant digital ecosystem that
+Digital Economy supports Innovation Driven Enterprises (IDE) and Micro
+Small and Medium Enterprises (MSMEs) in a way that
+engenders innovation);
+#6 Soft Infrastructure
+(strengthening public confidence in the use of
+digital technologies and participation in the
+digital economy);
+#7 Digital Society and Emerging Technologies
+(focus on tying the development of the digital economy
+to indices of well-being in the lives of the ordinary citizens;
+mentoring startups on emerging technologies and
+deploying their solutions);
+#8 Indigenous Content Development and Adoption
+(provision of a policy framework that gives preference
+to digitally skilled Nigerians for government funded
+projects in line with the Executive Orders 003 and 005
+of the administration of President Muhammadu Buhari,
+Fig ##: Pillars of the Roadmap GCFR).
+of the Federal Ministry of
+Communications and Digital
+Economy
+National Digital Economy Policy and Strategy
+19
+NATIONAL DIGITAL ECONOMY POLICY AND STRATEGY
+For a Digital Nigeria
+noitalugeR
+latnempoleveD
+sllikS
+dna
+ycaretiL
+latigiD
+erutcurtsarfnI
+diloS
+erutcurtsarfnI
+ecivreS
+tnempoleveD
+secivreS
+latigiD
+noitomorP
+dna
+erutcurtsarfnI
+tfoS
+gnigremE
+dna
+yteicoS
+latigiD
+seigolonhceT
+tnetnoC
+suonegidnI
+noitpodA
+dna
+tnempoleveD
+1. Developmental Regulation (effective digital ecosystem that supports
+regulation of the ICT and digital sector Innovation Driven Enterprises (IDE) and
+in a way that enables development); Micro Small and Medium Enterprises
+2. Digital Literacy and Skills (providing (MSMEs) in a way that engenders
+policy backing for massive training innovation);
+of Nigerians from all works of life in 7. Digital Society and Emerging
+order to enable them obtain digital Technologies (focus on tying the
+literacy and other digital skills. This development of the digital economy
+pillar will also facilitate the training of to indices of well-being in the lives
+Nigerians.); of the ordinary citizens; mentoring
+3. Solid Infrastructure (deployment of startups on emerging technologies and
+fixed and mobile infrastructure to deploying their solutions);
+deepen the broadband penetration in 8. Indigenous Content Development
+the country); and Adoption (provision of a policy
+4. Service Infrastructure (support for framework that gives preference
+Government Digital Services and the to digitally skilled Nigerians for
+provision of robust digital platforms to government funded projects in line
+drive the digital economy); with the Executive Orders 003 and
+5. Soft Infrastructure (strengthening 005 of the administration of President
+public confidence in the use of digital Muhammadu Buhari, GCFR).
+technologies and participation in the
+digital economy); The Pillars will accelerate the development
+6. Digital Services Development and of a digital economy in Nigeria.
+Promotion (development of a vibrant
+1 2 3 4 5 6 7 8
+Roadmap Pillars NDEPS Pillars.
+National Digital Economy Policy and Strategy
+20
+LICNUOC
+YMONOCE
+LATIGID
+LANOITAN
+ECIVRES
+DILOS
+YCARETIL
+LATIGID
+LATNEMPOLEVED
+ERUTCURTSARFNI
+ERUTCURTSARFNI
+SLLIKS
+&
+NOITALUGER
+nalpretsaM
+tnemnrevog-E
+.a
+lanoitaN
+nairegiN
+.a
+emmargorP
+airegiN
+latigiD
+.a
+swaL
+tnaveleR
+.a
+secivreS
+latigiD
+tnemnrevoG
+.b
+nalP
+dnabdaorB
+latigiD
+no
+eettimmoC
+lanoitaN
+.b
+ymonocE
+latigiD
+.b
+tnemnrevog-E
+nairegiN
+.c
+sertneC
+ataD
+.b
+dna
+noitavonnI
+,sllikS
+dnuF
+tnempoleveD
+krowemarF
+ytilibareporetnI
+etilletaS
+.c
+pihsruenerpertnE
+snoitalugeR
+degrevnoC
+.c
+)FIG-eN(
+ycneuqerF
+lanoitaN
+.d
+emmargorP
+pihsrotneM
+.c
+tnemnrevoG
+nairegiN
+.d
+tnemeganaM
+erutcetihcrA
+esirpretnE )AEGN(
+smroftalP
+ecremmoC-E
+.e
+SUONEGIDNI
+YTEICOS
+LATIGID
+SECIVRES
+LATIGID
+TNEMPOLEVED
+TNETNOC
+GNIGREME
+&
+TFOS
+&
+TNEMPOLEVED
+NOITPODA
+&
+SEIGOLONHCET
+ERUTCURTSARFNI
+NOITOMORP
+suonegidnI
+fo
+noitomorP
+.a
+noisulcnI
+latigiD
+.a
+ssenerawA
+ytirucesrebyC
+.a
+pihsruenerpertnE
+latigiD
+.a
+tnetnoC
+noisulcnI
+laicnaniF
+.b
+ssenidaeR
+TRREC
+.b
+nevirD
+noitavonnI
+.b
+tnempiuqE
+lanigirO
+rof
+troppuS
+.b
+ygolonhceT
+gnigremE
+.c
+noitcetorP
+ycavirP
+dna
+ataD
+.c
+)EDI(
+sesirpretnE
+)SMEO(
+srerutcafunaM
+sertneC
+shcetniF
+.c
+htiw
+ecnailpmoC
+erusnE
+.c
+rof
+senilediuG
+yrotalugeR
+tnetnoC
+nairegiN
+National Digital Economy Policy and Strategy
+Objectives of the Digital Economy Nigerian Citizens, Business and
+Policy and Strategy Government workers and enable
+Some of the objectives of this Digital them to acquire cutting edge digital
+Economy Policy and Strategy skills;
+document are listed below: vii. To achieve a 95% Digital Literacy
+i. Target 70% broadband penetration in Level in Nigeria within the next 10
+4 years; years;
+ii. To accelerate the digitalization of viii. To develop digital education
+government processes and improve curriculum to meet the current and
+service delivery, transparency and future needs of the Digital Economy;
+accountability; ix. To ensure that indigenous technology
+iii. To improve trust, confidence and companies are able to participate
+security around digital processes and actively in the government funded
+activities; technology programmes; and
+iv. To attract and grow digital jobs across x. To ensure that the policy and
+all sectors of the economy; regulatory instruments are fit-for-
+v. To develop the technology start-up purpose and actually support the
+ecosystem by actively promoting digital business environment.
+innovation and entrepreneurship;
+vi. To support the digital literacy of
+21
+National Digital Economy Policy and Strategy
+Pillar #1: Developmental Regulation
+Situation Analysis Some of the existing regulatory
+Regulation is a key tool for achieving the instruments for the development of a
+social, economic and environmental policy Digital Economy include:
+objectives of government. In order to 1. Guidelines for Nigerian Content
+develop a vibrant digital economy, there is Development in Information and
+a need to ensure that the proper regulatory Communication Technology (ICT)
+instruments are in place. 2. Universal Access and Universal
+Service Regulations
+22 Regulation is usually perceived as a negative 3. Cybercrime Act 2015
+word, one that stifles development and 4. Type Approval Regulations
+innovation. The approach of the Federal 5. Nigeria e-Government Interoperability
+Ministry of Communications and Digital Framework (Ne-GIF)
+Economy is one that promotes, rather than 6. Nigeria Cloud Computing Policy
+stifles development. A preference will be 7. Framework and Guidelines for
+given to the Developmental Regulatory Information and Communication
+approach, where development will serve Technology (ICT) Adoption in Tertiary
+as the main motivation for regulation. Institutions
+8. Nigeria ICT Innovation and
+Many of the existing regulatory Entrepreneurship Vision (NIIEV)
+instruments in the digital economy space 9. Framework and Guidelines for Public
+have been developed in silos. As part Internet Access (PIA) 2019
+of the activities of the developmental 10. Framework and Guidelines for the
+regulatory pillar, a preference will be given Use of Social Media Platforms in
+for converged regulation, where relevant Public Institutions
+regulatory bodies can co-author regulatory 11. Guidelines for Clearance of
+instruments. This will make it easier for Information Technology (IT) Project
+investors and stakeholders to support the by Public Institutions
+development of the sector. 12. Nigeria Data Protection Regulation
+2019
+National Digital Economy Policy and Strategy
+13. Standards for Data Interoperability digital economy;
+14. Telecommunications Networks iii. Review and harmonize all frameworks
+Interconnection Regulations laws, standards, guidelines,
+15. Consumer Code of Practice frameworks and government
+Regulations circulars in order to create a dynamic
+environment for the development of
+Policy Objectives a digital economy;
+The objectives of the Developmental iv. Enact new requisite laws (digital
+Regulation Pillar include the following: economy promotion acts and
+i. To create a dynamic regulatory data protection acts), regulations,
+environment that fosters, rather than standards and guidelines necessary
+hinders, the development of a digital to address identified gaps;
+economy; v. Create a framework of appropriate
+ii. To review existing legislation and funding to catalyze innovation at
+facilitate, where necessary, the all levels for the creation of a digital
+enactment of laws that would economy;
+enhance the development of digital vi. Review multiple taxation by creating
+technology sector for national growth; a framework for bundling payment of
+iii. To facilitate the enactment of taxes, especially those aspects that
+appropriate legislation that ensures can affect the digital economy; and
+protection of digital technology vii. Creation of a National Digital 23
+infrastructure and enhances national Economy Council (NDEC) with
+security; and membership drawn from public and
+iv. To support the issuance of converged private stakeholders.
+regulations, as well as address
+the issue of multiple taxation in
+order to create a healthy business
+environment for the development of
+the Nigerian Digital Economy.
+Implementation Strategies
+Some of the implementation strategies
+for Developmental Regulation Pillar are
+listed below.
+The Government will:
+i. Identify constricting regulations
+stiffing digital economy development
+and growth;
+ii. Identify gaps in the existing
+legislations that need to be bridged
+(or harmonised) to enable a vibrant
+National Digital Economy Policy and Strategy
+Pillar #2: Digital Literacy and Skills
+Situation Analysis According to Doug Belshaw’s famous
+A digital economy can only be as vibrant as 8-element Digital Literacy Model (shown
+the level of digital literacy of its citizens. below), a digitally literate person should
+Today, literacy no longer means just an have following skill-sets:
+ability to read and write. A literate person 1. [Cg]: Cognitive --> “How to Do”;
+in the fourth industrial revolution must be 2. [Cu]: Cultural --> “How to Behave”;
+someone that is digitally literate. According 3. [Cn]: Constructive --> “How to
+to Common Sense Media, Digital Literacy Use”; and
+includes the ability to use technology 4. [Co]: Communicative --> “How to
+competently, interpret and understand Communicate”.
+digital content and assess its credibility,
+24
+create, research and communicate with They should also have the following
+appropriate tools. As the importance of mindsets:
+digital technology to society grows, so 1. [Cf]: Confident --> “How to
+does the importance of digital literacy as a Belong”;
+tool for lifelong learning. 2. [Cr]: Creative --> “How to Make”;
+3. [Ct]: Critical --> “ How to Evaluate”;
+National Digital Economy Policy and Strategy
+Fig 3: Digital Literacy Elements
+25
+and (iii) Creativity;
+4. [Ci]: Civic --> “How to Participate”. (iv) Tech Design;
+(v) Critical Thinking;
+This pillar will provide policy backing (vi) Complex Problem Solving;
+for massive training of Nigerians from (vii) Leadership and Social Influence;
+all works of life in order to enable them (viii) Design Thinking;
+obtain digital literacy skills. The training (ix) Emotional Intelligence;
+programmes will be expected to culminate (x) Reasoning; and
+in globally recognized certifications. (xi) System Analysis.
+In addition to the foundational digital
+literacy skills, the pillar will support the A Digital Skills Database will also be
+massive training on Nigerians in emerging created to identify the digitally literate
+technologies. The target is to provide Nigerians and their levels of competence.
+an enabling environment for the public This would make it easy to match skills to
+sector, private sector, civil society and jobs.
+development partners to support the
+training of 5 million Nigerians. The Imperative of Capacity Building
+His Excellency, President Muhammadu
+The Digital Nigeria programme will also Buhari, GCFR, reiterated the imperative
+help Nigerians to imbibe the following on capacity buiding in the implementation
+skills: of a digital economy. He stated this when
+(i) Analytical thinking and innovation; he gave the following directive during the
+(ii) Active learning; official unveiling of the Digital Economy
+National Digital Economy Policy and Strategy
+Policy and Strategy on the 28th of iv. Develop a digital literacy and skills
+November, 2019: development framework that will
+“I have therefore directed the Federal lead to trainees acquiring globally
+Ministry of Communications and Digital recognized certifications
+Economy to develop training and v. Ensure that digital literacy becomes
+sensitization programs that will be rolled a basic requirement for public sector
+out across all key MDAs with immediate employees
+effect to ensure seamless implementation vi. Leverage the existing network
+of schools, training institutes,
+of the masterplan.”
+Computer Based Testing (CBT)
+centres, community resource centres,
+Policy Objectives
+amongst others, to facilitate digital
+The objectives of the Digital Literacy &
+skills training programmes across the
+Skills Pillar include the following:
+country
+i. To integrate digital literacy and
+vii. Facilitate the training and retooling of
+skills into the national education
+teachers and facilitators at all levels,
+curriculum at all levels;
+to enable them serve as trainers in the
+ii. To support training and capacity
+digital literacy and skills programme
+building among public sector
+viii. Ensure that the digital skills training
+employees in the development and
+programme incorporates children,
+use of digital tools and applications to
+women, internally displaced persons
+improve the delivery of government
+and the physically challenged
+services;
+ix. Promote the development and
+iii. To create a pool of Nigerians with
+26 distribution of instructional materials
+digital skills validated by globally
+in electronic format
+recognized certifications;
+x. Partner with the private sector to
+iv. To bridge the gap between the make it easier for Nigerians from all
+academia and industry; and walks of life to acquire digital tools
+v. To lower the access barrier to digital xi. Support the ‘catch-them-young’
+tools for the citizens; programmes to create an enabling
+environment for Nigerians to become
+Implementation Strategies conversant with digital skills from a
+Some of the implementation strategies young age
+for Digital Literacy & Skills Pillar are listed xii. Encourage the states and local
+below. governments to support the goal of
+The Government will: 95% digital literacy levels over the
+i. Partner with relevant institutions next 10 years
+to promote globally competitive xiii. Support relevant mentorship models
+trainings that focus on digital for experience sharing, skills and
+technologies confidence building
+ii. Integrate digital literacy and skills xiv. Support the creation of rural coding
+development into the curriculum of academies (RCAs) to meet the
+schools at all tiers of education training needs of rural dwellers
+iii. Provide support for digital literacy xv. Increase the synergy between all
+and skills development for Nigerians institutions that have a mandate
+across the country and in various related to education in the digital
+sectors of the economy literacy and skills programme
+National Digital Economy Policy and Strategy
+Pillar #3: Solid Infrastructure
+Situation Analysis mobile devices
+This pillar will address the deployment of
+fixed and mobile infrastructure to deepen It is estimated that to achieve full
+the broadband penetration in the country. broadband penetration, 120,000km of
+The solid infrastructure pillar is pivotal fibre need to be installed, given Nigeria’s
+because without broadband access across land mass. The Infrastructure Company
+the country it will be difficult to have an (InfraCo) Project is a public private
+inclusive and vibrant digital economy. partnership (PPP) model, based on
+providing counterpart funding to ensure
+Terrestrial and satellite networks will be that at least 10 Gbps Point of Access
+harnessed to significantly increase the (PoA) fiber optic capacity is accessible in
+level of broadband penetration above all the 774 local government areas (LGAs)
+its current level of about 35%. Nigerians in Nigeria. The project has the potential
+currently have access to 2G, 3G and 4G of delivering about a quarter of the fibre 27
+networks, while trial deployments for the required for full broadband penetration.
+5G networks are in progress. 2G networks
+have been deployed across the country The ‘Right-of-Way’ (RoW) is a major issue
+but the current reach of the 3G and 4G that has impeded the deployment of fibre
+networks is still at a low level with a spread across the country. Many States have not
+of 26.03% and 9.07% respectively. This adhered to the agreement by the National
+pillar will aim to boost these levels. Economic Council that the RoW charges be
+pegged at N145/linear meter. The State
+There have been some initiatives over the Governors are currently being engaged to
+years that have been aimed at developing reverse this trend.
+the infrastructure for a digital economy.
+One of such initiatives is the focus on Therefore, to complement broadband use
+deploying broadband across the country, via the mobile networks, and fibre services,
+especially with the deployment of a especially in rural locations, satellite
+national fiber optic-based network. The services via the Nigerian Communications
+aim is to distribute approximately 10 Satellite (NigComSat) shall be utilised.
+terabytes of capacity already delivered to Novel connectivity options such as
+landing points in Nigeria. As such, there connectivity via White Space, will be
+is an urgent need to accelerate the pace explored.
+of ongoing efforts, and also to introduce
+new initiatives to address these and other The 2013 and 2017 access gap report
+challenges. Nigeria has achieved 61.4% showed that 36.8million and 33.2million
+Internet penetration, mainly through people lack access, respectively. The
+National Digital Economy Policy and Strategy
+2019 access gap report is being prepared for broadband backbone and access
+and there is a plan to provide access to an network deployment
+additional 984,000 people in the next one v. Facilitate broadband development
+year. and deployment, leveraging on
+existing universal service frameworks;
+Policy Objectives vi. Deepen broadband penetration
+The objectives of the Solid Infrastructure through the launch and use of
+Pillar include the following: satellite systems
+i. To accelerate the penetration of vii. Promote the development and
+affordable and quality broadband deployment of robust and scalable
+Internet in the country; data centre infrastructure
+ii. To foster broadband usage for viii. Promote efforts to close access gap,
+national development; through the use of satellite system,
+iii. To ensure the rapid development Whitespace and other novel and
+of a broadband policy support and innovative systems
+implementation framework; ix. Provide special incentives to
+iv. To harmonize physical infrastructure encourage the increase of investment
+planning and deployment to include in broadband rollout
+planning for telecoms services; and x. Enhance the capabilities of the
+v. To support the proliferation of Data Nigerian population to make use of,
+centres across the country. and contribute to broadband, and in
+so doing increase its relevance to the
+28 Implementation Strategies socio economic development of the
+Some of the implementation strategies country and its populace;
+for Solid Infrastructure Pillar are listed xi. Establish methodolgy for assessing
+below. progress of broadband development
+in a structured way
+The Government will: xii. Ensure that in all parties adhere to
+the prevailing Right of Way (RoW)
+i. Develop a new Brroadband Plan
+agreement; andred way;
+ii. Deepen Broadband penetration from
+xiii. Create legislation to classify core
+35% to 75% in 4 Years
+digital infrastructure as Critical
+iii. Support the deloyment of optic
+National Infrastructure.
+fibre cable using the infrastructure
+xiv. Boost capacity and activities of the
+compan (InfraCo) Project nder the
+Internet Exchange Point of Nigeria
+Open Access Model
+(IXPN)
+iv. Promote both supply, and demand
+side policies that create incentives
+National Digital Economy Policy and Strategy
+Pillar #4: Service Infrastructure
+Situation Analysis the Nigerian government.
+The service infrastructure pillar will
+address the provision of robust digital They include the Integrated Payroll
+platforms to drive the digital economy. and Personnel Information (IPPIS),
+These platforms enable transactions and Government Integrated Financial
+interactions online. They also have the Management Information System
+added advantage of enabling a supply of (GIFMIS) and REMITA platforms. The first
+data from which both government and the two are focused on government activities
+private sector can gain useful insights with while the REMITA platform is used by the
+which to develop the digital economy. government and the public.
+29
+This pillar supports the provision of a one- It is necessary to create some Digital
+stop online platform for government to Only Government to Citizens (G2C) and
+interact with citizens and investors. It Citizen to Government (C2G) use cases to
+supports the deployment of government popularize the use of digital platforms in
+digital services and a paperless system. the interactions between government and
+The rollout of the solid infrastructure is citizens. The www.services.gov.ng portal
+pivotal but without digital platforms to provides a one-stop portal for accessing
+access services, the goal of developing a government services. As part of efforts
+digital economy will remain elusive. to develop the service infrastructure, this
+portal should be enhanced and promoted.
+Digital platforms can be defined as
+“multisided marketplaces with business Policy Objectives
+models that enable producers and users The objectives of the Service Infrastructure
+to create value together by interacting Pillar include the following:
+with each other” <! Carlo Rossotto et. al. i. Implementation of the approved
+(2018), “Digital platforms: A literature e-government Masterplan, including
+review and policy implications for the e-Government Interoperability
+development”, CRNI, pages 1-17.> These Framework (NeGIF) and Enterprise
+platforms allow users to carry out day to Architecture;
+day business transactions with the help of ii. Promotion and adoption of digital
+digital technologies. There are a number of platforms
+platforms that are currently being used by iii. Use of digital platforms for the
+National Digital Economy Policy and Strategy
+extraction and warehousing of (FPIs)
+anonymized big data for public good. v. Enhance the Nigerian Open Data
+iv. Promote the creation and use of programme across the Federal and
+digital platforms in private and non- State Governments
+governmental sector vi. Create/review enabling laws and
+regulations to enforce eGovernment
+Implementation Strategies masterplan
+Some of the implementation strategies vii. Support the training of relevant
+for Service Infrastructure Pillar are listed government officials to use data to
+below. make better
+decisions
+The Government will: viii. Provide funding to network all FPIs
+i. Support the process for the and digitize some of their key services
+establishment of a Presidential ix. Increase sensitization on the
+Committee on e-Government provisions of the NDPR
+ii. Ensure the promotion and adoption x. Promote the development of creative
+of a Nigeria e-Government e-commerce platforms
+Interoperability Framework xi. Enhance and promote the www.
+iii. Ensure the promotion and adoption services.gov.ng one-stop online
+of the Nigeria Government Enterprise platform and GOVNET for accessing
+Architecture (NGEA) across Federal government services
+Public Institutions (FPIs) xii. Support the development special
+iv. Create Digital Transformation intervention platforms for
+30
+Technical Working Groups (DT-TWG) microbusinesses
+across all Federal Public Institutions
+National Digital Economy Policy and Strategy
+Pillar #5:
+Digital Services Development and
+Promotion
+Situation Analysis However, like most technology driven
+This pillar will focus on the development of deployments, it is important to take
+a vibrant digital ecosystem that supports cognizance of the local peculiarities when
+Innovative Driven Enterprises (IDEs) and pursuing global ideals. With such a large
+Micro Small and Medium Enterprises population of SMEs, it is worthwhile to
+(MSMEs) in a way that engenders adopt an approach that takes into account
+innovation. the vast numbers of SMEs in Nigeria and
+the strong desire to encourage them to
+According to a March 2019 Report by embrace innovation. This approach will
+the Small and Medium Enterprises combine SMEs and IDEs to give a local
+31
+Development Agency of Nigeria variant for the Nigerian sector called:
+(SMEDAN), Micro Small and Medium SMILE= SME + IDE. ‘SMILE’ is a coined
+Enterprises (MSMEs) constitute 96% of acronym for ‘Small Medium Innovation
+all the business activities in the country. Leaning Enterprises’.
+The Report also noted that 90% of all the
+businesses in the country fall under the This pillar will lead to SMILEs by taking the
+micro category. As such, it is necessary to extensive MSME structure into account
+interface with MSMEs in order to develop and integrating innovation in order to
+the economy and use digital technology to create a number of digital-driven SMEs as
+drive economic activity in the country. a bridge to creating a pool of IDEs as the
+nation develops her digital economy. Top-
+The concept of Innovation Driven notch entrepreneurs will also be chosen
+Enterprises (IDEs) has been promoted and funded to scale their impact.
+by leading institutions such as the
+Massachusetts Institute of Technology Opportunities for job creation are a key
+(MIT) and these enterprises, no doubt, outcome for the implementation of the
+have great advantages. In contrasting IDEs strategies of this pillar. We want to have
+and MSMEs we find that IDEs tend to have enabling environment for the creation
+a global outlook while SMEs tend to start of jobs, not only in the public sector but
+small and choose to remain local. IDEs mainly in the private sector.
+also generally require more capital than
+SMEs and tend to integrate innovation The Nigerians in diaspora can be a key asset
+more into their activities more than SMEs. in driving the Digital Economy, especially
+National Digital Economy Policy and Strategy
+as it relates to this pillar. Nigerians in the operations;
+diaspora should be engaged with a view iii. Create an incentivized mentorship
+to creating a support network for the programme that connects to MSMEs
+IDEs and digitally-enabled MSMEs in the to indigenous and foreign technology
+country. driven mentors;
+iv. Incorporate IDEs and digitally-
+Policy Objectives enabled MSMEs into government
+The objectives of the Digital Services funded projects and projects of large
+Development and Promotion Pillar include corporations;
+the following: v. Facilitate funding for the Innovation
+i. Support for the creation of innovation and Start-Up Ecosystem;
+driven enterprises and digitally- vi. Conduct a technology adoption survey
+enabled MSMEs; of MSMEs with a view to lowering the
+ii. Facilitation of mentorship and barrier to adopting technology;
+funding programmes to support vii. Based on the technology adoption
+innovation driven enterprises and survey in the first year, double
+digitally-enabled MSMEs; and the number of digitally-enabled
+iii. Enabling innovation driven businesses annually;
+enterprises and digitally-enabled viii. Create an enabling environment for
+MSMEs to participate in the Nigerians in the diaspora to support
+government procurement process, the IDEs and digitally-enabled
+through the introduction of a MSMEs;
+32 bimodal procurement system to ix. Foster collaboration between the
+accommodate them. stakeholders of the innovation and
+iv. Facilitate the launch of Digital entrepreneurial ecosystem;
+Innovation and Scale-up Centres x. As key stakeholders, States
+(DISC), IT and innovation hubs are expected to support digital
+around the country to target digital entrepreneurs with co-working
+innovations and the scale-up of spaces, incentives and enabling policy
+digital startups. environments for success;
+xi. The Federal and State Ministries of
+Implementation Strategies Education should update the curricula
+of schools at all levels to include
+Some of the implementation strategies
+training on emerging technologies;
+for Digital Services Development and
+and
+Promotion Pillar are listed below.
+xii. Create an enabling environment for
+The Government will:
+building the capacity of IDEs and
+i. Identify, promote and celebrate
+MSMEs, mainly through e-learning
+Innovation Driven Enterprises (IDEs);
+channels.
+ii. Support for MSMEs to integrate
+digital technologies into their
+National Digital Economy Policy and Strategy
+Pillar #6:
+Soft Infrastructure
+Situation Analysis can provide channels for identifying
+The soft infrastructure pillar focusses on citizens in order to facilitate credible
+strengthening public confidence in the use transactions.
+of digital technologies and participation
+in the digital economy. The pillar will There are currently ongoing conversations
+address the importance of cybersecurity around the harmonization of biometrics
+and other standards, frameworks and and IDs. About 30 government
+guidelines that encourage citizens to go institutions that have access to citizen
+digital. Data privacy and the deployment data are members of the Harmonization
+of technologies like the public key Committee. The general idea involves the
+infrastructure are addressed in this pillar. mapping of the disparate databases to the
+NIN database. For example, from about
+Many Nigerians do not have confidence 15million financial sector records, around
+33
+in online services, especially when they 6million new candidates were identified
+relate to financial transactions because for NINs. The Committee is embracing
+of the perception that they are unsafe an ecosystem approach to the integration
+online. They also tend to believe that that involves partnership with the private
+their privacy is compromised online. sector. The NIN database currently has
+The National Information Technology 38.3 million entries.
+Development Agency (NITDA) and other
+relevant government institutions are Cybersecurity
+changing this narrative. The Nigeria Data Cybersecurity speaks about the protection
+Protection Regulation (NDPR) is one of of digital assets similar to how physical
+the instruments that addresses this issue. security addresses the protection of
+This is a good starting point but there is a physical assets. The viability and
+need to further strengthen the regulatory sustainability of any economy requires
+instruments that govern data protection that security is guaranteed. A robust
+and privacy. cybersecurity plan protects digital assets
+and allows citizens to have confidence in
+The need for digital identity lies at the the digital economy.
+root of citizenship and service delivery in A proper cybersecurity approach needs to
+a digital economy. With identity being take the different aspects of cyberspace
+digitized and tied to biometrics, initiatives into account. Cybersecurity is not a local
+like the National Identity Number (NIN), issue and it requires collaboration with
+Biometric Verification Number (BVN), relevant institutions around the globe.
+Voter IDs and SIM-card registration details One of such collaborative approaches
+National Digital Economy Policy and Strategy
+involves the signing of treaties and one frameworks, standards, procedures
+key treaty is the Budapest Convention. and guidelines.
+iii. Establish compliance framework to
+The Budapest Convention, also known ensure the adherence to standards,
+as the Convention on Cybercrime of the procedures and guidelines.
+Council of Europe, is an international iv. Register and certify Cybersecurity
+instrument that serves as a guideline Service Providers (CSP) who will
+for countries that wish to develop a ensure that standard procedures and
+comprehensive national legislation guidelines are complied with across
+against Cybercrime. It also provides a sectors.
+framework for international cooperation v. Establish a framework for
+between countries that are party to the sustainable capacity development
+treaty. Nigeria is yet to sign this treaty but to boost knowledgeable and skilled
+efforts are underway to get the country cybersecurity workforce across digital
+to sign the treaty, considering its great economy institutions.
+benefits. vi. Support the enhanced coordination
+of sectoral Computer Emergency
+It is also important for Nigeria to adopt Readiness and Response Team
+the African Union Convention on Data (CERRT) across sectors.
+Protection and Cybersecurity, also known vii. Support Cybersecurity Centres of
+as the Malabo Convention. Excellence (CoE) focused on Research
+and Development, Innovation and
+Policy Objectives Entrepreneurship.
+34
+The objectives of the Soft Infrastructure viii. Support the ratification and signing
+Pillar include the following: of global treaties that can sustain
+i. Review and strengthen cybersecurity and enhance digital economy.
+instruments to ensure that Nigerians ix. Identify and assign responsibilities
+are secure online; and roles to specific government
+ii. Strengthening of the regulatory institutions for data and privacy
+instruments and institutional protection, intellectual property
+framework that governs data right enforcement, cybercrime
+protection and privacy; and enforcement, research and
+iii. Support for the accelerated development, innovation and
+implementation of a Digital Identity entrepreneurship in order to foster
+Programme. the coordinated growth of digital
+economy.
+Implementation Strategies x. Identify the barriers militating
+Some of the implementation strategies for against the full implementation of
+Soft Infrastructure Pillar are listed below. digital identity scheme and data
+The Government will: harmonization in order to accelerate
+i. Identify gaps in existing regulatory full scale digital identification.
+frameworks, cybersecurity xi. Design and develop specific
+frameworks, standard operational cybersecurity training to enhance
+procedures and guidelines. the capacity and capability of law
+ii. Review and harmonize all enforcement agents to tackle
+existing regulations, cybersecurity cybercrime.
+National Digital Economy Policy and Strategy
+Pillar #7:
+Digital Society and Emerging Technologies
+Situation Analysis others:
+This pillar will focus on tying the i. Coding with relevant tools;
+development of the digital economy to ii. Internet of Things (IoTs);
+indices of well-being in the lives of the iii. Big data analytics;
+ordinary citizens. Digital and financial iv. Artificial intelligence (AI);
+inclusion are some of the issues that this v. Machine Learning;
+pillar seeks to address. vi. Mobile app development;
+vii. 3D Printing;
+The Digital Society and Emerging viii. Virtual Reality and Augmented
+Technology pillar will map the development Reality (VR/AR);
+35
+of the digital economy to the attainment ix. Cyber security;
+of 7 of the Sustainable Development Goals x. Wireless Power;
+(SDGs) that are most relevant to the digital xi. Quantum Computing;
+economy, namely: xii. Cloud Computing; and
+1. Poverty Eradication; xiii. Blockchain.
+2. Good Health and Well-being;
+3. Quality Education; Digital Innovation and
+4. Decent Work and Economic Growth; Entrepreneurship
+5. Industry, Innovation, and Digital Innovation and Entrepreneurship
+Infrastructure; form the bedrock of the Digital Economy.
+6. Reducing Inequality; and The ecosystem that they create stimulates
+7. Sustainable Cities and Communities. the creation of innovative new ventures
+that drive the digital economy. According
+Emerging technologies can enable the to the Global Entrepreneurship Monitor,
+nation to attain these goals. As such, an Nigeria is rated the country with the best
+emerging technology programme will be entrepreneurial activity in Africa as shown
+introduced in the country. Options will in the figure below.
+also be explored on the use of emerging
+technologies for addressing national
+challenges.
+The Emerging Technology programme
+will address the following areas, amongst
+National Digital Economy Policy and Strategy
+36
+Fig 4: Top 10 African Countries Based on Entrepreneurial Activity
+Policy Objectives Implementation Strategies
+The objectives of the Digital Society and Some of the implementation strategies for
+Emerging Technology Pillar include the Digital Society and Emerging Technology
+following: Pillar are listed below.
+i. Enable a progressively increase the
+contribution of digital technologies to the The Government will:
+economy; i. Support the emergence of new
+ii. Promote research in emerging services and industries that are
+technologies with a view to getting digital enabled by emerging technologies
+technology to improve the livelihood of ii. Facilitate services and workforce
+Nigerians; transformation in the public service
+iii. Active focus on Skills-rather-than- using emerging technologies,
+Degrees; and starting with some pilot Ministries,
+iv. Accelerate digital inclusion in the Departments and Agencies;
+country by taking advantage of the spread iii. Foster digital inclusion for People
+of existing infrastructure across the Living with Disabilities (PLWDs) and
+country. other digitally excluded people;
+iv. Supports the emergence of e-services
+National Digital Economy Policy and Strategy
+in leading sectors of the economy; skills;
+v. Prioritize financial inclusion with xi. Promote sector specific emerging
+a view to reducing the current technology centres through relevant
+percentage of unbanked adults by FPIs such as NITDA and NCC;
+50% within the next 4 years; xii. Convert campuses of the Digital
+vi. Collaborate with the private sector, Bridge Institute around the country to
+academia and development partners emerging technology, digital literacy
+to create Centres of Excellence in and digital skills centres;
+Emerging Technologies; xiii. Enlist the support of Nigerian ICT
+vii. Include topics on emerging Professionals in the diaspora;
+technologies across the broad xiv. Establish viable Digital Technology
+spectrum of formal and vocational institutions to promote the
+education in the country; deployment of digital services across
+viii. Encourage tertiary institutions the key sectors of the country.
+to introduce/enhance courses on
+emerging technologies through the
+relevant regulatory institutions;
+ix. Support Awards of Excellence in
+Emerging Technologies to celebrate
+new innovations and innovators;
+x. Create an enabling environment
+for National Youth Corps members
+to acquire digital entrepreneurship
+37
+National Digital Economy Policy and Strategy
+Pillar #8:
+Indigenous Content Development and
+Adoption
+Situation Analysis Promotion and Adoption Pillar
+This pillar will provide a policy framework include the following:
+that gives preference to digitally skilled i To develop indigenous businesses to
+Nigerians for government funded projects become world class service providers;
+in line with the Executive Orders 003 and ii To increase public sector patronage
+005 of the administration of President of indigenous digital technology
+Muhammadu Buhari, GCFR. It will identify businesses; and
+jobs that are currently being outsourced iii To create conditions for iterative
+and support the repatriation of these jobs problem solving by indigenous digital
+to digitally skilled Nigerians. technology and Innovation service
+38
+providers.
+Promoting and adopting indigenous
+content will enable Nigeria to benefit from Implementation Strategies
+the increasingly global digital technology Some of the implementation strategies
+market. It will also help to conserve for Indigenous Content Promotion and
+foreign exchange for the country and Adoption are listed below.
+boost exports. The activities in this pillar
+will ensure that “Made in Nigeria” digital The Government will:
+economy products are of globally accepted i. Increase the patronage of digital
+quality. startups, enabling them to access a
+minimum percentage of government
+The pillar will also seek to make Nigeria a funded jobs;
+global outsourcing destination for digital ii. Support the creation of an impact
+jobs. The implementation of strategies sourcing business process outsourcing
+within this pillar will also actively pursue (BPO) model, where digital jobs
+the Impact sourcing business process are deliberately outsourced to
+outsourcing (BPO) model, where digital economically disadvantaged areas
+jobs are deliberately outsourced to in order to improve their economic
+economically disadvantaged areas in order conditions;
+to improve their economic conditions. iii. Conduct a study on the types of
+digital jobs that are currently being
+Policy Objectives outsourced in the telecom, banking,
+The objectives of the Indigenous Content oil and other sectors with a view to
+National Digital Economy Policy and Strategy
+developing a strategy and a policy ix. Facilitate partnerships with
+environment that supports their multinationals operating in Nigeria
+repatriation; to create platforms for Indigenous
+iv. Ensure compliance with Regulatory Vendors to serve global markets ; and
+Guidelines for Nigerian Content; x. Ensure strategic partnerships with
+v. Highlight and promote indigenous relevant regulatory agencies to create
+capacities in digital technologies; joint efforts to promote indigenous
+vi. Support the development of funding content.
+mechanisms and engagement
+of funding stakeholders to drive
+investments for the expansion
+of indigenous digital technology
+businesses;
+vii. Provide technical support for Original
+Equipment Manufacturers (OEMs);
+viii. Properly scrutinize and monitor every
+government funded ICT project with
+a view to ensuring compliance with
+local content guidelines;
+39
+National Digital Economy Policy and Strategy
+Key Institutions Needed for the Success of
+the Digital Economy
+All individuals and institutions that have Social Development
+a role to play in the implementation of the 17. Federal Ministry of Youth
+Policy and Strategy. For example: 18. Federal Ministry of Labour and
+1. Federal Ministry of Communications Productivity
+and Digital Economy 19. Federal Ministry of Women Affairs
+2. Nigerian Communications Commision 20. The National Assembly (Leadership
+3. National Information Technology and Applicable Committees)
+Development Agency 21. Nigerian Governors Forum
+4. Galaxy Backbone Plc 22. Diaspora Commission
+5. Nigerian Communications Satellite 23. National Office for Technology
+Ltd Acquisition and Promotion
+40
+6. Nigerian Postal Service 24. Bureau for Public Procurement
+7. Universal Service Provision Fund 25. Nigeria Financial Intelligence Unit
+8. Federal Ministry of Finance, Budget 26. Nigeria Computer Society
+and Planning 27. Computer Professionals (Registration
+9. Federal Ministry of Education Council of Nigeria)
+10. The 36 States of the Federation and 28. Association of Telecommunications
+the Federal Capital Territory Companies of Nigeria
+11. Central Bank of Nigeria 29. Association of Licensed Telecom
+12. Ministry of Petroleum Operators of Nigeria
+13. Federal Ministry of Science and 30. National Identity Management
+Technology Commission
+14. Federal Ministry of Agriculture and 31. Media Houses
+Rural Development 32. 774 Local Government Areas of the
+15. Federal Ministries of Defence, Interior Federation
+and Police Affairs
+16. Federal Ministry of Humanitarian
+Affairs, Disaster Management and
+National Digital Economy Policy and Strategy
+41

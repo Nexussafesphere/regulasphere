@@ -1,0 +1,1791 @@
+OPERATIONS CHECKLISTS 2022
+Corporate Affairs Commission
+Operations Checklists
+2022
+Contents
+INTRODUCTION .......................................................................................................................................................... 4
+SERVICES OFFERED BY THE COMMISSION ................................................................................................................... 5
+NOTES ........................................................................................................................................................................ 9
+RESTRICTED NAMES (SECTION 852 (1) (A), (B), (D) & (2)) ...........................................................................................11
+PROHIBITED NAMES (SECTION 852 (1) (C), (E), (F) & (G)) ...........................................................................................12
+INCORPORATION OF COMPANIES ..............................................................................................................................14
+GENERAL REQUIREMENTS ........................................................................................................................................... 14
+PRESCRIBED MINIMUM SHARE CAPITAL FOR DESIGNATED COMPANIES ...................................................................17
+POST-INCORPORATION APPLICATIONS OF COMPANIES ............................................................................................21
+GENERAL REQUIREMENTS ........................................................................................................................................... 23
+REQUIREMENTS FOR FILING ......................................................................................................................................... 24
+1. CHANGE OF NAME (Sections 30 (3) 31 (1) & 50 (1), CAMA) ........................................................................ 24
+2. ALTERATION OF MEMORANDUM & ARTICLES OF ASSOCIATION (Sections 50 – 53, CAMA) ..................... 24
+3. RE-REGISTRATION OF A PRIVATE COMPANY AS A PUBLIC COMPANY (SECTIONS 55 – 62, CAMA) ........................ 24
+4. RE-REGISTRATION OF A PUBLIC COMPANY AS A PRIVATE LIMITED COMPANY (SECTIONS 55, 63 – 67, CAMA) .... 26
+5. RE-REGISTRATION OF A PRIVATE LIMITED COMPANY AS UNLIMITED COMPANY (SECTIONS 55, 68 – 70, CAMA) 26
+6. RE-REGISTRATION OF UNLIMITED COMPANY AS A PRIVATE LIMITED COMPANY (SECTIONS 55, 71 – 74, CAMA) 27
+7. RE-REGISTRATION OF A PUBLIC COMPANY AS UNLIMITED COMPANY (SECTIONS 55, 75 – 77, CAMA) ................ 28
+8. NOTICE OF PERSONS WITH SIGNIFICANT CONTROL OR CHANGES THEREIN (SECTIONS. 119 & 121, CAMA) ..... 28
+9. INCREASE IN ISSUED SHARE CAPITAL (Section 127, CAMA) ........................................................................ 29
+10. REDUCTION IN ISSUED SHARE CAPITAL (Section 131, CAMA) .................................................................... 29
+11. RETURN OF ALLOTMENT (Section 154, CAMA)........................................................................................ 29
+12. CHARGES & UPSTAMPING (Sections 222 & 227, CAMA) ......................................................................... 30
+13. SUPPLEMENTAL DEED .................................................................................................................................. 30
+14. DEED OF VARIATION .................................................................................................................................... 30
+15. MEMORANDUM OF PLEDGE/HYPOTHECATION .......................................................................................... 30
+16. DEED OF RELEASE/SATISFACTION (Section 229, CAMA) ............................................................................. 30
+17. APPOINTMENT OF TRUSTEES (Section 211 (1) & (6)) .................................................................................. 30
+18. NOTICE OF CHANGE OF DIRECTORS OR IN THEIR PARTICULARS (Section 292, CAMA) .............................. 31
+19. NOTICE OF APPOINTMENT AND PARTICULARS OF COMPANY SECRETARY OR CHANGES THEREIN (Section
+339, CAMA) ............................................................................................................................................................... 31
+20. ANNUAL RETURNS (Sections 370 – 377, CAMA) .......................................................................................... 31
+21. NOTICE OF CHANGE IN REGISTERED OR HEAD OFFICE ADDRESS (Section 728, CAMA) ............................. 32
+22. CERTIFIED EXTRACTS OF CERTIFICATE (Section 861 (2), CAMA) ................................................................. 32
+23. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (Section 861 (2), CAMA) .................................................... 32
+24. MISCELLENOUS APPLICATIONS .................................................................................................................... 32
+25. RESERVATION CODE FOR THE WORD “GROUP” (SECTION 852 (2) (D)) ............................................................... 32
+26. RESERVATION CODE FOR THE WORD “HOLDING” (SECTION 852 (2) (D)) ........................................................... 32
+27. RESERVATION CODE FOR THE WORD “CONSORTIUM” .................................................................................... 32
+28. ENTERING CAVEAT ON FILE .............................................................................................................................. 33
+29. NOTICE OF APPOINTMENT OF RECEIVER/MANAGER (SS. 206 & 555, CAMA) .......................................................... 33
+30. RETURNS/ABSTRACT BY RECEIVER/MANAGER (SS. 559, 560 & 561, CAMA) ................................................... 33
+31. NOTICE OF APPOINTMENT AS NOMINEE/SUPERVISOR (S. 434, CAMA) ............................................................ 34
+32. NOTICE OF APPOINTMENT AS ADMINISTRATOR (S. 455, CAMA) ...................................................................... 34
+33. NOTICE OF CESSATION TO ACT AS NOMINEE/SUPERVISOR (S. 434, CAMA) ...................................................... 34
+34. NOTICE OF CESSATION TO ACT AS ADMINISTRATOR (SS. 513, 517,518,519, 523 – 535, CAMA) ........................ 34
+35. WINDING-UP BY COURT (SS. 564, 571, 578, 579, 592, 601, 617 & 654, CAMA) ................................................. 35
+Page 1 of 68
+36. MEMBERS’ VOLUNTARY WINDING-UP (SS. 564, 620 – 633 & 654, CAMA) ........................................................ 35
+37. CREDITORS’ VOLUNTARY WINDING-UP (SS. 564, 634 – 641 & 654, CAMA) ....................................................... 37
+38. NOTICE OF MERGER (S. 711, CAMA) ........................................................................................................................ 38
+39. APPLICATION FOR STRIKING OFF BY COMPANY (S. 692, CAMA)........................................................................ 38
+INCORPORATION OF LIMITED LIABILITY PARTNERSHIPS ............................................................................................41
+GENERAL REQUIREMENTS ............................................................................................................................................ 41
+POST-INCORPORATION APPLICATIONS OF LIMITED LIABILITY PARTNERSHIPS ...........................................................43
+POST-INCORPORATION SERVICES ................................................................................................................................. 43
+REQUIREMENTS FOR FILING ......................................................................................................................................... 44
+1. NOTICE OF CHANGE IN REGISTERED ADDRESS (SECTION 755, CAMA)................................................................. 44
+2. CHANGE OF NAME (SECTION 758, CAMA) ........................................................................................................... 44
+3. NOTICE OF CHANGE IN PARTNERS OR THEIR PARTICULARS (SECTION 764, CAMA)................................................. 44
+4. NOTICE OF CHANGE IN PARTNERSHIP AGREEMENT (SECTION 762 (2)), CAMA) ...................................................... 44
+5. NOTICE OF PERSONS WITH SIGNIFICANT CONTROL (SECTION 791, CAMA) ............................................................ 45
+6. ANNUAL RETURN (SECTION 773, CAMA) ................................................................................................................. 45
+7. LETTER OF GOOD STANDING ................................................................................................................................. 45
+8. STATUS REPORT .................................................................................................................................................... 45
+9. CERTIFIED EXTRACTS OF CERTIFICATE (SECTION 861, CAMA) ............................................................................... 45
+10. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (SECTION 861, CAMA) ............................................................... 45
+11. MISCELLENOUS APPLICATIONS ........................................................................................................................ 45
+REGISTRATION OF LIMITED PARTNERSHIPS ...............................................................................................................47
+GENERAL REQUIREMENTS ............................................................................................................................................ 47
+POST-REGISTRATION APPLICATIONS OF LIMITED PARTNERSHIPS ..............................................................................49
+POST-REGISTRATION SERVICES ..................................................................................................................................... 49
+1. NOTICE OF CHANGE IN PRINCIPAL PLACE OF BUSINESS (FORM CAC/LP 02) – SECTION 800, CAMA ...................... 50
+2. NOTICE OF CHANGE IN THE NAME OF LP (FORM CAC/LP 03) – SECTION 807, CAMA ............................................ 50
+3. ANNUAL RETURNS (Ss. 773 & 807, CAMA) ....................................................................................................... 50
+A) DULY COMPLETED ONLINE FORM ................................................................................................................................... 50
+B) FINANCIAL STATEMENT SIGNED IN ACCORDANCE WITH SECTION 822 (3), CAMA ................................................................... 50
+4. NOTICE OF CHANGE IN PARTNERS OR THEIR PARTICULARS (FORM CAC/LP 05) – SECTION 764 & 800, CAMA ..... 50
+5. NOTICE OF CHANGE IN GENERAL NATURE OF BUSINESS (FORM CAC/LP 06) – SECTION 800 ................................ 51
+6. NOTICE OF CHANGE IN LP PARTNERSHIP AGREEMENT – SECTION 800, CAMA ..................................................... 51
+ONLINE PARTNERSHIP AGREEMENT REFLECTING CHANGES ......................................................................................................... 51
+7. NOTICE OF NOTICE OF CHANGE IN SUM CONTRIBUTED OR TO BE CONTRIBUTED BY A PARTNER – SECTION 800,
+CAMA ............................................................................................................................................................................ 51
+DULY COMPLETED ONLINE FORM ........................................................................................................................................... 51
+8. NOTICE OF CHANGE IN LIABILITY OF A PARTNER – SECTION 800, CAMA ............................................................... 51
+REQUIREMENTS ................................................................................................................................................................ 51
+11. CERTIFIED EXTRACTS OF CERTIFICATE (Section 861, CAMA) ........................................................................ 52
+12. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (Section 861, CAMA) ........................................................... 52
+13. MISCELLENOUS APPLICATIONS ..................................................................................................................... 52
+REGISTRATION OF BUSINESS NAMES (SECTIONS 814 – 816, CAMA) ..........................................................................54
+GENERAL REQUIREMENTS ........................................................................................................................................... 54
+POST-REGISTRATION APPLICATIONS OF BUSINESS NAMES .......................................................................................56
+POST-REGISTRATION SERVICES ..................................................................................................................................... 56
+GENERAL REQUIREMENTS ............................................................................................................................................ 57
+REQUIREMENTS FOR FILING ......................................................................................................................................... 58
+Page 2 of 68
+1. CHANGE IN PRINCIPAL PLACE OF BUSINESS/BRANCH ADDRESS (S. 818, CAMA) ................................................... 58
+2. CHANGE OF BUSINESS NAME (S. 818, CAMA)........................................................................................................ 58
+3. CHANGE IN OBJECTS OF BUSINESS NAME (S. 818, CAMA) ..................................................................................... 58
+4. CHANGE/CORRECTION IN PARTICULARS OF PROPRIETOR/PARTNERS (S. 818, CAMA) ......................................... 58
+5. NOTICE OF REMOVAL OR ADDITION OF PARTNER (S. 818, CAMA) ........................................................................ 58
+6. ANNUAL RETURNS (S. 822, CAMA) ................................................................................................................... 59
+7. CERTIFIED EXTRACT OF CERTIFICATE (S. 861, CAMA) ............................................................................................ 59
+8. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (S. 861, CAMA) .............................................................................. 59
+9. NOTICE OF CESSATION OF BUSINESS (S. 819, CAMA) ............................................................................................ 59
+INCORPORATION OF TRUSTEES ....................................................................................................................................61
+GENERAL REQUIREMENTS ............................................................................................................................................ 61
+POST-INCORPORATION OF TRUSTEES ........................................................................................................................63
+POST-INCORPORATION SERVICES ................................................................................................................................. 63
+GENERAL REQUIREMENTS ............................................................................................................................................ 64
+1. CHANGE OF NAME (SECTION 832, CAMA) ........................................................................................................... 65
+2. CHANGE OF OBJECTS (SECTION 832, CAMA) ....................................................................................................... 65
+3. REPLACEMENT OR ADDITION OF TRUSTEES (SECTION 834, CAMA) .................................................................... 65
+4. CHANGE/CORRECTION IN PARTICULARS OF TRUSTEES..................................................................................... 66
+5. CHANGE OF CHAIRMAN OR SECRETARY ............................................................................................................ 66
+6. ANNUAL RETURNS (SECTION 845, CAMA) ........................................................................................................... 67
+7. BI-ANNUAL STATEMENT OF AFFAIRS ................................................................................................................ 67
+8. MERGER OF ASSOCIATIONS .............................................................................................................................. 67
+9. ALTERATION OF CONSTITUTION (SECTION 832, CAMA) ...................................................................................... 67
+10. CERTIFIED EXTRACTS OF CERTICATE (SECTION 861, CAMA) ................................................................................ 68
+11. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (SECTION 861, CAMA) ................................................................ 68
+12. CORRECTION OF CERTIFICATE ........................................................................................................................... 68
+13. DISSOLUTION OF INCORPORATED TRUSTEES (SECTION 850, CAMA) .................................................................. 68
+Page 3 of 68
+INTRODUCTION
+The Corporate Affairs Commission was originally established by the Companies and
+Allied Matters Act, 1990. The Act was repealed and a new Companies and Allied
+Matters Act (CAMA) enacted in 2020. The new legislation saved all actions undertaken
+under the repealed legislation including the establishment of the Commission.
+The Corporate Affairs Commission is the Agency of Government charged with the
+administration of the Act, including the registration, regulation and supervision of –
+(i) the formation, incorporation, management, striking off and winding-up of
+companies, limited liability partnerships and limited partnerships;
+(ii) registration, management and removal of business names from the register, and
+(iii) formation, incorporation, management and dissolution of incorporated trustees
+The purpose of these Operations Checklists is to provide a practice guide to accredited
+and non-accredited users of the Commission’s services in order to enhance seamless
+transactions with the Commission. The document is designed to facilitate the
+understanding of the service processes and requirements. The objective is to promote
+efficient service delivery through process standardization.
+Users of the Commission’s services should note that in addition to the requirements
+of these Operations Checklists, the Commission may, from time to time, issue and
+publish on its website, social media handles or newspapers further guidelines as
+circumstances may require to improve the Commission’s service requirements and
+customer experience.
+The Commission has its Head Office in Abuja and maintains offices in all the States of
+the Federation. Its services are available online.
+Fees for the Commission’s services are as prescribed in the Companies Regulations
+2021.
+For more information and resources, kindly visit the Commission’s website at
+https://www.cac.gov.ng
+Page 4 of 68
+SERVICES OFFERED BY THE COMMISSION
+1. Reservation of Names for Incorporation or Registration of Companies, Limited
+Liability Partnerships, Limited Partnerships, Business Names or Incorporated
+Trustees
+2. Incorporation of Companies (Limited by Shares, Limited by Guarantee or
+Unlimited)
+3. Incorporation of Limited Liability Partnerships
+4. Registration of Limited Partnerships
+5. Registration of Business Names
+6. Incorporation of Trustees
+7. Reservation Code for the Word “Group” in the Name of a Company
+8. Reservation Code for the Word “Holding” in the Name of a Company
+9. Reservation Code for the Word “Consortium” in the Name of a Company
+10. Caveat on the file of a Company
+11. Registration of Notice of Financial Year End or Changes therein
+12. Approval for and Registration of Change of Name
+13. Registration of Alteration of Memorandum and Articles of Association
+14. Re-registration of Companies
+15. Registration of Notice of Exemption of Foreign Companies
+16. Registration of Notice of Persons with Significant Control in Companies
+17. Registration of Notice of Increase in issued share capital
+18. Registration of Notice of Reduction in Issued Share Capital
+19. Registration of Return of Allotment of Shares
+20. Registration of Debentures/Charges
+21. Registration of Memorandum of Satisfaction Debenture/Charge
+22. Extension of Time to Hold Annual General Meeting (AGM)
+23. Registration of Notice of Changes in Particulars of Directors
+24. Restriction of Director’s Residential Address
+25. Registration of Notice of Appointment or Changes in Particulars of Secretaries
+26. Registration of Notice of Appointment of Supervisor, Administrator or
+Receiver/Manager
+27. Registration of Notice of Cessation to Act as Receiver/Manager, Supervisor or
+Administrator
+28. Registration of Notice of Merger of Companies
+29. Voluntary Striking-off
+30. Relisting of Company
+31. Annual Reports of Exempted Foreign Companies
+32. Registration of Notice of Change in Registered Address or Head Office of
+Companies
+Page 5 of 68
+33. Supervision of Winding-up of Companies
+34. Approval for and registration of Change in the Name of Limited Liability
+Partnership
+35. Registration of Notice of Change in Partners of Limited Liability Partnership or
+their Particulars
+36. Registration of Notice of Change in Limited Liability Partnership Agreement
+37. Registration of Notice of Persons with Significant Control in Limited Liability
+Partnership
+38. Supervision of Winding-up of Limited Liability Partnership
+39. Registration of Change in Principal Place of Business of Limited Partnership
+40. Registration of Notice of Change in the Name of Limited Partnership
+41. Registration of Notice of Change in Partners of Limited Partnership or their
+Particulars
+42. Registration of Notice of Change in General Nature of Business of Limited
+Partnership
+43. Registration of Notice of Change in Limited Partnership Agreement
+44. Registration of Notice of Change in Sum Contributed or to be Contributed by a
+Partner
+45. Registration of Notice of Change in Liability of Partner
+46. Supervision of Winding-up of Limited Partnership
+47. Registration of Change in Principal Place of Business or Branch Address of
+Business Name
+48. Approval for and Registration of Change of Business Name
+49. Registration of Notice of Change in Nature of Business
+50. Registration of Notice of Change/Correction in Particulars of
+Proprietor/Partner
+51. Registration of Notice of Removal/Addition of Partners
+52. Approval for and Registration of Change of Name of Incorporated Trustees
+53. Approval for and Registration of Change of Aims and Objects
+54. Approval for and Registration of Alteration of Constitution
+55. Approval for and Registration of Notice of Replacement or Addition of Trustees
+56. Registration of Notice of Change/Correction in Particulars of Trustees
+57. Registration of Notice of Change of Chairman/Secretary
+58. Registration of Bi-annual Statement of Affairs
+59. Approval for and Registration of Merger of Associations
+60. Correction of Errors on Certificate of Incorporation of Trustees
+61. Registration of Dissolution Order for Incorporated Trustees
+62. Annual Returns of Registered Entities
+63. Accreditation of Lawyers, Chartered Accountants and Chartered Secretaries as
+Professional Agents
+64. Accreditation of Insolvency Practitioners
+Page 6 of 68
+65. Investigation of Companies and other Registered Entities
+66. Issuance of Certified Extracts of Certificate
+67. Issuance of Certified Extracts of Filed Documents
+68. Search (online and self-service)
+69. Historical Search Report
+70. Due Diligence Search (Self-service)
+71. Issuance of Status Report/Letter of Good Standing
+72. Same Day Post-Incorporation Service
+73. Premium Post-Incorporation Service (VIP Lounge Service)
+74. Creation of Entity Electronic Account
+75. SMS Notification Alert for Every Transaction Carried Out by an Entity to All
+Officers of the Entity (Annual Subscription)
+76. Bulk Products (Access to Information not on the Public Register)
+77. DVD Directories
+78. Enforcement of Compliance with the provisions of CAMA
+Page 7 of 68
+NAMES
+Page 8 of 68
+NOTES
+1. Names shall be reserved for a period not exceeding 60 days during which period
+no other entity shall be registered under the reserved name or under any name
+which the Commission considers nearly resembles the reserved name (Section
+31 (2)).
+2. The Commission may withdraw or cancel a reserved name any time before a
+certificate of registration is issued if it discovers that such name is identical with
+that by which an entity is already registered or so nearly resembles it as to be
+likely to deceive (Section 31 (3)).
+3. The Commission may withdraw or cancel any approval for reservation of name
+if it discovers that the approval was fraudulently, unlawfully or improperly
+procured (Section 31 (5)).
+4. Where the Commission believes that misleading information has been given for
+the purpose of registration of any entity by a particular name or that an
+undertaking or assurance has been given for that purpose and has not been
+fulfilled, the Commission may, within five years of the registration, direct the
+entity to change its name (Section 855 (1)).
+5. Where the Commission is of the opinion that the name by which an entity is
+registered is misleading as to the nature of its activities as to be likely to cause
+harm to the public, the Commission may direct the entity to change its name
+(Section 856 (1)).
+6. Where a name becomes available because of change of name, the Commission
+may approve the name for use by any other entity after 60 days from the date
+of approval of such change of name (Section 31 (4)).
+7. Any foundation proposed to be registered under Part F and in the personal
+name of the benefactor(s) must state the name of the sole or principal
+benefactor fully together with surname and initials of other benefactors in the
+name of the Foundation to facilitate easy identification of the benefactor(s).
+8. Where a foundation or association proposed for registration under Part F is to
+pursue particular objective(s), the name of the foundation or association shall
+reflect its principal objective(s).
+9. Names proposed for registration of any entity may only be approved for
+registration or change of name subject to the restrictions and prohibitions
+imposed by the Act.
+Page 9 of 68
+10. Reservation code is required for names of companies limited by guarantee,
+incorporated trustees and the use of restricted words in the name of any entity
+to be registered.
+11. Reservation code is required in the case of a name that conflicts with any
+trademark or business name registered in Nigeria in addition to the written
+consent of the trademark or business name owner.
+12. The Commission may require an applicant to seek the view of a specified
+Government Department or other body in connection with an application for
+reservation of name or reservation code.
+Page 10 of 68
+RESTRICTED NAMES (Section 852 (1) (a), (b), (d) & (2))
+Restricted names are names that may only be registered upon satisfaction of certain
+conditions prescribed by the Act or Regulations made thereunder.
+Restricted names and the conditions for their approval include any name which –
+(i) is identical with the name of a registered Company or Limited Liability
+Partnership unless the Company or Limited Liability Partnership is in dissolution
+and signifies its consent in writing;
+(ii) so nearly resembles the name of registered Company or Limited Liability
+Partnership as to be calculated to deceive unless the Company or Limited
+Liability Partnership is in dissolution and signifies its consent in writing;
+(iii) contains the words “Chamber of Commerce” unless it is a Company Limited by
+Guarantee;
+(iv) in the Commission’s opinion violates or conflicts with any trademark or
+business name or body corporate registered in Nigeria unless with the written
+consent of the trademark or business name owner or trustees of the body
+corporate;
+(v) includes the word “Federal”, “National”, “Regional”, “State” or their synonyms
+or, in the opinion of the Commission, is an extension or abbreviation of any
+such word unless with the consent of the Commission;
+(vi) includes the word “Government”, “Municipal” or “Chartered" or any word
+which in the opinion of the Commission suggests or is calculated to suggest that
+it enjoys the patronage of the Federal Government, a State Government, any
+Ministry or Department of Government or connection with any municipality or
+other local authority unless with the consent of the Commission;
+(vii) contains the word “Cooperative” or “Building Society” or its equivalent in any
+other language or abbreviation unless with the consent of the Commission;
+(viii) contains the word “Group” or “Holding” or variants, synonyms or extensions of
+such word unless with the consent of the Commission.
+2. Consent shall not be required in the cases of 1 (i), (ii) and (iv) above if the name
+includes a sufficiently definitive (not generic) word or words to distinguish it from the
+registered entity in relation to scope, extent or area of operations or activities.
+Page 11 of 68
+PROHIBITED NAMES (Section 852 (1) (c), (e), (f) & (g))
+Prohibited names are names that the Commission is prohibited from approving for
+registration of any entity under the Act.
+Prohibited names include any name which, in the opinion of the Commission –
+(i) is capable of misleading as to the nature or extent of its activities;
+(ii) is undesirable, offensive or otherwise contrary to public policy;
+(iii) contains any word which is likely to mislead the public as to the nationality,
+race or religion of the person by whom the business is wholly or mainly owned
+or controlled;
+(iv) is deceptive or objectionable because it contains a reference or suggests
+association with any practice, institution, personage, foreign state or
+government, international organisation or international brand or is otherwise
+unsuitable;
+(v) is capable of undermining public peace and national security.
+Page 12 of 68
+COMPANIES
+(PART B, CAMA)
+Page 13 of 68
+INCORPORATION OF COMPANIES
+GENERAL REQUIREMENTS
+1) Shares of a company must be fully issued.
+2) Private companies (except company limited by guarantee) may be formed by
+one person.
+3) A small company may have only one director.
+4) A small company is exempted from appointing a secretary.
+5) Approval in Principle is required for certain designated business enterprises e.g.
+Banks, Mortgage Institutions, Bureau De Change, Universities, etc.
+6) A university may only be registered as a company limited by guarantee.
+7) Certain designated businesses have and must satisfy industry-prescribed
+minimum share capital (see table following for the designated businesses and
+the prescribed minimum share capital).
+8) Industry prescribed minimum share capital shall be as notified to the
+Commission and published on the websites of respective industry regulators
+from time to time.
+9) The minimum share capital for a company with foreign participation is
+N10,000,000.00 (ten million naira).
+10) Foreigners may use Nigerian addresses as service address with no requirement
+for proof of residency.
+11) Reservation code is required in cases of companies limited by guarantee and
+use of restricted words in name.
+12) Application for reservation code shall be accompanied by
+incorporation/registration particulars of the proposed company.
+13) Names of all Subscribers must be clearly and fully stated (no initials) in the
+memorandum and articles while, in the case of company limited by shares, the
+number of shares taken up by each subscriber must be indicated in front of
+their respective names in the memorandum.
+14) The memorandum of a company limited by guarantee shall not be registered
+without the authority of the Attorney-General of the Federation. However,
+where the Attorney-General does not grant authority or communicate a
+decision within 30 days of receipt of the application from the Commission, the
+promoters shall publish the application for registration in three national
+newspapers and invite objections to reach the Commission not later than 28
+days after the date of the last publication. Where there is no objection to the
+Page 14 of 68
+application or the objection is rejected, the Commission shall assent to the
+application and register the Company.
+15) The object clause of a company limited by guarantee shall not include making
+profits for distribution to the Members.
+16) The Memorandum of a company limited by guarantee shall contain the
+Winding-up Clause.
+17) The memorandum of a company limited by guarantee shall contain the
+Property Clause.
+18) The memorandum of a company limited by guarantee shall contain the
+Contribution Clause with a prescribed aggregate of not less than N100,000.00
+(one hundred thousand naira) in the event of winding up.
+19) A corporate body cannot be a Director of a company but may be represented
+by an individual nominated for that purpose e.g. Adeola Emeka Umar
+(representing ABC Nigeria Limited).
+20) A person under the age of 18 years (minor) cannot be a director;
+21) Where a resident alien (with Nigerian address) is a Director or Subscriber, proof
+of residence permit is required.
+22) A foreign company subscribing to shares in a company must show evidence of
+registration in its home country.
+23) A person below the age of 18 may only join in the formation of a company if
+two or more persons of full capacity have subscribed to the memorandum.
+24) Particulars of Subscribers, Directors and Secretary must be accompanied by
+copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card).
+25) Incorporation application and accompanying documents must comply strictly
+with the provisions of the Act and the Commission’s requirements for
+incorporation of company.
+26) Information on accompanying documents must be same with data entered on
+Company Registration Portal (CRP).
+27) All documents accompanying the application must be in English language.
+Where documents are in other language, the documents shall be translated
+into English language and confirmed by a Notary Public licenced as such in
+Nigeria or any other part of the world.
+28) Where the name of company suggests professional objects, the first object
+must reflect the profession.
+Page 15 of 68
+29) Business objects must comply with the requirements of other laws of the
+Federation with respect to the business objects.
+Page 16 of 68
+PRESCRIBED MINIMUM SHARE CAPITAL FOR DESIGNATED COMPANIES
+SN TYPE OF COMPANY MINIMUM JUSTIFICATION
+SHARE CAPITAL
+(N)
+1. ISSUING HOUSE 200 Million
+2. BROKER/DEALER 300Million
+3. TRUSTEE 300 Million
+4. FUND/PORTFOLIO MANAGER 150 Million
+5. STOCK BROKER 200 Million
+6. STOCK DEALER 100 Million
+7. CORPORATE INVESTMENT 150 Million
+ADVISER (REGISTRAR)
+8. CORPORATE INVESTMENT 5 Million
+Securities and Exchange
+Commission Guidelines
+ADVISER
+on New Minimum
+9. INDIVIDUAL INVESTMENT 2 Million
+Share Capital for
+ADVISER
+Market Operators
+10. MARKET MAKER 2 Billion
+11. CONSULTANT (PARTNERSHIP) 2 Million
+12. CONSULTANT (INDIVIDUAL) 500,000
+13. CONSULTANT (CORPORATE) 5 Million
+14. UNDERWRITER 200 Million
+15. VENTURE CAPITAL MANAGER 20 Million
+16. COMMODITIES BROKER 40 Million
+17. CAPITAL TRADE POINT 20 Million
+18. RATING AGENCY 150 Million
+19. CORPORATE/SUB BROKER 5 Million
+20. ASSET MANAGEMENT 300 Million
+(INTANGIBLE ASSETS)
+21. COMMERCIAL BANK WITH 10 Billion CBN Scope and
+REGIONAL AUTHORIZATION Standards Commercial
+22. COMMERCIAL BANK WITH 25 Billion Regulations 2020
+NATIONAL AUTHORIZATION
+Page 17 of 68
+23. COMMERCIAL BANK WITH 50 Billion
+INTERNATIONAL
+AUTHORIZATION
+24. MERCHANT BANK 15 Billion CBN Scope, Condition
+and Minimum Standard
+for Merchant Banks
+Regulation 2, 2010
+25. UNIT MICRO FINANCE BANK Tier 1: CBN Regulations
+(TIER 1) 200 Million
+26. UNIT MICRO FINANCE BANK Tier 2:
+(TIER 2) 50 Million
+27. MICRO FINANCE BANK 1 Billion
+(STATE & FCT)
+28. MICRO FINANCE BANK 5 Billion
+(NATIONAL)
+29. PRIMARY MORTGAGE 2 Billion
+INSTITUTION
+30. FINANCE COMPANY 20 Million
+31. BUREAU DE CHANGE 35 Million
+32. NON INTEREST BANK 5 Billion
+(REGIONAL)
+33. NON INTEREST BANK 10 Billion
+(NATIONAL)
+34. INSURANCE BROKER 5 Million Nigerian Council of
+Registered Insurance
+Brokers Act, 2003
+35. LIFE INSURANCE 8 Billion National Insurance
+36. GENERAL INSURANCE 10 Billion Commission Revised
+37. COMPOSITE INSURANCE 18 Billion Regulations 2019
+38. RE-INSURANCE 20 Billion
+39. UNIT MICROINSURER 40 Million Guidelines for Micro-
+insurance Operation in
+Nigeria 2018
+40. STATE MICROINSURER 100 Million Guidelines for
+Microinsurance
+Page 18 of 68
+Operation in Nigeria
+2018
+41. NATIONAL MICROINSURER 600 Million Guidelines for
+Microinsurance
+Operation in Nigeria
+2018
+42. TAKAFUL INSURANCE 200 Million National Insurance
+(GENERAL AND FAMILY Commission
+TAKAFUL) Regulations
+43. PRIVATE SECURITY 10 Million Guideline on
+COMPANY/CONSULTANT Requirements for
+Registration of Private
+Guard Security
+Companies made
+Pursuant to Nigerian
+Security and Civil
+Defence Corp Act No. 2
+of 2003
+44. PENSION FUND/ASSET 2 Billion Requirements for
+CUSTODIAN Licensing of Pension
+45. CLOSED PENSION FUND 500 Million Fund Custodians (FEB
+46. PENSION FUND 1 Billion 2005);
+ADMINISTRATOR
+Section 40 (2)(a)
+Pension Reform Act,
+2004
+47. LOTTERY 5 Million Section 2 (1), National
+Lotteries (Amendment)
+Regulation, 2007
+48. SPORTS LOTTERY 30 Million National Lottery
+Commission Circular
+49. AIR TRANSPORT 2 Billion Nigerian Civil Aviation
+(INTERNATIONAL) Authority
+50. AIR TRANSPORT (REGIONAL) 1 Billion
+51. AIR TRANSPORT (LOCAL) 500 Million
+Page 19 of 68
+52. AIR 20 Million
+AMBULANCE/FUMIGATION/
+PRIVATE JET
+53. AVIATION (GROUND 500 Million
+HANDLING SERVICES)
+54. AVIATION (AIR TRANSPORT 2 Million
+TRAINING INSTITUTIONS)
+55. AGENTS OF FOREIGN 1 Million
+AIRLINES
+56. TRAVEL/TOURS 30 Million International Air Travel
+Agency (IATA)
+57. AGRICULTURAL SEEDS, 10 Million NASA Cap 5, LFN, 2004
+PRODUCTIONS, PROCESSING,
+MARKETING
+58. SHIPPING COMPANY/AGENT 25 Million NIMASA Guidelines for
+59. CABOTAGE TRADE 25 Million Registration
+60. LIFE MICRO-INSURANCE 150 Million Guideline for Micro-
+61. GENERAL MICRO-INSURANCE 200 Million Finance Operations in
+Nigeria (NAICOM),
+December, 2013
+62. FREIGTH FORWARDING 5 Million Registration of Freight
+Forwarding Regulation
+2010
+63. PAYMENT SERVICE BANK 5 Billion
+Page 20 of 68
+POST-INCORPORATION APPLICATIONS OF COMPANIES
+POST-INCORPORATION SERVICES
+1. Notice of Financial Year End or Changes therein (Form CAC 2) – Section 377 (4),
+CAMA.
+2. Change of Company Name (Form CAC 3) – Sections 30 & 31, CAMA.
+3. Registration of Alteration of Memorandum and Articles of Association –
+sections 49 - 53, CAMA.
+4. Application for Re-registration of Companies (Form CAC 4) – Sections 55-77,
+CAMA.
+5. Directors’ Solvency Statement (Form CAC 4A) – Section 57 (5) (b), CAMA.
+6. Notice of Persons with Significant Control (Form CAC-PSC 01) – Section 119,
+CAMA.
+7. Notice of Change in Details or Shares of Persons with Significant Control (Form
+CAC-PSC 02) – Section 119, CAMA.
+8. Notice of Increase in Issued Share Capital/Return of Allotment of Shares (Form
+CAC 5) – Sections 127 and 154, CAMA.
+9. Notice of Consolidation, Sub-division, Redemption of Shares or Re-conversion
+of Shares into Stocks (Form CAC 5A) – Sections 125, 182 & 418 (2), CAMA.
+10. Notice of Reduction in Share Capital (Form CAC 5B) – Sections 131 & 134,
+CAMA.
+11. Notice of Changes in Registered and or Head Office Address (Form CAC 6) –
+Section 728, CAMA).
+12. Notice of Change in Particulars of Directors (Form CAC 7) – Section 321, CAMA.
+13. Notice of Appointment of Secretary (Form CAC 8) – Section 330, CAMA.
+14. Notice of Change in Particulars of Secretary (Form CAC 8B) – Section 330,
+CAMA.
+15. Notice of Charges (Mortgages, Debenture, Bill of Sales and other Loan
+Agreements) Form CAC 9 – Sections 222 - 225, CAMA.
+16. Notice of Upstamping of Charges – Section 227, CAMA
+17. Registration of Deed of Appointment of Trustees – Section 211 (1) & (6), CAMA.
+18. Registration of Memorandum of Pledge/Hypothecation.
+19. Registration of Deed of Variation (parties, security, supplement, etc.).
+20. Notice of Satisfaction of Charge/Deed of Release (Form CAC 10) – Section 229,
+CAMA.
+Page 21 of 68
+21. Notice of Appointment of Administrator, Receiver, Manager or Supervisor
+(Form CAC 11) – Sections 442, 455, 550, 585 & 654, CAMA.
+22. Notice of Cessation to act as Receiver, Manager, Administrator or Supervisor
+(Form CAC 12) – Sections 559(2) & 561, CAMA.
+23. Notice of Resolution for Voluntary Winding Up (Form CAC 15) – Sections 579,
+621 & 634, CAMA.
+24. Notice of Statutory Declaration of Solvency (Form CAC 14) – Section 625,
+CAMA.
+25. Notice of Appointment of Liquidator (Form CAC 16) – Sections 627, 636 & 654,
+CAMA.
+26. Notice of Return of Final Meeting (Form CAC 17) – Section 631 & 641, CAMA.
+27. Application for Striking off by a Company (Form CAC 13) – Section 692, CAMA.
+28. Form of Statement of Affairs (Fourteenth Schedule) Form CAC 18 – Section 733,
+CAMA.
+29. Annual Returns (Forms CAC 19) – Sections 417-424, CAMA.
+30. Extension of Time to hold Annual General Meeting (Form CAC 20) – Section 237,
+CAMA.
+31. Notice of Exemption of Foreign Company (Form CAC 21) – Section 80(7), CAMA.
+32. Annual Report of Exempted Foreign Company (Form CAC 22) – Section 81,
+CAMA.
+33. Application for Accreditation of Professional/Agent (Form CAC-MISC 01)
+34. Application for Accreditation of Insolvency Practitioner (Form CAC-MISC 02) –
+Section 705, CAMA.
+35. Application for Creation of Entity Electronic Account (Form CAC-MISC 03) –
+Section 101, CAMA.
+36. Application for Reservation Code for the Word “Group” in the Name of a
+Company
+37. Application for Reservation Code for the Word “Holding” in the Name of a
+Company
+38. Application for Reservation Code for the Word “Consortium” in the Name of a
+Company
+39. Application for Caveat on the file of a Company
+40. Application for Certified Extracts of Certificate – Section 861, CAMA.
+41. Application for Certified Extracts of other Documents – Section 861, CAMA.
+42. Miscellaneous Applications.
+Page 22 of 68
+GENERAL REQUIREMENTS
+1) Only Special Resolutions (or resolutions statutorily required for filing) or
+Written Resolutions in lieu are required to be uploaded.
+2) Resolutions may either be Written Resolutions or Special Resolutions passed at
+Annual General Meeting or Extra-ordinary General Meeting.
+3) Written Resolutions of Members can only be passed by private companies.
+4) Written Resolution of Members must be signed by all Shareholders entitled to
+attend and vote at general meeting.
+5) Resolutions passed at Board or General Meetings must be duly dated and
+signed by the Director (in the case of a company with only one Director), two
+Directors, a Director and Secretary or any person authorised by majority of the
+Directors (in any other case).
+6) Where an address is required in any document, it shall be adequate if such
+address is described in sufficient particulars as to make it traceable.
+7) Where an alien is a Director or Shareholder and discloses a local residential
+address, photocopy of national identity card issued by the Nigerian National
+Identity Management Commission (NIMC) or residence permit must be
+furnished.
+8) Particulars of Subscribers, Shareholders, Directors and Secretary must be
+accompanied by copy of recognised and valid means of photo identification (i.e.
+National Identification Card, Data Page of International Passport, Driver’s
+Licence or Voter’s Card).
+9) A corporate body cannot be a Director of a company but may be represented
+by an individual nominated for that purpose, e.g. Adeola Emeka Umar
+(representing ABC Nigeria Limited).
+10) All accompanying documents must be typed, clean and free of errors. No
+cancellations, alterations, mutilations, defacing is allowed on applications and
+accompanying documents.
+11) Where applicable, Approval-in-Principle from primary regulators is required for
+entities under their respective regulations.
+12) Small and single shareholder companies are exempted from holding Annual
+General Meetings.
+13) Small companies are exempted from filing of audited financial statements.
+Page 23 of 68
+REQUIREMENTS FOR FILING
+1. CHANGE OF NAME (Sections 30 (3) 31 (1) & 50 (1), CAMA)
+Requirement
+a) Special resolution for change of name
+b) Stamped memorandum and articles of association of the company reflecting the
+new name
+2. ALTERATION OF MEMORANDUM & ARTICLES OF ASSOCIATION (Sections 50 – 53,
+CAMA)
+Requirements
+a) Special Resolution stating the altered clause(s)
+b) Stamped memorandum and articles of association of the company reflecting
+the alteration
+c) Certified true copy of Court order where applicable
+Notes:
+i. Particulars of the subscribers to the memorandum and articles of association
+should not be altered
+ii. It is sufficient to print “SIGNED” in the signature column opposite the names of
+the subscribers in the proposed altered memorandum and articles of
+association
+iii. Any object(s) to be altered should comply with the industry prescribed
+minimum share capital
+iv. In the case of alteration of objects, application should be filed within 15 days
+after the 28 days allowed for application to Court for cancellation of resolution
+v. Where there is application to Court and the resolution for alteration of objects
+is sanctioned by Court, CTC of the Court order together with stamped copy of
+memorandum and articles of association should be filed within 15 days of the
+Court order
+3. RE-REGISTRATION OF A PRIVATE COMPANY AS A PUBLIC COMPANY (Sections 55
+– 62, CAMA)
+Requirements
+a) Special resolution for re-registration as a public company
+Page 24 of 68
+b) Stamped copy of memorandum and articles of association reflecting changes to
+the company’s name and other provisions necessary to comply with the
+requirements for a public company
+c) In the case of an unlimited company, stamped copy of the memorandum and
+articles of association reflecting changes necessary to comply with the
+requirements of a company limited by shares
+d) Balance sheet as at a date not later than seven months before filing of
+application for re-registration
+e) Unqualified report on the balance sheet by the company’s auditor in accordance
+with section 58 (3)
+f) Written statement of the company’s auditor that, in his opinion at the time of
+the balance sheet, the amount of the company’s net asset was not less than the
+aggregate of its called-up share capital and undistributable reserves as provided
+in accordance with section 58 (6) & (7)
+g) Valuation report if company’s allotted shares are paid for other than by cash
+Notes:
+1. As at the time of passing resolution for re-registration as a public company –
+i. the nominal value of the company’s allotted shares shall not be less than
+the minimum prescribed under section 27 (2);
+ii. at least 25% of the company’s allotted shares (including any premium on it)
+shall be paid-up provided that shares allotted in pursuance of an employee
+share scheme (to a maximum of 10% of the nominal value of the company’s
+allotted shares) shall be precluded in determining 25% of the company’s
+allotted shares;
+iii. where shares have been paid for (fully or in part) by an undertaking to work
+or perform service, the undertaking shall have been performed or
+discharged; and
+iv. where shares have been allotted as paid-up together with any premium on
+it (fully or in part) by some other undertaking than to work or perform
+service, the undertaking must have been performed/discharged or there
+shall be a contract between the company and some person for the
+performance of the contract within five years after the resolution is passed.
+2. Where shares are allotted as paid for other than by cash (fully or in part)
+between the date of the balance sheet and the date of the resolution for re-
+Page 25 of 68
+registration, it shall comply with the requirements of section 57 unless it is in
+connection with –
+i. a share exchange as described in section 59 (3) – (5); or
+ii. a proposed merger with another company as described in section 59 (6).
+4. RE-REGISTRATION OF A PUBLIC COMPANY AS A PRIVATE LIMITED COMPANY
+(Sections 55, 63 – 67, CAMA)
+Requirements
+a) Special resolution for re-registration as a private limited company
+b) CTC of Court order confirming the resolution for re-registration (where
+applicable)
+c) Stamped copy of the amended memorandum and articles of association
+reflecting changes to the company name and other provisions necessary to
+comply with the requirements for a private limited company
+Notes:
+1. Special resolution for re-registration shall be filed within 15 days after the 28 days
+allowed for application to the Court by shareholders or members of the company
+for cancellation of the resolution for re-registration.
+2. The 28 days allowed for application to Court for cancellation of the resolution for
+re-registration may be dispensed with where –
+i. having regard to the number of members who consented to or voted in favour
+of the resolution, no such application may be made,
+ii. the application has been withdrawn, or
+iii. an order has been made confirming the resolution and a copy of the order has
+been delivered to the Commission.
+3. Where application is made to the Court for cancellation of the resolution for re-
+registration, applicant shall immediately give notice of such application to the
+Commission.
+4. On being served notice of such application to the Court, the company shall
+immediately give notice to the Commission.
+5. RE-REGISTRATION OF A PRIVATE LIMITED COMPANY AS UNLIMITED COMPANY
+(Sections 55, 68 – 70, CAMA)
+Requirements
+Page 26 of 68
+a) Form of assent authenticated by all members of the company or on their behalf
+for re-registration as an unlimited company.
+b) Stamped copy of memorandum and articles of association reflecting changes to
+the company’s name and other provisions necessary to comply with the
+requirements for an unlimited company.
+c) If the company is to have a share capital, stamped copy of the memorandum and
+articles of association reflecting changes necessary to comply with the
+requirements of an unlimited company having a share capital.`
+d) Statement by the Directors that the persons by whom or on whose behalf the
+form of assent is authenticated constitute the whole membership of the
+company and that all reasonable steps were taken by the Directors to satisfy
+themselves that each person who authenticated the form of assent on behalf of
+a member was lawfully empowered to do so.
+Notes:
+A company shall not be re-registered as unlimited company if it had previously been
+re-registered as limited
+6. RE-REGISTRATION OF UNLIMITED COMPANY AS A PRIVATE LIMITED COMPANY
+(Sections 55, 71 – 74, CAMA)
+Requirements
+a) Special resolution for re-registration as a private limited company
+b) Stamped copy of memorandum and articles of association reflecting changes to
+the company’s name and other provisions necessary to comply with the
+requirements for a private company limited by shares or by guarantee, as the
+case may be
+c) If the company is to be limited by guarantee, a statement of guarantee
+Notes:
+1. A company shall not be re-registered as a private limited company if it had
+previously been re-registered as an unlimited company
+2. The special resolution shall state whether the company is to be limited by shares
+or by guarantee
+3. The statement of guarantee shall contain the contribution/subscription clause
+in the event that the company is being wound up
+Page 27 of 68
+4. Where a company on re-registration has already allotted its share capital, it
+shall within 15 days after the re-registration file with the Commission a
+statement of capital stating as on the date of re-registration of the company:
+i. the total number of shares of the company
+ii. the aggregate nominal value of those shares
+iii. for each class of shares –
+ prescribed particulars of the rights attached to the shares,
+ the total number of shares of that class, and
+ the aggregate nominal value of shares of that class; and
+iv. the amount paid-up and unpaid (if any) on each share (nominal value or by
+way of premium)
+7. RE-REGISTRATION OF A PUBLIC COMPANY AS UNLIMITED COMPANY (Sections
+55, 75 – 77, CAMA)
+Requirements
+a) Form of Assent authenticated by all members of the company or on their behalf
+for re-registration as an unlimited company
+b) Stamped copy of memorandum and articles of association reflecting changes to
+the company’s name and other provisions necessary to comply with the
+requirements for an unlimited company
+Note:
+A company shall not be re-registered as unlimited company if it had previously been
+re-registered as limited or unlimited
+8. NOTICE OF PERSONS WITH SIGNIFICANT CONTROL OR CHANGES THEREIN
+(Sections. 119 & 121, CAMA)
+Requirement
+Copy of valid means of photo identification in case of non-directors, non-members
+Notes:
+Person with Significant Control” means any person:
+1. Directly or indirectly holding at least 5% of the shares or interest in a company or
+limited liability partnership;
+Page 28 of 68
+2. Directly or indirectly holding at least 5% of the voting rights in a company or
+limited liability partnership;
+3. Directly or indirectly holding the right to appoint or remove a majority of the
+directors or partners in a company or limited liability partnership;
+4. Otherwise having the right to exercise or actually exercising significant influence
+or control over a company or limited liability partnership; or
+5. Having the right to exercise, or actually exercising significant influence or control
+over the activities of a trust or firm whether or not it is a legal entity, but would
+itself satisfy any of the first four conditions if it were an individual.
+9. INCREASE IN ISSUED SHARE CAPITAL (Section 127, CAMA)
+Requirement
+a) Online application duly completed and stamp duty duly paid
+b) Resolution for increase in issued share capital
+Notes:
+Where a company increases its share capital, it shall amend its memorandum and
+articles of association to reflect the new issued share capital
+10. REDUCTION IN ISSUED SHARE CAPITAL (Section 131, CAMA)
+Requirements
+a) Special resolution for reduction in issued share capital
+b) Certified true copy of Court order specifying the Reduction in Share Capital
+c) Copy of minutes of the meeting of the company authorizing the reduction in
+share capital
+d) Addition of the words “and reduced” to company name if so ordered by Court
+e) Evidence of publication of notice of reduction of share capital if so directed by
+Court
+11. RETURN OF ALLOTMENT (Section 154, CAMA)
+Requirements
+a) Copy of recognised and valid means of photo identification for allottees (i.e.
+National Identification Card, Data Page of International Passport, Driver’s
+Licence or Voter’s Card)
+b) Evidence of registration for foreign company
+Page 29 of 68
+c) Evidence of valuation of consideration for shares issued other than for cash
+(applicable to public companies only)
+d) Resolution of Company accepting the surrender of shares
+12. CHARGES & UPSTAMPING (Sections 222 & 227, CAMA)
+Requirements
+a) Copy of instrument creating the charge
+b) Copy of Certificate of existing charge, in case of up stamping (optional)
+c) Copy of court order for extension of time to register
+13. SUPPLEMENTAL DEED
+Requirements
+a) Stamped and duly executed Supplemental Deed
+b) Evidence of registration of principal deed (optional)
+14. DEED OF VARIATION
+Requirements
+a) Stamped and duly executed Deed of Variation
+b) Evidence of registration of principal deed (optional)
+15. MEMORANDUM OF PLEDGE/HYPOTHECATION
+Requirements
+a) Stamped and duly executed Memorandum of Pledge/Hypothecation dated and
+signed
+b) Evidence of registration of charge
+16. DEED OF RELEASE/SATISFACTION (Section 229, CAMA)
+Requirements
+a) Stamped Deed of Release duly executed
+b) Evidence of registration of principal deed (optional)
+17. APPOINTMENT OF TRUSTEES (Section 211 (1) & (6))
+Requirements
+a) Stamped Deed of Appointment of Trustees
+b) Evidence of registration of debenture(s) (optional)
+Page 30 of 68
+18. NOTICE OF CHANGE OF DIRECTORS OR IN THEIR PARTICULARS (Section 292,
+CAMA)
+Requirements
+a) Residence permit for non-Nigerian directors who are resident in Nigeria
+b) Copy of recognised and valid means of photo identification for new director (i.e.
+National Identification Card, Data Page of International Passport, Driver’s
+Licence or Voter’s Card)
+Note:
+1. A person who is less than 18 years cannot be a director.
+2. Notice of appointment or removal of directors shall be filed within 14 days of the
+appointment or removal. Kindly refer to other grounds of disqualification under
+section 283 of CAMA.
+19. NOTICE OF APPOINTMENT AND PARTICULARS OF COMPANY SECRETARY OR
+CHANGES THEREIN (Section 339, CAMA)
+Requirements
+a) Consent of Secretary
+b) Copy of recognised and valid means of photo identification for secretary who is
+an individual (i.e. National Identification Card, Data Page of International
+Passport, Driver’s Licence or Voter’s Card)
+c) Particulars of registration for corporate secretary
+20. ANNUAL RETURNS (Sections 370 – 377, CAMA)
+Requirement
+Audited financial statement signed by two directors and duly certified by both a
+director and secretary as true copy
+Note:
+1. Small companies may file certificates as prescribed in section 423, CAMA in lieu
+of audited financial statements.
+2. A private company shall send with the annual return a certificate signed by a
+Director and the Secretary in compliance with section 423, CAMA.
+Page 31 of 68
+21. NOTICE OF CHANGE IN REGISTERED OR HEAD OFFICE ADDRESS (Section 728,
+CAMA)
+Requirement
+Duly completed online form.
+22. CERTIFIED EXTRACTS OF CERTIFICATE (Section 861 (2), CAMA)
+Requirements
+a) Application letter
+b) Affidavit of loss or fact duly sworn to by a Director or Secretary of the company
+duly stamped by Notary Public or Commissioner for Oaths
+23. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (Section 861 (2), CAMA)
+Requirement
+Payment of prescribed fee
+24. MISCELLENOUS APPLICATIONS
+Requirements
+a) Formal application
+b) Documents for filing
+c) Affidavits where applicable
+d) Copy of recognised and valid means of photo identification where applicable
+25. RESERVATION CODE FOR THE WORD “GROUP” (Section 852 (2) (d))
+Requirements
+a) Evidence of three or more associate companies
+b) Evidence of common membership of the associates companies
+c) Draft Memorandum and Articles of Association
+26. RESERVATION CODE FOR THE WORD “HOLDING” (Section 852 (2) (d))
+Requirements
+a) Evidence of two or more subsidiary companies
+b) Draft Memorandum and Articles of Association
+27. RESERVATION CODE FOR THE WORD “CONSORTIUM”
+Requirements
+a) Evidence of three or more companies forming the consortium
+Page 32 of 68
+b) Draft Memorandum and Articles of Association
+28. ENTERING CAVEAT ON FILE
+Requirements
+a) Formal application for Caveat
+b) Satisfaction of one or more of the following conditions
+Conditions
+1. Where the outcome of a pending matter involving the company may affect the
+interest of the parties;
+2. Where there is an infraction of the provisions of the Companies and Allied
+Matters Act;
+3. Where a company is under investigation;
+4. Where there are verifiable complaints by holder(s) of at least 25% shares in a
+company;
+5. Such other conditions as the Commission may determine from time to time.
+29. NOTICE OF APPOINTMENT OF RECEIVER/MANAGER (Ss. 206 & 555, CAMA)
+Requirements
+a) Instrument of appointment
+b) In the case of appointment by Court, copy of notice of appointment as
+published in the Gazette and in two daily newspapers
+c) Copy of recognised and valid means of photo identification for
+Receiver/Manager (i.e. National Identification Card, Data Page of International
+Passport, Driver’s Licence or Voter’s Card)
+30. RETURNS/ABSTRACT BY RECEIVER/MANAGER (Ss. 559, 560 & 561, CAMA)
+Requirements
+Abstract by the receiver/manager showing –
+a) In the case of Receiver/Manager appointed by Court on behalf of holders of
+debenture of the company secured by floating charge:
+ Within two months after receipt, the statement of affairs of the company
+received from the company and made in accordance with the provisions of
+section 560, CAMA and his comments on the statement, if any.
+ Within two months after every twelve-month period of his appointment
+and when he ceases to act as Receiver/Manager, abstract showing his
+Page 33 of 68
+receipts and payments during each period or, where he ceases to act,
+between the date of the last abstract and the date of his so ceasing to act,
+and the aggregate amounts of his receipts and payment during all preceding
+periods since his appointment.
+b) In the case of Receiver/Manager appointed under powers contained in any
+instrument:
+ Within one month after every six-month period of his appointment and
+when he ceases to act as Receiver/Manager, abstract showing his receipts
+and payments during each period or, where he ceases to act, between the
+date of the last abstract and the date of his so ceasing to act, and the
+aggregate amounts of his receipts and payment during all preceding periods
+since his appointment.
+31. NOTICE OF APPOINTMENT AS NOMINEE/SUPERVISOR (S. 434, CAMA)
+Requirements
+a) Instrument of appointment
+b) Consent letter
+c) Evidence of Accreditation as Insolvency Practitioner
+d) Scheme of Voluntary Arrangement
+32. NOTICE OF APPOINTMENT AS ADMINISTRATOR (S. 455, CAMA)
+Requirements
+a) Instrument of appointment
+b) Statutory Declaration
+c) Evidence of Accreditation as Insolvency Practitioner
+33. NOTICE OF CESSATION TO ACT AS NOMINEE/SUPERVISOR (S. 434, CAMA)
+Requirements
+Instrument of discharge (Court order or notice of termination)
+34. NOTICE OF CESSATION TO ACT AS ADMINISTRATOR (Ss. 513, 517,518,519, 523
+– 535, CAMA)
+Requirements
+Instrument of discharge (Court order or notice of termination)
+Note:
+Page 34 of 68
+1. The term of office of an administrator terminates after one year from the
+effective date of his appointment unless extended by an order of the Court or
+by consent.
+2. In the case of an extension by an order of the Court, the extension shall be the
+period specified in the order.
+3. In the case of consent, the extension shall be for a period not exceeding six
+months.
+4. Notice of cessation to act as administrator shall be filed with the Commission
+within 14 days of the order or, removal, replacement, resignation)
+35. WINDING-UP BY COURT (Ss. 564, 571, 578, 579, 592, 601, 617 & 654, CAMA)
+Requirements
+a) Special resolution for voluntary winding up where applicable
+b) Certified true copy of court order for winding up
+c) Publication of notice of appointment of liquidator in the Gazette or two daily
+newspapers
+d) Liquidator’s notice of his appointment
+e) Copy of recognised and valid means of photo identification for liquidator (i.e.
+National Identification Card, Data Page of International Passport, Driver’s
+Licence or Voter’s Card)
+f) Liquidator’s account of receipts and payments at least twice in a year
+g) Certified true copy of court order for dissolution of company
+Notes
+1. Special resolution for winding up shall be filed with the Commission within 14
+days after its passing.
+2. Notice of appointment of liquidator must be filed with the Commission within
+14 days if his appointment.
+3. The liquidator’s account of receipts and payments shall be in duplicate and
+verified by a statutory declaration.
+4. The order of court for dissolution must be filed with the Commission within 14
+days after the date of its making.
+36. MEMBERS’ VOLUNTARY WINDING-UP (Ss. 564, 620 – 633 & 654, CAMA)
+Requirements
+Page 35 of 68
+a) Statutory declaration of solvency duly signed by majority of the directors and
+embodying statement of the company’s asset and liabilities
+b) Special resolution for voluntary winding up signed by a director and secretary
+or two directors
+c) Notice of resolution for winding-up as published in the Gazette or two daily
+Newspapers
+d) Resolution for appointment of liquidator
+e) Notice of appointment of liquidator as published in the Gazette or two daily
+newspapers
+f) Liquidator’ notice of his appointment
+g) Copy of recognised and valid means of photo identification for liquidator (i.e.
+National Identification Card, Data Page of International Passport, Driver’s
+Licence or Voter’s Card)
+h) Notice of final meeting as published in the Gazette and at least two newspapers
+and circulating in the locality where the meeting is being called
+i) Return of final meeting and account of liquidation as laid before and approved
+by the meeting
+Notes
+1. Statutory declaration of solvency shall be within five weeks before passing of
+the special resolution for winding-up;
+2. The statutory declaration of solvency and special resolution for winding-up shall
+be filed with the Commission within fifteen days of the passing of the resolution;
+3. Notice of appointment of liquidator shall be filed with the Commission within
+14 days of the appointment;
+4. Return of final meeting and account shall be filed with the Commission within
+seven days after the date of the final meeting;
+5. The account shall be audited by the auditor of the company unless the liquidator
+is qualified for appointment as auditor of a public company or the company has
+resolved, on or after appointment of the liquidator, that the account should not
+be audited;
+6. Where the liquidator believes the company shall not be able to pay its debt
+within the period stated in the statutory declaration of solvency, he shall
+summon and lay before the meeting of the creditors a statement of the assets
+and liabilities of the company;
+7. Where winding up continues for more than one year, the liquidator shall –
+Page 36 of 68
+(a) summon general meeting of the company –
+i. at end of the first year, and of each succeeding year, or
+ii. at the first convenient date within three months from the end of the
+year or such longer period as the Commission may allow, and
+(b) lay before the meeting account of his acts and dealings and the conduct
+of the winding up during the preceding year;
+8. Where winding up continues for more than one year and the liquidator believes
+the company will not be able to pay its debt within the period stated in the
+statutory declaration of solvency, the liquidator shall –
+(a) summon a general meeting of the company and a meeting of the
+creditors –
+i. at the end of the first year from the commencement of the winding
+up (unless the meeting of creditors was held within the three months
+before the end of the first year), and at each succeeding year, or
+ii. at the first convenient date within three months from the end of the
+year or such longer period as the Commission may allow, and
+(b) lay before the meeting account of his acts and dealings and the conduct
+of the winding up during the preceding year.
+37. CREDITORS’ VOLUNTARY WINDING-UP (Ss. 564, 634 – 641 & 654, CAMA)
+Requirements
+a) Notice of creditors’ meeting as published in the Gazette and two daily
+newspapers
+b) Resolution for voluntary winding up
+c) Appointment of liquidator
+d) Notice of appointment of liquidator as published in the Gazette or two daily
+newspapers
+e) Liquidator’s notice of his appointment
+f) Copy of recognised and valid means of photo identification for liquidator (i.e.
+National Identification Card, Data Page of International Passport, Driver’s
+Licence or Voter’s Card)
+g) Notices of final meetings of the company and the creditors each as published
+in the Gazette and at least two newspapers circulating in the locality of where
+the meeting is being called
+h) Return of final meeting and account of liquidation as laid before and approved
+by the meeting
+Page 37 of 68
+Notes
+1. Resolution for winding up shall be filed with the Commission within 14 days
+after its passing;
+2. Notice of appointment of liquidator shall be filed with the Commission within
+14 days of the appointment;
+3. Return of final meeting and account shall be filed with the Commission within
+seven days after the date of the final meeting;
+4. Where winding up continues for more than one year, the liquidator shall –
+i. summon a general meeting of the company and a meeting of the creditors
+at the first convenient date within three months from the end of the year
+or such longer period as the Commission may allow, and
+ii. lay before the meeting account of his acts and dealings and the conduct of
+the winding up during the preceding year.
+38. NOTICE OF MERGER (S. 711, CAMA)
+Requirements
+a) Special resolution of each company in the merger scheme
+b) Scheme of merger arrangement duly approved by the Federal Competition and
+Consumer Protection Commission (where applicable) and, in the case of public
+companies, the Securities and Exchange Commission (SEC)
+c) CTC of Court order sanctioning the scheme of merger
+d) Evidence of publication of Court order in Federal Gazette and at least 1
+newspaper
+Notes:
+1. The special resolution shall be filed with the Commission within 15 days of their
+passing;
+2. Notice of the court order sanctioning the scheme shall be filed with the
+Commission within seven days of its making.
+39. APPLICATION FOR STRIKING OFF BY COMPANY (S. 692, CAMA)
+Requirements
+a) Special resolution for striking off
+b) Cuttings of newspaper advertisement of the passing of the resolution for
+striking in three national daily newspapers inviting objections to the resolution
+Page 38 of 68
+Note:
+1. The reasons given for the application must be sufficient to justify the striking
+off.
+2. The company must not have commenced business and must not have any
+undischarged obligations.
+3. No reasonable objection must have been received within 28 days of the last of
+the publications.
+Page 39 of 68
+LIMITED LIABILITY PARTNERSHIPS
+(PART C, CAMA)
+Page 40 of 68
+INCORPORATION OF LIMITED LIABILITY PARTNERSHIPS
+GENERAL REQUIREMENTS
+1) Minimum number of Partners for a Limited Liability Partnership is two.
+2) A Limited Liability Partnership shall have at least two Designated Partners one
+of whom shall be resident in Nigeria.
+3) Designated Partners must be individuals not below the age of 18 years.
+4) A Designated Partner must endorse consent to be a Designated Partner on the
+Registration Application Form.
+5) A corporate body may be Partner in a limited Liability Partnership.
+6) A nominee of a Corporate Body may be a Designated Partner.
+7) Minors can be Partners provided there are at least two Designated Partners.
+8) Names of all Partners must be clearly and fully stated (no initials) in the
+Registration Application Form and Partnership Agreement.
+9) Particulars of individual Partners must be accompanied by copy of recognised
+and valid means of photo identification (i.e. National Identification Card, Data
+Page of International Passport, Driver’s License or Voter’s Card).
+10) Where a foreigner is a Partner and discloses a local residential address,
+photocopy of national identity card issued by the Nigerian National Identity
+Management Commission (NIMC) or residence permit must be furnished.
+11) Where a corporate body registered outside Nigeria is a partner, evidence of
+registration (duly translated if not in English Language) must be provided.
+12) Foreigners may use Nigerian addresses as service address with no requirement
+for proof of residency.
+13) Reservation code is required for use of restricted words in name of the
+Partnership.
+14) Application for reservation code shall be accompanied by incorporation
+particulars of the Partnership.
+15) The Registration Application Form should be accompanied by a Partnership
+Agreement stating the term(s), if any, of the partnership.
+16) Name of a Limited Liability Partnership must appear on the Registration
+Application Form and Partnership Agreement exactly as approved by the
+Commission.
+17) Where name of the Limited Liability Partnership suggests professional objects,
+the first object must reflect the profession.
+18) Business objects must comply with the requirements of other laws of the
+Federation with respect to the business objects.
+19) A limited Liability Partnership may adopt the provisions regarding matters
+relating to mutual rights and duties of the Partners contained in the Fifteenth
+Schedule to the Companies and Allied Matters Act, 2020 (CAMA).
+Page 41 of 68
+20) Any of the first Partners can prepare and present the incorporation documents
+directly to the Commission for processing.
+21) Information on uploaded documents must be same with data entered on
+Company’s Registration Portal (CRP).
+22) Where an address is required in any document, it shall be adequate if such
+address is described in sufficient particulars as to make it traceable.
+23) All documents must be clearly typed. No cancellations, alterations, erasures or
+mutilations should be allowed on documents submitted for registration.
+Documents with errors must be reproduced for submission.
+24) Documents must comply strictly with the provisions of the Act and the
+Commission’s requirements for registration of Limited Liability Partnership.
+25) Names and signatures of the first Partners must be subscribed on the
+Partnership Agreement and consistent with their particulars on Registration
+Application Form.
+Page 42 of 68
+POST-INCORPORATION APPLICATIONS OF LIMITED LIABILITY
+PARTNERSHIPS
+POST-INCORPORATION SERVICES
+1. Registration of Change in Registered Office or Head Office Address (Form
+CAC/LLP 02) – Section 755, CAMA.
+2. Registration of Change in the Name of LLP (Form CAC/LLP 03) – Section 758,
+CAMA
+3. Registration of Change in Partners or their Particulars (Form CAC/LLP 04) –
+Section 764, CAMA.
+4. Registration of Change in LLP Partnership Agreement – Section 762 (2), CAMA
+5. Registration of Notice of Persons with Significant Control – Section 791, CAMA
+6. Annual Return (Form CAC/LLP 07) – Section 773
+7. Letter of Good Standing
+8. Status Report
+9. Certified Extracts of Certificate
+10. Certified Extracts of other Documents
+11. Miscellaneous Applications
+12. Supervision of Winding Up
+Page 43 of 68
+REQUIREMENTS FOR FILING
+1. NOTICE OF CHANGE IN REGISTERED ADDRESS (Section 755, CAMA)
+Requirement
+Duly completed online form
+Note: Notice of change of registered address should be filed within 14 days of the
+passing of the resolution
+2. CHANGE OF NAME (Section 758, CAMA)
+Requirements
+a) Special resolution for change of name
+b) Online Partnership Agreement reflecting new name
+Note: Notice of change of name should be filed within 15 days of
+the passing of the resolution
+3. NOTICE OF CHANGE IN PARTNERS OR THEIR PARTICULARS (Section 764, CAMA)
+Requirements
+a) Duly completed online form
+b) Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s License or
+Voter’s Card)
+c) National identity card issued by the Nigerian National Identity Management
+Commission (NIMC) or residence permit in the case of foreigners resident in
+Nigeria.
+Note:
+1. A person who is less than 18 years cannot be a designated
+partner
+2. Notice should be filed with the Commission within 30 days of
+the change
+4. NOTICE OF CHANGE IN PARTNERSHIP AGREEMENT (Section 762 (2)), CAMA)
+Requirements
+a) Special resolution indicating changes to the Partnership Agreement
+b) Online Partnership Agreement reflecting changes
+Note: Notice of change in Partnership Agreement should be filed within 15 days of the
+passing of the resolution.
+Page 44 of 68
+5. NOTICE OF PERSONS WITH SIGNIFICANT CONTROL (Section 791, CAMA)
+Requirement
+Duly completed online form
+Note: Notice of Persons with Significant Control should be filed not later than one
+month from the receipt of the information by the LLP
+6. ANNUAL RETURN (Section 773, CAMA)
+Requirements
+a) Duly completed online form
+b) Audited account signed by two Designated Partners
+Note: Annual return must be filed within 60 days of closure of the financial year
+7. LETTER OF GOOD STANDING
+Requirement
+Duly completed online form
+8. STATUS REPORT
+Requirement
+Duly completed online form
+9. CERTIFIED EXTRACTS OF CERTIFICATE (Section 861, CAMA)
+Requirements
+a) Application letter
+b) Affidavit of loss or fact duly sworn to by a Partner before and stamped by a
+Notary Public or Commissioner for Oaths
+10. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (Section 861, CAMA)
+Requirement
+Payment of prescribed fee
+11. MISCELLENOUS APPLICATIONS
+Requirements
+a) Formal application
+b) Documents for filing
+c) Affidavits where applicable
+Page 45 of 68
+d) Copy of recognised and valid means of photo identification where applicable
+LIMITED PARTNERSHIPS
+(PART D, CAMA)
+Page 46 of 68
+REGISTRATION OF LIMITED PARTNERSHIPS
+GENERAL REQUIREMENTS
+1. Foreigners cannot carry on or join in carrying on business under a Limited
+Partnership.
+2. The Maximum number of Partners for a Limited Partnership shall not exceed
+twenty persons.
+3. A Limited Partnership must have at least one General Partner and at least one
+Limited Partner.
+4. All General Partners shall be individuals.
+5. A minor can be a Limited Partner provided there are at least two adults.
+6. Where a minor is a Partner, the application must exhibit an attestation by any
+of the following persons:
+ A Magistrate,
+ A Police officer not less than the rank of Assistant Superintendent of Police
+(ASP), or
+ A Legal Practitioner.
+7. A corporate body may be a partner in a Limited Partnership.
+8. Names of all Partners must be clearly and fully stated (no initials) in the
+Registration Application Form and Partnership Agreement.
+9. Particulars of individual Partners must be accompanied by copy of recognised
+and valid means of photo identification (i.e. National Identification Card, Data
+Page of International Passport, Driver’s Licence or Voter’s Card).
+10. Reservation code is required for use of restricted words in name of the
+Partnership.
+11. Application for reservation code shall be accompanied by registration
+particulars of the Partnership.
+12. The Application form should be accompanied by a Partnership Agreement
+stating the term(s), if any, for which the partnership is entered into.
+13. Name of a Limited Partnership must appear on the Registration Application
+Form and Partnership Agreement exactly as approved by the Commission.
+14. The Registration Application Form should be accompanied by a Partnership
+Agreement stating the term(s), if any, of the partnership.
+15. Where name of a Limited Partnership suggests professional objects, the first
+object must reflect the profession.
+16. Business objects must comply with the requirements of other laws of the
+Federation with respect to the business objects.
+17. A Limited Partnership may adopt the provisions regarding matters relating to
+mutual rights and duties of the Partners contained in the Fifteenth Schedule to
+the Companies and Allied Matters Act, 2020 (CAMA).
+Page 47 of 68
+18. Any of the first Partners can prepare and present the incorporation documents
+directly to the Commission for processing.
+19. Information on uploaded documents must be same with data entered on
+Company’s Registration Portal (CRP).
+20. Where an address is required in any document, it shall be adequate if such
+address is described in sufficient particulars as to make it traceable.
+21. All documents must be clearly typed. No cancellations, alterations, erasures or
+mutilations should be allowed on documents submitted for registration.
+Documents with errors must be reproduced for submission.
+22. Documents must comply strictly with the provisions of the Act and the
+Commission’s requirements for registration of Limited Partnership.
+23. Names and signatures of the first Partners must be subscribed on the
+Partnership Agreement and consistent with their particulars on Registration
+Application Form.
+Page 48 of 68
+POST-REGISTRATION APPLICATIONS OF LIMITED PARTNERSHIPS
+POST-REGISTRATION SERVICES
+1. Registration of Change in Principal Place of Business (Form CAC/LP 02) – Section
+800, CAMA.
+2. Registration of Change in the Name of LP (Form CAC/LP 03) – Section 803,
+CAMA
+3. Annual Return (Form CAC/LP 04) – Sections 773 & 807, CAMA
+4. Registration of Change in Partners or their Particulars (Form CAC/LP 05) –
+Section 764 & 800, CAMA.
+5. Registration of Change in General Nature of Business (Form CAC/LP 06) –
+Section 800
+6. Registration of Change in LP Partnership Agreement – Section 800, CAMA
+7. Registration of Notice of Change in Sum Contributed or to be Contributed by a
+Partner – Section 800, CAMA
+8. Registration of Change in Liability of Partner – Section 800, CAMA
+9. Letter of Good Standing
+10. Status Report
+11. Certified Extracts of Certificate
+12. Certified Extracts of other Documents
+13. Miscellaneous Applications
+14. Supervision of Winding Up
+Page 49 of 68
+REQUIREMENTS FOR FILING
+1. NOTICE OF CHANGE IN PRINCIPAL PLACE OF BUSINESS (FORM CAC/LP 02) –
+SECTION 800, CAMA
+Requirement
+Duly completed online form
+Note: Notice of change in Principal Place of Business should be filed within seven
+days of the change
+2. NOTICE OF CHANGE IN THE NAME OF LP (FORM CAC/LP 03) – SECTION 807,
+CAMA
+Requirements
+a) Special resolution for change of name
+b) Online Partnership Agreement reflecting new name
+Note: Notice of change in the Name of LP should be filed within 15 days of the
+passing of the resolution
+3. ANNUAL RETURNS (Ss. 773 & 807, CAMA)
+Requirements
+a) Duly completed online form
+b) Financial statement signed in accordance with section 822 (3), CAMA
+Note: Annual return must be filed within 60 days of closure of the financial year
+4. NOTICE OF CHANGE IN PARTNERS OR THEIR PARTICULARS (FORM CAC/LP 05) –
+SECTION 764 & 800, CAMA
+Requirements
+a) Duly completed online form
+b) Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s License or
+Voter’s Card)
+Note: Notice of change in Partners or their Particulars should be filed within seven
+days of the change
+Page 50 of 68
+5. NOTICE OF CHANGE IN GENERAL NATURE OF BUSINESS (FORM CAC/LP 06) –
+SECTION 800
+Requirement
+Duly completed online form
+Note: Notice of change in General Nature of Business should be filed within seven
+days of the change
+6. NOTICE OF CHANGE IN LP PARTNERSHIP AGREEMENT – SECTION 800, CAMA
+Requirements
+Online Partnership Agreement reflecting changes
+Note: Notice of change in Partnership Agreement should be filed within seven days
+of the change
+7. NOTICE OF NOTICE OF CHANGE IN SUM CONTRIBUTED OR TO BE
+CONTRIBUTED BY A PARTNER – SECTION 800, CAMA
+Requirement
+Duly completed online form
+Note: Notice of change in Sum Contributed or to be Contributed should be filed
+within seven days of the change
+8. NOTICE OF CHANGE IN LIABILITY OF A PARTNER – SECTION 800, CAMA
+Requirements
+Online Partnership Agreement reflecting changes
+Note: Notice of change in Liability of a Partner should be filed within seven days of the
+change
+9. LETTER OF GOOD STANDING
+Requirement
+Duly completed online form
+10. STATUS REPORT
+Requirement
+Page 51 of 68
+Duly completed online form
+11. CERTIFIED EXTRACTS OF CERTIFICATE (Section 861, CAMA)
+Requirements
+a) Application letter
+b) Affidavit of loss or fact duly sworn to by a Partner before and stamped by a
+Notary Public or Commissioner for Oaths
+12. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (Section 861, CAMA)
+Requirement
+Payment of prescribed fee
+13. MISCELLENOUS APPLICATIONS
+Requirements
+a) Formal application
+b) Documents for filing
+c) Affidavits where applicable
+d) Copy of recognised and valid means of photo identification where applicable
+Page 52 of 68
+BUSINESS NAMES
+(PART E, CAMA)
+Page 53 of 68
+REGISTRATION OF BUSINESS NAMES (Sections 814 – 816, CAMA)
+GENERAL REQUIREMENTS
+1. Foreigners cannot carry on or join in carrying on business under a business name.
+2. Business names should be registered within 28 days of commencement of
+business otherwise daily penalty of N150 (one hundred and fifty naira) will
+accrue against the individual or corporation (in the case of sole proprietorship)
+or each partner (in the case of a partnership).
+3. Reservation code is required for use of restricted words in name.
+4. Application for reservation code shall be accompanied by registration particulars
+of the proposed business name.
+5. Names of all Partners must be clearly and fully stated (no initials).
+6. A person under the age of 18 years (minor) can join in carrying on a business
+name provided there are at least two adult.
+7. Where a minor is a Partner, the application must exhibit an attestation by any of
+the following persons:
+ A Magistrate,
+ A Police officer not less than the rank of Assistant Superintendent of Police
+(ASP), or
+ A Legal Practitioner.
+8. Passport-sized photograph shall be uploaded for each individuals Partner.
+9. Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card) is required for each individual Partner in a business name.
+10. Registration application and accompanying documents must comply strictly with
+the provisions of the Act and the Commission’s requirements for registration of
+business name.
+11. Information on accompanying documents must be same with data entered on
+Company Registration Portal (CRP).
+12. All documents accompanying the application must be in English language. Where
+documents are in other language, the documents shall be translated into English
+language and confirmed by a Notary Public licenced as such in Nigeria or any
+other part of the world.
+13. Where a business name suggests professional objects, the first nature of
+business must reflect the profession.
+Page 54 of 68
+14. Nature of business must comply with the requirements of other laws of the
+Federation with respect to the businesses.
+Page 55 of 68
+POST-REGISTRATION APPLICATIONS OF BUSINESS NAMES
+POST-REGISTRATION SERVICES
+1. Notice of Change in Principal Place in Business or Branch Address (Form CAC/BN
+02) – Section 818, CAMA.
+2. Notice of Change of Name (Form CAC/BN 03) – Section 818, CAMA.
+3. Notice of Change in Objects (Form CAC/BN 04) – Section 818, CAMA.
+4. Notice of Change/Correction in Particulars of Proprietor/Partner (Form CAC/BN
+05) – Section 818, CAMA.
+5. Notice of Removal/Addition of Partners (Form CAC/BN 5A) – Section 818,
+CAMA.
+6. Annual Return (Form CAC/BN 06) – Section 822, CAMA.
+7. Certified Extract of Certificate – Section 861, CAMA.
+8. Certified Extract of other Documents – Section 861, CAMA.
+9. Notice of Cessation of Business Name (Form CAC/BN 7)– Section 819, CAMA.
+Page 56 of 68
+GENERAL REQUIREMENTS
+1. Names of proprietors/partners must be written in full. Initials are not
+acceptable.
+2. All accompanying documents must be typed, clean and free of errors. No
+cancellations, alterations, mutilations or defacing must be allowed on
+applications and accompanying documents.
+Page 57 of 68
+REQUIREMENTS FOR FILING
+1. CHANGE IN PRINCIPAL PLACE OF BUSINESS/BRANCH ADDRESS (S. 818, CAMA)
+Requirement
+Duly completed online form
+2. CHANGE OF BUSINESS NAME (S. 818, CAMA)
+Requirement
+Duly completed online form
+3. CHANGE IN OBJECTS OF BUSINESS NAME (S. 818, CAMA)
+Requirement
+Duly completed online form
+4. CHANGE/CORRECTION IN PARTICULARS OF PROPRIETOR/PARTNERS (S. 818,
+CAMA)
+Requirements
+a) Supporting Documents
+b) Evidence of Change of Information
+c) Affidavit of Facts (where applicable)
+d) Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card)
+Note:
+Where change of nationality is as a result of naturalization under S.27 (1) of the
+Constitution of the Federal Republic of Nigeria, 1999 (as amended) the photocopy of
+certificate of naturalization must be attached to the application
+5. NOTICE OF REMOVAL OR ADDITION OF PARTNER (S. 818, CAMA)
+Requirement
+a) Duly completed online form
+b) Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card) for new Partner
+Page 58 of 68
+6. ANNUAL RETURNS (S. 822, CAMA)
+Requirement
+a) Duly completed online form
+b) Financial statement signed in accordance with section 822 (3), CAMA
+7. CERTIFIED EXTRACT OF CERTIFICATE (S. 861, CAMA)
+Requirement
+Affidavit in support stating the reason(s) for the application
+8. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (S. 861, CAMA)
+Requirement
+Duly completed online form
+9. NOTICE OF CESSATION OF BUSINESS (S. 819, CAMA)
+Requirements
+a) Death certificate or other evidence of death (where applicable)
+b) Consent letter signed by all the partner(s) (where applicable)
+c) Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card) of the personal representative (where applicable)
+d) Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card) of director or liquidator (where applicable)
+Page 59 of 68
+INCORPORATED TRUSTEES
+(PART F, CAMA)
+Page 60 of 68
+INCORPORATION OF TRUSTEES
+GENERAL REQUIREMENTS
+1) Reservation code is required for the incorporation of Trustees.
+2) Application for reservation code shall be accompanied by incorporation
+particulars of the proposed Incorporated Trustees.
+3) Non-residents cannot be appointed Trustees.
+4) A person under the age of 18 years (minor) cannot be appointed a Trustee.
+5) Names of all Trustees must be clearly and fully stated (no initials).
+6) Passport-sized photograph shall be uploaded for each Trustee.
+7) Copy of recognised and valid means of photo identification (i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card) is required for each Trustee.
+8) Where an alien is a Trustee, photocopy of national identity card issued by the
+Nigerian National Identity Management Commission (NIMC) or residence permit
+must be furnished.
+9) Incorporation application and accompanying documents must comply strictly
+with the provisions of the Act and the Commission’s requirements for
+incorporation of Trustees.
+10) Information on accompanying documents must be same with data entered on
+Company Registration Portal (CRP).
+11) All documents accompanying the application must be in English language. Where
+documents are in other language, the documents shall be translated into English
+language and confirmed by a Notary Public licenced as such in Nigeria or any
+other part of the world.
+12) Incorporated trustee’s declaration form must be signed by each trustee and
+sworn to at any Court or before a notary public.
+13) Copies of notice of application for incorporation as published in 2 daily
+newspapers circulating in the area where the association is to be situated (one
+of which must be a national newspaper) and each indicating name of newspaper
+as well as date and page of publication.
+Notes:
+i. Minimum size of publication shall be 8cm x 2 or 3”x 2 and shall state the:
+ Name of the association
+ Full names of the trustees
+Page 61 of 68
+ Aims and objects of the association
+ii. The publication shall invite objections to the registration of the association and
+limit 28 days for such objections to reach the Commission.
+iii. Where there is objection to the registration of the association, the objection
+shall state the grounds upon which it is made.
+Page 62 of 68
+POST-INCORPORATION OF TRUSTEES
+POST-INCORPORATION SERVICES
+1) Notice of Change of Name (Form CAC/IT 2) – Section 832, CAMA.
+2) Notice of Change of Object – Section 832, CAMA.
+3) Notice of Replacement or Addition/Change or Correction in Particulars of a
+Trustee (Form CAC/IT 3) – Section 834, CAMA.
+4) Notice of Change of Chairman/Secretary – Section 834, CAMA.
+5) Annual Returns (Form CAC/IT 4) – Section 848, CAMA.
+6) Bi-Annual Statement of Affairs (Form CAC/IT 5) – Section 845, CAMA.
+7) Notice of Merger (Form CAC/IT 6) – Section 849, CAMA.
+8) Notice of Alteration of Constitution (Form CAC/IT 7) – Section 833, CAMA.
+9) Certified Extract of Certificate – Section 861, CAMA.
+10) Certified Extract of other Documents – Section 861, CAMA.
+11) Correction of Error on Certificate
+12) Notice of Dissolution of Incorporated Trustees – Section 850, CAMA.
+Page 63 of 68
+GENERAL REQUIREMENTS
+a) Names of Trustees must be written in full. Initials are not acceptable.
+b) All accompanying documents must be typed, clean and free of errors. No
+cancellations, alterations, mutilations or defacing must be allowed on
+applications and accompanying documents.
+Page 64 of 68
+REQUIREMENTS FOR FILING
+1. CHANGE OF NAME (Section 832, CAMA)
+Requirements
+a) Extracts of minutes of general meeting signed by the chairman and secretary or
+any trustee on record stating the reason for the change of name as well as
+members present
+b) Publication of notices in 2 daily newspapers circulating in the area where the
+association is situated (one of which must be national newspaper)
+c) Minimum size of publication shall be 8cm x 2 or 3”x2 and shall state the new
+name
+d) The publication shall invite objections to the change of name of the association
+and limit 28 days for such objections to reach the Commission
+e) Where there is objection to the change of name of the association, the objection
+shall state the grounds upon which it is made
+f) Copy of the public notice as published in the newspapers shall be pasted at the
+headquarters or any branch or other place where a majority of the members of
+the association are likely to see it and every branch of the association for 28 days
+g) Copy of the constitution reflecting the new name
+2. CHANGE OF OBJECTS (Section 832, CAMA)
+Requirements
+a) Extracts of minutes of general meeting signed by the chairman and secretary or
+any trustee on record stating the reason for the change of objects, members
+present and details of the alteration of objects
+b) Publication of notices in 2 daily newspapers circulating in the area where
+association is situated (one of which must be national newspaper)
+c) Minimum size of publication shall be 8cm x 2 or 3”x2 and shall state the full
+names of the new trustees
+d) The publication shall invite objections to the change of objects of the association
+and limit 28 days for such objections to reach the Commission
+e) Where there is objection to the change of objects of the association, the
+objection shall state the grounds upon which it is made
+f) Copy of the public notice as published in the newspapers shall be pasted at the
+headquarters or any branch or other place where a majority of the members of
+the association are likely to see it and every branch of the association for 28 days
+g) Copy of the constitution as amended and marked ‘Amended’
+3. REPLACEMENT OR ADDITION OF TRUSTEES (Section 834, CAMA)
+Requirements
+Page 65 of 68
+a) Extracts of minutes of general meeting signed by the chairman and secretary or
+any trustee on record and stating the reason for the change
+b) Trustee’s declaration form signed by each trustee and sworn to at any Court or
+before a notary public
+c) Publication of notices in 2 daily newspapers circulating in the area where
+association is situated (one of which must be national newspaper)
+d) Minimum size of publication shall be 8cm x 2 or 3”x2 and shall state the full
+names of the new trustees
+e) The publication shall invite objections to the change of trustees and limit 28 days
+for such objections to reach the Commission
+f) Where there is an objection to the change of trustees, the objection shall state
+the grounds upon which it is made
+g) Photocopy of recognised and valid means of photo identification, i.e. National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card for new trustees
+h) Copy of the public notice as published in the newspapers shall be pasted at the
+headquarters or any branch or other place where a majority of the members of
+the association are likely to see it and every branch of the association for 28 days
+4. CHANGE/CORRECTION IN PARTICULARS OF TRUSTEES
+Requirements
+a) Extracts of minutes of general meeting signed by the chairman and secretary or
+any trustee on record stating the reason for the change or correction
+b) Documents in support of the change or correction (where applicable)
+c) Affidavit of Fact (where applicable)
+d) Photocopy of recognised and valid means of photo identification (National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card), where applicable
+5. CHANGE OF CHAIRMAN OR SECRETARY
+Requirements
+a) Extracts of minutes of general meeting where the chairman or secretary was
+changed signed by the chairman and secretary or any trustee on record
+b) Consent letter
+c) Photocopy of recognised and valid means of photo identification (National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card for new chairman or new secretary), where applicable
+Note:
+Where the new chairman is not already a trustee, he must first be appointed a
+trustee and notice of his appointment filed with the Commission
+Page 66 of 68
+6. ANNUAL RETURNS (Section 845, CAMA)
+Requirements
+Audited statement of accounts
+7. BI-ANNUAL STATEMENT OF AFFAIRS
+Requirements
+Duly completed Form CAC/IT/5
+8. MERGER OF ASSOCIATIONS
+Requirements
+a) Extracts of minutes of general meeting of each of the associations signed by
+respective chairmen and secretaries or other trustees on record authorising the
+merger
+b) Publication of notices in two daily newspapers circulating in the area(s) where
+the associations are situated (one of which must be a national newspaper)
+c) Minimum size of publication shall be 8cm x 2 or 3”x2 and shall state details of
+the merger
+d) The publications shall invite objections to the merger of the associations and
+limit 28 days for such objections to reach the Commission
+e) Where there is objection to the merger of the associations, the objection shall
+state the grounds upon which it is made
+f) Copy of public notice as published in the newspapers shall be pasted for 28 days
+at the headquarters or branches or other places where majority of the members
+of the respective associations are likely to see it
+g) Scheme of merger as sanctioned by the Court
+h) CTC of Court order sanctioning the merger
+9. ALTERATION OF CONSTITUTION (Section 832, CAMA)
+Requirements
+a) Extracts of minutes of general meeting signed by the chairman and secretary or
+any trustee on record stating the reason for the alteration, members present and
+details of the alteration of constitution
+b) Publication of notices in 2 daily newspapers circulating in the area where
+association is situated (one of which must be national newspaper)
+c) Minimum size of publication shall be 8cm x 2 or 3”x2 and shall state details of
+the alteration
+d) The publication shall invite objections to the alteration of the constitution of the
+association and limit 28 days for such objections to reach the Commission
+Page 67 of 68
+e) Where there is objection to the alteration of the constitution of the association,
+the objection shall state the grounds upon which it is made
+f) Copy of the public notice as published in the newspapers shall be pasted at the
+headquarters or any branch or other place where a majority of the members of
+the association are likely to see it and every branch of the association for 28 days
+g) Copy of the constitution reflecting the alteration
+10. CERTIFIED EXTRACTS OF CERTICATE (Section 861, CAMA)
+Requirements
+a) Application letter
+b) Affidavit of loss or fact duly sworn to by a Director or Secretary of the company
+duly stamped by Notary Public or Commissioner for Oaths
+c) Extracts of minutes of general meeting signed by the chairman and secretary or
+any trustee on record, stating the reason for the application, members present
+and the person authorized to apply for the CTC
+d) Publication of notices of application for CTC in one daily newspapers circulating
+in the area where association is situated
+e) The publication shall state the name of the association, the fact of loss of
+certificate, the fact of application to the Commission for certified true copy and
+invite objections to the application within 28 days of the publication
+f) Minimum size of publication shall be 8cm x 2 or 3”x2 and shall invite objections
+to the application for CTC as well as limit 28 days for such objections to reach the
+Commission
+g) Where there is objection to the application for CTC, the objection shall state the
+grounds upon which it is made
+11. CERTIFIED EXTRACTS OF OTHER DOCUMENTS (Section 861, CAMA)
+Requirements
+Application letter
+12. CORRECTION OF CERTIFICATE
+Requirements
+a) Documents to justify Change of Information
+b) Affidavit of Fact
+c) Photocopy of recognised and valid means of photo identification (National
+Identification Card, Data Page of International Passport, Driver’s Licence or
+Voter’s Card)
+13. DISSOLUTION OF INCORPORATED TRUSTEES (Section 850, CAMA)
+Requirements
+CTC of Court order for dissolution
+Page 68 of 68

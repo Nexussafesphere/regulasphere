@@ -1,0 +1,184 @@
+NATIONAL INFORMATION TECHNOLOGY DEVELOPMENT AGENCY FEDERAL
+MINISTRY OF COMMUNICATIONS
+28, Port Harcourt Crescent, Off Gimbiya Street, Area 11, Garki, Abuja.
+GUIDELINES FOR REGISTRATION OF ICT SERVICE
+PROVIDERS/CONTRACTORS FOR DELIVERY OF IT SERVICES TO
+MDAS
+I. Preamble and Objectives
+The National Information Technology Development Agency (NITDA)
+is empowered by Section 6 of its enabling Act (National Information
+Technology Development Agency Act 2007) to regulate and promote
+the use and development of Information Technology (IT) in all spheres
+of Nigeria through the development of IT framework,
+standards, guidelines, regulations, and policies.
+In line with the above and the Executive Orders 003 and 005 issued
+by the Federal Government; for the Promotion of Local Content in
+ICT Procurement by MDAs and the for the Planning and
+Execution of Projects, Promotion of Nigerian Content in
+Contracts and Science, Engineering and Technology respectively,
+NITDA hereby issues these guidelines for the registration of IT service
+providers/contractors in Nigeria.
+The registration and certification of all indigenous IT service
+providers/contractors will ensure the delivery of quality and
+sustainable IT projects to the government, deepen professionalism in
+IT services provisioning and to ensure the development of quality
+indigenous IT companies, which is germane to the development of IT in
+Nigeria.
+II. Definitions of Terms
+The following terms in this document shall have the following meaning.
+1. Agency mean the National Information Technology Development
+Agency
+Guidelines for the Registration of IT Service Providers
+2. Applicants are Indigenous firms, companies or organizations
+registered with the Corporate Affairs Commission (CAC)
+seeking registration with NITDA.
+3. Expatriate shall refer to a non-Nigerian employed by an
+indigenous IT Service company as staff in any capacity.
+4. Expatriate Quota shall mean permit obtained on behalf of
+expatriate to work in Nigeria as issued by the Federal Ministry of
+Interior.
+5. Indigenous Information Technology Providers refers to a
+company registered in Nigeria by the Corporate Affairs
+Commission to provide IT services. The company must have
+Nigerians holding shareholding above 51% of the total issued
+shares of the company.
+6. Principal Officer refers to a person on the applicants’
+management team or a member of the executive management of
+an IT Service Provider Company.
+7. Information Technology means a combination of equipment and
+services that enable the remote gathering, processing, storage,
+conveyance, and delivery of various forms of information.
+8. IT Service Providers/Contractor includes IT consulting firms,
+IT software development and deployment firms, Business Process
+Operating firms etc.
+9. Verifiable Competence connotes academic or professional
+qualifications as well as relevant work experience.
+III. Scope of Application
+This document shall serve as a guide to IT Services Providers within
+Nigeria that provide service to any Ministry, Department or Agency
+(MDA) of the Federal Government, either through procurement process
+or via Public Private Partnerships (PPP). This document shall guide the
+registration process for such companies.
+However, this document shall not guide the Agency’s registration and
+licensing of Local Original Equipment Manufacturers (OEMS) as
+NITDA has published a certification process and requirements for
+registration as OEMs on its website.
+3
+IV. Guidelines
+1. Registration
+The Agency shall only consider for registration, applicants;
+a. that are indigenous IT Services Providers;
+b. that have their website hosted on the .ng domain; and
+c. that have demonstrated through the application process
+capacity to provide service as IT service providers.
+2. Minimum Requirement for Registration
+All applicants must:
+a. Complete the required application form. A copy of the form
+is attached as Annex 1.
+b. Submit the completed application form with all required
+documents to the Director General’s Registry of NITDA.
+c. Ensure that all required supporting documents specified in the
+application form are attached at the time of submission.
+d. Submit an application letter, indicating its request for
+registration as an IT service provider and addressed to the
+Director General of NITDA,
+3. Proof of Competence
+a. All applicants must show that:
+i. It possesses verifiable competence and capacity to
+be registered as IT Service Providers with NITDA.
+ii. It possesses sufficient competent personnel on its
+payroll to carry out identified IT services.
+iii. Its competent personnel are not substantially made
+up of transient/transitory staff i.e. consultant,
+contract staff or casual staff.
+b. All applicants’ must have at least one of its Principal
+Officers’ registered with the Computer Professionals
+(Registration Council) of Nigeria (CPN).
+c. The existence of a higher percentage of local competent full-
+time staff improves applicants’ chances of obtaining
+NITDA’s substantive certificate of registration.
+d. Failure to clearly show applicant’s competence (with
+supporting documents and quality personnel) to carry out its
+identified IT services, will result in denial of registration.
+e. Where the Agency is unable to ascertain from documents
+submitted the capacity of the applicant, an interview meeting
+will be scheduled as soon as possible by the agency to verify
+the capacity of the applicant.
+3
+4. Expatriate Staff
+a. All applicants who have expatriate(s) as staff must clearly
+show proof of their approved expatriate quota.
+b. Expatriate staff shall only be considered as proof of
+applicants’ competence where there is sufficient proof that
+skill(s) required cannot be provided by Nigerians; and
+c. Expatriate staff shall only be considered as proof of
+applicants’ competence where the Agency is satisfied that the
+skill of the expatriate is relevant to the job description
+disclosed.
+d. Applicant must also demonstrate a succession plan for
+Nigerians to replace expatriate staff at the expiration of the term
+of issued quota.
+5. Notice of Change of Information
+Where there is any change in facts or information provided by
+applicants, either during the registration or verification processes or
+after the issuance of registration certificates, the Agency must be
+notified within 45days from any such change.
+6. Certificates of Registration
+a. Where the Agency is satisfied that the applicants have met all
+registration requirements and that the document provided in
+support of the application appears to be valid/legitimate, the
+Agency shall issue a provisional certificate of registration.
+b. The provisional certificate shall be valid for a period of 6
+months from the date of issue.
+c. Within the validity period of the provisional certificate, the
+agency shall take steps to ascertain the veracity of all
+information supplied by the applicant.
+d. If satisfied that the information provided are true, the Agency
+shall before the expiration of the provisional certificate, issue
+a substantive certificate.
+e. The substantive certificate shall be valid for a period of 2
+years commencing from the date of issuance of provisional
+certificate by the Agency
+4
+7. Renewal of Registration
+All Applications for renewals must be submitted to the Agency at
+least 3months before the expiration of issued substantive certificate
+of registration.
+8. IT Related R&D, Incubation or Start-up
+To aid the Agency in its identification and classification of firms with
+active capacity development and innovation programs, applicants are
+required to willingly provide information of its activities in support
+of IT related Research and Development, Incubation Program(s) and
+start-up companies focusing on IT service or IT enabled services, if
+any.
+9. Right of Agency to Register IT Services
+a. The Agency reserves the right to register or deregister any
+service indicated by applicant firm on Part D of Application
+forms;
+b. Service provider must prove its capacity and relevant personnel
+capacity before any IT service areas (as indicated in part D of
+Application Forms for Registration as an IT Service provider) is
+approved by the Agency.
+c. The Agency reserves the right to refuse registration or
+deregister any firm where such firm is in contravention of
+conditions for registration or any other regulation of the
+Agency.
+10.Standardized Service Level Agreements (SLA)
+a. All applicants must submit the standardized SLAs issued to
+clients.
+b. The SLAs must clearly indicate the following:
+i. Standards of service
+ii. Delivery time scales
+iii. Responsibilities of each party
+iv. Monitoring and reporting of the service
+v. Legal and regulatory compliance
+vi. Payment terms
+vii. Dispute resolution
+viii. Confidentiality and non-disclosure provisions
+ix. Termination of the agreement
+5
+Dated at Abuja this day of 2018
+……………………………………………
+Isa Ali Ibrahim Pantami, FBCS, PhD
+Director General/ CEO
+6

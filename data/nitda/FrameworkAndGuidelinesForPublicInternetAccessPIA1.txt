@@ -1,0 +1,272 @@
+Framework and Guidelines for Public
+Internet Access (PIA)
+2019
+Table of Contents
+Forward .............................................................................................. 4
+Part One .............................................................................................. 6
+1.0 Preamble ................................................................................... 6
+1.1 Authority ................................................................................ 6
+1.2 Purpose .................................................................................. 6
+1.3 Definitions .............................................................................. 6
+1.4 Objectives ............................................................................... 7
+1.5 Scope ..................................................................................... 7
+1.6 Audience and Applicability ......................................................... 8
+1.7 Review and Amendment ........................................................... 8
+Part Two .............................................................................................. 9
+2.0 Framework for the Provision of Public Internet Access (PIA)............. 9
+2.1 Participation/Provision .............................................................. 9
+2.2 Quality of Service (QoS) ........................................................... 9
+2.3 User Registration and Access ..................................................... 9
+2.4 User Verification and Authentication ........................................... 9
+2.5 Notification ............................................................................. 9
+2.6 Login Portal and Instruction ...................................................... 9
+2.7 Network Protection................................................................. 10
+2.8 Encryption Requirement ......................................................... 10
+2.9 Security Software .................................................................. 10
+2.10 Data Protection ................................................................... 10
+2.11 Internet Speed .................................................................... 10
+2
+Framework and Guidelines for Public Internet Access (PIA)
+2.12 Duration and Number of Connections ..................................... 10
+2.13 Assessment/Audit................................................................ 11
+Part Three ......................................................................................... 12
+3.0 Guidelines for the Provision and Acceptable Use of Public Internet
+Access ............................................................................................ 12
+Part Four ........................................................................................... 14
+4.0 Monitoring, Compliance and Penalty ........................................... 14
+4.1 Monitoring and Compliance ..................................................... 14
+4.2 Penalty ................................................................................. 14
+Framework and Guidelines for Public Internet Access (PIA) 3
+Forward
+The internet has completely transformed the world; countries which have
+invested in nurturing digital and innovation-based cultures not only enjoy
+extraordinary wealth and job creation but have also transformed the way
+people live and do business. The Internet is an essential part of modern
+living facilitating communication without barrier and increasingly being used
+as a method of transacting business. The United Nations have encouraged
+the designation of the Internet as a human right, while World Bank
+published reports have established direct correlation between broadband
+penetration and access to GDP growth.
+Over the past decades, the internet has been a major contributor to the
+evolution and growth in the global economy. It has the potential to assist
+governments in addressing critical policy concerns and facilitate. Yet, despite
+the clear importance of the internet as a key enabler of the Fourth Industrial
+Revolution, over 4 billion people remain unconnected to the web. For
+instance, Nigeria just recorded about 54% internet penetration in the first
+quarter of 2018 with much less than 30% broadband penetration target by
+the Federal Government for 2018.
+The internet space has been characterised by high cost of access, low
+broadband penetration and poor internet infrastructure as well as poor
+enabling environment. The solutions to these challenges are beyond
+government’s intervention. In order to bridge the existing digital divide and
+encourage more Nigerians to participate in the global digital economy,
+private organisations and international partners are encouraged to support
+the government in different strategic ways.
+One of the models being adopted is the provision of free internet access by
+Public Internet Access Providers (PIAPs) in strategic locations to help more
+Framework and Guidelines for Public Internet Access (PIA) 4
+Nigerians connect to the internet in pursuit of social and developmental
+objectives for a Return on Investment (ROI) through advertisement or other
+means. This is expected to drive some changes especially in creating jobs
+and will help local SMEs compete with global brands.
+However, if it remains an unregulated medium, the security of the citizens
+and the nation maybe threatened. It is in this interest that the National
+Information Technology Development Agency (NITDA) as the National
+regulator for Information Technology is issuing these Framework and
+Guidelines on the provision and use of public internet access in Nigeria.
+Isa Ali Ibrahim Pantami, PhD, FNCS, FBCS, FIIM
+Director General/CEO, National Information Technology Development
+Agency (NITDA)
+Framework and Guidelines for Public Internet Access (PIA) 5
+Part One
+1.0 Preamble
+1.1 Authority
+In exercise of the powers conferred on NITDA specifically by Section 6 (a),
+(I) and (m) of the National Information Technology Development Agency
+(NITDA) Act of 2007, NITDA hereby issues the following Framework and
+Guidelines on Public Internet Access (PIA).
+1.2 Purpose
+The purpose of this Framework and Guidelines is to ensure provision and use
+of public internet access is regulated in Nigeria.
+1.3 Definitions
+I. Internet: global system of interconnected networks of computers
+and other communication devices that use standardised
+communication protocols to link devices worldwide to provide a
+variety of information and communication services.
+II. Public Internet Access (PIA): internet access using computer
+terminals, computers, mobile phones and/or other devices without
+charge to the user.
+III. Internet Service Provider (ISP): an organisation that provides
+individual, companies and/or government entities access to the
+internet for a cost.
+IV. Public Internet Access Provider (PIAP): includes any ISP
+and/or business entity that provide(s) internet access without a
+charge or offer(s) a partially subsidised internet access to the
+public.
+Framework and Guidelines for Public Internet Access (PIA) 6
+V. User: includes citizens, travelers, Small and Medium Enterprises
+(SMEs) etc. who use free or partially subsidised internet access
+provided by PIAP.
+VI. Acceptable Use Policy (AUP): a document stipulating constraints
+and practices that a user must agree to in order to access a free or
+partially subsidised internet access.
+VII. Terms and Conditions: rules by which user must agree to in order
+to use free or partially subsidised internet access.
+VIII. Mobile Number: a 10-digit unique number that a wireless carrier
+uses to identify a mobile phone, which is the last part of the
+International Mobile Subscriber Identity (IMSI).
+IX. Access Code: a password generated by the PIAP platform to
+access free or partially subsidized internet access.
+1.4 Objectives
+The objectives of PIA are:
+i) To provide framework and guidelines for the provision of public
+internet access in Nigeria;
+ii) To ensure safe use of public internet access by Nigerians and non-
+Nigerians; and
+iii) To create and promote a mutually beneficial and friendly environment
+for both public internet access providers and users in Nigeria.
+1.5 Scope
+The PIA provides the framework and guidelines for the use of public internet
+within Nigeria and articulates rules that affect public internet access
+providers and users.
+Framework and Guidelines for Public Internet Access (PIA) 7
+1.6 Audience and Applicability
+The PIA framework and guidelines applies to all Public Internet Access
+Providers (PIAPs) and users as defined in the definitions part of the
+document.
+1.7 Review and Amendment
+NITDA shall amend or review the framework and guidelines periodically to
+reflect the reality of time and trends.
+Framework and Guidelines for Public Internet Access (PIA) 8
+Part Two
+2.0 Framework for the Provision of Public Internet Access (PIA)
+PIAPs are required to observe regulatory provisions as detailed below. The
+framework is made up of the following elements:
+2.1 Participation/Provision
+A PIAP shall register with and obtain approval from NITDA.
+2.2 Quality of Service (QoS)
+A PIAP shall ensure appropriate quality of service for users in ability to
+connect, downstream and upstream connectivity etc.
+2.3 User Registration and Access
+A PIAP shall ensure every user goes through a registration process to
+acquire an access code for the purpose of public internet access after
+verification through the user’s mobile number which is the unique Login ID.
+2.4 User Verification and Authentication
+User authentication shall be enabled by each PIAP through a dedicated
+authentication mechanism.
+2.5 Notification
+A PIAP is required to provide notification of its public internet access through
+a Service Set Identifier (SSID) name that consists of the PIAP registered
+name.
+2.6 Login Portal and Instruction
+Each PIAP is required to have a login portal. At each login, a PIAP shall
+provide an Acceptable Use Policy (AUP), Fair Use Policy (FUP) and subject
+users to read the AUP, FUP and any Terms and Conditions users will be
+subjected to while accessing the public internet provided by the PIAP. Each
+Framework and Guidelines for Public Internet Access (PIA) 9
+access provider is required to develop its AUP, FUP and Terms and
+Conditions in line with the provisions of the guidelines in this document.
+2.7 Network Protection
+PIAPs are required to protect their public internet access networks with
+latest and efficient security features and prevent intruders from
+unauthorised access.
+2.8 Encryption Requirement
+PIAPs are required to use the most recent encryption standards to protect
+users’ data and communication on the internet.
+2.9 Security Software
+PIAPs are required to install security software to inhibit access to illegal and
+inappropriate sites.
+2.10 Data Protection
+PIAPs are required to observe the provisions of the Nigeria Data Protection
+Guidelines 2019 as regards users’ personal data collection, processing and
+access. For specific emphasis, PIAPs are required to retain and account for
+users’ data in their databases for minimum of three years.
+2.11 Internet Speed
+PIAPs are required to guarantee a minimum of 256 kbps as Committed
+Information Rate (CIR) in a shared connection for each connected user at a
+given time. Number of users at a given time can be determined by the PIAP
+depending on the total bandwidth size it is providing.
+2.12 Duration and Number of Connections
+PIAPs are required to specify number of hours a user will be connected to
+the internet at login and maximum connections per day per user. For
+partially subsidised internet access, PIAPs are required to specify amount of
+data a user can access for free before charges apply.
+Framework and Guidelines for Public Internet Access (PIA) 10
+2.13 Assessment/Audit
+Ongoing assessment is required as part of PIAP’s measures to ensure
+compliance with the provision of this Framework and Guidelines. Such report
+shall be available online on the PIAPs portal.
+Framework and Guidelines for Public Internet Access (PIA) 11
+Part Three
+3.0 Guidelines for the Provision and Acceptable Use of Public
+Internet Access
+3.1 A PIAP, in providing public internet access, shall adhere to all the
+provisions of this framework as listed above. Specifically, it shall:
+I. Register with and obtain necessary approval from NITDA;
+II. Provide means of registration to users before public internet access
+can be used;
+III. Verify and authenticate users through their mobile numbers (Login
+IDs) as provided during registration;
+IV. Make its AUP, FUP and Terms and Conditions available and
+conspicuous on the login portal which must be prerequisite to
+registration process and login;
+V. Ensure every online communication is encrypted;
+VI. Inhibit access to every illegal and inappropriate site;
+VII. Ensure data of users are protected and user privacy is adhered to in
+line with Data Protection Guidelines 2018;
+VIII. Guarantee a minimum of 256 kbps as CIR at each connection to the
+internet;
+IX. Retain and account for users’ data in its database for minimum of
+three years;
+X. Specify duration of each connection and number of connections per
+day per user. For partially subsidised internet access, PIAPs shall
+specify amount of data a user can access for free before charges
+apply;
+XI. Not make purchase of goods and services prerequisite for public
+internet access;
+Framework and Guidelines for Public Internet Access (PIA) 12
+XII. Be responsible for providing identity of users who commit
+cybercrime;
+XIII. Conduct assessment of the internet access every six months to
+ensure compliance with the provision of this Framework and
+Guidelines; and
+XIV. Provide access to database of public internet access users on
+request by NITDA and/or any other government bodies.
+3.2 Public internet access users shall:
+I. Keep to legal, ethical and responsible use of the public internet
+access provided by a PIAP;
+II. Adhere to public internet access AUP, FUP and Terms and
+Conditions of the PIAP; and
+III. Be responsible for the protection of their access devices and liable
+to any harm done to the access devices while surfing the internet.
+Framework and Guidelines for Public Internet Access (PIA) 13
+Part Four
+4.0 Monitoring, Compliance and Penalty
+4.1 Monitoring and Compliance
+4.1.1 NITDA shall put the following mechanisms in place to ensure adequate
+monitoring and compliance with the Guidelines by stakeholders:
+I. Provide a platform for registration of PIAPs;
+II. Put a framework in place to monitor compliance with the provisions
+of this Guidelines;
+III. Request PIAPs to put their assessment report online every six
+months;
+IV. Request for clarification on assessment report in case of any
+ambiguity; and
+V. Create awareness from time to time on the use of public internet
+access.
+4.1.2 A PIAP shall:
+I. Report to NITDA any case of non-compliance by users to their
+responsibilities as stated in” Part Three” of this Guidelines; and
+II. Report to NITDA and/or security agencies or other statutory
+agencies on any incident of violation to the universal acceptable use
+of the internet.
+4.2 Penalty
+Any non-compliance with the provisions of this Guidelines by PIAPs shall
+attract penalties as may be determined by the Agency in collaboration with
+relevant stakeholders.
+Framework and Guidelines for Public Internet Access (PIA) 14
+THIS INSTRUMENT WAS SIGNED THIS 25TH DAY OF JANUARY 2019
+Dr Isa Ali Ibrahim (Pantami) FNCS, FBCS, FIIM
+Director General
+National Information Technology Development Agency (NITDA)
+Framework and Guidelines for Public Internet Access (PIA) 15

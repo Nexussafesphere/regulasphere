@@ -1,0 +1,1800 @@
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Nigeria e-Government Interoperability Framework (Ne-GIF)
+National Information Technology Development Agency
+(NITDA)
+________________________________________________________________________________________
+August, 2019
+________________________________________________________________________________________
+Release v1.2 i July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Change History
+S/N Author Version No Release Date Change Details By Who
+1. NITDA 1.0 May, 2018 First Review NITDA
+2. NITDA 1.1 August, 2018 Second Review Stakeholders
+3. NITDA 1.2 July, 2019 Second Review NITDA &
+Stakeholders
+Metadata of the Regulation
+S/N Data Elements Values
+1. Title Nigeria e-Government Interoperability Framework
+Title Alternative Ne-GIF
+2. Document Identifier NIG-NITDA.10
+3. Document Version, month, year of release Version 1.2; August, 2019
+4. Publisher National Information Technology Development Agency
+(NITDA)
+5. Type of Regulation Document Framework
+(Standard/ Policy/ Technical Specification/ Best
+Practice
+/Guideline / Framework /Policy
+Framework/Procedure)
+6. Enforcement Category Recommended
+(Mandatory/Recommended)
+7. Owner of approved regulation NITDA
+8. Target Audience All Government organisations (including Local, State and
+Federal Government); ICT Product/Service Providers for
+public institutions, Professional Bodies, Development Partners,
+and General Public.
+9. Copyrights NITDA
+10. Format PDF
+(PDF/A at the time of release of final
+Regulation)
+11. Subject (Major area of Standardization) Interoperability
+Release v1.2 ii July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Table of Contents
+Change History ................................................................................................................................................. ii
+Metadata of the Regulation .............................................................................................................................. ii
+Table of Contents ............................................................................................................................................. iii
+Foreword .......................................................................................................................................................... 1
+INTRODCUTION ............................................................................................................................................ 3
+1.1 Authority .............................................................................................................................................................. 3
+1.2 Purpose ................................................................................................................................................................. 3
+1.3 Scope and Applicability ....................................................................................................................................... 3
+1.4 Stakeholder........................................................................................................................................................... 3
+1.5 Outcome ............................................................................................................................................................... 4
+1.6 Ownership ............................................................................................................................................................ 4
+CONCEPT OF INTEROPERABILITY ........................................................................................................... 5
+2:1 Interoperability .................................................................................................................................................... 5
+2:2 Underlying Principles of Ne-GIF ......................................................................................................................... 5
+2.3 Major Technical Requirements for Achieving Interoperability ......................................................................... 6
+2.3.1 Open Standards ................................................................................................................................................................ 6
+2.3.2 Metadata and Metadata Standards .................................................................................................................................... 7
+2.4 General Requirements for e-Government/IT Interoperability ........................................................................... 8
+2.5 e-Governance Interoperability Framework ........................................................................................................ 8
+LEVELS OF INTEROPERABILITY ............................................................................................................. 11
+3.1 Organizational Interoperability ......................................................................................................................... 11
+3.1.1 Steps for the Provision of Cross-Portfolio Service........................................................................................................... 11
+3.1.2 Challenges of Organisational Interoperability ................................................................................................................. 15
+3.2 Semantic Interoperability .................................................................................................................................. 15
+3.2.1 Semantic Interoperability Assets .................................................................................................................................... 16
+3.2.2 Steps to follow by MDAs for Semantic Interoperability Assets ....................................................................................... 17
+3.3 Technical Interoperability ................................................................................................................................. 18
+3.3.1 Conceptual Model for Integrated Public Service Delivery ............................................................................................... 18
+3.3.2 Technical Interoperability Architecture Domains ............................................................................................................ 19
+3.4 Governance Structure ........................................................................................................................................ 25
+COMPLIANCE .............................................................................................................................................. 26
+4.1 Compliance Officers ........................................................................................................................................... 26
+4.2 Assessment of Compliance ................................................................................................................................. 27
+4.3 Ne-GIF Governing Committee .......................................................................................................................... 28
+4.4 Technical Working Group (TWG) .................................................................................................................... 30
+REVIEWS AND UPDATES ........................................................................................................................... 32
+Release v1.2 iii July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+APPENDIX .................................................................................................................................................... 34
+A.1 Definition of Terms ........................................................................................................................................... 34
+A.2 Interoperability Benefits ................................................................................................................................... 35
+A.3 Practical Examples ............................................................................................................................................ 35
+A.4 Open Standards Organization .......................................................................................................................... 36
+A.5 Advantage of Open Standard ............................................................................................................................ 38
+A.6 Metadata ............................................................................................................................................................ 38
+A.7 Metadata Standards .......................................................................................................................................... 38
+A.8 e-Services Channel ............................................................................................................................................ 41
+A.9 Service-Oriented Architecture, Web Services and Application Programming Language .............................. 42
+Figure 1.0: Competing Approaches to Public Administration ............................................................................. 9
+Figure 2.0: Nigerian e-Governance Interoperability Framework ............................................................... 10
+Figure 3.0: Conceptual Model for Integrated Public Service Delivery ....................................................... 19
+Figure 40: Interoperability Architectural Domains ........................................................................................... 20
+Figure 5.0: IT Infrastructure Layers ................................................................................................................. 23
+Figure 6.0: SOA concepts ................................................................................................................................ 42
+Figure 7.0: Web Services Implementation ....................................................................................................... 43
+Table 1.0 describes open metadata standards for specific focus areas. .............................................................. 38
+Table 2.0: Middleware Services ....................................................................................................................... 44
+Table 3.0. General Standards for interoperability ............................................................................................. 47
+Release v1.2 iv July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Foreword
+Deriving expected value from Information Technology (IT) requires carefully
+Approach to e-Government
+orchestrated plan, research and practically proven approaches. It has been proven
+that one of the strategic directions for e-government is to adopt a Whole-of-
+Government (WoG) approach.
+Governments are moving away from structural devolution, disaggregation and
+single-purpose organisations to more integrated approach of public service
+delivery. It is a paradigm shift toward the vision of a connected, networked, citizen-
+centered government. However, in practice, the new trend has been increasingly
+difficult to achieve. WoG involves back-end offices reengineering, consolidation
+and integration of business processes across government agencies to deliver
+effective and consolidated services, through front-end offices, at affordable cost.
+Advanced phases of service innovation cannot be achieved without integrating
+many back-office functions. For instance, citizen-centered service delivery
+involves breaking up silos, integrating across agencies, innovating new ways of
+doing business, and creating a service-focused culture.
+Effective deployment of information technology is critical to achieving WoG,
+which is an advanced e-Government concept leading to Government Digital
+Transformation (GDT). The Federal Government of Nigeria (FGN) has
+Example of National e-
+successfully deployed a few silo e-Government solutions to implement her policies
+Government Systems
+and programs. Some of the successful policies and e-Government solutions include
+in Treasury Single Account (TSA), Integrated Personnel and Payroll Information
+System (IPPIS), Government Integrated Financial Management Information
+System (GIFMIS), Bank Verification Number (BVN) among others. However, in
+spite of these laudable government initiatives, the difficulty of integration with
+other relevant e-government solutions vis-à-vis citizens’ increased demand for
+better and efficient service delivery, has clearly amplified the challenges of
+operating silos systems.
+The legitimacy of a government, in this age of knowledge economy and
+information society, requires full-scale inclusion, participation and co-creation of
+customised and personalised services for citizens. Moreover, our national
+peculiarities in terms of multi-tribal society, population, huge demand for
+Necessity for Cross-
+Portfolio Service accessible public services, new challenges of agitations, security and terrorism etc.
+demand digitally transformed governance.
+Release v1.2 1 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+All these have called for cross-portfolio service delivery by Ministries,
+Departments and Agencies (MDAs) which necessitates integrated policies and
+programs, collaborative and collective responses to social problems, promotion of
+shared infrastructure and applications, leveraging on comparative advantages of
+various agencies and maximising value from investments in e-government.
+To achieve the needed integration, there is need for a framework that guarantees
+interoperability of IT infrastructure and applications. Regrettably, Nigeria, with all
+her efforts at deploying IT infrastructure and/or e-Government systems, is yet to
+develop one.
+Therefore, the National Information Technology Development Agency (NITDA)
+whose primary mandate is to regulate and develop IT in the country as stipulated
+in the NITDA Act of 2007, has developed the Nigeria e-Government
+Interoperability Framework (Ne-GIF) to close the identified gap.
+The Ne-GIF provides tools, specifications and guidelines for supporting MDAs in
+undertaking interoperability of e-government systems for the provision of cross-
+portfolio services.
+Dr Isa Ali Ibrahim (Pantami), PhD, FNCS, FBCS, FIIM
+Director General/CEO,
+National Information Technology Development Agency (NITDA)
+August, 2019
+Release v1.2 2 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+INTRODCUTION
+Steps towards Government
+National Information Technology Development Agency is currently focusing on
+Digital Transformation
+creating an enabling IT environment for Government Digital Transformation
+(GDT) in Nigeria. Ne-GIF is one of the critical steps taken by NITDA to achieve
+the GDT. The framework specifies concepts, principles, policies,
+recommendations, standards and practices for MDAs to work together, towards the
+joint delivery of cross-portfolio services. The goal of the Ne-GIF is to ensure that
+services that require two or more MDAs’ business processes are delivered
+seamlessly and at an affordable cost, using Information and Communication
+Technology.
+1.1 Authority
+In exercise of the powers conferred on NITDA, specifically by section 6 (a) and (c)
+of the NITDA Act of 2007, the Nigerian e-Government Interoperability Framework
+(Ne-GIF) is hereby issued.
+1.2 Purpose
+The Purpose of Ne-GIF includes:
+1. To set the baseline framework for e-Government/IT systems
+interoperability across MDAs;
+2. To provide a set of standard specifications and best practices for deploying
+e-Government/IT systems by MDAs in order to ensure seamless
+information exchange; and
+3. To encourage deployment of e-Government/IT systems that promote cross-
+portfolio service provision by MDAs and ensure seamless interactions
+between government, businesses and citizens while using ICT tools for
+service delivery.
+1.3 Scope and Applicability
+The Ne-GIF is to provide guidelines and specifications that enable cross-portfolio
+service provision by MDAs. It details the principles upon which interoperability
+will be based, levels and steps for achieving interoperability, challenges of adoption
+as well as compliance measures and review processes.
+The Ne-GIF is applicable to interaction between Government to Government
+(G2G), Government to Businesses (G2B) and Government to Citizens (G2C).
+1.4 Stakeholder
+The stakeholders include:
+Release v1.2 3 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+1. Government Organizations (including Local, State and Federal
+Government);
+2. ICT Industry/ Providers of e-Services;
+3. Citizens/General Public; and
+4. Professional Bodies.
+1.5 Outcome
+It is expected that the compliance/implementation with the provision of Ne-GIF
+will enable the Nigerian Government achieve the following:
+1. Improve synergy between government organisations by promoting easy
+communication and exchange of data;
+2. Fully integrated public sector e-Government/IT systems for the provision
+of efficient cross-portfolio services;
+3. Affordable and accessible e-Government services;
+4. Seamless and smooth online interaction between government organisations,
+businesses and citizens;
+5. Increase citizens’ participation in governance; and
+6. Promote and ensure the actualization of government policies on the ease of
+doing business.
+1
+1.6 Ownership
+In view of the fact that the successful integration of all government sector and
+services will be beneficial to outlined stakeholders, all stakeholders are regarded as
+co-owners of the framework while NITDA coordinates. Hence, stakeholders are
+encouraged to work together to ensure/promote its smooth and swift
+implementation at all times in their respective organizations.
+1 The benefits of interoperability is in appendix A.2
+Practical examples of interoperability is in appendix A.3
+Release v1.2 4 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+CONCEPT OF INTEROPERABILITY
+2:1 Interoperability
+Definition of
+interoperability Interoperability is the ability of different e-Government/IT systems from various
+MDAs to interact by communicating, interpreting and exchanging information in a
+meaningful way to deliver public services that require two or more MDAs in an
+integrated manner.
+Achieving interoperability needed to deliver integrated services across MDAs
+Requirements needed to
+requires:
+achieve interoperability
+1. Identifying and agreeing on required processes;
+2. Presentation of data through IT infrastructure/applications in a standardized
+and meaningful manner; and
+3. Ability of cooperating IT infrastructure/applications to use the exchanged
+data understandably for service provision & delivery.
+Thus, MDAs that work together towards the joint delivery of public services using
+ICT must understand the above concepts and ensure that mechanisms are put in
+place to meet them.
+To achieve the above goal, MDAs are required to agree on sets of IT specifications
+to ensure technology standardization and process integration necessary for e-
+Government/IT systems interoperability.
+Since interoperability of e-Government/IT systems is a multi-agency affair, it is
+necessary to establish shared principles upon which Ne-GIF will be
+operationalised. Thus, the following section itemizes the underlying principles of
+Ne-GIF.
+2:2 Underlying Principles of Ne-GIF
+Core Principles of Ne-GIF The three (3) core underlying principles of Ne-GIF are:
+1. Information Technology Standardization;
+2. Process Integration; and
+3. Efficient Public Service Delivery.
+1. Information Technology Standardization: Leads to IT acquisition
+efficiency across MDAs, and helps government build relevant capacities to
+support resource sharing and future innovations. Achieving technology
+standardization across board will ultimately decrease the number of
+platforms deployed by the Government and reduce the cost of IT systems.
+Release v1.2 5 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+2. Process Integration: Data standardization is a pre-condition for effective
+process integration. It makes provision of services easier and seamless
+through a standardized data/information sharing and exchange mechanism.
+The objective is to make extraction of transaction data from disparate
+government applications easy and available to business processes necessary
+for public service delivery. It enables common view of public data and
+information by ensuring transparency of silo systems.
+3. Efficient Public Service Delivery: One of the ultimate objectives of Ne-
+GIF is to guarantee efficient public service delivery across Government
+Agencies. The inherent Government digital transformation entails ability of
+ICT to effectively digitize government processes to deliver excellent public
+service to citizens at affordable cost.
+Note: The sub-principles of Ne-GIF is in appendix A.10
+There is need to subject all e-Government/IT systems of MDAs to these principles.
+2.3 Major Technical Requirements for Achieving Interoperability
+To ensure interoperability across MDAs, there is need to ensure the following two
+things are observed and defined at various interoperability requirement levels.
+These are:
+Technical Requirements
+1. Adoption of Open Standards; and
+2. Metadata Standards Definition.
+Internet and WWW
+standards for
+Interoperability The main thrust of interoperability is to adopt open standards, including the Internet
+and World Wide Web specifications, for all government systems.
+The following section describes Open Standards and Metadata Standards at high
+level and how they help government organizations achieve interoperability.
+2.3.1 Open Standards
+There is no globally accepted definition of open standards. However, the following
+are essential characteristics of Open Standards:
+1. Transparent evolution and management process open to all interested
+parties;
+2 2. Approved through due process by consensus among participants;
+3
+2. The list of Open Standards Organizations is in Appendix A.4
+Advantage of Open Standards is in Appendix A.5
+3 Metadata and Metadata Standards are Explained in Appendix A.6 and A.7
+Release v1.2 6 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+3. Platform-independent, vendor-neutral and usable by unrestricted number of
+competing implementations;
+4. Openly published including specifications and documentation; and
+5. Accessible to everyone without user discrimination
+Recommendation
+The Ne-GIF recommends that MDAs greatly adopt open standards and specifically,
+use web and internet technologies for the development of e-services applications
+and platforms.
+Recommendation
+Ne-GIF recommends that Web Resources should be presented in XML/JSON
+formats
+2.3.2 Metadata and Metadata Standards
+Metadata standard is a requirement which is intended to establish a common
+understanding of the meaning or semantics of the data, to ensure correct and proper
+use and interpretation of the data by its owners and users. To achieve this common
+understanding, a number of characteristics, or attributes of the data have to be
+defined, also known as metadata. The purpose of this standard is to support
+interoperability across all MDAs for online data discovery, use and management.
+Recommendation
+The Ne-GIF recommends that the international Open Standards in table 1.0
+(Appendix A.7) for metadata standards be adopted in specific focus areas of e-
+Services implementation to ensure both machine interoperability (information
+exchange) and web resource discovery.
+Release v1.2 7 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+2.4 General Requirements for e-Government/IT Interoperability
+Technology and Human
+Factors requirement Achieving a significant result from interoperability requires considering both
+Technological and Human factors. This is evident from the requirement of
+delivering integrated service across MDAs. That is, identifying and agreeing on
+required processes (human), seamless exchange of data through IT infrastructure
+(technology) and ability of cooperating IT infrastructure to understand meaning of
+exchanged data the same way (technology) at both ends.
+Focus Areas of Hence, interoperability can be categorised into three (3) focus areas leading to
+Interoperability
+efficient digitisation of public service:
+1. Processes definition within and across MDA(s) to deliver integrated
+service;
+2. Presentation of data between disparate e-Government/IT systems in a
+standardised and meaningful manner; and
+3. Ability of cooperating e-Government/IT systems to communicate
+seamlessly and use the exchanged data understandably for efficient public
+service provision and delivery.
+These can be further categorised into three levels as follows:
+1. Organizational Interoperability: Ability of MDAs to define, implement
+and manage processes and other organisational barriers for delivering
+cross-portfolio services;
+2. Semantic Interoperability: Ability to present data in a standardized,
+shared and meaningful way to cooperating e-Government/IT systems and
+infrastructure while exchanging data; and
+3. Technical Interoperability: Ability of cooperating e-Government/IT
+Infrastructure/applications to communicate seamlessly and use the
+exchanged data understandably for public service provision and delivery.
+Therefore, achieving e-Governance interoperability requires human and
+technological factors. For the technological factor, the different technologies
+should be based on open standards and metadata definition.
+2.5 e-Governance Interoperability Framework
+In order to develop a practical e-Governance interoperability framework, above
+two major factors of interoperability for delivering integrated services across
+MDAs must be considered holistically.
+Release v1.2 8 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Approaches to public Academic literature has established that there are three competing approaches to
+administration
+public administration (Rosenbloom, 1983), namely, Managerial, Political and
+Legal approaches. At the center of these approaches lies the Public Administration,
+as shown in fig. 1.0.
+Therefore, to ensure success of e-Government projects, these three approaches
+must be balanced. That is, political interests and structure, the positions of laws and
+regulatory frameworks governing public services and the government in general as
+well as the managerial skills and tools required to bring efficiency in governance
+must be adequately managed.
+Political
+Public
+Administratio
+n
+Managerial Legal
+Figure 1.0: Competing Approaches to Public Administration
+Considering the human and technology factors in building interoperability
+framework makes it practical and sustainable. The human and technology factors
+cut across the interoperability levels from organizational to semantic and technical.
+This is shown in figure 2.0.
+Release v1.2 9 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Organizational Interoperability
+Semantic Interoperability
+Human
+Factor
+Political,
+Technical Interoperability
+Legal,
+Managerial
+Technology Factor
+Open Standards & Metadata Definitions
+Figure 2.0: Nigerian e-Governance Interoperability Framework
+Release v1.2 10 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+LEVELS OF INTEROPERABILITY
+Ne-GIF is driven by the Government Enterprise Architecture (GEA), e-
+Ne-GIF Drivers
+Government Master Plan and e-Government Strategy. These are high level
+documents and guides articulating how IT projects should be implemented in
+MDAs to record successes and achieve government digital transformation. Ne-GIF
+is one of the “how” of implementing these plans for achieving the objectives.
+Practical example of integrated service is discussed in the Appendix A.3. Such
+service necessitates interactions between different MDAs and stakeholders.
+Therefore, digitising such service also requires interoperability of cooperating IT
+infrastructure and systems. These facts guide the implementation of
+interoperability at different levels. The three levels of interoperability is discussed
+below.
+3.1 Organizational Interoperability
+Organizational interoperability ensures effective management and implementation
+of the processes required for the provision of cross-portfolio services. It identifies
+and addresses any possible barriers including data ownership issues, public service
+structure, information technology requirements and processes management etc.
+3.1.1 Steps for the Provision of Cross-Portfolio Service
+Provisioning of cross-agency service at a minimum requires the following steps:
+1. Cross Agencies Service Identification/Discovery
+This step identifies or discovers services in which their provisions require
+two or more government agencies. These services might have been provided
+manually or digitally but separately by two or more MDAs. However, such
+services should be digitized and provided in an integrated manner.
+On the other hand, sub-service of Agency ‘A’ required to provide integrated
+service by Agency ‘B’ can be accessed by Agency ‘B’ through a web
+service/ open API of Agency ‘A’.
+Initiating Cross-Agency An interested MDA or any stakeholder can initiate cross Agency service if
+Services
+such service is going to benefit citizens, businesses (promoting ease of doing
+business) and the Country at large.
+2. Identification of Service provisioning MDAs
+Release v1.2 11 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Providing integrated service requires identification of MDAs and/or third
+party(ies) involved. Cooperation and buy-in among MDAs is critical to the
+success of other steps. Knowing the MDAs involved and their
+responsibilities is very germane to cross-agency service provision.
+3. Cross Processes Identification and Definition
+This step identifies and defines cross processes required by disparate MDAs
+to provide the cross-agency service. Each MDA involved must specifically
+spell out processes to be digitised from its end. These processes are sub-
+processes to be integrated with other sub-processes by the cooperating
+MDAs. The processes can be described in narrative terms and/or as a graphic
+flow.
+4. Process Agreement
+This step facilitates cooperation between the participating MDAs and
+defines the role of each participating stakeholders.
+The issue around process agreement is that it is human in nature. It involves
+active engagement of participating MDAs to agree on how to carry out the
+process automation of the sub-processes from individual MDAs. The
+engagement could happen through the governance structure discussed in
+chapter four (4).
+Issues to be resolved in Basically, the following issues should be resolved in the process agreement:
+Process Agreement
+a. Data Ownership
+b. Users Identification
+c. Legal issues
+d. Needed IT infrastructure/Applications
+e. Standard Operating Procedures
+f. Service Level Agreements
+g. Process hand-over mechanisms
+h. Compliance guideline and check-list
+i. Change Management (Change Management plan should be
+developed)
+5. Process Standardization
+This step identifies Open Standards required to aid sub-processes integration
+and interoperability between disparate MDAs.
+This calls for the use of Business Process Management (BPM) concepts and
+standards. The goal of BPM Standards is to ensure reusability, definitional
+clarity, interoperability and portability.
+Release v1.2 12 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Open Standards for Process Process standardisation also aims at unifying process procedures for a
+Standardization
+common service across MDAs that use different steps/methods to
+accomplish. This makes it easier to integrate data across systems. Mainly, it
+relies on Business Process Modeling Language Notation (BPMN) as the
+open standard for coordinating the sequence of processes and the messages
+that flow between different processes across various MDAs in a related set
+of activities.
+BPMN maps directly to Business Process Execution Language (BPEL)
+which is a standard/formal method of computation for dynamic processes. It
+ensures that business processes can be directly mapped to any business
+modeling executable languages for immediate execution. BPEL is XML-
+based language used to define enterprise business processes within Web
+services.
+6. Process Digitisation and Automation
+Process Automation steps The identification of Open Standards required for process standardisation
+makes automation/digitisation of related processes easier as outlined below:
+a. Process Design: Process Design encompasses both the identification
+of existing as-is processes, business process re-engineering and the
+design of "to-be" processes. This includes identifying processes that
+can be candidate for automation, outlining the different activities that
+constitute each of the processes, identifying areas of improvement if
+any, redesigning how the work is accomplished to reduce costs and
+better meet the MDA’s vision, document the “to-be” design in Open
+Standards models and tools to ensure proper process management.
+This should appropriately indicate process flow and the actors within
+it. Where the internal sub-process involves sub-process from other
+MDA(s), this should be indicated in the design of the process flow.
+Prototyping Business b. Process Modeling: This stage includes selection of Open Standard
+Modelling
+tools and implementation of a prototype business process.
+Prototyping also helps to identify the different roles that will be
+involved in the process, specific milestones and most importantly,
+any sub-processes that may be candidate for re-usability.
+c. Process Automation: At this stage, the development of end-to-end
+automated process will commence alongside any other
+functionality(ies) that may be required for visibility and automation.
+Process automation entails complete visualisation and simulation of
+Release v1.2 13 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+the sub-processes which can be replicated at the software/application
+design and development stage.
+d. Process Execution: This stage includes process integration and
+quality assurance. It involves integration of the cooperating sub-
+processes to provide integrated service(s) and assurance(s).
+This stage entails connecting cooperating MDAs databases,
+applications or systems including legacy systems, Enterprise
+Resource Planning (ERP) systems and Customer Relationship
+Management (CRM) software etc. At this stage the integrated
+process shall be ready for deployment in the production
+environment.
+e. Business Process Monitoring: This stage focuses on monitoring the
+behavior of the automated business process between the cooperating
+MDAs in order to identify areas where there are bottlenecks and to
+delineate a remediation of performance issues, bug fixes, alongside
+the identification of future enhancements.
+f. Business Process Optimization: This stage refers to ensuring that
+remediation of issues identified during the monitoring stage are
+addressed; and that any area(s) of improvement in the process are
+modified in order to meet integrated service provision needs.
+Note: The first three stages are performed by each cooperating MDA to
+Responsibilities of
+automate its sub-processes needed to deliver the integrated services.
+cooperating MDAs
+The cooperating MDAs jointly implement the rest of the stages having
+followed Open Standards at each stage.
+Ne-GIF recommends the above automation stages based on BPM
+Recommendation lifecycle, the use of Business Process Modeling Language Notation
+(BPMN) and Business Process Execution Language (BPEL) at each
+stage.
+7. Service Provision
+Service provision is the last step for provision of cross-agency service. At
+this stage, the integrated process is ready to be deployed in the production
+environment.
+Ne-GIF recommends the use of Service-Oriented Architecture (SOA) and
+Recommendation
+Web Service approaches.
+Release v1.2 14 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+3.1.2 Challenges of Organisational Interoperability
+Organisational level interoperability involves much more human element than
+technology. The issues around public service institutions structure and culture,
+territories and the claim of overlapping functions must be addressed properly in
+order to achieve meaningful interoperability.
+At organisational level, the following challenges should be addressed:
+Addressing Organizational
+Interoperability Challenges 1. Data Ownership: who owns, secures, utilises data should be defined and
+agreed to by the cooperating MDAs. In addition, the challenges around who
+pays for service, payment sharing formula and infrastructure requirements
+etc. should be resolved at the organisational level;
+2. Additional budget for interoperability compliance must be taken into
+consideration;
+3. Non-transparent processes and resistance to change to new process and data
+from existing process should be managed properly through a change
+management process;
+4. Political and legal matters should be resolved around provision of particular
+integrated service; and
+5. Skills and expertise required should be provided through capacity building
+and awareness creation on the importance of interoperability.
+3.2 Semantic Interoperability
+Semantic interoperability is perceived as a key aspect on the road to e-government
+integration and improved service quality. It takes advantage of both the
+structuring and the codification of the data exchange including vocabulary so that
+the receiving systems can interpret the data the same way.
+Semantic integration of e-government services means all relevant information
+processed or shared is based on successful mediation and/or translation of the
+end-to-end meaning to service providers or users (citizens, businesses, the
+Government service providers) as well as e-Government/IT applications.
+According to the part two of Data Interoperability Standards, 4 Semantic
+interoperability includes:
+1. The ability of organisations to understand exchanged data in a similar way;
+2. The ability of software systems to make adequate use of data received from
+other software systems;
+3. How the elements of the data structures exchanged are related to real world
+objects, relations and events;
+4 http://nitda.gov.ng/wp-content/uploads/2018/05/data-interoperability-standards.pdf
+Release v1.2 15 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+4. Exchange of information about the context of data i.e. relations, operations
+and functioning in general; and
+5. Exchange of metadata between organisations/agencies
+It also states that Semantic Interoperability is achieved when:
+1. Data exchange partners have a shared understanding of the meaning of
+shared data;
+2. Data exchanges adhere to the shared understanding; and
+3. Data is exchanged without misinterpretations.
+Federal MDAs that wish to provide cross portfolio service aimed at integrating
+different web resources containing service information from legacy systems and
+Data Ownership and
+Maintenance making it accessible via a single platform should leave the data and its maintenance
+with the owner organisations.
+The following steps articulate how MDAs can achieve semantic interoperability
+for cross-agency service provision and e-Government integration.
+3.2.1 Semantic Interoperability Assets
+Broadly, Semantic Interoperability assets focus on packaging of data (syntax) and
+the transmission of the meaning with the data (semantics). It deals with the
+Data Structure and
+Interpretation structure of data while semantic interoperability asset explains how data should be
+interpreted.
+1. Syntactic assets relate to the Schemas building block and their main role is to
+define data structures in a formal fashion. This includes schemas (XML
+Schema Building Blocks
+compatible format) and metadata schemas. The syntactic level of
+interoperability is the first stage in achieving semantic interoperability
+because it provides a level of formalization around known data subjects.
+This is usually achieved by creating asset repositories for common schemas
+and establishing a public sector wide policy for their use. This is addressed at
+the data layer of the technical interoperability.
+2. Semantic assets relate to the Data Standards Catalogue building block and
+their main role is to provide a central terminology to ensure that data elements
+are interpreted in the same way by communicating parties. These assets
+denote information resources that have been created in order to ensure the
+interoperability of information systems. Semantic assets for semantic
+interoperability are divided as follows:
+a. Dictionaries
+b. Thesauri
+c. Nomenclatures
+Release v1.2 16 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+d. Taxonomies
+e. Mapping tables
+f. Ontologies
+g. Service registers.
+Note: The semantic interoperability in this chapter focuses more on the semantic
+assets while the data layer in technical interoperability section addresses syntax
+assets.
+3.2.2 Steps to follow by MDAs for Semantic Interoperability Assets
+1. Cross-Agency Service Information Analysis: In this step, related information
+about the integrated service to be provided by two or more MDAs are
+collected and analysed. It details the collection and analysis of what, who,
+where (MDAs locations), time, channels, nature, requirements, specifications,
+processes and law/regulations etc. of the service.
+This step can be accomplished by the specification of scenario and use cases,
+describing in a free-text form. The free-text should be transformed into a more
+structured table format containing identified information needs and the
+corresponding service(s) as well as what the service users need to do in order
+Generating Structured Data
+to obtain the service.
+The table containing service entities should be modelled using Unified
+Modelling Service Entities Modelling Language (UML) to produce workflow modeling schemas
+& Recommendation
+having also considered the BPMN.
+2. Create Glossary of Topics & Terminologies: This step creates a glossary that
+contains all relevant topics and terms needed for describing the services in
+question. Each entry should provide a short description of the topic, how it
+relates to other terms and the corresponding informational needs.
+Ne-GIF recommends Metadata standards specified in interoperability
+concept (in Appendix A.7: table 1.0) as standards for service topic &
+Recommendation
+terminologies descriptions.
+3. Create Controlled Vocabulary and Group Related Terms: Based on the
+glossary, a controlled vocabulary should be created. Each service and general
+topic to be described should be represented by a main term and possibly
+additional related terms. All items of the controlled vocabulary should be
+grouped through defined relations into hierarchical subgroups. This is a form
+of classification for related elements called Taxonomy.
+Release v1.2 17 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Note: Establishing control vocabulary for each cross-agency service will
+gradually help develop national standard vocabulary. This is a bottom up
+National ICT-enabled
+vocabulary approach for populating Standard National ICT-enabled service
+vocabulary.
+4. Design an Ontology: Ontology fixes the meaning of the terms and their
+relations in a formal way. Informal description in the glossary should be
+verified to ascertain its reflection of the formal meaning (and vice versa).
+Ne-GIF recommends Web Service Modeling Ontology (WSMO) as standards
+Recommendation
+to provide an ontology based framework, which supports the deployment and
+interoperability of Semantic Web Services.
+5. Implement Semantics: The implementation of the ontology is the use of the
+above constructs for service description and operation (e.g. creating service
+profiles in WSMO). Web Service Modelling Language (WSML) provides
+syntax and semantics for Web Service Modeling Ontology (WSMO). 5
+Recommendation Ne-GIF recommends WSML to provide syntax and semantics for WSMO
+3.3 Technical Interoperability
+Technical Interoperability examines the technological pieces linking information
+systems. It includes interface specifications, secure communication protocols;
+interconnection services, data presentation and exchange, application and data
+integration for integrated public service provision.
+The purpose of technical interoperability is to utilise series of technical standards
+and specifications to combine a variety of infrastructure, applications and services
+to achieve interoperability in e-Governance systems and platforms.
+3.3.1 Conceptual Model for Integrated Public Service Delivery
+The conceptual model for integrated public service provision is necessary for
+specifying a clear view of the components constituting the integrated environment,
+supported by interoperability requirements and procedures. The conceptual model
+promotes the idea of interoperability by design. The model is depicted at figure 3:
+5 A formalized WSML representation of the ontology, containing all the definitions (concepts, classes) of services, goals, and life events, can
+be produced as a result of the 5-step procedure. Then, service(s) can be meaningfully implemented using applications built on Open Standard
+technologies such as Java, C++, Python, Ruby, PHP etc. using the ontology developed. Implemented services can be collated to form national
+service register in which its services can be reused.
+Release v1.2 18 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Multi-Channels for Public service Underlying
+Principles
+Integrated Services Openness
+Reusable
+St andard
+Se curity Shared Applications
+Reusable
+Shared Data
+Privacy
+Standardized IT Infrastructure Openness
+Figure 3.0: Conceptual Model for Integrated Public Service Delivery
+For Federal MDAs services to be interoperable, they should be designed in
+Recommendation
+accordance with the above model and in line with the Ne-GIF underlying
+principles.
+The following technical interoperability architecture domains should be observed
+in order to ensure cooperating e-Government/IT infrastructure/applications
+communicate seamlessly. It will also ensure that the exchanged data is used
+understandably for public service provision following the organisational and
+semantic interoperability requirements and specifications. The technical
+interoperability architecture domains to be observed are discussed in the following
+section.
+3.3.2 Technical Interoperability Architecture Domains
+The technical interoperability architecture domains build organising logic for data,
+applications and infrastructure captured in a set of relationships, technical standards
+and choices to achieve desired technical standardisation and integration.
+The critical interoperability architecture domains considered for effective
+interoperability of e-Government/IT systems are: channel, service, application,
+data, infrastructure and security. These to some extent are captured and aligned
+with The Open Group Architecture Framework (TOGAF), a widely accepted
+architecture domains for enterprise architecture. It covers Business, Data,
+Application and Technology Architecture excluding channel and security.
+Release v1.2 19 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+The business layer is likened to the organisation interoperability domain which has
+already been described in the organisational interoperability section of the
+document.
+Channel (Multi-Channel)
+Integrated
+Service
+Reuse & Open Standards
+Service Service
+Reuse & Open Standards
+Application Application
+Reuse & Privacy
+Data Data
+Open Standards
+IT Infrastructure IT Infrastructure
+Security
+Figure 40: Interoperability Architectural Domains
+In this context, the Government Enterprise Architecture (GEA) represents the WoG
+architecture while technical interoperability architecture represents a ‘‘solution-
+specific’’ architecture that deals with the necessary building blocks required to
+offer the integrated service in question. The five major architectural domains are
+being specified to meet technology interoperability requirements for providing
+integrated services by two or more MDAs.
+3.3.2.1 Channel
+Channels are interface through which integrated public services are delivered. They
+are critical to the success of e-Governance and multi-channel service delivery
+should be a design consideration. The adoption of multi-channel for integrated
+service is a prerequisite to service accessibility, convenience and delivery at
+Release v1.2 20 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+affordable cost. All the channels are expected to be interoperable with one another
+and with whatever devices being used by the service takers.
+Ne-GIF recommends the following channels: Common Service Centers,
+Recommendations
+Website/Portal, Mobile Platform and Government Contact/Call Centre to form part
+of the integrated service. 6
+Ne-GIF recommends the following for channels:
+MDAs should adhere to Standard and Guidelines for Government Websites by
+NITDA. In addition, adherence to Open Web Platform by W3C is recommended;
+and
+MDAs should adhere to Standards for Web Applications on Mobile by W3C
+3.3.2.2 Service
+The service architectural domain is very crucial to integrated service provision.
+It is recommended that most integrated services should be provided through the
+Recommendation
+Web using the Internet as a communication medium because of its openness,
+advancement and wide adoption. Making services available over the web using
+internet as a communicating medium brought the concept of Service-Oriented
+Architecture (SOA) and Web Services. 7
+Every MDA should adopt Open Standard for the development of APIs for
+Recommendation accessing its infrastructure/applications/services.
+The Ne-GIF recommends the adoption of REST Approach for implementing web
+Recommendation
+services because of the flexibility the approach.
+Recommendation Ne-GIF recommends that the message from service consumer to provider and vice
+versa should be presented in XML. 8 9
+3.3.2.3 Application
+Middleware In addition to SOA and Web Services for web-based integrated service provision,
+integration of standalone enterprise applications software and legacy systems can
+be achieved through Middleware. Example of Middleware services include
+enterprise application integration (EAI), data integration, message oriented
+6. Explanation on e-Services Channels are in Appendix A.8
+7 Explanation on SOA, Web Services and APIs is in Appendix A.9
+8 SOAP and REST are explained in Appendix A.9
+9 XML and JSON are explained in Appendix A.9
+Release v1.2 21 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+middleware (MOM), object request brokers (ORBs), and the enterprise service bus
+(ESB).
+The table 2.0 in the Appendix A.9 provides category of middleware services that
+Recommendation
+could be used by MDAs for applications interoperability.
+Furthermore, Middleware facilitates and manages the interaction between
+applications across heterogeneous computing platforms and acts as an abstraction
+layer that hides complexities of building distributed applications. It supplies
+services facilitating data exchange in a standardised format.
+The table 3.0 in the Appendix lists the types of middleware with examples and brief
+Types of Middleware description of each. Any of these identified middleware can be adopted depending
+on the need and requirements. The overall framework is the same but architecture
+and deployment varies.
+3.3.2.4 Data
+Data is the only component of interoperability architecture that passes through the
+fabric of ICT, powers the applications and enables the provision of services. It is
+the most important component of the interoperability architecture.
+To provide a cross portfolio service, data is exchanged between cooperating
+MDAs’ e-Government/IT infrastructure and applications.
+The data from each MDA should be structured based on standards to guarantee
+Recommendation
+seamless exchange of information. This implies that uniform data schemas should
+be followed.
+Majorly, these schemas are standard XML and metadata schemas. They
+determine the data attributes for “core” data assets such as a “Person” (Name, NIN,
+Date of Birth, Phone Numbers etc.) or an “Organization” (Name, Sector, Address
+Recommendation
+etc.). The common schemas are the syntactic requirements of data interoperability.
+The syntactic level of interoperability is the first stage in achieving semantic
+interoperability because it provides a level of formalisation around known data
+Syntactic Requirements
+subjects. This is usually achieved by creating asset repositories for common
+schemas and establishing a public sector wide policy for their use.
+For syntactic interoperability to be achieved, Ne-GIF recommends adherence to
+related areas of PART three (3) to six (6) of Data Interoperability Standards,
+Recommendation
+2016. 10
+10 http://nitda.gov.ng/wp-content/uploads/2018/05/data-interoperability-standards.pdf
+Release v1.2 22 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+3.3.2.4 IT Infrastructure
+The IT infrastructure layer of interoperability architecture includes the combination
+of Hardware, Operating System, Network and Database components. The
+figure 5.0 presents the components of IT infrastructure as defined by Ne-GIF.
+Database
+Operating
+System (OS)
+IT
+Infrastructure
+Network
+Hardware
+Figure 5.0: IT Infrastructure Layers
+The goal of the IT infrastructure interoperability architecture is to ensure that
+IT Infrastructure Goal
+cooperating IT infrastructure deployment from participating MDAs use exchanged
+data understandably for the provision of integrated or cross portfolio services.
+To achieve the goal, IT infrastructure deployment must be based on certain
+specifications. The specifications for IT infrastructure are stated in the figure 7.0.
+Database Specifications
+Recommendation Ne-GIF recommends adoption of:
+1. Any Relational Database Management System (RDBMS) that supports ANSI
+standard Structured Query Language (SQL) as a standard language for access;
+2. Any Non-Relational Database Management System (Non-RDBMS), based on
+specific requirement(s), that supports Structured Query Language (SQL) and
+other Not-Only SQL (NoSql) query languages;
+3. The deployed Database Management System by MDAs should support
+standard Application Programming Interface (API) for database access. e.g.
+Open Database Connectivity (ODBC)
+Release v1.2 23 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Operating System Specifications
+Recommendation Ne-GIF recommends MDAs should use Operating Systems (OS) that is compliant
+with Portable Operating System Interface (POSIX) standards. Examples of such
+OS are Unix, Linux, Windows, MacOS and Android etc.
+Network Specifications
+Recommendation
+Ne-GIF recommends that MDAs should ensure:
+1. Communication networks (LAN, WLAN, WAN etc.) are built based on
+TCP/IP Model & Protocols;
+2. Networks support open standards (e.g. wired, wireless and security standards)
+and open standard protocols; and
+3. Network equipment supports configuration with open standard protocols.
+Hardware Specifications
+Recommendation
+Ne-GIF recommends that MDAs should ensure that hardware to be deployed:
+1. is compatible with the POSIX compliant Operating Systems;
+2. is compliant with Standards Interfaces (e.g. USB, SATA, Ethernet etc.);
+3. is upgradable to support future requirements; and
+4. supports installation of Open Standards Software (e.g. Middleware)
+3.3.2.5 Security
+Security domain defines the security services that are required at each domain of
+Security Layer
+interoperability architecture model. Security layer cuts across all technical
+interoperability layers. It includes standards, protocols and technologies needed to
+secure exchange of information as well as secure access to public sector
+information and services.
+Majorly, security measures must guarantee confidentiality, integrity and
+Security Services availability of information and information systems. These are fundamental
+security services and interoperability efforts must not compromise them. The
+services entail encryption of data, public key infrastructure standards supporting
+the use of public and private encryption and decryption keys, digital signatures,
+and secure transmission protocols. It also includes storing, using, and safekeeping
+identity information for users, citizens, employees, and resources.
+To achieve minimum interoperability security standards, Ne-GIF recommends that
+Recommendation MDAs should adhere to the following specifications:
+1. Security equipment deployed for e-Government systems support open
+security protocols and standards;
+2. Security is designed into IT/e-Government systems with interoperability as a
+key consideration;
+Release v1.2 24 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+3. Adherence to the National Information Systems and Network Security
+Standards and Guidelines;
+4. Observe NITDA’s Data Protection Guidelines; and
+5. Comply with international Public Key Infrastructure (PKI) standards.
+3.4 Governance Structure
+To properly govern the three levels of interoperability, there is need to adopt Ne-
+GIF governance structure.
+Ne-GIF recommends the following governance structure:
+Recommendation
+1. Ne-GIF Governing Committee (NGC): The Committee is responsible for
+overseeing and supervising the entire process of cross-agency/cross-portfolio
+e-Service delivery. The Committee will work to ensure all standards are
+complied with.
+2. Technical Working Group (TWG): The group is responsible for actual
+implementation of the Ne-GIF and report to the NGC as and when required.
+Release v1.2 25 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+COMPLIANCE
+The development and acceptance of the Ne-GIF by all stakeholders, without
+adequate compliance, cannot on its own achieve its purpose. Thus, it is crucial that
+the Ne-GIF be backed up with adequate compliance by stakeholders.
+Achieving interoperability in line with the Ne-GIF simply connotes stakeholders’
+The Need for Compliance compliance with the provisions of the Ne-GIF.
+4.1 Compliance Officers
+As co-owners of the Ne-GIF, all stakeholders are expected to work towards and
+ensure the effective implementation of the framework. Thus, each stakeholder in
+carrying out their respective mandates, responsibilities and duties are urged to
+monitor, encourage and ensure compliance with the provisions.
+In view of the above, the following officers in stakeholders’ organizations shall be
+Core compliance officers
+the core compliance officers:
+1. IT Heads and IT Systems Managers of MDAs should be primarily
+responsible for ensuring compliance with the provisions of the Ne-GIF
+since they are responsible for the actual implementation of the technical
+provisions. Thus, they are required to critically study, understand and
+ensure that their respective organizations comply with the technical
+provisions.
+This will enable them to adequately recommend specifications for IT
+systems procurements and installations as well as for the upgrade of old
+systems in line with the provisions of the Ne-GIF. Also, it will enable them
+effectively implement all approved IT projects in accordance with approved
+specifications.
+2. Heads of MDAs and Heads of e-Government Units/Departments are
+responsible for the approval of IT projects on behalf of their MDAs and
+Departments/Units. Hence, they should be responsible for ensuring
+compliance with the provisions of the framework. Thus, they are expected
+to carefully study and understand the Ne-GIF as well as ensure that all
+projects are in conformity with the provisions of the framework before
+approval.
+3. Government IT Projects Approving Bodies such as IT Clearance body
+of NITDA, all government procurement departments/units, Bureau of
+Release v1.2 26 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Public Procurement and Federal Executive Council etc., as gate keepers to
+government projects, are similarly responsible for ensuring compliance
+with the provisions of the Ne-GIF because of their strategic positions. They
+are urged to therefore study, understand and ensure compliance with the
+technical provisions of the framework.
+Where it is discovered by these approving bodies that a proposed project
+is likely to contravene the provisions of the Ne-GIF, approval should be
+withheld/denied and the applicant should be advised to comply.
+Aside the above compliance officers/bodies, the following can also assist with
+ensuring compliance with the Ne-GIF:
+1. E-Government/e-Business Strategists who work with and for government
+are urged to study, understand and comply with the provisions of the Ne-
+GIF. Failure to ensure that e-government/e-business strategies developed
+are in conformity with the framework will result in the refusal of such
+initiative as well as non-committal of government funds in support of such
+strategy.
+2. Applications developers’ who are keen on working with or for any
+government organization in the development of their systems, should also
+study, understand and comply with the provisions of the Ne-GIF. An
+application which does not comply with the technical provisions of the
+framework will not be accepted or sponsored by the government.
+3. All ICT Providers who intend to transact business with government or
+assist government organizations with the implementation of its projects
+should ensure that all systems solutions proposed to government are in
+conformity with Ne-GIF.
+4.2 Assessment of Compliance
+Ne-GIF Compliance
+Assessment To ascertain the status of stakeholders’ compliance with the provisions of the Ne-
+GIF, there is need to regularly carry out MDAs system assessment to determine
+conformity with the provisions of the framework as well as ascertain if it violates
+any of its specifications.
+It is recommended that this assessment should be carried out annually by
+stakeholders in their various organizations and a status report of compliance be
+submitted to the Ne-GIF Governing Committee on or before the 31st of January
+following the year of assessment. This will enable them measure and assess
+overall stakeholders’ compliance with the framework.
+Release v1.2 27 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+4.3 Ne-GIF Governing Committee
+Establishment of Ne-GIF
+To ensure the proper monitoring of implementation and compliance with the
+Governing Structure
+provisions of the framework, there shall be:
+1. Established a Working Committee which shall be known as ‘Ne-GIF
+Governing Committee’.
+Ne-GIF Governance 2. The Ne-GIF Governing Committee shall consist of the following:
+Structure Members
+a. A Coordinator
+b. The Head of IT or e-Government Department/Unit from each of the
+following organizations:
+a. A Coordinator
+b. The Head of IT or e-Government Department/Unit from each of the
+following organizations:
+I. Federal Ministry of Communication
+II. National Information Technology Development Agency
+III. Office of the Secretary General of the Federation
+IV. Federal Ministry Finance
+V. Nigeria Communications Commission
+VI. National Identity Management Commission
+VII. National Population Commission
+VIII. Nigerian Immigration Services
+IX. Central Bank of Nigeria
+X. Federal Mortgage Bank
+XI. Nigeria Social Insurance Trust Fund
+XII. National Bureau of Statistics
+XIII. Independent National Electoral Commission
+XIV. Federal Inland Revenue Services
+XV. Joint Tax Board
+XVI. Corporate Affairs Commission
+XVII. National Health Insurance Scheme
+XVIII. Office of the Security Adviser
+XIX. Federal Road Safety Corps
+XX. Pension Commission
+XXI. Nigerian Police Force
+Release v1.2 28 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+XXII. Nigerian Prison Service
+XXIII. Galaxy Backbone
+XXIV. Budget office of the Federation
+XXV. National Lottery Regulatory Commission
+XXVI. Nigeria Communication Satellite
+XXVII. Bureau of Public Procurement
+XXVIII. Presidential Enabling Business Environment Council (PEBEC)
+XXIX. Chairman, Committee of ICT Directors of Tertiary Institutions
+c. However, where an organization has the Head of IT department/unit and
+Head of e-Government Department/unit, the Head of e-Government
+Department/Unit alone shall be a member of the Ne-GIF Governing
+Committee.
+d. One IT professional in the Governing board from each of the following
+Professional Bodies:
+i. Computer Professional (Registration Council) of Nigeria
+(CPN)
+ii. Nigeria Computer Society (NCS)
+e. One IT professional in the Management Cadre from each of the
+following:
+i. Nigeria Inter-Bank Settlement System (NIBSS)
+ii. Organized Private Sector
+f. Three IT professional to be drawn from the Private Sector
+3. Considering the strategic mandate of NITDA in developing framework,
+Coordinating Ne-GIF
+Governing Structure standards, guidelines and policy for the ‘development of electronic
+governance and monitoring the use of electronic data interchange and
+other forms of electronic communications transactions’11 as well as for the
+‘standardization, application, coordination, monitoring and evaluation of
+information technology practices, activities and systems in Nigeria’12,
+NITDA (through a representative from its e-Government Development and
+Regulation Department) shall be the Coordinator of the Committee.
+4. A third of the members of Ne-GIF Governing Committee and the
+Coordinator or his/her representatives shall constitute a quorum.
+5. The Committee shall amongst other related things:
+11 Section 6(c) of the NITDA Act 2007.
+12 Section 6(a) of the NITDA Act 2007.
+Release v1.2 29 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Monitor stakeholders’ compliance with the provisions of the
+framework.
+a. Meet annually to assess the compliance level of stakeholders with the
+provision of the framework.
+b. Coordinate (where necessary) or assist in the development, promotion
+and adoption of standards, guidelines and policies that will help ensure
+the actualization of the purpose of this framework.
+c. Coordinate the review and update of the framework in line with the
+provision the Ne-GIF.
+4.4 Technical Working Group (TWG)
+Setting up MDAs’ TWG 1. All MDAs are encouraged to set up in-house TWG that will:
+a. Ensure that all IT projects and initiatives are in compliance with the
+provisions of the Ne-GIF;
+b. Provide timely advise to their Management on the need to carry out
+Ne-GIF compliance assessments annually;
+c. Initiate and implement cross-agency services as the need arises;
+d. Submit to Ne-GIF Governing Committee, a report on the status of Ne-
+GIF compliance assessment carried out within their organization, on
+or before the stipulated 31st of January date through the Head of IT or
+e-Government; and
+e. Escalate challenges, suggestions, innovations and ambiguities etc.
+encountered in the process of implementing the Ne-GIF to the Ne-GIF
+Governing Committee through the Head of IT or e-Government.
+2. The TWG should be made up of at least 5 persons to be drawn from both
+the IT and/or e-Government departments/units.
+3. The TWG should be headed by either the Head of e-Government or IT
+department/unit.
+4. However, where an organization has both the Head of IT department/unit
+and Head of e-Government Department/unit, the TWG should be headed
+by the Head of e-Government department/Unit while the Head of IT
+department should be made a member of the TWG.
+5. Upon the creation of the TWG, the details of its members should be
+communicated to the Ne-GIF Governing Committee.
+6. All communications from the TWG to the Ne-GIF Governing Committee
+should be through the Head of the TWG.
+4.5 Challenges to Compliance
+1. This framework is subject to the willingness of stakeholders to comply with
+laid down specifications, policies and standards. Therefore, compliance by
+stakeholders cannot be compelled but can be merely encouraged. In view
+Release v1.2 30 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+of the above, there is a need to develop an enforceable guidelines and
+standards to ensure compliance to the provision of this framework.
+2. Similar to the above challenge, the assessment of stakeholders’ compliance
+is dependent on their ability to carry out the required annual assessment and
+their willingness to submit a report to the TWG. The TWG cannot properly
+assess the level of compliance if stakeholders fail or lacks the capacity to
+effectively assess their level of compliance with the provisions of this
+framework or refuse to submit the required report or submit falsified report
+to the TWG.
+3. No MDA is allowed to make expenditure in a fiscal year without an
+approved budgetary provision. In view of this, MDAs are encouraged to
+make appropriate budgetary provisions for projects that are initiated to
+ensure compliance with the provisions of Ne-GIF.
+Release v1.2 31 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+REVIEWS AND UPDATES
+In consideration of the fast changing nature of IT, it is expedient that the Ne-GIF
+remains up to date and in conformity with best international requirements/standards
+Ne-GIF Review at all time as well as have the capacity to adequately provide for new technologies
+and market developments. In view of the above, there is need for the framework to
+be reviewed and updated (where necessary) from time to time.
+The framework will be reviewed and updated biennially (i.e. every two years) or
+Ne-GIF Review Procedure
+whenever there is an urgent need for review. The following shall be considered
+urgent for the purpose of review before the set biennial review period:
+1. Where it is observed and recommended by the Ne-GIF Governing
+Committee that key technical provisions of the framework should be
+reviewed and updated due to the fact that they are obsolete or impossible to
+implement by stakeholders.
+2. Where any document(s) relied on for the development of this framework
+has been substantially reviewed such that it affects the provisions of this
+framework.
+3. Where a more efficient and cost effective way of improving integration is
+developed and it is substantially different from the recommended technical
+specifications contained in the framework.
+Where a review is requested or has become necessary in line with any of the
+above requirements, the Ne-GIF Governing Committee will:
+1. Constitute a Sub-Committee to critically review the Framework and come
+up with a revised/updated draft.
+2. The revised/updated draft will be presented to the Ne-GIF Governing
+Committee for consideration and approval for presentation to all
+stakeholders for further consideration and adoption.
+3. The Ne-GIF Governing Committee shall organize a stakeholders meeting
+for the consideration, approval and adoption of the revised/updated draft.
+4. Upon approval and adoption, the document shall be published as the extant
+framework and labeled as a higher version of the Ne-GIF i.e. 2.0, 3.0 and
+4.0 etc.
+5. However, where the proposed review is minor and not likely to drastically
+affect the implementation of the framework, there will be no need to
+organize a stakeholders meeting. Such minor alterations versions of the
+framework will upon approval by the Ne-GIF Governing Committee be
+labeled as sub versions of the existing version of the framework i.e. 2.1, 2.2
+and 2.3 etc.
+Release v1.2 32 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+THIS INSTRUMENT IS HEREBY ISSUED ON THE 2ND DAY OF
+AUGUST, 2019
+BY THE NATIONAL INFORMATION TECHNOLOGY
+DEVELOPMENT AGENCY (NITDA)
+…..………………………
+Dr Isa Ali Ibrahim (Pantami) PhD, FNCS, FBCS, FIIM
+Director General/ CEO
+Chief Information Technology of Nigeria.
+Release v1.2 33 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+APPENDIX
+A.1 Definition of Terms
+The terms used in this Framework are defined as follows:
+Information Technologies refer to the use of computing technologies such as
+networking, hardware, software, the Internet etc. to create, process, store, secure
+and exchange all forms of electronic data for the providing service(s).
+e-Government is the use and application of information technologies in
+government activities to streamline and integrate workflows and processes,
+effectively manage data and information, enhance public service delivery, as well
+as expand communication channels for engagement and empowerment of people.
+Whole-of-Government (WoG) denotes public service agencies working across
+portfolio boundaries to achieve a shared goal and an integrated
+government response to particular issues through the use of ICT.
+Government Digital Transformation (GDT) denotes advanced WoG. It means
+Nigerian Government transformation that is ICT-enabled for the purpose of citizen-
+driven service delivery and empowerment; transparent and efficient government
+with ultimate goal of a sustainable national economic, political and social
+transformation.
+MDA means Ministries, Departments, Extra-Ministerial Departments and
+Agencies of Government at Federal, State and Area Council levels.
+Government Enterprise Architecture is a Blueprint and Framework for
+efficiently re-architecting and aligning Nigerian Government’s Processes,
+Information Technology, People and other enterprise driving factors for the
+purpose of achieving Government Digital Transformation Agenda.
+A service is a well-defined function emanating from a set of processes provided by
+a government agency within its jurisdiction to stakeholders using Information and
+Communication Technology tools as a delivery medium.
+Service-oriented architecture (SOA) references a set of principles and
+methodologies applied by software engineers to design and develop software in the
+form of interoperable services.
+The Internet is the global system of interconnected computer networks that use
+the Internet protocol suite (TCP/IP) to link devices worldwide
+The web or World Wide Web is a global collection of documents and other
+resources from Internet servers that support specially formatted documents and
+linked resources by hyperlinks and Uniform Resource Identifiers (URIs).
+Release v1.2 34 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Extensible Markup Language (XML) is a universal markup language format that
+defines a set of rules for encoding documents in a format that is both human-
+readable and machine-readable (i.e. representation and transfer of structured data
+on the web or between different applications)
+A web service is any piece of software that makes itself available over the internet,
+uses a standardised XML messaging system and describes a standardized way of
+integrating Web-based applications using the XML, SOAP or REST, WSDL and
+UDDI open standards over an Internet protocol backbone.
+An Application Programming Interface (API) is a programmatic and
+standardised interface consisting of one or more publicly exposed endpoints to a
+defined request–response message system, typically expressed in JSON or XML,
+which is exposed via the web—most commonly by means of an HTTP-based web
+serve.
+Simple Object Access Protocol (SOAP) is a messaging protocol specification
+based on XML for exchanging structured information in the implementation of web
+services in computer networks
+REpresentational State Transfer (REST) is an architectural style for developing
+web services or design pattern for APIs based on several web and internet
+standards.
+The Open Group Architecture Framework (TOGAF) is a framework for
+enterprise architecture that provides an approach for designing, planning,
+implementing, and governing an enterprise information technology architecture.
+A.2 Interoperability Benefits
+It is expected that using the Ne-GIF will:
+1. Increase efficiency, flexibility and the value of existing investments in e-
+Government/IT systems;
+2. Promote seamless exchange of data between Ministries, Departments, and
+Agencies (MDAs);
+3. Encourage transparent view in common government processes;
+4. Promote shared e-Government/IT infrastructure, applications and services;
+5. Ensure technology discipline in IT deployment by MDAs;
+6. Ensure integrity and security of shared data and processes;
+7. Promote competition among IT suppliers and encourage provision of
+innovative e-services by MDAs; and
+8. Minimize the cost of e-Government/IT investments and prevent vendor
+lock-in.
+A.3 Practical Examples
+Release v1.2 35 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+The scenario considered in this example is that of a procurement process for IT
+projects in which bidders are expected to submit the under listed documents to the
+procurement Units/Departments of MDAs as part of the requirement:
+Procurement Process as an 1. Certificate of incorporation with CAC
+example of Cross-Portfolio
+Service 2. Proof of filing of CAC annual returns (where applicable)
+3. Tax Clearance from FIRS
+4. Proof of Registration by NITDA
+5. Bureau of Public Procurement (BPP) Contractor registration
+6. Nigeria Social Insurance Trust Fund (NSITF) Certificate
+7. Industrial Training Fund (ITF) Certificate
+8. Value Added Tax (VAT) Registration
+9. PENCOM Certificate.
+In order to comply with the above requirement, bidders spend time and resources
+moving from one MDA to the other to acquire the required documents in
+preparation for the bid.
+Similarly, the procurement units/departments of MDAs follow similar
+cumbersome process to ascertain the veracity and authenticity of the above
+documents submitted by bidders’.
+With proper implementation of Ne-GIF by concerned MDAs, procurement in
+Nigeria will be more efficient as time and cost spent by both bidders and
+government to obtain and verify the required documents respectively will be
+reduced to the barest minimum through an integrated platform. Similarly, it will
+help reduce the volume of paper work associated with the procurement process and
+eliminate cost of storage of hard copies submitted by bidders which needs to be
+kept safe by the procuring organization for a certain minimum duration of time.
+Bidders would only need to quote their various certificate numbers while MDAs
+verify their claims with the click of a button.
+The goal of the Ne-GIF is to ensure that services that require two or more MDAs’
+business processes are delivered seamlessly and at an affordable cost, using ICT.
+A.4 Open Standards Organization
+The following are essentially identified as organizations that proffer open standards
+that ensure interoperability.
+1. The Internet Engineering Task Force (IETF);
+2. Object Management Group (OMG);
+3. World Wide Web Consortium (W3C);
+4. The Open Group;
+5. Organization for the Advancement of Structured Information Standards
+(OASIS); and
+6. Institute for Electronic and Electrical Engineers (IEEE)
+Release v1.2 36 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Government IT systems should be open; open to the people and MDAs that use
+public services and to any service provider. The ability of MDAs to freely connect
+and communicate with one another through information technology is an
+indispensable tool for public administration modernisation and effective public
+service delivery around the world.
+Prevalent interoperability across varying government information systems can only
+be achieved through reliance upon standard technology interfaces that establish
+clear rules for communicating and understanding of shared and exchanged
+information. Information/data shared appropriately across MDAs without loss of
+integrity, reduces the need to hold duplicate data and supports efficient service
+Standard Technology delivery.
+Interface and Rules for
+Communicating
+Opportunities for exploiting information significantly increase when it is made
+available in standardised, structured and linkable formats. ICT standardisation and
+interoperability are preconditions for the uptake of digital innovations. In modern
+ICT, the service value of a device relies on the ability to communicate with other
+devices.
+Standardisation is the process by which specifications are set while specifications
+ensure that products made by different manufacturers are able to interoperate, and
+users are offered the chance to pick and mix products or services of different
+suppliers.
+The exchange of information between two or more government organizations
+would be easier and seamless if each application is developed using web and
+internet technologies where information/services are exchanged/consumed through
+standard APIs.
+Web and internet technologies are developed based on Open Standards.
+Realistically, most e-services should be built on web and internet technologies
+because of their ability to present and ensure exchange of data in a standardized
+and meaningful way to disparate IT infrastructure/applications. For instance, XML
+and JSON are languages/notation for presenting data in a standard, structured and
+application-specific format. In principle, data expressed in XML or JSON is
+portable between applications since it is self-describing and any operation on a
+resource can be invoked using one of the GET or POST methods. In essence, they
+provide programmatic interoperation and access to data on the web.
+In addition, web and internet based technologies such as web services, Application
+programming Interface (API), Service-Oriented Architecture (SOA) etc., provide
+Release v1.2 37 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+means of meaningfully and programmatically exposing data to applications as well
+as consuming data for efficient e-services delivery.
+A.5 Advantage of Open Standard
+Implementing Open Standards principles across MDAs for E-Government/IT
+ensure MDAs support the delivery of:
+1. An efficient and interoperable ICT environment;
+2. A level playing field for open source and proprietary software providers
+competing for government IT contracts;
+3. Improved flexibility and ability for government to collaborate with
+businesses, Non-governmental organizations to deliver effective public
+service to the citizens; and
+4. A more sustainable cost in MDAs IT projects
+A.6 Metadata
+Metadata is a set of data that describes and gives information about other data.
+Metadata is information about web resources such as data and it is structured in a
+manner that facilitates understanding of meaning, discovery and retrieval of
+resources (data) on the World Wide Web etc.
+A.7 Metadata Standards
+Defining a common Metadata Standard will help citizens and businesses find
+government information and resources more easily. Metadata standards have been
+developed to support both machine interoperability (information exchange) and
+web resource discovery by human users of the Web and applications. It would
+greatly help at the service and application layer when information is combined and
+exchanged between different applications to deliver public service.
+Table 1.0 describes open metadata standards for specific focus areas.
+Name Focus Description URL
+e-GMS (UK Government The e-Government http://www.govtalk.
+Governmen Metadata Standard (E- gov.uk:80/schemasst
+t) GMS) defines the metadata andards/draftschema.
+elements for information asp
+resources to ensure Visited last: 28
+maximum consistency of
+February, 2018)
+OR
+metadata across public
+sector organizations
+Release v1.2 38 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+http://www.govtalk.
+gov.uk:80/rfc/default
+.asp
+Last Visited: 28
+February, 2018)
+Dublin Core Networked Dublin Core - interoperable http://dublincore.org/
+resources online metadata standard Last Visited: 28
+February, 2018)
+focused on networked
+resources.
+ISO/IEC Software ISO/IEC 19506 Standard https://www.iso.org/
+19506 Systems called Knowledge standard/32625.html
+Discovery Metamodel is an Last Visited: 28
+February, 2018)
+ontology for describing
+software systems. The
+standard provides both a
+detailed ontology and
+common data format for
+representing granular
+software objects and their
+relationships enabling the
+extractions such as data
+flows, control flows, call
+maps, architecture,
+database schemas, business
+rules/terms and the
+derivation of business
+processes. Used primarily
+for legacy and existing
+systems security,
+compliance and
+modernization
+Release v1.2 39 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+ISO 19115 Geographic The ISO 19115:2003 https://www.iso.org/
+data Geographic information. standard/53798.html
+Metadata standard defines Last Visited: 28
+February, 2018)
+how to describe
+geographical information
+and associated services,
+including contents, spatial-
+temporal purchases, data
+quality, access and rights to
+use. It is maintained by the
+ISO/TC 211 committee.
+RDF (W3C) Web General method for https://www.w3.org/
+resources conceptual description or 2001/sw/wiki/RDF
+modeling of information OR
+that is implemented in web https://www.w3.org/
+resources, using a variety DesignIssues/Metad
+of syntax formats. ata
+Last Visited: 28
+February, 2018)
+ISO/IEC Organizatio ISO/IEC 11179 Standard https://www.iso.org/
+11179 ns that describes the metadata standard/35346.html
+and activities needed to
+Last Visited: 28
+manage data elements in a
+February, 2018)
+registry to create a common
+understanding of data
+across organizational
+elements and between
+organizations.
+NITDA Data Data Interoperability http://nitda.gov.ng/w
+Structure Standards p-
+and content/uploads/201
+8/05/data-
+Release v1.2 40 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Standardizat interoperability-
+ion standards.pdf
+The WSMO has four main components:
+Goals- The MDAs customers’ objectives when consulting a Web Service.
+Ontologies- A Formal Semantic description of the information used by all other
+components.
+Mediators- Connectors between components with mediation facilities. Provides
+interoperability between different ontologies.
+Web Services- Semantic description of Web Services. It may include functional
+(Capability) and usage (Interface) descriptions;
+A.8 e-Services Channel
+1. Common Service Center: These are designated ICT centers or channels
+where common government services can be provided. It is a suitable service
+delivery model for the educational sector and rural dwellers.
+2. Website/Portal: This is online channel for providing informational and
+transactional e-services to the public. Web portals present an effective way
+to integrate applications, people, and businesses by two or more MDAs to
+offer a unique point of access to services for users.
+3. Mobile Platform: Integrated service delivery through mobile platforms in
+Nigeria is very efficient in terms of coverage, convenience, affordability
+and accessibility. To ensure interoperability, the choice of open standard
+approach is critical. For instance, the choice of open standard approach for
+mobile apps development will allow MDAs provide (a) unique user
+experience (b) versatile support and integration that allows mobile apps
+to be built and deployed to any channel and (c) agility and innovation
+through efficient government-wide mobility.
+4. Government Contact/Call Center: Delivery of integrated service through
+call centers can be a feasible model in Nigerian context. They are centers
+where government customers can make direct calls to request for services
+and information. However, the centers must be built on standards to ensure
+interoperability of systems between the centers and customers’ choice of
+devices hardware and operating systems.
+Release v1.2 41 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+A.9 Service-Oriented Architecture, Web Services and Application
+Programming Language
+The concept of SOA and web service is a major enabling technology for the
+provision of an integrated service. They enable two or more entirely different or
+similar applications from same or separate platforms to communicate with one
+another over the web. By this, interoperability of cooperating IT applications from
+two or more MDAs to provide integrated service is feasible.
+SOA is a solution for making two software/applications communicate with each
+other to exchange information. Web Service is the implementation of Service
+Oriented Architecture (SOA). In web service and SOA concepts, services are
+exposed through Application Programming Interfaces (APIs). API helps to
+achieve seamless connectivity. An API opens up an interface through which
+application of an Agency A can connect to application of an Agency B or more to
+exchange information/data for the purpose of providing a service.
+There are two methods of implementing Web Services: Simple Object Access
+Protocol (SOAP) and Representational State Transfer (REST). The concepts of
+SOA, Web Services and API are explained through the following diagram.
+MEDIUM:
+HTTP/INTERNET
+REST Implementation:
+SOAP
+FORMAT: XML/JSON Medium: HTTP (POST,
+I mplementation:
+GET, PUT, DELETE,
+M edium: HTTP ….)
+(POST) Format:
+Format: XML XML/JSON/TEXT,…
+RESPONSE
+CLIENT
+SERVER
+Service Consumer
+Service Provider
+REQUEST
+Figure 6.0: SOA concepts
+Two major software enable the implementation of web service. They are service
+provider and service consumer. A web service provider develops/implements the
+application (web service) and makes it available over the internet (web) through an
+Release v1.2 42 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+API while a web service consumer uses/consumes web service provided by the
+service provider through the same API.
+A web service provider publishes and communicates service description in a
+directory using Web Service Description Language (WSDL). The consumer
+queries the directory to locate a service and find out how to communicate with the
+provider. For online services, where service provider and service consumer do not
+know each other, web service provider (through WSDL) publishes its services in
+an online directory called Universal Description, Discovery and Integration
+(UDDI)
+Messages are sent and received from the directory using SOAP or REST methods.
+Service provider and consumer talk to the directory for service and service
+description respectively using either SOAP or REST.
+SERVICE
+DIRECTORY
+(WSDL)
+(UDDI)
+REST REST
+Request (XML)
+CLIENT
+SERVER
+Service
+Service Provider Consumer
+Response (XML)
+Figure 7.0: Web Services Implementation
+Message communication (request and response) between service consumer and
+provider is carried out in XML. XML format makes the interface
+technology/implementation independent.
+Release v1.2 43 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Table 2.0: Middleware Services
+S/N Services Description Situation/ Technology
+Example Method/
+Standards
+1 Enterprise An integration For integrating Mediation (Intra-
+Application framework of silo IT/e- communication)-
+Integration composed of a Government acts as the go-
+(EAI) collection of software/applicat between or broker
+technologies ions across between multiple
+and services MDAs. (Where applications
+which form a identical data are and Federation
+middleware or stored in (Inter-
+"middleware different communication)-
+framework" to applications); acts as the
+enable vendor overarching facade
+integration of independence across multiple
+processes, and Common applications.
+systems and facade
+applications
+across an
+enterprise.
+2 Data Data integration Databases Creation of
+Integration involves harmonization/m Mediated Schema
+combining data erger between (Virtual Database).
+residing in two or more This interfaces with
+different MDAs source databases
+sources and via
+providing users wrappers/adapters
+with a unified
+view of them.
+Release v1.2 44 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+3 Message- MOM is For It is Publish/
+Oriented software or interaction/integr Subscribe based
+Middleware hardware ation of MDAs messaging
+(MOM) infrastructure software exchange system
+supporting components e.g. Advanced
+sending and (applications, Message Queuing
+receiving servlets etc.) that Protocol (AMQP),
+messages have been MQ Telemetry
+between developed Transport (MQTT),
+distributed independently Object
+systems. It and that run on Management
+provides a layer different Group’s Data
+that allows networked Distribution
+software platforms to Service (DDS),
+components that provide eXtensible
+have been integrated Messaging and
+developed services. Presence Protocol
+independently It allows (XMPP) etc.
+and that run on distributed
+different applications to
+networked communicate
+platforms to and exchange
+interact with one data by sending
+another. and receiving
+messages
+4 Object ORB allows For bridging Common Object
+Request program calls to MDAs Request Broker
+Broker be made from heterogeneous IT Architecture
+(ORB) one computer to systems/platform (CORBA), Internet
+another via a s. It can be used Communications
+computer in an integrated Engine (ICE), etc.
+Release v1.2 45 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+network, service provision
+providing where
+location applications and
+transparency services installed
+through remote on MDA A’s
+procedure server can be run
+calls. It provides on MDA B’s
+a framework client
+which enables
+remote objects
+to be used over
+the network, in
+the same way as
+if they were
+local and part of
+the same
+process.
+5 Enterprise ESB To provide Commercial:
+Service Bus implements a reusable of IBM Websphere
+(ESB) communication common or Message Broker
+system between disparate IT- Integration Bus,
+mutually enabled public Window Azure
+interacting services by Service Bus etc.
+software different MDAs Open-Source:
+applications in a Apache Camel,
+service-oriented Fuse ESB, Open
+architecture ESB etc.
+(SOA) based on
+client-server
+model.
+Release v1.2 46 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+Table 3.0. General Standards for interoperability
+Standard Purpose/Description URL
+XML XML is a software- and https://www.w3school
+hardware-independent tool for s.com/xml/default.asp
+storing and transporting data.
+The XML standard is a flexible
+way to create information
+formats and electronically share
+structured data via the public
+Internet, as well as via corporate
+networks.
+XSD XML Schema https://www.w3school
+or XML schema definition s.com/xml/schema_int
+(XSD) defines the element in an ro.asp
+XML document. It can be used to
+verify if the elements in the xml
+document adheres to the
+description in which the content
+is to be placed.
+WSDL Web Service Description https://www.w3.org/T
+Language (WSDL) is specific R/2007/REC-wsdl20-
+type of XML document which 20070626/
+describes the web service. It is an
+XML language for describing
+Web services. WSDL itself
+adheres to a XSD
+SA-WSDL AWSDL defines a set of https://www.w3.org/T
+extension attributes for the Web R/sawsdl/
+Services Description Language
+(WSDL) and XML Schema
+definition language. Application
+Release v1.2 47 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+of the attributes shall allow for
+description of additional
+semantics of WSDL components
+RDF RDF is a standard model for data https://www.w3.org/R
+interchange on the Web. RDF has DF/
+features that facilitate data
+merging even if the underlying
+schemas differ, and it specifically
+supports the evolution of
+schemas over time without
+requiring all the data consumers
+to be changed. It allows
+structured and semi-structured
+data to be mixed, exposed, and
+shared across different
+applications.
+OWL The W3C Web Ontology https://www.w3.org/O
+Language (OWL) is a Semantic WL/
+Web language designed to
+represent rich and complex
+knowledge about things, groups
+of things, and relations between
+things.
+UML Unified Modeling Language http://www.uml.org/w
+(UML), is a standardized hat-is-uml.htm
+modeling language consisting of
+an integrated set of diagrams,
+developed to help system and
+software developers for
+specifying, visualizing,
+constructing, and documenting
+the artifacts of software systems,
+Release v1.2 48 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+as well as for business modeling
+and other non-software systems.
+It was developed to forge a
+common visual language in the
+complex world of software
+development that would also be
+understandable for business users
+and anyone who wants to
+understand a system.
+XMI Metadata Interchange (XMI) is https://www.omg.org/
+an Object Management Group spec/XMI/About-
+(OMG) standard for exchanging XMI/
+metadata information via
+Extensible Markup Language
+(XML).
+Specifically, XMI is intended to
+help programmers using the
+Unified Modeling Language
+(UML) with different languages
+and development tools to
+exchange their data models with
+each other. In addition, XMI can
+also be used to exchange
+information about data
+warehouses.
+A.10 Sub-Principles of Ne-GIF
+The following 10 sub-principles of the core underlying principles of Ne-GIF:
+Sub Principles of Ne-GIF
+1. Openness: Openness is based on the use of open standards. It also entails
+the use of standard protocols and interface. The openness of e-
+Government/IT systems can be determined primarily by the degree to
+which new resource-sharing services can be added and be made available
+Release v1.2 49 July, 2019
+Nigerian e-Government Interoperability Framework (Ne-GIF) Release V1.2
+for use by a variety of client programs without compromising service
+delivery.
+2. Portability: Ability of an application developed for an e-Government
+System A to be executed, without modification, on a different e-
+Government System B that implements the same interfaces.
+3. Transparency: Provision of effective and consistent services by bringing
+together resources, processes and data that currently exists across multiple
+silos.
+4. Flexibility: Refers to ability of information systems to adapt to current
+situation and needs without compromising the overall objective of
+interoperability. In that, it makes it easy to configure the system out of
+different components (possibly from different developers) and add new
+components or replace existing ones without affecting those components
+that stay in place.
+5. Accessibility: Ensures e-Government/IT resources of one Agency are
+reachable and useable in a secure manner by other permitted government
+Agencies for the purpose of public service delivery.
+6. Reusability: Indicates ability of e-Government resources (e.g. Software
+Components, Application Programming Interfaces, Standards etc.) and
+common processes to be reused across MDAs.
+7. Security: Ensures reliable exchange of information between e-
+Government/IT systems in conformity with established Government
+security standards and policies.
+8. Privacy: Ensures government information systems guarantee the
+confidentiality of information of government, businesses and citizens as
+stated in the appropriate data protection and privacy policies or guidelines.
+9. Scalability: The ability of government information systems to handle a
+growing amount of work in a capable manner or its capability to increase
+its total output under an increased load, when resources (typically
+hardware) are added.
+10. Heterogeneity: Refers to ability of e-Government/IT systems to
+interoperate effectively irrespective of various types of network devices and
+networks, computer hardware, operating systems, programming languages
+and implementation by different developers.
+Release v1.2 50 July, 2019

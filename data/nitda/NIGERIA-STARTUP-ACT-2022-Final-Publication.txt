@@ -1,0 +1,1172 @@
+Nigeria Startup Act, 2022 2022 No. 32 A 1043
+Extraordinary
+Federal Republic of Nigeria
+Official Gazette
+No. 188 Lagos - 21st October, 2022 Vol. 109
+Government Notice No. 116
+The following is published as supplement to this Gazette :
+Act No. Short Title Page
+32 Nigeria Startup Act, 2022 .. .. .. .. .. .. .. .. A1045-1069
+Printed and Published by The Federal Government Printer, Lagos, Nigeria
+FGP 154/102022/1,200
+Annual Subscription from 1st January, 2022 is Local : N50,000.00 Overseas : N65,000.00 [Surface Mail]
+N80,000.00 [Second Class Air Mail]. Present issue N3,500 per copy. Subscribers who wish to obtain Gazette
+after 1st January should apply to the Federal Government Printer, Lagos for amended Subscriptions.
+A 1044 2022 No. 32 Nigeria Startup Act, 2022
+Nigeria Startup Act, 2022 2022 No. 32 A 1045
+NIGERIA STARTUP ACT, 2022
+ARRANGEMENT OF SECTIONS
+Section :
+PART I — OBJECTIVES AND APPLICATION OF THE ACT
+1. Objectives.
+2. Application.
+PART II — ESTABLISHMENT OF THE NATIONAL COUNCIL FOR DIGITAL
+INNOVATION AND ENTREPRENEURSHIP
+3. Establishment of the National Council for Digital Innovation and
+Entrepreneurship.
+4. Membership of the Council.
+5. Tenure of office of members of the Council.
+6. Cessation of membership.
+7. Functions and powers of the Council.
+8. Council agent.
+PART III — OPERATIONAL STRUCTURE OF THE COUNCIL
+9. Secretariat of the Council.
+10. Startup Support and Engagement Portal.
+11. Appointment of a Coordinator of the Startup Portal.
+12. Startup Consultative Forum.
+PART IV — STARTUP LABELLING PROCESS
+13. Eligibility for grant of a startup label.
+14. Procedure for labelling a startup.
+15. Issuance of a labelling certificate.
+16. Obligations of labelled startup.
+17. Withdrawal of startup label.
+18. Reissuance of startup label.
+PART V — STARTUP INVESTMENT SEED FUND
+19. Establishment of Startup Investment Seed Fund.
+20. Functions of the Fund Manager.
+A 1046 2022 No. 32 Nigeria Startup Act, 2022
+PART VI — TRAINING, CAPACITY BUILDING AND TALENT DEVELOPMENT
+21. Training and capacity building.
+22. Talent development.
+23. Support of academic research institutions.
+PART VII — TAX AND FISCAL INCENTIVES
+24. Incentives for a labelled startup under the Pioneer Status Incentive
+Scheme.
+25. Additional tax reliefs.
+26. Access to export facilities.
+27. Access to government grants, loans and facilities.
+28. Credit Guarantee Scheme.
+29. Incentives and reliefs for investors investing in a labelled startup.
+PART VIII — COLLABORATION WITH REGULATORS
+30. Collaboration with the Corporate Affairs Commission.
+31. Protection of intellectual property rights.
+32. Crowdfunding.
+33. Transfer of foreign technology.
+34. Obtaining licences for a financial technology startup.
+35. Participation of a labelled startup in regulatory sandboxes.
+36. Listing of startups on exchanges.
+37. Repatriation of capital and profits.
+PART IX — ACCELERATORS AND INCUBATORS
+38. Accelerator and incubator programmes.
+39. Incentives for accelerators and incubators.
+PART X — CLUSTERS, HUBS, INNOVATION PARKS AND TECHNOLOGY
+DEVELOPMENT ZONES
+40. Establishment of clusters, hubs and innovation parks.
+41. Functions of the clusters, hubs and innovation parks.
+42. Establishment of Technology Development Zones.
+PART X — MISCELLANEOUS PROVISIONS
+43. Data protection.
+44. Power of the President to give directives of general character.
+45. Power to make regulations or guidelines.
+46. Pre-action Notice.
+47. Interpretation.
+48. Citation.
+SCHEDULE
+Nigeria Startup Act, 2022 2022 No. 32 A 1047
+NIGERIA STARTUP ACT, 2022
+ACT No. 32
+AN ACT TO ESTABLISH THE NATIONAL COUNCIL FOR DIGITAL INNOVATION AND
+ENTREPRENEURSHIP, PROVIDE FOR THE CREATION AND DEVELOPMENT OF AN ENABLING
+ENVIRONMENT FOR TECHNOLOGY-ENABLED STARTUPS IN NIGERIA ;
+AND FOR RELATED MATTERS
+[19th Day of October, 2022] Commence-
+ment.
+ENACTED by the National Assembly of the Federal Republic of Nigeria—
+PART I — OBJECTIVES AND APPLICATION OF THE ACT
+1. The objectives of this Act are to — Objectives.
+(a) provide a legal and institutional framework for the development of
+startups in Nigeria ;
+(b) provide an enabling environment for the establishment, development
+and operation of startups in Nigeria ;
+(c) provide for the development and growth of technology-related
+talents ; and
+(d) position Nigeria’s startup ecosystem, as the leading digital technology
+centre in Africa, having excellent innovators with cutting edge skills and
+exportable capacity.
+2. This Act applies to — Application.
+(a) companies incorporated under the Companies and Allied Matters
+Act
+Act and granted the startup label, in accordance with the provisions of this
+N0. 3, 2020.
+Act ; and
+(b) organisations and establishments, whose activities affect the creation,
+support and incubation of labelled startups in Nigeria.
+PART II — ESTABLISHMENT OF THE NATIONAL COUNCIL FOR DIGITAL
+INNOVATION AND ENTREPRENEURSHIP
+3.—(1) There is established the National Council for Digital Innovation Establishment
+and Entrepreneurship (in this Act referred to as “the Council”). of the
+National
+(2) The Council — Council for
+Digital
+(a) shall be a body corporate with perpetual succession and a common seal ;
+Innovation
+(b) may sue or be sued in its corporate name ; and and
+(c) may acquire, hold, purchase, mortgage and deal with property, Entrepreneur-
+ship.
+movable or immovable, real or personal.
+A 1048 2022 No. 32 Nigeria Startup Act, 2022
+Membership 4.—(1) The Council shall consist of —
+of the
+(a) the President of the Federal Republic of Nigeria, who shall serve as
+Council.
+the Chairman ;
+(b) the Vice-President of the Federal Republic of Nigeria, who shall
+serve as the Vice-Chairman ;
+(c) the Minister responsible for Communications and Digital Economy,
+who shall preside over the Council in the absence of the President and the
+Vice-President ;
+(d) the Minister responsible for Finance, Budget and National Planning;
+(e) the Minister responsible for Industry, Trade and Investment ;
+(f ) the Minister responsible for Science, Technology and Innovation ;
+(g) the Governor of the Central Bank of Nigeria (CBN) ;
+(h) four representatives of the Startup Consultative Forum established
+under section 12 of this Act ;
+(i) one member to represent the Nigeria Computer Society ;
+(j) one member to represent the Computer Professionals (Registration
+Council of Nigeria) ; and
+(k) the Director-General of the National Information Technology
+Development Agency, who shall serve, as the Secretary of the Council.
+Schedule. (2) The supplementary provisions set out in the Schedule to this Act
+shall have effect with respect to the proceedings of the Council and other
+matters mentioned in it.
+Tenure of 5.—(1) A member of the Council who is an ex-officio member shall
+office of cease to hold the office on the basis of which he became a member of the
+members of Council, where his term of office expires.
+the Council.
+(2) A member of the Council, other than an ex-officio member, shall hold
+office —
+(a) for a term of two years and may be eligible for re-appointment for
+another term of two years and no more ; and
+(b) on such terms and conditions as may be specified in the letter of
+appointment.
+(3) A member of the Council other than an ex-officio member shall —
+(a) be a person of proven integrity ; and
+(b) have at least than 10 years cognate experience in public or private
+service.
+Nigeria Startup Act, 2022 2022 No. 32 A 1049
+6.—(1) Notwithstanding the provisions of section 5 of this Act, a member Cessation of
+of the Council shall cease to hold office where — membership.
+(a) he resigns his office by giving a one month notice in writing under his
+hand addressed to the President ;
+(b) he dies ; and
+(c) the Council by resolution declares the seat vacant because he —
+(i) has been absent from the Council meetings for four consecutive
+times without the permission of the Council,
+(ii) becomes incapable of carrying out his duties due to physical or
+mental illness,
+(iii) has been declared bankrupt or he makes compromise with his
+creditors,
+(iv) has been convicted of a felony or any offence involving dishonesty,
+(vi) is guilty of gross misconduct relating to his duties, or
+(vii) is not or ceases to be permanently resident in Nigeria.
+(2) Notwithstanding the provisions of subsection (1), the President may
+remove a member of the Council if he is satisfied that it is not in the interest of
+the Council, Secretariat or public for the person appointed to continue in office.
+(3) Where a vacancy occurs in the membership of the Council in the
+case of non-ex-officio members, the President shall appoint a successor to
+hold office for the remainder of the term of office of his predecessor and the
+successor shall represent the same interest as that member whose exit created
+the vacancy.
+7.—(1) The Council shall — Functions
+and powers
+(a) formulate and provide general policy guidelines for the realisation of
+of the
+the objectives of this Act ;
+Council.
+(b) give overall directions for the harmonisation of laws and regulations
+that affect a startup ;
+(c) approve the programmes of the Secretariat established under this
+Act ;
+(d) ensure the monitoring and evaluation of the regulatory framework
+to encourage the development of startups in Nigeria ;
+(e) monitor and ensure the implementation of the policies and
+programmes of the Secretariat ;
+(f ) support digital technological development through grants to persons,
+research institutions, and universities pursuing postgraduate programmes in
+the areas of science, technology and innovation ;
+A 1050 2022 No. 32 Nigeria Startup Act, 2022
+(g) make, alter or revoke rules and regulations for carrying out the
+functions of the Secretariat, subject to the provisions of this Act ;
+(h) appoint a Council agent to carry out such functions as the Council
+may require ; and
+(i) perform other functions as are necessary or expedient to ensure the
+efficient performance of the functions of the Secretariat and other bodies
+established under this Act.
+(2) The Council shall have power to —
+(a) review policies and directives of Ministries, Departments and
+Agencies (MDAs) which may affect the operation, establishment and
+investments in a startup ; and
+(b) regulate its proceedings and make standing orders with respect to
+the holding of its meetings, notices to be given, the keeping of minutes of its
+proceedings and such other matters as the Council may determine.
+8.—(1) The Council shall appoint for such period, as it may deem fit, a
+Council
+agent. Council agent, who shall act in accordance with any general or specific
+directions of the Council towards the effective monitoring and implementation
+of the provisions of this Act.
+(2) The Council agent shall be responsible for submitting quarterly
+monitoring reports and annual reports to the Council, on the status of the
+programmes being implemented under this Act.
+PART III — OPERATIONAL STRUCTURE OF THE COUNCIL
+Secretariat of 9.—(1) The National Information Technology Development Agency
+the Council. shall serve as the Secretariat of the Council (in this Act referred to as “the
+Secretariat”), and the Director-General of the National Information Technology
+Development Agency shall serve as its Head.
+(2) The Secretariat shall —
+(a) manage the process of labelling a startup, as provided under this Act ;
+(b) establish public online platforms and other platforms to provide access
+to information on matters pertaining to the establishment and development
+of a startup, incubation, acceleration and venture building programmes,
+access to fiscal and non-fiscal support ;
+(c) collaborate with relevant MDAs and other stakeholders to promote
+innovation in digital technology, and enterprise development for a startup in
+Nigeria ;
+(d) ensure that the National Digital Innovation, Entrepreneurship and
+Startup Policy (NDIESP) of the Secretariat is implemented for the
+development of the startup ecosystem ;
+Nigeria Startup Act, 2022 2022 No. 32 A 1051
+(e) enter into partnerships with local and international business incubators,
+accelerators and digital innovation hubs to promote the establishment and
+growth of a startup in Nigeria, subject to the approval of the Council ;
+(f ) maintain a directory of startups, incubators, and accelerators ;
+(g) support research and development activities relating to digital
+technology innovation undertaken by a startup ;
+(h) support the growth and expansion of private sector-led incubator
+and accelerator programmes ;
+(i) support the growth and promote the commercialisation of local
+research and development on digital innovation by startups ;
+(j) develop mechanisms for pre-incubation of entities and, provide training
+and capacity building programmes for a startup ;
+(k) develop, establish, support and incentivise digital technology
+innovation hubs, digital technology parks and community enterprise hubs in
+Nigeria ;
+(l) develop, implement, and monitor guidelines for setting up digital
+technology innovation hubs, digital technology parks and community
+enterprise hubs in Nigeria ;
+(m) foster synergy between startups and angel investors, venture
+capitalists, private equity firms, private investors, development finance
+institutions, global asset management firms, financial institutions,
+research institutions and other related institutions at the national and
+international level ;
+(n) enter into partnerships to promote startup development with angel
+investors, venture capital firms, private equity firms, development financial
+institutions, and other relevant funding organisations ;
+(o) review proposals, policies and programmes addressed to the Council ;
+(p) collaborate with the National Universities Commission, National Board
+for Technical Education and other tertiary institutions regulatory bodies, to
+provide adequate facilities for research, and promote multi-disciplinary
+collaboration among universities, polytechnics, and research institutions ;
+(q) advise the Council on issues affecting startups and digital technology
+innovation entrepreneurship in Nigeria, and matters connected with the
+implementation of this Act ; and
+(r) discharge other duties, as may be required by the Council.
+10.—(1) The Secretariat, with the approval of the Council, shall establish Startup
+a Startup Support and Engagement Portal (in this Act referred to as “the Support and
+Engagement
+Startup Portal”) which shall serve as a platform through which a startup
+Portal.
+conducts registration process with relevant MDAs.
+A 1052 2022 No. 32 Nigeria Startup Act, 2022
+(2) The Startup Portal shall —
+(a) facilitate the issuance of a permit or licence to a labelled startup ;
+(b) provide platform for interaction between a startup and the Federal
+Government, private institutions, angel investors, venture capitalists,
+incubators, accelerators and other relevant institutions ;
+(c) create opportunities for a startup to participate in beneficial challenges
+and programmes including, incubation and accelerator programmes,
+showcases, pitch competitions, fellowships, and other related programmes ;
+(d) foster access of a startup to finance, information, innovation, and
+the global market ;
+(e) foster information exchange between various stakeholders in the
+Nigerian startup ecosystem ;
+(f ) provide access to tools and resources to a startup ;
+(g) provide assistance to a startup labelled under this Act ;
+(h) provide information on clearances, approvals and registration
+requirements by a startup ;
+(i) provide opportunities for a startup to enter into contracts with the
+Federal Government, through public procurement or other engagement
+processes ;
+(j) receive complaints and recommendations from industry stakeholders
+and the general public ;
+(k) serve as a platform for announcement and application of various
+schemes and incentives granted to a startup by the Federal Government ;
+and
+(l) discharge other duties, as may be required by the Council or the
+Secretariat.
+Appointment 11.—(1) The Secretariat shall, with the approval of the Council, appoint
+of a a Coordinator for the Startup Portal, who shall have at least 10 years’
+Coordinator experience in technology and entrepreneurship.
+of the
+Startup (2) The Coordinator shall —
+Portal.
+(a) maintain a register of labelled startups in Nigeria ;
+(b) keep relevant documents and records of labelled startups ;
+(c) implement the decisions of the Council on the labelling of a startup
+under this Act ; and
+(d) perform such other functions, as may be necessary for the
+implementation of this Act.
+Nigeria Startup Act, 2022 2022 No. 32 A 1053
+(3) The Coordinator shall serve —
+(a) for a term of two years and may be re-appointed for another term of
+two years, and no more ; and
+(b) on such terms and conditions, as may be specified in the letter of
+appointment.
+(4) The operations of the Coordinator shall be funded from the
+Secretariat’s annual budget.
+12.—(1) The Secretariat shall, with the approval of the Council, set up a Startup
+consultative body known as the Startup Consultative Forum (in this Act referred Consultative
+to as “the Forum”) on the Startup Portal to provide a platform for information Forum.
+sharing and collaboration in the Nigerian startup ecosystem with respect to —
+(a) information on a startup which qualifies to be labelled under this Act ;
+(b) relevant incentives that apply to a startup ;
+(c) information on available local capabilities ;
+(d) nomination of representatives to the Council ;
+(e) deliberations on memorandum to be sent to Council for
+consideration ; and
+(f ) other policy proposals that may be relevant to the Nigerian startup
+ecosystem.
+(2) The Forum shall comprise of industry stakeholders and representatives
+registered on the Startup Portal from —
+(a) labelled startups ;
+(b) venture capitalists ;
+(c) angel investors ;
+(d) incubators, accelerators, and innovation hubs ; and
+(e) two civil society organisations involved in the advancement of
+technology and innovation.
+PART IV — STARTUP LABELLING PROCESS
+13.—(1) A startup label under this Act is a certificate issued by the Eligibility
+Secretariat to a startup upon the fulfilment of the labelling requirements under for grant of a
+startup label.
+this Act.
+(2) A startup is eligible for labeling under this Act, where —
+(a) it is registered as a limited liability company under the Companies
+Act
+and Allied Matters Act, and has been in existence for a period not more N0. 3, 2020.
+than 10 years from the date of incorporation ;
+(b) its objects are innovation, development, production, improvement, and
+commercialisation of a digital technology innovative product or process ;
+A 1054 2022 No. 32 Nigeria Startup Act, 2022
+(c) it is a holder or repository of a product or process of digital technology,
+or the owner or author of a registered software ;
+(d) it has at least one-third local shareholding held by one or more
+Nigerians as founder or co-founder of the startup ; and
+(e) in the case of a sole proprietorship or partnership, it satisfies the
+conditions set out in in paragraphs (b), (c) and (d).
+(3) This Act shall not apply to an organisation which is a holding company
+or subsidiary of an existing company which is not registered as a startup.
+(4) A sole proprietorship or partnership referred to in subsection (2)(e)
+shall be granted a pre-label status for a period of six months to enable the sole
+proprietorship or partnership comply with the requirements set out in subsection
+(2) (a), (b), (c) and (d).
+(5) A sole proprietorship or partnership which fails to comply with the
+provisions of subsection (4) shall lose the pre-label status granted to it.
+(6) A labelled startup shall be granted access to the incentives provided
+under this Act.
+Procedure 14.—(1) A startup desirous of being granted a label under the provisions
+for labelling of this Act shall submit an application on the Startup Portal in the prescribed
+a startup.
+form.
+(2) An application under subsection (1) shall be supported by documents
+prescribed by the Secretariat.
+Issuance of 15.—(1) Where the Coordinator is satisfied that an applicant has
+a labelling complied with the requirements for labelling under this Act, the Coordinator
+certificate.
+shall —
+(a) with the approval of the Secretariat enter the name and particulars
+of the applicant in the register of startups kept for that purpose ; and
+(b) issue to the startup, a startup label.
+(2) The certificate issued under subsection (1) shall, unless the contrary
+is proven, be conclusive evidence that the startup has —
+(a) complied with all the requirements for labelling specified under this
+Act ; and
+(b) been duly labelled, in accordance with this Act.
+(3) A startup label shall be valid for a period of 10 years from the date of
+issuance.
+Nigeria Startup Act, 2022 2022 No. 32 A 1055
+16.—(1) A labelled startup under this Act shall — Obligations
+of labelled
+(a) comply with all the extant laws governing businesses in Nigeria ;
+startup.
+(b) provide information annually on the number of human resources,
+total assets and the annual turnover achieved from the period the startup
+label was granted ;
+(c) maintain proper book of accounts in accordance with reporting
+obligations provided under extant laws and regulations ;
+(d) provide an annual report on incentives received and advancement
+made by virtue of the incentives ;
+(e) notify the Coordinator of any change in structure, composition or
+objects within a period of one month from the date of such change ; and
+(f ) comply with the obligations set out by the Coordinator after issuance
+of the startup label.
+(2) Where a labelled startup defaults in any of the obligations, or fails to
+meet the eligibility criteria under this Act, the Coordinator shall notify the
+labelled startup of the default, and within 30 days of the notification, the startup
+shall take steps to rectify the default.
+17. Where a labelled startup fails to regularise the default after being Withdrawal
+notified, the Secretariat shall withdraw the startup label and notify the relevant of startup
+label.
+MDAs or investors that may have granted incentives to such labelled startup.
+18. Where a startup, whose startup label is withdrawn under section 17 Reissuance
+of this Act, rectifies the default, it may apply to the Secretariat for a re- of startup
+label.
+issuance of the startup label.
+PART V — STARTUP INVESTMENT SEED FUND
+19.—(1) There is established the Startup Investment Seed Fund (in this Establishment
+Act referred to as “the Fund”) to be managed by the Nigeria Sovereign of Startup
+Investment
+Investment Authority (in this Act referred to as “the Fund Manager”).
+Seed Fund.
+(2) There shall be paid into the Fund on an annual basis, a sum not less
+than N10,000,000,000 from sources to be approved by the Council —
+(3) The Fund shall be applied to —
+(a) provide a labelled startup with finance ;
+(b) provide early-stage finance for labelled startups on the recommendation
+of the Fund Manager subject to the approval of the Council ; and
+(c) provide relief to technology laboratories, accelerators, incubators
+and hubs.
+A 1056 2022 No. 32 Nigeria Startup Act, 2022
+Functions of 20. The Fund Manager shall —
+the Fund
+(1) Create an innovation grant budget and management framework to
+Manager.
+support research and development projects, and
+(2) Issue a framework which shall set out modalities to fund, manage,
+and access the Fund.
+PART VI — TRAINING, CAPACITY BUILDING AND TALENT DEVELOPMENT
+21.—(1) The Secretariat shall design and implement a training and
+Training and
+capacity capacity building programme for startups, in accordance with this Act, and
+building. shall utilise the startup portal to disseminate necessary information.
+(2) A startup may access training facilitated by the Industrial Training
+Fund and any organisation, which partners with the Secretariat, for the training
+of entrepreneurs and their employees.
+Talent 22.—(1) The Secretariat shall collaborate with the National Universities
+development. Commission, National Board for Technical Education and other tertiary
+institutions regulatory bodies within Nigeria to develop modules, programmes
+and hold workshops aimed at impacting knowledge necessary for the
+establishment and running of a startup in Nigeria.
+(2) The Secretariat shall establish centres for the acquisition of digital
+technology in the six geopolitical zones of Nigeria for the promotion of digital
+technology utilisation, strengthening of digital technology management capability,
+and information systems.
+(3) The Secretariat may issue a framework for the development of
+talent, and collaborate with relevant MDs and the private sector to establish
+digital technology innovation parks and hubs in universities, polytechnics and
+other institutions of higher learning.
+Support of 23. The Secretariat shall support the activities of an academic research
+academic institution to the development of a startup by —
+research
+(a) creating linkages between a research institution, the private sector,
+institutions.
+the Federal Government and other stakeholders in the startup ecosystem ;
+(b) financing research systems for a startup ;
+(c) providing financial support for the acquisition or establishment of
+research facilities to be utilised by a startup ;
+(d) developing appropriate human resources and research capacity in
+the areas of science, technology and innovation ;
+(e) funding the co-operation and sharing of research information and
+knowledge, including supporting conferences, workshops, seminars, meetings
+and other synopsis ;
+Nigeria Startup Act, 2022 2022 No. 32 A 1057
+(f ) promoting the provision of information infrastructure linking research
+institutions to facilitate cooperation and sharing of research information
+and knowledge ;
+(g) compiling and maintaining a national database of research and
+innovation ; and
+(h) promoting the commercialisation of the result of local research and
+development through startup incubation.
+PART VII — TAX AND FISCAL INCENTIVES
+24. A labelled startup which falls within industries captured under the Incentives
+extant Pioneer Status Incentives (PSI) Scheme may upon application through for labelled
+startups
+the Secretariat receive expeditious approval from the Nigerian Investment
+under the
+Promotion Commission (NIPC) for the grant of the tax reliefs and incentives
+Pioneer
+under the PSI Scheme. Status
+Incentive
+Scheme.
+25.—(1) Notwithstanding the provisions of any other law, the Federal Additional
+Government may, through the Federal Ministry responsible for Finance or any tax reliefs.
+other relevant MDA, simplify the requirements for a startup to benefit from
+existing fiscal incentives.
+(2) In accordance with the provisions of the Industrial Development Cap. I17,
+(Income Tax Relief) a labelled startup may be entitled to exemption from the LFN, 2004.
+payment of income tax or any other tax chargeable on its income or revenue
+for a period of three years and an additional two years if still within the period
+of a labelled startup, provided that the commencement date of the tax relief
+shall be the date of the issuance of the startup label.
+(3) A labelled startup shall enjoy full deduction of any expenses on
+research and development which are wholly incurred in Nigeria and the
+restrictions placed by the Companies Income Tax Act shall not apply to a
+labelled startup.
+(4) Non-resident companies that provide technical, consulting,
+professional or management services to a labelled startup shall be subjected
+to a five percent withholding tax on income derived from the provision of such
+services, provided that the payment of the withholding tax, shall be the final
+tax to be paid by such non –resident companies.
+(5) A labelled startup shall be exempted from contributions to the
+Industrial Training Fund where it provides in-house training to its employees
+for the period where it is designated as a labelled startup.
+A 1058 2022 No. 32 Nigeria Startup Act, 2022
+Access to 26. The Secretariat shall ensure that a labelled startup involved in the
+export exportation of products and services, which are deemed eligible under the
+facilities.
+Export (Incentives and Miscellaneous Provisions) Act, is entitled to export
+Cap. E19, incentives and financial assistance from the Export Development Fund, Export
+LFN, 2004.
+Expansion Grant and the Export Adjustment Scheme Fund.
+Access to 27. The Secretariat shall ensure that a labelled startup has access to
+government grants and loan facilities administered by the CBN, the Bank of Industry or
+grants, loans
+other bodies statutorily empowered to assist small and medium scale enterprises
+and facilities.
+and entrepreneurs.
+Credit 28.—(1) The Secretariat shall establish a Credit Guarantee Scheme (in
+Guarantee this Act referred to as “the Scheme”) for the development and growth of a
+Scheme.
+labelled startup under this Act.
+(2) The Scheme established under subsection (1) shall have the following
+objectives —
+(a) the provision of accessible financial support to a labelled startup ;
+(b) creation of a framework for credit guarantee for a labelled startup ;
+(c) provision of financial and credit information to startups ; and
+(d) provision of financial management capacity building programmes to
+startups.
+(3) Where a Scheme is established under subsection (1), the Secretariat
+shall ensure that there is —
+(a) a strategy and operational goals which align with the objectives under
+subsection (2) ;
+(b) criteria for eligibility and qualification for recipients of funding under
+the Scheme ;
+(c) criteria for the monitoring and evaluation of projects undertaken under
+the Scheme and the efficiency of the operations of the Scheme ;
+(d) mechanism for transparency, accountability and reporting on the
+activities of the Scheme ; and
+(e) chattels, registered intellectual property, assignment of shares or any
+other instrument identified in the collateral registry as sufficient collateral.
+Incentives 29.—(1) The Federal Government, through the Federal Ministry
+and reliefs responsible for Finance and other MDAs, shall develop and implement a national
+for investors policy for incentives for individuals, impact investors, angel investors, companies,
+investing in a
+venture capitalists, private equity funds, accelerators or incubators which invest
+labelled
+in a labelled startup or in the startup ecosystem to enjoy tax credits on their
+startup.
+investment.
+Cap. C21,
+LFN, 2004.
+Nigeria Startup Act, 2022 2022 No. 32 A 1059
+(2) Notwithstanding the provisions of the Companies Income Tax Act, an
+angel investor, venture capitalist, private equity fund, accelerators or incubators
+which invests in a labelled startup shall be entitled to an investment tax credit
+equivalent to 30% of the investment in the labelled startup provided that such
+credit shall be applied on any gains on investment which are subject to tax.
+(3) Capital gains tax shall not be charged on gains that accrue from the
+disposal of assets by an angel investor, venture capitalist, private equity fund,
+accelerators or incubators with respect to a labelled startup provided the assets
+have been held in Nigeria for a minimum of 24 months.
+30.—(1) The Secretariat shall collaborate with the Corporate Affairs Collaboration
+Commission (the Commission) to designate a separate section on the Startup with the
+Portal to ease the processes for labelled startups that conduct transactions at Corporate
+Affairs
+the Commission.
+Commission.
+(2) The Secretariat shall further collaborate with the Commission and
+ensure that the processes and transactions carried out by startups at the
+Commission are seamless, expedited and in accordance with the provisions of
+this Act.
+31.—(1) The Council acknowledges the importance of intellectual Protection of
+property rights towards the growth and development of a startup. intellectual
+property
+(2) As part of its objectives, the Secretariat shall ensure that holders of rights.
+intellectual property rights are encouraged to exploit these rights and shall
+take steps towards assisting them in internationalising and commercialising
+their rights.
+(3) The Secretariat shall collaborate with the Nigerian Copyright
+Commission and the Trademarks, Patent and Design Registries, in ensuring
+that they —
+(a) designate a separate section on the Startup Portal to ease registration
+of intellectual property for labelled startups ;
+(b) provide assistance to labelled startups for facilitating the application
+for grant or revocation of patents and institution of legal action for
+infringement of any intellectual property rights ; and
+(c) facilitate assistance to labelled startups for the filing and registration
+of their trademarks and patents at the international level.
+(4) The Secretariat shall further collaborate with the Nigerian Copyright
+Commission and the Trademarks, Patent and Design Registries to ensure that
+registration and protection of intellectual property of labelled startups is
+seamless, expedited and in accordance with the provisions of this Act.
+A 1060 2022 No. 32 Nigeria Startup Act, 2022
+Crowdfunding. 32.—(1) Startups may raise funds through crowdfunding intermediaries
+and commodities investment platforms (“platforms”) duly licensed by the
+Securities and Exchange Commission (SEC) that would have their platforms
+available for use by startups on the Startup Portal.
+(2) The Council shall provide recommendations and proposals to SEC
+and collaborate towards ensuring that SEC considers rules that fast-track
+crowdfunding processes for labelled startups.
+Transfer of 33.—(1) The Secretariat, in conjunction with the National Office for
+Foreign Technology Acquisition and Promotion (NOTAP) shall —
+Technology.
+(a) designate a separate section on the Startup Portal to ease technology
+transfer registration for labelled startups ;
+(b) provide a discount on all applicable fees for technology transfer
+registrations for labelled startups ; and
+(c) provide technical assistance to labelled startups to enable them
+commercialise their research results.
+(2) The Secretariat shall collaborate with NOTAP in ensuring that
+technology transfer registrations and other related activities are seamless and
+expedited and in accordance with the provisions of this Act.
+Obtaining 34. (1) The Secretariat in conjunction with the CBN and SEC shall —
+licences for a
+(a) designate a separate section on the Startup Portal to ease the licensing
+financial
+procedures for labelled startups that operate as financial technology
+technology
+startup. companies (fintech startups) ; and
+(b) ensure that fintech startups are given the opportunity to liaise with
+SEC and the CBN through interactive sessions moderated through the
+Startup Portal and other forums.
+(2) The Council shall collaborate with SEC and the CBN in ensuring
+that fintech startups are duly notified before new rules and regulations that
+affect the establishment, licensing and operations of fintech startups are issued.
+(3) The Council shall work with the CBN and SEC in harmonising
+rules and regulations that affect the establishment, licensing and operations
+of fintech startups.
+Participation 35.—(1) A labelled startup intending to participate in the CBN’s regulatory
+of a labelled sandbox, SEC’s regulatory incubation programmes, or any other regulatory
+startup in
+sandbox programmes set up by other regulators, shall be entitled to submit an
+regulatory
+application through a fast-track process available through the Startup Portal.
+sandboxes.
+Nigeria Startup Act, 2022 2022 No. 32 A 1061
+(2) Notwithstanding subsection (1), each startup must be qualified to
+participate in the sandbox and their applications shall be accompanied by the
+documentary requirements put in place by the CBN’s regulatory sandbox and
+SEC’s regulatory incubation programmes guidelines.
+36.—(1) The Council shall assist labelled startups that seek to list on the Listing of a
+relevant board of the Nigerian Exchange Limited (NGX), or on similar stock startup on
+exchanges.
+and commodity exchanges operating in Nigeria, to meet up with the eligibility
+requirements for listing.
+(2) The Council shall encourage and support labelled startups that seek
+to list on the exchanges and may grant them incentives that aid their growth
+and development.
+37.—(1) The Secretariat shall collaborate with the CBN to guarantee Repatriation
+repatriation of investment by a foreign investor through the CBN’s authorised of capital
+and profits.
+dealer in freely convertible currency of —
+(a) dividends or profits, net of all taxes, attributable to the foreign
+investor’s investments ; and
+(b) proceeds, net of all taxes and other obligations in the event of a sale
+or liquidation of the startup or any interest attributable to the foreign investor’s
+investments.
+(2) Repatriation of investments in a labelled startup shall be carried out
+at the CBN’s official foreign exchange rate, provided that the foreign investor
+can present a Certificate of Capital Importation (CCI) as evidence that the
+initial investment fund was injected through the proper channel.
+PART VIII — ACCELERATORS AND INCUBATORS
+38.—(1) The Secretariat shall, in realising the objectives of this Act, Accelerator
+establish accelerator and incubator programmes for startups. and
+incubator
+(2) The Council shall, for the purpose of subsection (1), develop a national
+programmes.
+accelerator and incubator policy for the establishment and development of
+accelerators and incubators.
+(3) The Secretariat shall, for the purpose of subsection (1) —
+(a) develop standards and guidelines to regulate the relationships between
+accelerators, incubators and startups ;
+(b) encourage and collaborate with existing accelerator and incubator
+programmes established by private organisations ; and
+(c) provide information on the Startup Portal on existing accelerator and
+incubator programmes and the process of registration and admission into
+the programmes.
+A 1062 2022 No. 32 Nigeria Startup Act, 2022
+Incentives 39.—(1) There shall be a register of accelerators and incubators that
+for contributed to the startup ecosystem which shall be maintained by the
+accelerators
+Secretariat.
+and
+incubators. (2) Startup accelerators and incubators registered with the Secretariat
+shall be entitled to —
+(a) incentives as may be granted by the Federal Government in
+accordance with the relevant regulations, provided that the accelerators
+and incubators are actively involved in providing goods, services, or finance
+crucial in supporting the operation and growth of startups in Nigeria ; and
+(b) grants and aids for research, development, training and expansion
+projects.
+(3) Subject to subsection (2), registered accelerators and incubators
+shall be entitled to grants given under the Nigeria Digital Innovation,
+Entrepreneurship and Startup Policy and any other policy that may be issued.
+PART IX — CLUSTERS, HUBS, INNOVATION PARKS AND TECHNOLOGY
+DEVELOPMENT ZONES
+Establishment 40.—(1) The Council shall issue a framework for the establishment
+of clusters, and operation of startup innovation clusters, hubs, physical and virtual innovation
+hubs and
+parks in each state of the Federation.
+innovation
+parks. (2) The role of the innovation clusters, hubs and parks shall include —
+(a) connecting, fostering collaboration and generating businesses between
+a startup and a large company ;
+(b) collating expertise, ideas, and perspectives ;
+(c) providing a startup with access to resources and professional
+services ; and
+(d) promoting collaboration and innovation between startups.
+Functions of 41. Startup innovation clusters, hubs, physical and virtual innovation
+the clusters, parks shall provide —
+hubs and
+(a) dedicated team, help desk and contact to provide support to a startup ;
+innovation
+parks. (b) assistance for a startup to understand the regulatory framework and
+its applicability ;
+(c) assistance in registration, and application for authorisation ;
+(d) assistance and facilitation for the expansion of a startup into foreign
+markets ;
+(e) work spaces free or at subsidised rates ; and
+(f ) all other functions incidental to the attainment of the functions provided
+in paragraphs (a)-(e).
+Nigeria Startup Act, 2022 2022 No. 32 A 1063
+42.—(1) The Secretariat shall collaborate with the Nigeria Export Establishment
+Processing Zones Authority to establish a Technology Development Zone (in of
+this Act referred to as “the Zone”) in Nigeria to spur the growth and development Technology
+Development
+of startups, accelerators and incubators.
+Zones.
+(2) The Zone shall grant licence to any startup, accelerator or incubator
+prior to the commencement of an approved activity.
+(3) A startup, accelerator or incubator, carrying out an approved activity Cap. N107,
+in a Zone shall be entitled to existing incentives provided under the Nigeria LFN, 2004.
+Export Processing Zones Act.
+PART X — MISCELLANEOUS PROVISIONS
+43. The use and processing of data for the purpose of giving effect to Data
+this Act shall be in a responsible manner and in compliance with extant data protection.
+protection laws and regulations in Nigeria.
+44. The President may make policy guidelines or give to the Council or Power of the
+the Secretariat directives of a general or specific nature relating generally to President to
+give
+matters of policy, or case, as the case may be, with regard to the performance
+directives of
+by their functions and it shall be their duty to comply with the directives.
+general
+character.
+45.—(1) The Council may with the approval of the President make Power to
+rules, regulations or guidelines with respect to the exercise of any of the duties, make
+functions or powers under this Act and generally for the purpose of giving regulations
+or guidelines.
+effect to this Act and in particular —
+(a) prescribe forms and other information required under this Act ;
+(b) prescribe the procedure to obtain any information required under
+this Act ;
+(c) prescribe fees payable under this Act ;
+(d) for registration, de-registration and re-registration of a startup ; and
+(e) for the transition of a startup to innovative small and medium scale
+enterprise or a scale up.
+(2) The contravention of any rule, regulations or guidelines issued under
+any of the provisions of this Act shall constitute an offence and shall be
+punishable as prescribed in the particular rules, regulations or guidelines.
+46.—(1) No civil action shall be commenced against the Council before Pre-action
+the expiration of a period of 30 days after written notice of intention to notice.
+commence the suit shall have been served by the intending plaintiff or his
+agent, and the notice shall clearly state the —
+(a) cause of action ;
+A 1064 2022 No. 32 Nigeria Startup Act, 2022
+(b) particulars of the claim ;
+(c) name and place of abode of the intending plaintiff ; and
+(d) relief sought.
+(2) A notice, summons or other document required or authorised to be
+served upon the Council under the provisions of this Act or any other law or
+enactment may be served by delivering it to the Secretariat.
+Interpretation. 47. In this Act —
+“accelerator” means a fixed-term, cohort-based programme which
+provides a startup with mentorship and educational assistance to aid its
+growth ;
+“angel investor” means a high net worth individual or company which
+provides funding to an early-stage startup, typically in exchange for equity
+in the startup company ;
+“CBN” means the Central Bank of Nigeria ;
+“Chairman” means the Chairman of the National Council for Digital
+Innovation and Entrepreneurship ;
+“Commission” means the Corporate Affairs Commission ;
+“company” means a limited liability company registered with the
+Corporate Affairs Commission ;
+“Council” means the National Council for Digital Innovation and
+Entrepreneurship ;
+“Council agent” means the agent appointed by the Council under
+section 8 of this Act ;
+“crowdfunding” means the use of small amounts of money, obtained
+from a large number of individuals or organisations, to fund a project, or
+business, through an online based web-platform ;
+“crowdfunding intermediary” means an entity organised and registered
+as a corporation to facilitate transactions involving the offer or sale of
+securities or investment instruments through a crowdfunding portal ;
+“early-stage startup” means a startup which is focused on product
+development, building a customer base, and establishing a strong cash flow ;
+“early-stage finance” means financing of the first phase of growth of a
+startup where the funds are used to buy inventory and to sustain the gap
+existing between cash flow and the money needed ;
+“expeditious” means speed and efficiency ;
+“Export Development Fund” means the fund managed by the Nigerian
+Export Promotion Council ;
+“Federal Government” means the Federal Government of Nigeria ;
+Nigeria Startup Act, 2022 2022 No. 32 A 1065
+“Fintech startups” means registered startups that operate as financial
+technology companies and obtain their operational licences from the CBN
+and SEC ;
+“Fund” means the Startup Investment Seed Fund ;
+‘Fund Manager” means the Nigeria Sovereign Investment Authority ;
+“incubator” means a company, partnership, non-governmental organisation
+or limited liability partnership, whose principal object is to support the
+establishment and development of a startup, promotion of innovation, and related
+activities through the offer of dedicated physical spaces and services ;
+“Industrial Training Fund” means the fund managed by the Industrial
+Training Fund ;
+“intellectual property” means the result of creativity protectable by
+copyright, trademark, trade secrets, Industrial designs and patent
+registrations in Nigeria ;
+“innovation” means the implementation of technology driven ideas
+which leads to the creation or development of a new product, process,
+or service with the aim of improving efficiency, effectiveness, or
+competitive advantage ;
+“labelled startup” means a startup labelled under this Act and issued a
+digital certificate by the Coordinator ;
+“National Information Technology Development Fund” means the
+Fund set up under the National Information Technology Development
+Secretariat ;
+“NOTAP” means the National Office for Technology Acquisition and
+Promotion or other such office that may be set up in the future to replace
+the National Office for Technology Acquisition and Promotion ;
+“Nigerian Exchange Limited” means the Nigerian Stock Exchange
+regulated by the SEC ;
+“pre-incubation” means the phase of a startup aimed at validating a
+project idea, company planning and creation, developing possible business
+by analysing technical and economic viability and entrepreneur profile ;
+“research and development” means intensive study directed towards
+greater knowledge or understanding of the subject studied, and includes
+activities undertaken to innovate and introduce a new product and service ;
+“regulatory incubation programme” means the incubation programme
+created by the SEC for financial technology (fintech) companies operating
+or seeking to operate in Nigeria ;
+“Sandbox” means the regulatory software testing environments created
+by the CBN, the SEC or any other regulator that may set up a sandbox
+programme ;
+A 1066 2022 No. 32 Nigeria Startup Act, 2022
+“scaleup” means a company which has already validated its product
+within the marketplace and has proven that its business model and economics
+are sustainable ;
+“Scheme” means the Credit Guarantee Scheme created under section
+28 of this Act ;
+“Secretariat” means the Secretariat of the Council established under
+section 9 of this Act ;
+“SEC” means Securities and Exchange Commission ;
+“Startup Portal” means the startup support and engagement portal
+created under section 10 of this Act ;
+“startup” means a company in existence for not more than 10 years,
+with its objectives being the creation, innovation, production, development
+or adoption of a unique digital technology innovative product, service or
+process ;
+“startup ecosystem” means environment comprising entrepreneurs,
+startups, capital providers, Federal Government and other stakeholders that
+interact to aid a startup ; and
+“venture capitalist” means a person or company that provides capital
+to a Startup that is exhibiting high growth potential in exchange for equity.
+Citation. 48. This Act may be cited as the Nigeria Startup Act, 2022.
+Nigeria Startup Act, 2022 2022 No. 32 A 1067
+SCHEDULE
+Section 4(2)
+SUPPLEMENTARY PROVISIONS RELATING TO THE COUNCIL
+Proceedings of the Council
+1.—(1) Subject to this Act and section 27 of the Interpretation Act (which
+provides for decisions of statutory body to be taken by a majority of its members
+and for the person presiding at any meeting, when a vote is ordered, to have a
+second or casting vote), the Council may make standing orders regulating its
+proceedings or that of any of its committees.
+(2) At every meeting of the Council, the Chairman shall preside and in
+his absence, the Vice-Chairman shall preside and in the absence of the Chairman
+and the Vice Chairman the Minister responsible for Communications and Digital
+Economy shall preside.
+(3) The quorum for meetings of the Council shall be eight members,
+which shall include the presiding Chairman and two private sector
+representatives.
+(4) The Council shall for the purpose of this Act, meet not less than four
+times each year.
+(5) Subject to the provisions of subparagraph (4), the Council shall meet —
+(a) whenever it is summoned by the Chairman ; and
+(b) if required to do so by notice given to him by at least one-third of
+members, within 14 days from the date in which the notice is given.
+(6) Where the Council desires to obtain the advice of any person on
+any particular matter, the Council may co-opt such person to the Council
+for such period as it deems fit, but a person co-opted under this paragraph
+shall not be permitted to vote at any meeting of the Council and shall not
+count towards a quorum.
+Committees
+2.—(1) Subject to its standing orders, the Council may appoint such
+number of standing or ad hoc committees as it deems fit to consider and
+report on any matter with which the Council is concerned.
+(2) A committee appointed under this paragraph shall —
+(a) consist of such number of persons (not necessarily members of the
+Council as may be determined by the Council) and a person other than a
+member of the Council, shall hold office on the committee in accordance
+with the terms of the appointment ; and
+(b) be presided over by a member of the Council.
+A 1068 2022 No. 32 Nigeria Startup Act, 2022
+(3) The quorum of any committee set up by the Board shall be determined
+by the Board.
+(4) The decision of any committee of the Council shall constitute a
+recommendation to the Council.
+Miscellaneous
+3.—(1) The affixing of the seal of the Secretariat shall be authenticated
+by the signature of the Chairman or any other person generally or specifically
+authorised by the Council to act for that purpose and that of the Chairman of
+the Secretariat.
+(2) Any contract or instrument which if made by a person not being a
+body corporate, and not required to be under seal, may be made or executed
+on behalf of the Council by the Chairman of the Secretariat or any other
+person generally or specifically authorised by the Council to act for that purpose.
+(3) Any document purporting to be a contract, instrument or document
+duly signed or sealed on behalf of the Secretariat shall be received in evidence
+and shall unless the contrary is proved, be presumed without further proof to
+have been signed or sealed.
+(4) The validity of any proceedings of the Council or any of its committees
+shall not be affected by —
+(a) any vacancy in the membership of the Council, or committee ; or
+(b) the reason that any person not entitled to do so took part in the
+proceedings of the Council or committee.
+(5) A member of the Council or of a committee who has a personal
+interest in any contract or arrangement entered into or proposed to be
+considered by the Council or committee shall disclose his or her interest to the
+Council or committee and shall not vote on any question relating to the contract
+or arrangement.
+(6) A member of the Council shall not be personally liable for any act or
+omission done or made in good faith while engaged in the business of the
+Council.
+I, certify, in accordance with Section 2 (1) of the Acts Authentication Act,
+Cap. A2, Laws of the Federation of Nigeria 2004, that this is a true copy of
+the Bill passed by both Houses of the National Assembly.
+OJO O. A., fnia, fcia
+Clerk to the National Assembly
+19th Day of September, 2022.
+Nigeria Startup Act, 2022 2022 No. 32 A 1069
+EXPLANATORY MEMORANDUM
+This Act provides a legal and institutional framework for the development of
+startups in Nigeria to provide an enabling environment for the establishment,
+development and operation of startups in Nigeria, provide for the development
+and growth of technology related talents, and position Nigeria’s startup
+ecosystem as the leading digital technology centre in Africa, having excellent
+innovators with cutting edge skills and exportable capacity.
+A 1070 2022 No. 32 Nigeria Startup Act, 2022
+2202
+,LLIB
+PUTRATS
+AIREGIN
+EHT
+OT
+ELUDEHCS
+)5(
+)4(
+)3(
+)2(
+)1(
+yb
+dessaP
+etaD
+yb
+dessaP
+etaD
+eht
+fo
+yrammuS
+eht
+fo
+eltiT
+gnoL
+eltiT
+trohS
+fo
+esuoH
+eht
+etaneS
+eht
+lliB
+eht
+fo
+stnetnoC
+lliB
+lliB
+eht
+fo
+sevitatneserpeR
+.0202
+,yluJ
+ht72
+.1202
+,yluJ
+ht02
+lanoitaN
+eht
+sehsilbatse
+tcA
+sihT
+lanoitaN
+eht
+hsilbatse
+ot
+tcA
+nA
+putratS
+airegiN
+dna
+noitavonnI
+latigiD
+rof
+licnuoC
+dna
+noitavonnI
+latigiD
+rof
+licnuoC
+.2202
+,lliB
+eht
+rof
+edivorp
+dna
+,pihsruenerpertnE
+eht
+rof
+edivorp
+,pihsruenerpertnE
+na
+fo
+tnempoleved
+dna
+noitaerc
+gnilbane
+na
+fo
+tnempoleved
+dna
+noitaerc
+-ygolonhcet
+rof
+tnemnorivne
+gnilbane
+delbane-ygolonhcet
+rof
+tnemnorivne
+airegiN
+ni
+sputrats
+delbane
+detaler
+rof
+dna
+; airegiN
+ni
+sputrats .srettam
+eb
+ot
+em
+yb
+dnuof
+dna
+ylbmessA
+lanoitaN
+eht
+yb
+dehcaer
+noisiced
+eht
+htiw
+em
+yb
+derapmoc
+ylluferac
+neeb
+sah
+lliB
+siht
+taht
+yfitrec
+I
+fo
+swaL
+,2A
+.paC
+tcA
+noitacitnehtuA
+stcA
+eht
+fo
+snoisivorp
+eht
+htiw
+ecnadrocca
+ni
+si
+dna
+sesuoH
+eht
+fo
+noisiced
+tcerroc
+dna
+eurt
+.4002
+,airegiN
+fo
+noitaredeF
+eht
+TNESSA
+I
+aicf
+,ainf
+,.A
+.O
+OJO
+ylbmessA
+lanoitaN
+eht
+ot
+krelC
+SL
+.2202
+,rebmetpeS
+fo
+yaD
+ht91
+RFCG
+,IRAHUB
+UDAMMAHUM
+airegiN
+fo
+cilbupeR
+laredeF
+eht
+fo
+tnediserP
+.2202
+,rebotcO
+fo
+yaD
+ht91

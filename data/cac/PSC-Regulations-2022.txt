@@ -1,0 +1,3574 @@
+COMPANIES AND ALLIED MATTERS ACT, NO, 3, 2020
+PERSONS WITH SIGNIFICANT CONTROL REGULATIONS, 2022
+ARRANGEMENT OF SECTIONS
+Regulation:
+PART I - OBJECTIVE AND APPLICATION
+1. Objective
+2. Application
+PART II - INFORMATION ON PERSONS WITH SIGNIFICANT CONTROL
+3. Submission of information in relation to a person with significant control (PSC)
+4. Identification and inscription of a person with significant control (PSC) in the register
+5. Obligation and procedure for reporting PSC information or any changes
+6. Service of notice to disclose PSC information
+7. Restriction of relevant interest of a person
+8. Entries in the register of members
+9. Confidentiality of PSC information
+10. Access to the PSC central register
+11. Accuracy of PSC information
+12. Sanctions
+PART III - MISCELANEOUS
+13. Guidance and reporting requirements
+14. Interpretation
+15. Citation
+Page 1 of 86
+COMPANIES AND ALLIED MATTERS ACT, NO, 3, 2020
+PERSONS WITH SIGNIFICANT CONTROL REGULATIONS, 2022
+[ ] Commencement
+In exercise of the powers conferred on it by section 867 of the Companies and Allied Matters Act,
+No. 3, 2020 and all other powers enabling it in that behalf, the Corporate Affairs Commission, with
+the approval of the Honourable Minister of Industry, Trade and Investment makes the following
+Regulations –
+PART I
+OBJECTIVE AND APPLICATION
+1. Objective
+The objective of these Regulations is to provide an effective framework and procedure for
+obtaining relevant information on persons with significant control/beneficial owners of a
+company, limited liability partnership and any other relevant entity.
+2. Application
+These Regulations shall apply to a company registered under Part B of the Act, a limited
+liability partnership registered under Part C of the Act and any other relevant entity specified
+under these Regulations.
+PART II
+INFORMATION ON PERSONS WITH SIGNIFICANT CONTROL
+3. Submission of information in relation to a person with significant control
+(1) The following entities shall submit information in relation to a person with significant
+control (that is beneficial owner) to the Commission, during incorporation, filing of
+annual returns, amendments or in any other case the Commission may determine -
+(a) a company registered under Part B of the Act; and
+(b) a limited liability partnership registered under Part C of the Act
+(2) a foreign exempted company shall submit information in relation to a PSC to the
+Commission, at the point of notification of exemption, filing of annual report and any
+change that may occur from time to time.
+(3) Where a government-owned entity is incorporated or established by other
+enactments and owns or exercises significant control over any company or limited
+liability partnership, the company or limited liability partnership in which it has
+reportable shares or control shall be required to submit to the Commission
+Page 2 of 86
+information in respect of the Chief Executive Officer (CEO) or any other government
+official authorised or designated by law to manage the government-owned entity.
+(4) The information required to be submitted pursuant to this regulation shall comply
+with the Schedule to these Regulations.
+4. Identification and inscription of a person with significant control in the register
+(1) Pursuant to sections 119(4) and 791(1), a company or limited liability partnership shall
+inscribe against the name of every member in the register of members the
+information received from a person with significant control in compliance with
+sections 119(1) and 791(1) of the Act and these Regulations.
+(2) A company or limited liability partnership shall take reasonable steps to identify the
+persons with significant control over it (that is the natural persons that own on control
+it) and inscribe in its register of members the following particulars in relation to each
+person with significant control -
+(a) full name;
+(b) national identity number, or international passport number or driver’s licence
+number;
+(c) nationality;
+(d) date of birth;
+(e) place of birth;
+(f) date of death of PSC (where applicable as relates to cessation of significant
+control);
+(g) service address;
+(h) residential address;
+(i) telephone number;
+(j) email address;
+(k) PEP status (where applicable);
+(l) occupation or profession;
+(m) nature of ownership or control;
+(n) the date on which a person became a person with significant control of the
+company or limited liability partnership;
+(o) date on which the company or limited liability partnership notified the
+Commission of the ownership or control interest held by the PSC;
+(p) the date on which any person ceased to be a person with significant control;
+and
+(q) any other relevant detail the Commission may from time to time require.
+(3) Where the person with significant control over a company or limited liability
+partnership is not a member of the company or limited liability partnership the
+particulars required to be kept under sub-regulation (1) of this regulation shall be
+inscribed in a separate register maintained for that purpose.
+(4) The Commission shall enter the following particulars in the central register as PSC
+information –
+Page 3 of 86
+(a) in relation to each reporting company or limited liability partnership -
+(i) company or limited liability partnership name,
+(ii) company or limited liability partnership registration number,
+(iii) company or limited liability partnership registration authority,
+(iv) country of registration,
+(v) date of registration,
+(vi) service address, and
+(vii) where applicable, dissolution date as relates to the company or limited
+liability partnership’s cessation of ownership or significant control;
+(b) in relation to each person with significant control of a company or limited
+liability partnership -
+(i) full name, former names or other names,
+(ii) national identity number or passport number for Nigerian national and
+passport number, driver’s licence or national ID number for a foreign
+national,
+(iii) nationality,
+(iv) tax residencies,
+(v) date of birth,
+(vi) place of birth,
+(vii) where applicable, date of death of PSC as it relates to the natural
+person’s cessation of ownership or significant control,
+(viii) service address,
+(ix) residential address,
+(x) telephone number,
+(xi) email address,
+(xii) occupation or profession,
+(xiii) PEP status (where applicable)
+(xiv) Nature of ownership including the percentage of ownership, or control,
+(xv) the date the person became a person with significant control of the
+company or limited liability partnership,
+(xvi) the date the company or limited liability partnership notified the
+Commission of the ownership or control interest held by the PSC,
+(xvii) the date on which any changes occurred affecting the nature of the
+ownership or control exerted by a person with significant control and
+the nature of the change in ownership or control,
+(xviii) the date on which any person ceased to be a person with significant
+control,
+(xix) where applicable, the reason for not disclosing the details of a person
+with significant control pursuant to these Regulations, and
+(xx) any other relevant detail the Commission may from time to time
+require.
+(c) in relation to a reporting company or an intermediary entity that is a publicly
+listed company, the following additional particulars shall be entered -
+(i) name of stock exchange identifier scheme and identifier code,
+(ii) ticker code,
+(iii) name of each stock exchange on which the shares are listed as specified
+in the market identifier code (MIC),
+Page 4 of 86
+(iv) market identifier code and operating MIC,
+(v) web address of the page which gives details of the listing for each
+exchange names in sub-paragraph (iii) of this paragraph,
+(vi) stock exchange jurisdiction (the ISO 3166 country code for the
+jurisdiction in which the stock exchange is based),
+(vii) URL where all regulatory notifications of major holdings can be found,
+and
+(viii) URL to the website of the publicly listed company;
+(d) in relation to a reporting company or intermediary entity that is a state-owned
+entity (SOE), the following additional particulars shall be entered -
+(i) mode of formation, by statute or by registration with the Commission,
+(ii) where applicable, the name of the law or statute,
+(iii) where applicable, the date the law or statute was enacted,
+(iv) company registration number for government-owned entities formed
+by registration with the Commission,
+(v) relevant jurisdiction or state,
+(vi) where applicable, the name and address of each government body
+through which the relevant jurisdiction or state exercises control or
+ownership of the reporting company,
+(vii) the percentage of ownership and nature of control of each government
+agency,
+(viii) the particulars required in paragraph (b) of this sub-regulation and the
+date of appointment of the chief executive officer (CEO) of the
+government agency,
+(ix) the particulars required in paragraph (b) of this sub-regulation and the
+date of appointment of any other senior management government
+official who exercises significant influence or control over the
+government agency and the method by which control is exercised, and
+(x) where an SOE registered at the Commission is a PLC, the SOE shall be
+required to provide information under paragraph (c) of this sub-
+regulation.
+(5) Where the reporting company or limited liability partnership is a foreign exempted
+company or limited liability partnership, it shall provide information to the
+Commission on –
+(a) the company or limited liability partnership name;
+(b) registration number;
+(c) country of registration;
+(d) date and period of exemption;
+(e) objects or grounds for the exemption;
+(f) particulars of the persons with significant control who ultimately own or
+control the company or limited liability partnership in accordance with the
+requirements if sub-regulation (3)(b) of this regulation;
+(g) where the foreign exempted company is publicly listed, the information
+required shall be as specified under sub-regulation (3)(c) of this regulation;
+(h) where the exempted company or limited liability partnership is a state-owned
+entity, the information required shall be as specified under sub-regulation
+(3)(d) of this regulation.
+Page 5 of 86
+(6) Where a person with significant control is exercising his ownership interest indirectly
+through a legal person, the company or limited liability partnership shall be required
+to identify and provide information on the intermediary legal person through which
+such indirect interest in the reporting company or limited liability partnership is held.
+(7) The Commission shall enter into the central register the following particulars of the
+intermediary legal person referred to in sub-regulation (6) of this regulation in a chain
+of ownership –
+(a) company or limited liability partnership name;
+(b) company or limited liability partnership registration number;
+(c) company or limited liability partnership registration authority; and
+(d) country of registration.
+5. Obligation and procedure for reporting PSC information or any changes
+(1) A company or limited liability partnership shall -
+(a) lodge with the Commission, information of its person with significant control
+in the Forms as set out in the Schedule to these Regulations in accordance
+with sections 119(2) and 791(2) of the Act;
+(b) lodge with the Commission the particulars of change in its person with
+significant control in Form CAC-PSC 02set out in the Schedule to these
+Regulations in accordance with sections 119(3) and 791(3) of the Act; and
+(c) file a notice of a person ceasing to be a person with significant control with
+the Commission in Form CAC-PSC 03 set out in the Schedule to these
+Regulations in accordance with sections 119(3) and 791(3) of the Act.
+(2) A person with significant control over a company or limited liability partnership shall
+within seven days of becoming such a person, indicate to the company or limited
+liability partnership the particulars of such control as prescribed in these Regulations.
+(3) A foreign company or limited liability partnership that is a subscriber, shareholder or
+partner in a company or limited liability partnership shall provide the prescribed
+particulars of the person with significant control who ultimately owns or controls the
+foreign company or limited liability partnership in accordance with the provisions of
+these Regulations.
+6. Service of notice to disclose PSC information
+(1) where a company or limited liability partnership has reasonable cause to believe that
+a person is its person with significant control, it shall serve notice to disclose PSC
+information (the notice) requiring the person to provide the particulars set out in
+these Regulations.
+(2) A person who received a notice under sub-regulation (1) of this regulation shall
+comply with the requirements of the notice to disclose PSC information not later than
+seven days from the date of receipt of the notice.
+Page 6 of 86
+(3) A company or limited liability partnership shall issue a warning notice to a person who
+fails to comply with the provisions of sub-regulation (2) of this regulation, and keep a
+copy of the warning notice in its register of members.
+(4) A warning notice issued under sub-regulation (3) of this regulation shall -
+(a) specify the date on which the warning notice is issued and the date of
+compliance;
+(b) be accompanied by a copy of the notice issued under sub-regulation (1) of
+this regulation;
+(c) require the person to comply with the notice issued under sub-regulation (1)
+of this regulation within a specified time;
+(d) state that it is proposing to restrict the relevant interest the person holds in
+the company or limited liability partnership; and
+(e) explain the effect of the restriction.
+7. Restriction of relevant interest of a person
+(1) A company or limited liability partnership shall -
+(a) restrict the relevant interest of a person where the person has not complied
+with the warning notice within seven days 2from the date of the notice,
+(b) make a note in the company’s or limited liability partnership’s register of
+members to indicate the restriction issued under paragraph (a) of this sub-
+regulation; and
+(c) file a copy of the restriction issued under this regulation with the Commission
+within seven days from the date of issuance of the restriction.
+(2) Where a company restricts the relevant interest of a person, it shall, in writing, notify
+the person affected by the restriction, of the -
+(a) date the warning notice under regulation (6)(3) of these Regulations was
+issued;
+(b) date on which the restriction under sub-regulation (1)(a) of this regulation
+was issued; and
+(c) effect of the restriction.
+(3) Where a restriction notice is issued pursuant to this regulation -
+(a) any transfer of the interest is void;
+(b) no rights are exercisable in respect of the interest;
+(c) no shares may be issued in right of the interest or in pursuance of an offer
+made to the interest-holder;
+(d) no payment may be made of sums due from the company or limited liability
+partnership in respect of the interest.
+(4) Where a notice issued under sub-regulation (2) of this regulation is complied with
+after the time specified in the notice, the company or limited liability partnership
+shall, within 14 days of compliance with the notice, withdraw the restriction placed
+on the relevant interest of the person with significant control.
+(5) A company or limited liability partnership shall note in the register of members, the -
+(a) date on which the withdrawal was issued;
+Page 7 of 86
+(b) date of approval to withdraw the restriction; and
+(c) person’s relevant interest in the company or limited liability partnership.
+(6) The company or limited liability partnership shall file a copy of the withdrawal issued
+under this regulation with the Commission within 14 days from the date the
+withdrawal was issued.
+8. Entries in the register of members
+A company or limited liability partnership shall note in its register of members that it knows
+or has reasonable cause to believe that there is a person with significant control in relation to
+the company or limited liability partnership, but -
+(a) has not identified the person with significant control;
+(b) has not been able to obtain the person with significant control particulars;
+(c) has issued a warning notice which has not been complied with;
+(d) has issued a restriction notice; or
+(e) there is a matter pending before the court in relation to the person with significant
+control.
+9. Confidentiality of PSC information
+(1) A company or limited liability partnership shall not use or disclose any information
+about a person with significant control, except -
+(a) for the purpose of communicating with the person with significant control;
+(b) in order to comply with any requirements of these Regulations; or
+(c) in order to comply with a court order.
+(2) Notwithstanding the provisions of sub-regulation (1) of this regulation, information
+relating to a person with significant control -
+(a) may be disclosed with the written consent of the person with significant
+control;
+(b) shall be available to the public at no cost subject to the provision of Regulation
+17 of the Companies Regulation 2021 on Restriction of Protected and
+Personal Information; and
+(c) shall be made available to Law Enforcement Agencies, Investigation Agencies
+and any other relevant Competent Authority.
+(3) In the event of the dissolution of a company or limited liability partnership, the
+liquidator shall maintain the particulars of persons with significant control for a period
+of not less than five years from the date of dissolution of the company or limited
+liability partnership.
+10. Access to the PSC central register
+(1) The Commission shall freely make available to the public the following information
+from the central register on each natural person who is a person with significant
+control –
+(a) full name of PSC;
+(b) date on which the reportable ownership or control started;
+Page 8 of 86
+(c) date of declaration of significant influence or control;
+(d) occupation;
+(e) service address;
+(f) nationality;
+(g) nature of ownership or control in the company or limited liability partnership;
+and
+(h) unique identifier.
+(2) The Commission shall freely make available to the public the following information
+from the central register on each reporting entity -
+(a) company or limited liability partnership name;
+(b) company or limited liability partnership registration number;
+(c) status;
+(d) number of PSC s and relevant particulars; and
+(e) country of registration.
+11. Accuracy of PSC information
+(1) The Commission shall put measures in place to ensure the accuracy and timeliness of
+person with significant control information held in the central register, which shall
+include the processes of -
+(a) ensuring timeliness and completeness of all required PSC data collected;
+(b) minimising data entry errors; and
+(c) learning from the operation of the PSC register and ensuring ongoing
+improvement of -
+(i) data collection process, and
+(ii) the accuracy of data in the central register
+(2) A reporting company or limited liability company shall ensure that the information
+submitted to the Commission on PSC is accurate and complete.
+(3) Notwithstanding the provisions of sub-regulation (1) of this regulation, the burden of
+proving the accuracy of the PSC information submitted to the Commission shall rest
+on the reporting company or limited liability partnership.
+12. Sanctions
+(1) The status of any company or limited liability partnership that defaults in complying
+with the reporting requirements in respect of the PSC register shall be reflected as
+“inactive” on the PSC register and all other relevant online portals of the Commission.
+(2) Where a company or limited liability partnership defaults in complying with the
+reporting requirements in respect of the PSC register, the company or limited liability
+partnership and every officer of the company or limited liability partnership shall be
+liable to pay to the Commission for every day the default continues, an administrative
+penalty of -
+(a) N5,000 in the case of a small company;
+(b) N10,000 in the case of a company other than a small or company limited by
+guarantee;
+Page 9 of 86
+(c) N25,000 in the case of a public company; and
+(d) N5,000 in the case of a limited liability partnership.
+(3) Where a person with significant control defaults in complying with reporting
+requirements in respect of sections 119(1) and 791(1) of the Act, the person that is in
+default shall be liable to pay to the Commission a daily administrative penalty of -
+(a) N10,000 in the case of a small company;
+(b) N20,000 in the case of a company other small or company limited by
+guarantee;
+(c) N50,000 in the case of a public company; and
+(d) N10,000 in the case of a limited liability partnership
+(4) Where the person with significant control persistently fails to comply, the person shall
+be liable to pay to the Commission for every day during which the default continues,
+an administrative penalty of -
+(a) N2,000 in the case of a small company;
+(b) N5,000 in the case of a company other than small or company limited by
+guarantee;
+(c) N10,000 in the case of a public company; and
+(d) N2,000 in the case of a limited liability partnership.
+(5) Where a company or limited liability partnership does not take steps to identify or
+disclose its persons with significant control pursuant to these Regulations or defaults
+in relation to the requirements of sections 119(2) and 791(2) of the Act, the company
+or limited liability partnership in default shall be liable to pay to the Commission a
+daily administrative penalty of -
+(a) N10,000 in the case of a small company;
+(b) N20,000 in the case of a company other small or company limited by
+guarantee;
+(c) N25,000 in the case of a public company; and
+(d) N10,000 in the case of a limited liability partnership
+(6) Where the Commission verifies or receives information confirming that the PSC on
+the Commission’s record is not or is no longer the PSC or different PSC information
+has been provided to other government organisations or banks and changes has not
+been filed with the Commission, the company or limited liability partnership shall be
+liable to pay to the Commission an administrative penalty of -
+(a) N50,000 in the case of a small company;
+(b) N100,000 in the case of a company other small or company limited by
+guarantee;
+(c) N200,000 in the case of a public company; and
+(d) N50,000 in the case of a limited liability partnership
+(7) A company or limited liability partnership who fails to comply with the directives of
+the Commission to file notice of changes within seven days shall have its status
+reflected as “inactive” and liable to pay to the Commission a daily administrative
+penalty of -
+(a) N10,000 in the case of a small company;
+Page 10 of 86
+(b) N20,000 in the case of a company other small or company limited by
+guarantee;
+(c) N25,000 in the case of a public company; and
+(d) N10,000 in the case of a limited liability partnership
+(8) Where a foreign exempted company or limited liability partnership defaults in
+complying with the requirements for PSC disclosure under these Regulations, the
+company or limited liability partnership and each of its officers shall be liable to pay
+to the Commission a daily administrative penalty of N10,000 for the period the default
+continues.
+(9) A person who defaults in furnishing any statement required by the Commission in
+respect of a PSC is liable on conviction to imprisonment for a term of two years or a
+fine of not less than N200,000 or both.
+(10) In addition to the penalty prescribed in sub-regulation (9) of this regulation. The
+defaulting person shall be liable to pay to the Commission for every day during which
+the default continues, an administrative penalty of –
+(a) N10,000 in the case of a small company;
+(b) N25,000 in the case of a company other small or company limited by
+guarantee;
+(c) N50,000 in the case of a public company; and
+(d) N10,000 in the case of a limited liability partnership,
+(11) Where any statement required to be furnished to the Commission in respect of the
+PSC register contains any matter which is false to the knowledge of the reporting
+company or limited liability partnership, such reporting entity and each of its officers
+commit an offence and liable on conviction, in the case of -
+(a) the reporting entity, a fine as the court deems fit; and
+(b) an officer of the reporting entity, imprisonment for a term of two years.
+(12) In addition to the penalty prescribed in sub-regulation (11) of this regulation, the
+defaulting person shall be liable to pay to the Commission for every day during which
+the default continues, an administrative penalty of –
+(a) N10,000 in the case of a small company;
+(b) N25,000 in the case of a company other small or company limited by
+guarantee;
+(c) N50,000 in the case of a public company; and
+(d) N10,000 in the case of a limited liability partnership,
+(13) The Commission shall not approve an application -
+(a) for registration of a company or limited liability partnership, unless PSC
+information is provided; and
+(b) to file annual return of a company or limited liability partnership, unless PSC
+information is provided.
+(14) The Commission shall not issue a Letter of Good Standing to any company or limited
+liability partnership who failed to comply with their PSC reporting obligations to the
+Commission.
+Page 11 of 86
+(15) The Commission shall -
+(a) be responsible for the enforcement of the sanctions prescribed under these
+Regulations; and
+(b) have the right to impose any other sanction necessary for the enforcement of
+the PSC provisions under the Act.
+13. Guidance on reporting requirements
+The Commission shall publish statutory guidance notes necessary to provide further guidance
+and clarification on the reporting requirements and any other matter relating to the PSC
+register.
+14. Interpretation
+In these Regulations, unless the context otherwise requires -
+“Act” means the Companies and Allied Matters Act, No.3, 2020;
+“Beneficial owner” means the natural person(s) who ultimately owns or controls a company
+or limited liability partnership or the natural person on whose behalf a transaction is being
+conducted and includes those natural persons who exercise ultimate effective control over a
+legal person or arrangement;
+“Commission” means the Corporate Affairs Commission;
+“Foreign company” means any company or body corporate incorporated outside Nigeria;
+“Foreign exempted company” means any foreign company exempted from incorporation as a
+separate entity in Nigeria within the provisions of the Act;
+“Foreign limited liability partnership” means any limited liability partnership incorporated
+outside Nigeria;
+“Foreign exempted limited liability partnership” means any limited liability partnership
+exempted from incorporation as a separate entity in Nigeria within the provisions of the Act;
+“National identification number” means the national identification number issued pursuant
+to section 18(5) of the National Identity Management Commission Act, 2007;
+“Persistently fails” means default in complying with reporting requirements in respect of
+sections 119(1) and 791(1) of the Act for over two years;
+“Person” in relation to person with significant control under the Act means a natural person;
+“Person with significant control” shall -
+(a) have the same meaning as a beneficial owner as defined under these Regulations;
+(b) be a person who meets any of the following conditions in relation to a company or
+limited liability partnership -
+Page 12 of 86
+(i) holds at least 5% of the issued shares in a company or interest in a limited
+liability partnership either directly or indirectly,
+(ii) exercises at least 5% of the voting rights in a company or limited liability
+partnership directly or indirectly;
+(iii) holds a right directly or indirectly, to appoint or remove majority of the
+directors of the company or partners of the limited liability partnership;
+(iv) exercises significant influence or control, directly or indirectly, over the
+company or limited liability partnership; or
+(v) having the right to exercise, or actually exercises significant influence or
+control over the activities of a trust or firm whether or not it is a legal entity,
+but would itself satisfy any of the first four conditions if it were an individual.
+“PSC” means person with significant control;
+“Relevant interest” means -
+(a) shares held by a person in a company or interest held by a person in a limited liability
+partnership;
+(b) voting rights exercised by a person in the company or limited liability partnership;
+(c) the right to appoint or remove any member of the board of directors of the company
+or any partner in a limited liability partnership.
+“Significant influence or control” means the ability to direct or materially influence the
+finances, financial policies, management, operations, structure of a company or limited
+liability partnership, or derive significant economic benefits from the company or limited
+liability partnership; and
+“Ultimately owns or controls” refers to a situation where interest in a company or limited
+liability partnership is exercised by a natural person directly through a chain of ownership or
+by means of control other than a direct ownership or control.
+15. Citation
+These Regulations may be cited as the Persons with Significant Control Regulations, 2022
+Page 13 of 86
+SCHEDULE
+[regulation 3(4) and 5(1)]
+Notice of Persons with Significant Control (CAC-PSC 01)
+Pursuant to Sections 119 and CAC-PSC01
+791 of the Companies and
+Allied Matters Act, 2020
+Notice of Persons with Significant Control
+ 
+What this form is for What this form is NOT for For further
+This form can be used to notify a PSC who is a natural You cannot use this form to give notice of information
+person and to provide information about the interest(s) change of details of PSC Please refer to our guidance
+owned. at www.cac.gov.ng
+A. Entity Information
+Entity Name
+Registration Number
+Tax Identification Number (TIN)
+Jurisdiction Where applicable
+Entity type Private Company Natural Person must be the subject of
+all PSC disclosures. If a legal entity is
+Public Company
+a PSC, a natural person or persons
+Unlimited Company who influence/control it must be
+disclosed. The PSC of State Owned
+Company Limited by Guarantee
+Enterprise (SOE) or government
+Limited Liability Partnership controlled entity shall consist of the
+Chief Executive Officer (CEO) and
+Foreign Exempted Company
+any natural person who has significant
+influence/control.
+State Owned Enterprise (SOE) Yes ☐ No ☐ Please check ‘Yes’ if the entity has
+government participation or control.
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2020
+B. PSC Notification - Natural Person
+One copy should be filled out for each natural person who is a person with significant control.
+Details of the person with significant control
+Date this person became a PSC _ _-_ _ _-_ _ _ _ The date on which the natural
+person became PSC. Input the
+day-month-year month as abbreviate text e.g., 30-
+Jan-2020
+Title
+First Name This should be the current legal
+name of the PSC.
+Page 14 of 86
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Designation Applicable to SOEs
+City
+State
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card
+Identification number
+Gender
+Email
+Phone number
+Address – service Building The service address of the PSC
+name/number
+Street
+City
+State
+Country
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+Page 15 of 86
+City
+State
+Country
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+applicable
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+C. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP, because of holding a individual named above is
+position of importance? If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a person holding a position of
+importance?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+Foreign PEP ☐ please complete the below
+section.
+International Organization PEP ☐
+Nature of relationship to the PEP ………………
+State the nature of
+PEP details connection to PEP e.g.
+family member, close
+First name ………………………………….
+associate, etc.
+Surname ……………………………………
+Former name………………………………..
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Page 16 of 86
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Title/Role of the office holder …………………..
+Office/Department ………………………………
+D. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the voting rights in a company
+Percentage held directly
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Page 17 of 86
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+be left blank.
+Where some part of the interest is held
+Name(s), jurisdiction(s), and Voting rights indirectly, the name of the legal owner
+through which this interest is held should
+entity number(s) of legal (%)
+be provided.
+owner(s)
+Where the PSC holds the interest through
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+partnership?
+E. Guidance
+The forms above contain some inline guidance
+Term Definition
+Person with significant control “person with significant control PSC” means any person who meets
+any of the following conditions in relation to the company or limited
+liability partnership:
+● directly or indirectly holding at least 5% of the shares or
+interest in a company or limited liability partnership;
+● directly or indirectly holding at least 5% of the voting
+rights in a company or limited liability partnership;
+● directly or indirectly holding the right to appoint or remove
+a majority of the directors or partners in a company or
+limited liability partnership;
+● otherwise having the right to exercise or actually exercising
+significant influence or control over a company or limited
+Page 18 of 86
+liability partnership; or
+● having the right to exercise, or actually exercising
+significant influence or control over the activities of a trust
+or firm whether or not it is a legal entity, but would itself
+satisfy any of the first four conditions if it were an
+individual.”
+● For the purpose of clarifying the definition of "persons of
+significant control" in the Act, the "person" referred to in
+that definition shall be a natural person.
+Instructions
+Complete all relevant sections. If any information to be included on the form, such as a person’s name, is not
+originally in the Latin alphabet, please use a recognised transliteration into the Latin alphabet.
+PSC must be disclosed in one of five ways:
+1. when a new company/limited liability partnership is formed
+2. filing an annual return
+3. if a person becomes PSC
+4. notification for foreign exempted company/limited liability partnership
+5. filing of annual report by foreign exempted company/limited liability partnership
+What is this form?
+To enhance transparency in doing business in Nigeria and adhere to Nigeria’s International obligations under the
+Financial Action Task Force (FATF), the Companies and Allied Matters Act (CAMA) 2020, requires the
+Commission to obtain, verify, and record information about persons with significant control in companies and
+limited liability partnerships, as defined under the Act.
+Under the regulation, every company and limited liability partnership must complete Form CAC-PSC 01 to notify
+the Commission of its PSC.
+This form collects information on the natural persons who are PSC and their interest in the company or limited
+liability partnership.
+Who must complete this form?
+Every entity that needs to disclose one or more PSC must fill out this form.
+Page 19 of 86
+Notice of change of details of Persons with Significant Control (PSC) (CAC-PSC 02)
+Pursuant to Sections 119 and CAC-PSC02
+791 of the Companies and
+Allied Matters Act, 2020
+Notice of Change of Details of Persons with
+Significant Control
+ 
+What this form is for What this form is NOT for For further
+You may use this form to give notice of changes of details You cannot use this form to give notice of information
+of PSC. PSC Please refer to our guidance
+at www.cac.gov.ng
+A. Entity Information
+Entity Name
+Registration Number
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Title Current details. This will be used to
+identify the details on the PSC record.
+First name
+Surname
+Former name
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2022
+B. PSC Notification - Natural Person
+Details of change(s)
+Date of change _ _-_ _ _-_ _ _ _ The date on which the change is
+made. Input the month as
+day-month-year abbreviate text e.g., 30-Jan-2022
+Change of individual’s details
+Title
+First Name This should be the current legal
+name of the PSC.
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Page 20 of 86
+Designation Applicable to SOEs
+City
+State
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card
+Identification number
+Gender
+Email
+Phone number
+Change of service address
+Address – service Building The service address of the PSC
+name/number
+Street
+City
+State
+Country
+Change of residential address
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+City
+Page 21 of 86
+State
+Country
+Change of other details
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+applicable
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+C. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP, because of holding a individual named above is
+position of importance? If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a person holding a position of
+importance?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+Foreign PEP ☐ please complete the below
+section.
+International Organization PEP ☐
+Nature of relationship to the PEP ………………
+State the nature of
+PEP details connection to PEP e.g.
+family member, close
+First name ………………………………….
+associate, etc.
+Surname ……………………………………
+Former name……………………………….
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Page 22 of 86
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Title/Role of the office holder …………………..
+Office/Department ………………………………
+D. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the voting rights in a company
+Percentage held directly
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Page 23 of 86
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+be left blank.
+Where some part of the interest is held
+Name(s), jurisdiction(s), and Voting rights indirectly, the name of the legal owner
+through which this interest is held should
+entity number(s) of legal (%)
+be provided.
+owner(s)
+Where the PSC holds the interest through
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+partnership?
+Page 24 of 86
+Notice of ceasing to be Person with Significant Control (PSC) (CAC-PSC 03)
+Pursuant to Sections 119 and CAC-PSC03
+791 of the Companies and
+Allied Matters Act, 2020
+Notice of ceasing to be Person with Significant Control
+ 
+What this form is for What this form is NOT for For further
+You may use this form to notify the Commission that a You cannot use this form to give notice of change information
+person is no longer a PSC. of details of PSC Please refer to our
+guidance at
+www.cac.gov.ng
+A. Entity Information
+Entity Name
+Registration Number
+B. Individual’s current details
+Title Current details. This will be used
+First name to identify the details on the public
+record.
+Surname
+Former name
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+C. Date ceased to be a PSC
+Date ceased _ _-_ _ _-_ _ _ _
+day-month-year
+Date of notice _ _-_ _ _-_ _ _ _ Give the date on which you made
+day-month-year this update to the company’s PSC
+register.
+Page 25 of 86
+Application to register a company
+Pursuant to Sections CAC 1.1
+36 - 40 of the
+Companies and
+Allied Matters Act,
+APPLICATION TO REGISTER
+2020
+A COMPANY
+What this What this form is NOT for For further information please refer
+form is for to our guidance at www.cac.gov.ng
+You cannot use this form to incorporate a
+You may use this Limited Liability Partnership
+form to
+register a company
+Part 1 Company details
+A1 Company name
+Approved company
+name
+A2 Company type
+Please tick the box that describes the proposed company type
+☐ Public limited by shares
+☐ Private limited by shares
+☐ Unlimited
+☐ Limited by guarantee
+A3 Principal business activity
+Please state the principal activity or activities
+Description of
+principal activity
+A4 Registered office address
+Please give the registered office address of your company.
+Number/Building You must ensure that the
+Name address shown in this
+Street section is easily traceable.
+City/Town/Village
+Local Government
+Postcode Company’s email
+State Phone number
+A5 Head office address 1
+Number/Building 1 Please state Head office
+Name address where different
+Page 26 of 86
+Street from the Registered office
+address in section A3.
+City/Town/Village Ensure that the address
+shown in this section is
+Local Government easily traceable.
+Postcode
+State
+A6 Articles of association
+Please choose one option and tick one box only
+Option 1 I wish to adopt one of the following model articles in its entirety. Please tick
+one box only
+☐ Private companies limited by shares
+☐ Public companies
+☐ Companies limited by guarantee
+Option 2 I wish to adopt one of the following model articles with addition and/or
+amended provisions. I attach a copy of the addition and/or amended
+provision(s). Please tick one box only
+☐ Private companies limited by shares
+☐ Public companies
+☐ Companies limited by guarantee
+Part 2 Proposed officers
+For private companies that are small the appointment of a secretary is
+optional. However, if you decide to appoint a company secretary you must
+provide the relevant details.
+Private companies (other than small companies) and public companies are
+required to appoint at least one secretary.
+Only small companies may appoint only one director. Every company that is
+not a small company, and every public company must appoint at least two
+directors.
+For a secretary who is an individual, go to Section B1; For a corporate
+secretary, go to Section C1; For a director go to Section D1;
+Secretary
+B1 Secretary appointments 1
+Please use this section to list all the secretary appointments taken on
+formation. For a corporate secretary, complete Sections C1.
+Title 1 Corporate appointments
+For corporate secretary
+appointments, please complete
+Full forename(s)
+section C1 instead of section
+B.
+Surname Additional appointments
+If you wish to appoint a deputy
+or an assistnat secretary, please
+Former name(s) 2
+use the ‘Secretary
+Page 27 of 86
+Email appointments’ continuation
+page.
+2 Former name(s)
+Phone number
+Please provide any previous
+names (including maiden or
+Identity type married names) which have
+been used for business
+Identity number purposes in the last 10 years.
+B Secretary’s service address 3
+Number/Building Service address:
+name This is the address that will
+appear on the public record.
+Street
+This does not have to be your
+usual residential address.
+City/town/village Please state ‘The Company’s
+Registered Office’ if your
+service address will be
+Local Government
+recorded in the proposed
+company’s register of
+Postcode secretaries as the company’s
+registered office.
+State
+Corporate secretary
+C1 Corporate secretary appointments 1
+Please use this section to list all the corporate 1 Additional appointments:
+secretary appointments taken on formation. If you wish to appoint a deputy or
+an assistant corporate secretary,
+Corporate
+please use the ‘Corporate secretary
+body/firm name appointments’ continuation page.
+Registered or principal address
+Registration
+This is the address that will appear
+number on the public record. This address
+Number/building must be a physical location for the
+delivery of documents. It cannot be
+number
+a PO box number (unless
+Street contained within a full address).
+City/town/village
+Local Government
+Postcode
+State
+Phone number
+Email
+Director
+D1 Director appointments 1
+Please use this section to list all the director 1 Appointments
+appointments taken on formation.
+Page 28 of 86
+Title Only small companies may
+appoint only one director.
+Every company that is not a
+Full forenames(s)
+small company, and every
+public companies must appoint
+Surname at least two directors.
+2
+Former name(s)
+Former name(s) 2 Please provide any previous
+names (including maiden or
+married names) which have
+Gender been used for business
+purposes in the last 10 years.
+Nationality
+3
+Country/State of residence
+This is in respect of your usual
+Country/state of
+residential address as stated in
+residence 3
+section D4
+Occupation 4
+4
+Business occupation
+Email If you have a business
+occupation, please enter here.
+If you do not, please leave
+Phone number
+blank.
+Identity type
+Identity number
+D2 Director’s service address 5
+Please complete the service address below. You 5 Service address
+must also fill in the director’s usual residential This is the address that will
+address in Section D4. appear on the public record.
+This does not have to be your
+Number/building
+usual residential address.
+name
+Please state ‘The Company’s
+Street Registered Office’ if your
+service address will be
+recorded in the proposed
+City/town/village
+company’s register of directors
+as the company’s registered
+Local Government office.
+(where applicable)
+Postcode
+State
+Country
+D3 Director’s date of birth 6 6 Date of birth
+Please give the full date of
+Please complete your full date of birth below. birth. The day (dd) will not
+appear on the public record
+unless the subscribers have
+elected to hold directors’
+d d m m y y y y information on the public
+register.
+D4 Director’s usual residential address 7
+Please complete your usual residential address 7 New director’s usual
+below. residential address Please
+Page 29 of 86
+Number/building state ‘Same as service address’
+name in this section if your usual
+residential address is recorded
+Street
+in the company’s proposed
+register of director’s residential
+City/town/village addresses as ‘Same as service
+address’.
+You cannot state ‘Same as
+Local Government
+service address’ if your service
+(where applicable) address has been stated in
+Postcode Section D2 as ‘The Company’s
+Registered Office’. You will
+need to complete the address in
+State full.
+Country
+Date
+Signature Signature
+X X
+I consent to be a director of the above named
+company
+Director
+D1 Director appointments 1
+Please use this section to list all the director 1 Appointments
+appointments taken on formation. Private companies must
+Title appoint at least one director.
+Public companies must appoint
+at least two directors.
+Full forenames(s) 2
+Former name(s)
+Please provide any previous
+Surname names (including maiden or
+married names) which have
+been used for business
+Former name(s) 2
+purposes in the last 10 years.
+Gender 3
+Country/State of residence
+This is in respect of your usual
+Nationality residential address as stated in
+section D4
+Country/state of
+4
+residence 3 Business occupation
+If you have a business
+Occupation 4
+occupation, please enter here.
+If you do not, please leave
+Email blank.
+Phone number
+Identity type
+Identity number
+D2 Director’s service address 5
+Page 30 of 86
+Please complete the service address below. You 5 Service address
+must also fill in the director’s usual residential This is the address that will
+address in Section D4. appear on the public record.
+This does not have to be your
+Number/building
+usual residential address.
+name
+Please state ‘The Company’s
+Street Registered Office’ if your
+service address will be
+recorded in the proposed
+City/town/village
+company’s register of directors
+as the company’s registered
+Local Government office.
+(where applicable)
+Postcode
+State
+Country
+D3 Director’s date of birth 6 6 Date of birth
+Please give the full date of
+Please complete your full date of birth below. birth. The day (dd) will not
+appear on the public record
+unless the subscribers have
+elected to hold directors’
+d d m m y y y y information on the public
+register.
+D4 Director’s usual residential address 7
+Please complete your usual residential address 7 New director’s usual
+below. residential address
+Number/building Please state ‘Same as service
+address’ in this section if your
+name
+usual residential address is
+Street recorded in the company’s
+proposed register of director’s
+residential addresses as ‘Same
+City/town/village
+as service address’.
+You cannot state ‘Same as
+Local Government service address’ if your service
+(where applicable) address has been stated in
+Section D2 as ‘The Company’s
+Postcode
+Registered Office’. You will
+need to complete the address in
+State full.
+Country
+Date
+Signature Signature
+X X
+I consent to be a director of the above named
+company
+Part 3 Statement of issued share capital
+Does your company have share capital?
+ Yes Complete the sections below.
+ No Go to Part 4 (Statement of
+guarantee).
+Page 31 of 86
+E1 Statement of issued share capital
+Complete the table(s) below to show the share Continuation pages
+capital. Please use a continuation
+page if necessary.
+Class of shares Nominal Total Aggregate nominal Total aggregate amount
+E.g. value of number value to be unpaid, if any
+Equity/preference each issued of issued ( Number of shares (whether on account of
+etc. share shares issued multiplied by the nominal value of the
+nominal value) share or by way of
+premium)
+Total
+E2 Prescribed particulars of rights attached to shares
+Please give the prescribed particulars of rights 1 Prescribed particulars
+attached to shares for each class of share shown of rights attached to
+in the statement of issued share capital table in shares
+Section E1.
+Class of share The particulars are:
+a. particulars of any
+Prescribed voting rights,
+particulars 1 including rights that
+arise only in certain
+circumstances;
+b. particulars of any
+rights, as respects
+dividends, to
+participate in a
+distribution;
+c. particulars of any
+rights, as respects
+capital, to participate
+in a distribution
+(including on winding
+up); and
+d. whether the shares are
+to be redeemed or are
+liable to be redeemed
+at the option of the
+company or the
+shareholder.
+A separate table must be
+used for each class of
+share.
+Class of share
+Page 32 of 86
+Prescribed 1 Prescribed particulars
+particulars 1 of rights attached to
+shares
+The particulars are:
+a. particulars of any
+voting rights,
+including rights that
+arise only in certain
+circumstances;
+b. particulars of any
+rights, as respects
+dividends, to
+participate in a
+distribution;
+c. particulars of any
+rights, as respects
+capital, to participate
+in a distribution
+(including on winding
+up); and
+d. whether the shares are
+to be redeemed or are
+liable to be redeemed
+at the option of the
+company or the
+shareholder.
+A separate table must be
+used for each class of
+share.
+E3 Initial shareholdings
+This section should only be completed by companies incorporating with
+share capital. Please complete the details below for each subscriber.The
+addresses will appear on the public record. These do not need to be the
+subscribers’ usual residential address.
+Subscribers’s Class of Number signature Nominal Amount to Amount
+details share of shares value of be paid (if any) to
+each up on each be unpaid
+share share ( on each
+whether on share (
+account of whether on
+the account of
+nominal the
+value of nominal
+the share or value of
+by way of the share or
+premium) by way of
+premium)
+Name
+Address
+Page 33 of 86
+Name
+Address
+Name
+Address
+Name
+Address
+Name
+Address
+Part 4 Statement of guarantee
+Is your company limited by guarantee?
+ Yes Complete the sections below.
+ No Go to Part 5 Persons with
+Significant Control (PSC).
+F1 Subscribers
+Please complete this section if you are a 1 Name Please use capital
+subscriber of a company limited by guarantee. letters.
+The following statement is being made by each
+and every person named below. 2 Address The addresses
+I confirm that if the company is wound up in this section will
+while I am a member, or within one year after appear on the public
+I cease to be a member, I will contribute to the record. They do not
+assets of the company by such amount as may have to be the
+be required for: subscribers’ usual
+a) payment of debts and liabilities of the residential address.
+company contracted before I cease to
+be a member; 3Amount guaranteed
+b) payment of costs, charges and Naira is the valid
+expenses of winding up, and; permitted currency.
+adjustment of the rights of the
+contributors among ourselves, not 4 Class of members
+exceeding the specified amount below. Only complete this if
+Subscriber’s details there will be more than
+Page 34 of 86
+Forename(s) 1 one class of members
+and if the subscribers
+Surname are electing to keep
+members’ information
+Address 2 on the public register.
+Amount
+guaranteed 3
+Class of member
+(if applicable) 4
+Subscriber’s details
+Forename(s) 1 1 Name Please use capital
+letters.
+2 Address The addresses
+in this section will
+appear on the public
+record. They do not
+have to be the
+subscribers’ usual
+residential address.
+3Amount guaranteed
+Naira is the valid
+permitted currency.
+4 Class of members
+Only complete this if
+there will be more than
+one class of members
+and if the subscribers
+are electing to keep
+members’ information
+on the public register.
+Subscriber’s details
+Forename(s) 1 1 Name Please use capital
+letters.
+Surname
+2 Address The addresses
+Address 2 in this section will
+appear on the public
+record. It does not have
+to be the subscribers’
+Amount guaranteed 3 usual residential
+address.
+Class of member (if
+applicable) 4 3Amount guaranteed
+Naira is the valid
+permitted currency.
+Page 35 of 86
+4 Class of members
+Only complete this if
+there will be more than
+one class of members
+and if the subscribers
+are electing to keep
+members’ information
+on the public register.
+Part 5 Persons with Significant Control (PSC)
+Entity Name
+Registration Number
+Tax Identification Number (TIN)
+Entity type Private Company Natural Person must be the subject of
+all PSC disclosures. If a legal entity is
+Public Company
+a PSC, a natural person or persons
+Unlimited Company who influence/control it must be
+disclosed. The PSC of State Owned
+Company Limited by Guarantee
+Enterprise (SOE) or government
+Limited Liability Partnership controlled entity shall consist of the
+Chief Executive Officer (CEO) and
+Foreign Exempted Company
+any natural person who has significant
+influence/control.
+State Owned Enterprise (SOE) Yes ☐ No ☐ Please check ‘Yes’ if the entity has
+government participation or control.
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2020
+E1. PSC Notification - Natural Person
+One copy should be filled out for each natural person who is a person with significant control.
+Details of the person with significant control
+Date this person became a PSC _ _-_ _ _-_ _ _ _ The date on which the natural
+person became PSC. Input the
+day-month-year month as abbreviate text e.g., 30-
+Jan-2020
+Title
+First Name This should be the current legal
+name of the PSC.
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Designation Applicable to SOEs
+City
+Page 36 of 86
+State
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card, Driver’s License, Permanent
+Voter’s Card
+Identification number
+Gender
+Email
+Phone number
+Address – service Building The service address of the PSC
+name/number
+Street
+City
+State
+Country
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+City
+State
+Country
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+Page 37 of 86
+applicable
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+E2. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP? individual named above is
+If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Others (please specify) …….
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a PEP?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+Foreign PEP ☐ please complete the below
+section.
+International Organization PEP ☐
+Others (please specify) ……….
+State the nature of
+Nature of relationship with the PEP …………… connection to PEP e.g.
+family member, close
+PEP details
+associate, etc.
+First name ………………………………….
+Surname ……………………………………
+Former name………………………………..
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Others
+Title/Role of the office holder …………………..
+Page 38 of 86
+Office/Department ………………………………
+E3. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the voting rights in a company
+Percentage held directly
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+Page 39 of 86
+Name(s), jurisdiction(s), and Voting rights be left blank.
+entity number(s) of legal (%)
+Where some part of the interest is held
+owner(s) indirectly, the name of the legal owner
+through which this interest is held should
+be provided.
+Where the PSC holds the interest through
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+partnership?
+E4. Guidance
+The forms above contain some inline guidance
+Term Definition
+Person with significant control “person with significant control PSC” means any person who meets
+any of the following conditions in relation to the company or limited
+liability partnership:
+● directly or indirectly holding at least 5% of the shares or
+interest in a company or limited liability partnership;
+● directly or indirectly holding at least 5% of the voting
+rights in a company or limited liability partnership;
+● directly or indirectly holding the right to appoint or remove
+a majority of the directors or partners in a company or
+limited liability partnership;
+● otherwise having the right to exercise or actually exercising
+significant influence or control over a company or limited
+liability partnership; or
+● having the right to exercise, or actually exercising
+significant influence or control over the activities of a trust
+or firm whether or not it is a legal entity, but would itself
+Page 40 of 86
+satisfy any of the first four conditions if it were an
+individual.”
+● For the purpose of clarifying the definition of "persons of
+significant control" in the Act, the "person" referred to in
+that definition shall be a natural person.
+Instructions
+Complete all relevant sections. If any information to be included on the form, such as a person’s name, is not
+originally in the Latin alphabet, please use a recognised transliteration into the Latin alphabet.
+PSC must be disclosed when:
+1. a new company/limited liability partnership is formed;
+2. filing annual returns;
+3. a person becomes PSC;
+4 filing of annual report by foreign exempted company/limited liability partnership;
+5. notification is made by a foreign exempted company/limited liability partnership.
+What is this form?
+To enhance transparency in doing business in Nigeria and adhere to Nigeria’s International obligations under the
+Financial Action Task Force (FATF), the Companies and Allied Matters Act (CAMA) 2020, requires the
+Commission to obtain, verify, and record information about persons with significant control in companies and
+limited liability partnerships, as defined under the Act.
+Under the regulation, every company and limited liability partnership must complete Form CAC-PSC 01 to notify
+the Commission of its PSC.
+This form collects information on the natural persons who are PSC and their interest in the company or limited
+liability partnership.
+Who must complete this form?
+Every entity that needs to disclose one or more PSC must fill out this form.
+Page 41 of 86
+Annual return of a company (CAC 19)
+Pursuant to Sections 417 - 424 of CAC 19
+the Companies and Allied Matters
+Act, 2020
+ANNUAL RETURN OF A
+COMPANY
+What this form is for What this form is NOT For further information
+You may use this form for Annual for Please refer to our guidance at www.cac.gov.ng
+Return of Companies
+You cannot use this form to file
+Annual Report of exempted foreign
+company
+Part 1 Company Details:
+This Section must be Completed by all companies.
+A1 Company RC Number:
+Company Name in Full:
+A2 Annual return made up to the……………day of…………. ,……………. (being the
+fourteenth day after the date of the general meeting for the year .
+The annual return must be delivered within 14 days of the date given below:
+Date of General d d m m y y y y
+Meeting
+A3 Please show the business classification code number(s) for the principal activity or
+activities.
+Classification code 1:
+Classification code 2:
+Classification code 3:
+Classification code 4:
+If you cannot determine a code, please give a brief description of your business activity
+below:
+Principal Activity
+Description:
+A4 Company Type:
+Please confirm your company type by ticking the appropriate box below (Only one box
+must be ticked).
+o ☐ Small company
+o ☐ Private company limited by shares (other than small)
+o ☐ Company limited by guarantee
+o ☐ Public company
+A5 Registered office address:
+Number /Building
+name:
+Street:
+Page 42 of 86
+City:
+Local Government
+State
+A6 Head office location if different from A5
+Number /Building
+name:
+Street:
+City:
+Local Government
+State
+A7 Location of Register of members/Register of person with significant control (if applicable)
+Number /Building
+name:
+Street:
+City:
+Local Government
+State
+Part 2 Officers of the company
+This section should include details of the company as at the made-up date of this annual return. All details must
+agree with those previously notified to Corporate Affairs Commission.
+Corporate secretary
+ For a Corporate Secretary, go to section B
+Individual secretary
+ For a Secretary who is an individual, go to section C
+Directors
+ For a Director, go to section D
+New Appointments
+You cannot use this form to appoint new officers to the company. To do this, please complete the appropriate form and
+submit it together with this annual return form:
+Change to officer details
+You cannot use this form to change any officer details. To do this, please complete the appropriate form and submit it
+together with the annual return.
+B Corporate secretary’s details:
+Please use this section for corporate secretaries of the company. For a secretary who is an
+individual, complete Section C.
+Corporate Body/firm
+name:
+Registration number .
+Number /Building
+name:
+Street:
+City:
+Local Government Phone number
+State Email
+C Secretary’s details:
+Please use this section for individual secretary of the company.
+For a corporate secretary, complete Section B.
+Title:
+Full forename(s):
+Surname:
+Former names(s):
+Nationality:
+Page 43 of 86
+Secretary’s Service address
+Number /Building
+name:
+Street:
+City:
+Local Government Phone Number
+State Email
+D. Director’s details: Please use this section to list directors of the company.
+Title:
+Full forename(s):
+Surname:
+Former names(s):
+Country/State of residence:
+Nationality:
+Date of birth: d d M M Y Y Y Y 1 Month and year of birth will appear on the public
+record
+Business occupation (If any)
+Telephone number
+Email
+Director’s service address
+Number /Building name:
+Street:
+City:
+Local Government
+State
+Part 3: Summary of issued share capital and debentures
+Does your company have share capital?
+ Yes, go to Section E1 ‘Companies with share capital’.
+ No go to part 4
+E1. Statement of Issued share capital
+Please complete below to show each share classes held.
+Class of shares E.g. Number of Aggregate Total aggregate amount
+Ordinary/Preference etc. shares nominal value N unpaid, if any N
+Total
+E2. Statement of capital (Prescribed particulars of rights attached to shares)
+Class of share Prescribed particulars of rights
+attached to shares
+The particulars are:
+1. particulars of voting rights,
+including rights that arise only in
+certain circumstances;
+2. particulars of any rights, as respect
+dividends, to participate in a
+distribution;
+3. particulars of any rights, as respects
+capital, to participate in a distribution
+(including winding up); and
+4. whether the shares are to be
+redeemed or are liable to be redeemed
+at the option of the company or the
+shareholder and any terms or
+Page 44 of 86
+conditions relating to redemption of
+these shares.
+E3 Particulars of indebtedness
+Total amount of indebtedness of the company in respect of all mortgages which are N
+required to be registered with the Commission under the Companies and Allied
+Matters Act (CAMA).
+E4. List of past and present members.
+List of person holding shares or stock in the company on the fourteenth day after the annual
+general meeting for 20…... and of persons who held shares or stock therein at any time since
+the date of the last return, or, in the cases of the first return, of the incorporation of the company.
+Folio in Name and Number Account Remarks
+register addresses of shares of shares
+containing held by
+particulars existing
+members
+at date of
+return
+(a) (b) Date of registration of transfer
+The aggregate number of shares held by each member must be stated, and the aggregate must
+be added up so as to agree with the number of shares stated in the Summary of Share Capital
+and Debenture to have been taken up.
+When the shares are different classes these columns should be subdivided so that the number
+of each class held, or transferred, may be shown separately. Where any shares have been
+converted into stock, the amount of stock held by each member must be shown.
+The date of registration of each transfer should be given as well as the number of shares
+transferred on each date. The particulars should be placed together with that of the transferee,
+but the name of the transferee may be inserted in the remarks column immediately opposite
+the particulars of each transfer.
+(i) If the return for either of the two immediately preceding years has been given as
+at the date of that return the full particulars required as to past and present
+members and the shares and stock held and transferred by them, only such of the
+particulars need be given as relate to persons ceasing to be or becoming members
+since the date of the last return and to shares transferred since that date or to
+changes as compared with the date in the amount of stock held by a member.
+(ii) If the names in the list are not arranged in alphabetical order, an index sufficient
+to enable the name of any person to be readily found must be annexed.
+Certificates and other Documents Accompanying Annual Returns
+Certificate to be given by a director and the secretary of every private company:
+We certify that the company has not since the date of the incorporation of the company/the last annual return, issued any
+invitation to the public to subscribe for any shares or debentures in the company.
+Further certificate to be given as aforesaid if the number of members of the company exceeds fifty:
+We certify that the excess of the number of members of the company over fifty consist wholly of persons who under
+subsection (3) of section 22 of the Companies and Allied Matters Act, are not to be included in reckoning the number fifty.
+Certified Copies of Accounts
+Page 45 of 86
+Except for companies qualifying as small companies, there shall be annexed to this return a written copy, certified both by
+a director and by the secretary of the company to be true copy, of every balance sheet laid before the company in general
+meeting during the period to which this return relates (including every document required by law to be annexed to the
+balance sheet) and a copy (certified as aforesaid) of the report of the directors accompanying each such balance sheet. If
+any balance sheet as aforesaid or document certified in a prescribed manner to be annexed thereto did not comply with the
+requirements of the law as in force at the date of the audit with respect to the form of balance sheet or documents aforesaid,
+as the case may be, there shall be made such additions to and corrections in the copy as would have been required to be
+made in the balance sheet or document in order to make it comply with the said requirements, and the fact that the copy
+has been amended must be stated thereon.
+Checklist
+We may return forms completed incorrectly or with information missing.
+Please make sure you have remembered the following:
+o The company name and RC number match the information held on the public register.
+o You have completed your principal business activity.
+o You have not used this form to make changes to the registered office address.
+o You have not used this form to make changes to secretary and director details.
+o You have the full date of birth for all individual directors.
+o You have signed the form
+o You have enclosed the correct fee.
+F. Particulars of Turnover and Net Assets (this is applicable to small companies that are not
+required to submit Financial Statements)
+Total Turnover for the year N Amount in
+words
+Total value of Net Assets for the N Amount in
+year words
+G. Persons with Significant Control (PSC) - Natural Person
+Entity Name
+Registration Number
+Tax Identification Number (TIN)
+Entity type Private Company Natural Person must be the subject of
+all PSC disclosures. If a legal entity is
+Public Company
+a PSC, a natural person or persons
+Unlimited Company who influence/control it must be
+disclosed. The PSC of State Owned
+Company Limited by Guarantee
+Enterprise (SOE) or government
+controlled entity shall consist of the
+Chief Executive Officer (CEO) and
+any natural person who has significant
+influence/control.
+State Owned Enterprise (SOE) Yes ☐ No ☐ Please check ‘Yes’ if the entity has
+government participation or control.
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2020
+G1. PSC Notification - Natural Person
+One copy should be filled out for each natural person who is a person with significant control.
+Details of the person with significant control
+Date this person became a PSC _ _-_ _ _-_ _ _ _ The date on which the natural
+person became PSC. Input the
+day-month-year month as abbreviate text e.g., 30-
+Page 46 of 86
+Jan-2020
+Title
+First Name This should be the current legal
+name of the PSC.
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Designation Applicable to SOEs
+City
+State
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card
+Identification number
+Gender
+Email
+Phone number
+Address – service Building The service address of the PSC
+name/number
+Street
+City
+State
+Page 47 of 86
+Country
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+City
+State
+Country
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+applicable
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+G2. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP? individual named above is
+If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Others (please specify) …….
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a PEP?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+Foreign PEP ☐ please complete the below
+section.
+International Organization PEP ☐
+Others (please specify) ……….
+State the nature of
+Nature of relationship with the PEP …………… connection to PEP e.g.
+family member, close
+PEP details
+Page 48 of 86
+First name …………………………………. associate, etc.
+Surname ……………………………………
+Former name………………………………..
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Others
+Title/Role of the office holder …………………..
+Office/Department ………………………………
+G3. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entitynumber and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+Page 49 of 86
+indirectly hold at least 5% of Percentage held directly and indirectly.
+the voting rights in a company
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+be left blank.
+Where some part of the interest is held
+Name(s), jurisdiction(s), and Voting rights indirectly, the name of the legal owner
+through which this interest is held should
+entity number(s) of legal (%)
+be provided.
+owner(s)
+Where the PSC holds the interest through
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+partnership?
+G4. Guidance
+The forms above contain some inline guidance
+Term Definition
+Page 50 of 86
+Person with significant control “person with significant control PSC” means any person who meets
+any of the following conditions in relation to the company or limited
+liability partnership:
+● directly or indirectly holding at least 5% of the shares or
+interest in a company or limited liability partnership;
+● directly or indirectly holding at least 5% of the voting
+rights in a company or limited liability partnership;
+● directly or indirectly holding the right to appoint or remove
+a majority of the directors or partners in a company or
+limited liability partnership;
+● otherwise having the right to exercise or actually exercising
+significant influence or control over a company or limited
+liability partnership; or
+● having the right to exercise, or actually exercising
+significant influence or control over the activities of a trust
+or firm whether or not it is a legal entity, but would itself
+satisfy any of the first four conditions if it were an
+individual.”
+● For the purpose of clarifying the definition of "persons of
+significant control" in the Act, the "person" referred to in
+that definition shall be a natural person.
+Instructions
+Complete all relevant sections. If any information to be included on the form, such as a person’s name, is not
+originally in the Latin alphabet, please use a recognised transliteration into the Latin alphabet.
+PSC must be disclosed when:
+1. a new company/limited liability partnership is formed;
+2. filing annual returns;
+3. a person becomes PSC;
+4 filing of annual report by foreign exempted company/limited liability partnership;
+5. notification is made by a foreign exempted company/limited liability partnership.
+What is this form?
+To enhance transparency in doing business in Nigeria and adhere to Nigeria’s International obligations under the
+Financial Action Task Force (FATF), the Companies and Allied Matters Act (CAMA) 2020, requires the
+Commission to obtain, verify, and record information about persons with significant control in companies and
+limited liability partnerships, as defined under the Act.
+Under the regulation, every company and limited liability partnership must complete Form CAC-PSC 01 to notify
+the Commission of its PSC.
+This form collects information on the natural persons who are PSC and their interest in the company or limited
+liability partnership
+Who must complete this form?
+Every entity that needs to disclose one or more PSC must fill out this form.
+Page 51 of 86
+Notice of exemption of foreign company or limited liability partnership (CAC 21)
+Pursuant to Sections 80 and CAC 21
+788 of the Companies and
+Allied Matters Act, 2020
+NOTICE OF EXEMPTION OF
+FOREIGN COMPANY OR
+LIMITED LIABILITY
+PARTNERSHIP
+What this form is for For further information
+What this form is
+You may use this form to give notice of Please refer to our guidance at www.cac.gov.ng
+NOT for
+Exemption of foreign company or limited
+You cannot use this form to
+liability partnership
+give notice of Annual Report
+for exempted foreign company
+or limited liability partnership
+A. Entity details
+Entity name in full
+Registration Number
+Date of registration d d M M y Y y y
+Country Please state the country or jurisdiction where
+the company/limited liability partnership was
+registered.
+B. Exemption details
+Date of Exemption
+Place of business outside Nigeria
+Place of business in Nigeria
+Description of business in Nigeria
+Duration of business in Nigeria
+Duration of Exemption
+Expected date of completion
+C. Names and addresses of authorized persons (Representative of company/limited liability partnership)
+SN Name Address Tel. number Email Signature
+1
+2
+D. Names and addresses of each Director/Partner
+SN Name Address Tel. number Email Signature
+1
+2
+E. Authentication
+Name
+Page 52 of 86
+Description This form is authorised by a Director/Partner, Secretary or any
+authorised officer of the company/limited liability
+partnership.
+F. Persons with Significant Control (PSC) - Natural Person
+Tax Identification Number (TIN)
+Entity type Private Company Natural Person must be the subject of
+all PSC disclosures. If a legal entity is
+Public Company
+a PSC, a natural person or persons
+Unlimited Company who influence/control it must be
+disclosed. The PSC of State Owned
+Company Limited by Guarantee
+Enterprise (SOE) or government
+Limited Liability Partnership controlled entity shall consist of the
+Chief Executive Officer (CEO) and
+Foreign Exempted Company
+any natural person who has significant
+influence/control.
+State Owned Enterprise (SOE) Yes ☐ No ☐ Please check ‘Yes’ if the entity has
+government participation or control.
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2020
+F1. PSC Notification - Natural Person
+One copy should be filled out for each natural person who is a person with significant control.
+Details of the person with significant control
+Date this person became a PSC _ _-_ _ _-_ _ _ _ The date on which the natural
+person became PSC. Input the
+day-month-year month as abbreviate text e.g., 30-
+Jan-2020
+Title
+First Name This should be the current legal
+name of the PSC.
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Designation Applicable to SOEs
+City
+State
+Page 53 of 86
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card
+Identification number
+Gender
+Email
+Phone number
+Address – service Building The service address of the PSC
+name/number
+Street
+City
+State
+Country
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+City
+State
+Country
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+applicable
+Page 54 of 86
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+F2. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP? individual named above is
+If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Others (please specify) …….
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a PEP?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+Foreign PEP ☐ please complete the below
+section.
+International Organization PEP ☐
+Others (please specify) ……….
+State the nature of
+Nature of relationship with the PEP …………… connection to PEP e.g.
+family member, close
+PEP details
+associate, etc.
+First name ………………………………….
+Surname ……………………………………
+Former name………………………………..
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Others
+Title/Role of the office holder …………………..
+Office/Department ………………………………
+Page 55 of 86
+F3. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entitynumber and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the voting rights in a company
+Percentage held directly
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+be left blank.
+Where some part of the interest is held
+Name(s), jurisdiction(s), and Voting rights indirectly, the name of the legal owner
+through which this interest is held should
+entity number(s) of legal (%)
+be provided.
+owner(s)
+Where the PSC holds the interest through
+Page 56 of 86
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+partnership?
+F4. Guidance
+The forms above contain some inline guidance
+Term Definition
+Person with significant control “person with significant control PSC” means any person who meets
+any of the following conditions in relation to the company or limited
+liability partnership:
+● directly or indirectly holding at least 5% of the shares or
+interest in a company or limited liability partnership;
+● directly or indirectly holding at least 5% of the voting
+rights in a company or limited liability partnership;
+● directly or indirectly holding the right to appoint or remove
+a majority of the directors or partners in a company or
+limited liability partnership;
+● otherwise having the right to exercise or actually exercising
+significant influence or control over a company or limited
+liability partnership; or
+● having the right to exercise, or actually exercising
+significant influence or control over the activities of a trust
+or firm whether or not it is a legal entity, but would itself
+satisfy any of the first four conditions if it were an
+individual.”
+● For the purpose of clarifying the definition of "persons of
+significant control" in the Act, the "person" referred to in
+that definition shall be a natural person.
+Page 57 of 86
+Instructions
+Complete all relevant sections. If any information to be included on the form, such as a person’s name, is not
+originally in the Latin alphabet, please use a recognised transliteration into the Latin alphabet.
+PSC must be disclosed when:
+1. a new company/limited liability partnership is formed;
+2. filing annual returns;
+3. a person becomes PSC;
+4 filing of annual report by foreign exempted company/limited liability partnership;
+5. notification is made by a foreign exempted company/limited liability partnership.
+What is this form?
+To enhance transparency in doing business in Nigeria and adhere to Nigeria’s International obligations under the
+Financial Action Task Force (FATF), the Companies and Allied Matters Act (CAMA) 2020, requires the
+Commission to obtain, verify, and record information about persons with significant control in companies and
+limited liability partnership, as defined under the Act.
+Under the regulation, every company and limited liability partnership must complete Form CAC-PSC 01 to notify
+the Commission of its PSC.
+This form collects information on the natural persons who are PSC and their interest in the company or limited
+liability partnership.
+Who must complete this form?
+Every entity that needs to disclose one or more PSC must fill out this form.
+Presented for filing by:
+Name
+Address Street
+City area/District
+City/Town/Village
+Local Government
+Postal code
+State
+Country
+Phone Number
+Email Accreditation Number (where
+applicable)
+Signature Date
+Page 58 of 86
+Annual report of exempted foreign company or limited liability partnership (CAC 22)
+Pursuant to CAC 22
+Section 81 and
+788 of the
+ANNUAL REPORT OF
+Companies and
+Allied Matters EXEMPTED FOREIGN
+Act, 2020
+COMPANY OR LIMITED
+LIABILITY PARTNERSHIP
+What this form is for For further information
+What this form is
+You may use this form to file annual
+NOT for
+report of exempted foreign company or Please refer to our guidance at www.cac.gov.ng
+You cannot use this form to
+limited liability partnership
+give notice of Exemption
+A. Entity details
+Entity name in full
+Registration Number
+Date of registration d d m m y y y Y
+Country Please state the country or jurisdiction where the company or
+limited liability partnership was registered.
+B. Annual report details
+Date of Annual Report d d m m y y Y Y
+Place of business outside Nigeria
+Place of business in Nigeria
+Description of business in Nigeria
+Duration of busines in Nigeria
+Date of Exemption d d m m y y Y Y
+Duration of Exemption
+Expected date of D d M m y y y Y
+completion of business
+in Nigeria
+C. Name and Address of Principal Representative of Company or limited liability
+partnership in Nigeria
+Name Address Tel. Email Signature
+number
+D. Particulars of turnover and net assets
+Total Turnover for the year N Amount in words
+Total value of Net Assets for the N Amount in words
+year
+SN Name Address Tel. Email Signature
+number
+1
+2
+5. Authentication
+Name
+Page 59 of 86
+Description This form is authorised by a Director, Secretary or any
+authorised officer of the company or limited liability
+partnership.
+If there is insufficient space on the form to provide any information required, please attach a separate sheet
+containing the information set out in the prescribed form.
+E. Persons with Significant Control (PSC) - Natural Person
+Entity Name
+Registration Number
+Tax Identification Number (TIN)
+Entity type Private Company Natural Person must be the subject of
+all PSC disclosures. If a legal entity is
+Public Company
+a PSC, a natural person or persons
+Unlimited Company who influence/control it must be
+disclosed. The PSC of State Owned
+Company Limited by Guarantee
+Enterprise (SOE) or government
+Limited Liability Partnership controlled entity shall consist of the
+Chief Executive Officer (CEO) and
+Foreign Exempted Company
+any natural person who has significant
+influence/control.
+State Owned Enterprise (SOE) Yes ☐ No ☐ Please check ‘Yes’ if the entity has
+government participation or control.
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2020
+E1. PSC Notification - Natural Person
+One copy should be filled out for each natural person who is a person with significant control.
+Details of the person with significant control
+Date this person became a PSC _ _-_ _ _-_ _ _ _ The date on which the natural
+person became PSC. Input the
+day-month-year month as abbreviate text e.g., 30-
+Jan-2020
+Title
+First Name This should be the current legal
+name of the PSC.
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Designation Applicable to SOEs
+City
+State
+Page 60 of 86
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card\
+Identification number
+Gender
+Email
+Phone number
+Address - service Building The service address of the PSC
+name/number
+Street
+City
+State
+Country
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+City
+State
+Country
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+applicable
+Page 61 of 86
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+E2. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP? individual named above is
+If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Others (please specify) …….
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a PEP?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+Foreign PEP ☐ please complete the below
+section.
+International Organization PEP ☐
+Others (please specify) ……….
+State the nature of
+Nature of relationship with the PEP …………… connection to PEP e.g.
+family member, close
+PEP details
+associate, etc.
+First name ………………………………….
+Surname ……………………………………
+Former name………………………………..
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Others
+Title/Role of the office holder …………………..
+Office/Department ………………………………
+Page 62 of 86
+E3. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the voting rights in a company
+Percentage held directly
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+be left blank.
+Where some part of the interest is held
+Name(s), jurisdiction(s), and Voting rights indirectly, the name of the legal owner
+through which this interest is held should
+entity number(s) of legal (%)
+be provided.
+owner(s)
+Where the PSC holds the interest through
+Page 63 of 86
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+partnership?
+E4. Guidance
+The forms above contain some inline guidance
+Term Definition
+Person with significant control “person with significant control PSC” means any person who meets
+any of the following conditions in relation to the company or limited
+liability partnership:
+● directly or indirectly holding at least 5% of the shares or
+interest in a company or limited liability partnership;
+● directly or indirectly holding at least 5% of the voting
+rights in a company or limited liability partnership;
+● directly or indirectly holding the right to appoint or remove
+a majority of the directors or partners in a company or
+limited liability partnership;
+● otherwise having the right to exercise or actually exercising
+significant influence or control over a company or limited
+liability partnership; or
+● having the right to exercise, or actually exercising
+significant influence or control over the activities of a trust
+or firm whether or not it is a legal entity, but would itself
+satisfy any of the first four conditions if it were an
+individual.”
+● For the purpose of clarifying the definition of "persons of
+significant control" in the Act, the "person" referred to in
+that definition shall be a natural person.
+Page 64 of 86
+Instructions
+Complete all relevant sections. If any information to be included on the form, such as a person’s name, is not
+originally in the Latin alphabet, please use a recognised transliteration into the Latin alphabet.
+PSC must be disclosed when:
+1. a new company/limited liability partnership is formed;
+2. filing annual returns;
+3. a person becomes PSC;
+4 filing of annual report by foreign exempted company/limited liability partnership;
+5. notification is made by a foreign exempted company/limited liability partnership.
+What is this form?
+To enhance transparency in doing business in Nigeria and adhere to Nigeria’s International obligations under the
+Financial Action Task Force (FATF), the Companies and Allied Matters Act (CAMA) 2020, requires the
+Commission to obtain, verify, and record information about persons with significant control in companies and
+limited liability partnership, as defined under the Act.
+Under the regulation, every company and limited liability partnership must complete Form CAC-PSC 01 to notify
+the Commission of its PSC.
+This form collects information on the natural persons who are PSC and their interest in the company or limited
+liability partnership.
+Who must complete this form?
+Every entity that needs to disclose one or more PSC must fill out this form.
+Presented for filing by:
+Name
+Address Street
+City area/District
+City/Town/Village
+Local Government
+Postal code
+State
+Country
+Phone Number
+Email Accreditation Number (where
+applicable)
+Signature Date
+Page 65 of 86
+Application to register a limited liability partnership (LLP) (CAC/LLP 01)
+Pursuant to Section 753 of the CAC/LLP 01
+Companies and Allied Matters
+Act, 2020
+APPLICATION TO REGISTER A
+LIMITED LIABILITY
+PARTNERSHIP (LLP)
+What this form is for
+What this form is NOT for
+For further information
+You may use this form to
+You cannot use this form to incorporate a company
+please refer to our guidance at
+register an LLP www.cac.gov.ng
+Part 1 LLP details
+A1 LLP name
+Approved LLP name
+A2 Principal business activity
+Description of Principal
+Activity
+A3 Registered office address
+Please give the registered office address of your LLP
+Number/Building Name You must ensure that the address shown in this
+section is easily traceable.
+Street
+City/Town/Village
+Local Government
+Postcode LLP’s
+email
+State Phone
+number
+A4 Head office address 1
+Number/Building Name 1 Please give the Head office address where is
+diferent from the Registered office address in
+section A3.
+Street
+Ensure that the address shown in this section is
+easily traceable.
+City/Town/Village
+Local Government
+Postcode
+Page 66 of 86
+State
+A5 Partner’s designation 2
+Will all partners from time to time be 2
+Partners’ designation If ‘Yes’ all partners named
+designated partners? will be designated. If ‘No’ at least two partners
+☐ Yes named must be designated.
+☐ No
+A6 Contributions
+SN Name of partner Capital (or Contribution (or Contribution other than
+Contribution other Cash) contributed (state as applicable)
+than cash) committed
+but yet o be
+contributed (state as
+applicable)
+1
+2
+3
+Part 2 Proposed officers
+A minimum of two designated partners must be individuals. Partners that are corporate
+entities should nominate individuals to act as designated partners of the LLP and indicate
+that such persons are nominee.
+ For a partner who is an individual, go to Section B1.
+ For a corporate partner, go to Section C1.
+There must be two designated partners at all times. Unless at least two designated partners
+all partners will be designated.
+B1 Partner appointments 1
+Please use this section to list all the partner 1 Appointments
+appointments taken on formation. For a corporate For corporate partner appointments,
+partner complete C1. please complete section C1instead of
+section B.
+Title
+2
+Former name(s) Please provide any
+previous names (including maiden or
+Full forenames(s)
+married names) which have been used
+for business purposes in the last 10 years.
+Surname
+3
+Country/State of residence This is in
+Former name(s) 2 respect of your usual residential address
+as stated in section B4
+Gender
+4
+Business occupation If you have a
+business occupation, please enter here. If
+Nationality
+you do not, please leave blank.
+Country/state of residence 3 5 Designated partner
+There must be atleast two designated
+partners at all times.
+Occupation 4
+Email
+Page 67 of 86
+Phone number
+Identity type
+Identity number
+Designated member 5 Please tick this box if the perosn is consenting to act as
+designated partner.
+☐
+B2 Partner’s service address 6
+Please complete the service address below. You must 6 Service address
+also fill in the partner’s usual residential address in This is the address that will appear on the
+Section D4. public record. This does not have to be
+your usual residential address.
+Number/building name
+Please state ‘The LLP’s Registered
+Office’ if your service address will be
+Street recorded in the proposed LLP’s register
+of partners as the LLP’s registered
+office.
+City/town/village
+Local Government (where
+applicable)
+Postcode
+State
+Country
+B3 Partner’s date of birth 7
+Please complete your full date of birth below. 7 Date of birth
+Please give the full date of birth. The day
+(dd) will not appear on the public record.
+D d m M Y Y y Y
+B4 Partner’s usual residential address 8
+Please complete your usual residential address below. 8 New partner’s usual residential
+address Please state ‘Same as service
+Number/building name address’ in this section if your usual
+residential address is recorded in the
+LLP’s proposed register of partner’s
+Street residential addresses as ‘Same as service
+address’.
+You cannot state ‘Same as service
+City/town/village
+address’ if your service address has been
+stated in Section B2 as ‘The LLP’s
+Local Government (where Registered Office’. You will need to
+applicable) complete the address in full.
+Postcode
+State
+Country
+Page 68 of 86
+Date
+Signature Signature
+X X
+I consent to be a partner of the above named LLP
+Partner
+B1 Partner appointments 1
+Please use this section to list all the partner 1 Appointments
+appointments taken on formation. For corporate partner appointments,
+Title please complete section C1instead of
+section B.
+2
+Former name(s) Please provide any
+Full forenames(s)
+previous names (including maiden or
+married names) which have been used
+Surname for business purposes in the last 10 years.
+3
+Former name(s) 2 Country/State of residence This is in
+respect of your usual residential address
+as stated in section B4
+Gender
+4
+Business occupation If you have a
+Nationality
+business occupation, please enter here. If
+you do not, please leave blank.
+Country/state of residence 3
+5
+Designated partner
+Occupation 4 There must be atleast two designated
+partners at all times.
+Email
+Phone number
+Identity type
+Identity number
+Designated member 5 Please tick this box if the perosn is consenting to act as
+designated member.
+☐
+B2 Partner’s service address 6
+Please complete the service address below. You must 6 Service address
+also fill in the partner’s usual residential address in This is the address that will appear on the
+Section D4. public record. This does not have to be
+your usual residential address.
+Number/building name
+Please state ‘The LLP’s Registered
+Office’ if your service address will be
+Street recorded in the proposed LLP’s register
+of partners as the LLP’s registered
+office.
+City/town/village
+Local Government (where
+applicable)
+Postcode
+Page 69 of 86
+State
+Country
+B3 Partner’s date of birth 7
+Please complete your full date of birth below. 7 Date of birth
+Please give the full date of birth. The day
+(dd) will not appear on the public record.
+D d m M Y Y y Y
+B4 Partner’s usual residential address 8
+Please complete your usual residential address below. 8 New partner’s usual residential
+address Please state ‘Same as service
+Number/building name address’ in this section if your usual
+residential address is recorded in the
+LLP’s proposed register of partners’
+Street residential addresses as ‘Same as service
+address’.
+You cannot state ‘Same as service
+City/town/village
+address’ if your service address has been
+stated in Section B2 as ‘The LLP’s
+Local Government (where Registered Office’. You will need to
+applicable) complete the address in full.
+Postcode
+State
+Country
+Date
+Signature Signature
+X X
+I consent to be a partner of the above named LLP
+C1 Corporate partner appointments
+Please us this section to list all the corporate partner of 1 Registered or principal address
+the LLP. This is the address that will appear on the
+public record. This address must be a
+Corporate body/firm name
+physical location for the delivery of
+documents. It cannot be a PO box
+Registration number number
+Number/building number 1
+Street
+City/town/village
+Local Government
+Postcode
+Page 70 of 86
+State
+Phone number
+Email
+Part 5 Persons with Significant Control (PSC)
+D. Persons with Significant Control (PSC) - Natural Person
+Entity Name
+Registration Number
+Tax Identification Number (TIN)
+Entity type Private Company Natural Person must be the subject of
+all PSC disclosures. If a legal entity is
+Public Company
+a PSC, a natural person or persons
+Unlimited Company who influence/control it must be
+disclosed. The PSC of State Owned
+Company Limited by Guarantee
+Enterprise (SOE) or government
+Limited Liability Partnership controlled entity shall consist of the
+Chief Executive Officer (CEO) and
+Foreign Exempted Company
+any natural person who has significant
+influence/control.
+State Owned Enterprise (SOE) Yes ☐ No ☐ Please check ‘Yes’ if the entity has
+government participation or control.
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2020
+D1. PSC Notification - Natural Person
+One copy should be filled out for each natural person who is a person with significant control.
+Details of the person with significant control
+Date this person became a PSC _ _-_ _ _-_ _ _ _ The date on which the natural
+person became PSC. Input the
+day-month-year month as abbreviate text e.g., 30-
+Jan-2020
+Title
+First Name This should be the current legal
+name of the PSC.
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Designation Applicable to SOEs
+City
+State
+Page 71 of 86
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card
+Identification number
+Gender
+Email
+Phone number
+Address – service Building The service address of the PSC
+name/number
+Street
+City
+State
+Country
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+City
+State
+Country
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+applicable
+Page 72 of 86
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+D2. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP? individual named above is
+If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Others (please specify) …….
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a PEP?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+Foreign PEP ☐ please complete the below
+section.
+International Organization PEP ☐
+Others (please specify) ……….
+State the nature of
+Nature of relationship with the PEP …………… connection to PEP e.g.
+family member, close
+PEP details
+associate, etc.
+First name ………………………………….
+Surname ……………………………………
+Former name………………………………..
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Others
+Title/Role of the office holder …………………..
+Office/Department ………………………………
+Page 73 of 86
+D3. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the voting rights in a company
+Percentage held directly
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+be left blank.
+Where some part of the interest is held
+Name(s), jurisdiction(s), and Voting rights indirectly, the name of the legal owner
+through which this interest is held should
+entity number(s) of legal (%)
+be provided.
+owner(s)
+Where the PSC holds the interest through
+Page 74 of 86
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+partnership?
+D4. Guidance
+The forms above contain some inline guidance
+Term Definition
+Person with significant control “person with significant control PSC” means any person who meets
+any of the following conditions in relation to the company or limited
+liability partnership:
+● directly or indirectly holding at least 5% of the shares or
+interest in a company or limited liability partnership;
+● directly or indirectly holding at least 5% of the voting
+rights in a company or limited liability partnership;
+● directly or indirectly holding the right to appoint or remove
+a majority of the directors or partners in a company or
+limited liability partnership;
+● otherwise having the right to exercise or actually exercising
+significant influence or control over a company or limited
+liability partnership; or
+● having the right to exercise, or actually exercising
+significant influence or control over the activities of a trust
+or firm whether or not it is a legal entity, but would itself
+satisfy any of the first four conditions if it were an
+individual.”
+● For the purpose of clarifying the definition of "persons of
+significant control" in the Act, the "person" referred to in
+that definition shall be a natural person.
+Page 75 of 86
+Instructions
+Complete all relevant sections. If any information to be included on the form, such as a person’s name, is not
+originally in the Latin alphabet, please use a recognised transliteration into the Latin alphabet.
+PSC must be disclosed when:
+1. a new company/limited liability partnership is formed;
+2. filing annual returns;
+3. a person becomes PSC;
+4 filing of annual report by foreign exempted company/limited liability partnership;
+5. notification is made by a foreign exempted company/limited liability partnership.
+What is this form?
+To enhance transparency in doing business in Nigeria and adhere to Nigeria’s International obligations under the
+Financial Action Task Force (FATF), the Companies and Allied Matters Act (CAMA) 2020, requires the
+Commission to obtain, verify, and record information about persons with significant control in companies and
+limited liability partnership, as defined under the Act.
+Under the regulation, every company/limited liability partnership must complete Form CAC-PSC 01 to notify
+the Commission of its PSC.
+This form collects information on the natural persons who are PSC and their interest in the company or limited
+liability partnership.
+Who must complete this form?
+Every entity that needs to disclose one or more PSC must fill out this form.
+Page 76 of 86
+Annual return of limited liability partnership (LLP) (CAC/LLP 07)
+Pursuant to Section 733 of the CAC/LLP 07
+Companies and Allied Matters
+Act, 2020
+ANNUAL RETURN OF LIMITED
+LIABILITY PARTNERSHIP (LLP)
+What this form is for For further information
+What this form is NOT for
+You may use this form to file Annual Return of Please refer to our guidance at
+You cannot use this form to file annual return
+Limited liability partnership www.cac.gov.ng
+of Limited Partnership
+1. LLP Partnership details
+Registration Number
+LLP name in full
+General Nature of Business
+2. Registered office address
+Number/Building Name*
+Street*
+City/Town/Village*
+Local Government*
+Postal code
+State*
+3. Head office Address (if any)
+Number/Building Name*
+Street*
+City/Town/Village*
+Local Government*
+Postal code
+State*
+4. Annual Return details
+Date of financial year end d d m m y y y y
+Annual Return for the year ended
+Financial Year End/Accounting
+Year End
+Turnover N
+Total Net Assets N
+Page 77 of 86
+5. Particulars of Partners
+Surname
+Forename(s) Designation
+Nationality Date of birth D D M m y y y Y
+Gender Telephone number
+Identity Number Identity Type
+Email Occupation
+Residential Address
+Number/Building
+Name*
+Street*
+City/Town/Village*
+Local Government*
+Postal code
+State*
+Service Address
+Number/Building
+Name*
+Street*
+City/Town/Village*
+Local Government*
+Postal code
+State*
+Signature Date
+Surname
+Forename(s)
+Nationality Date of birth D D M m y y y Y
+Gender Telephone number
+Identity Number Identity Type
+Email Occupation
+Residential Address
+Number/Building
+Name*
+Street*
+City/Town/Village*
+Local Government*
+Page 78 of 86
+Postal code
+State*
+Service Address
+Number/Building
+Name*
+Street*
+City/Town/Village*
+Local Government*
+Postal code
+State*
+Signature Date
+6. Particulars of Corporate Partner (if any)
+Name of corporate body
+Registration number
+Address
+Number/Building
+Name*
+Street*
+City/Town/Village*
+Local Government*
+Postal code
+State*
+8. Persons with Significant Control (PSC) - Natural Person
+Entity Name
+Registration Number
+Tax Identification Number (TIN)
+Entity type Private Company Natural Person must be the subject of
+all PSC disclosures. If a legal entity is
+Public Company
+a PSC, a natural person or persons
+Unlimited Company who influence/control it must be
+disclosed. The PSC of State Owned
+Company Limited by Guarantee
+Enterprise (SOE) or government
+Limited Liability Partnership controlled entity shall consist of the
+Chief Executive Officer (CEO) and
+Foreign Exempted Company
+any natural person who has significant
+influence/control.
+State Owned Enterprise (SOE) Yes ☐ No ☐ Please check ‘Yes’ if the entity has
+government participation or control.
+Submission Date _ _-_ _ _-_ _ _ _ The date on which this information
+was submitted to the Commission.
+day-month-year
+Input the month as abbreviated text
+e.g., 30-Jan-2020
+Page 79 of 86
+D1. PSC Notification - Natural Person
+One copy should be filled out for each natural person who is a person with significant control.
+Details of the person with significant control
+Date this person became a PSC _ _-_ _ _-_ _ _ _ The date on which the natural
+person became PSC. Input the
+day-month-year month as abbreviate text e.g., 30-
+Jan-2020
+Title
+First Name This should be the current legal
+name of the PSC.
+Surname The family names of the PSC.
+Other Name(s) The given names of the PSC used
+to distinguish the individual within
+the family.
+Former name(s) Applicable if there is change of
+name.
+Designation Applicable to SOEs
+City
+State
+Nationality
+Country of residence
+Identification type Means of identification e.g.
+international passport, National ID
+card
+Identification number
+Gender
+Email
+Phone number
+Address - service Building The service address of the PSC
+name/number
+Page 80 of 86
+Street
+City
+State
+Country
+Address – Residential Building The residential address of the PSC (not for publication)
+Individual’s residential address.
+name/number
+This address cannot be a P O Box number.
+Street
+City
+State
+Country
+Tax residency A jurisdiction or jurisdictions in
+which the PSC is resident for tax
+purposes.
+Tax Identification Number (TIN) Individual TIN, if
+applicable
+Date of Birth _ _-_ _ _-_ _ _ _ Input the month as abbreviated text
+e.g., 30-Jan-2020
+day-month-year
+D2. Details of Politically Exposed Person (PEP)
+Is the individual named above a Yes ☐ No ☐ Check Yes if the
+PEP? individual named above is
+If the answer is yes, please select the PEP type a PEP
+Domestic PEP ☐
+Foreign PEP ☐
+International Organization PEP ☐
+Others (please specify) …….
+Is the individual named above Yes ☐ No ☐
+being a close relative or associate
+of a PEP?
+PEP type
+Domestic PEP ☐
+Where the above is yes,
+please complete the below
+Page 81 of 86
+Foreign PEP ☐ section.
+International Organization PEP ☐
+State the nature of
+Others (please specify) ……….
+connection to PEP e.g.
+Nature of relationship with the PEP …………… family member, close
+associate, etc.
+PEP details
+First name ………………………………….
+Surname ……………………………………
+Former name………………………………..
+Date of birth _ _-_ _ _-_ _ _ _
+day-month-year
+Reason for PEP status Head of Sate/Government ☐ An individual is eligible
+for PEP in each status.
+Senior political party official ☐
+Judicial officer ☐
+Government official ☐
+Military official ☐
+Others
+Title/Role of the office holder …………………..
+Office/Department ………………………………
+D3. Details of the interest(s) held
+Interests held
+Shares in a company or interest in a limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the shares or interest in a
+Percentage held directly
+company or limited liability
+partnership?
+Percentage held indirectly Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of shares or interest Where some part of the interest is held
+indirectly, the name of the legal owner
+in the Register and the percentage of the
+through which this interest is held should
+PSC’s overall interest held through them.
+be provided.
+Where the PSC holds the interest through
+Name(s), jurisdiction(s), and Share (%) a combination of legal owners in the
+Register, all relevant legal owners should
+entity number(s) of legal
+be listed.
+owner(s)
+Where the legal owner is a natural person,
+Page 82 of 86
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+Voting rights in a company or limited liability partnership
+Does the PSC directly or Yes/No If ‘Yes’, state the percentage held directly
+and indirectly.
+indirectly hold at least 5% of
+the voting rights in a company
+Percentage held directly
+or limited liability partnership?
+Percentage held indirectly
+Where percentage is held indirectly,
+please complete the section below.
+Name of legal owner(s) of voting rights in the If the names and percentages of the legal
+owners are the same as the shares and
+Register and the percentage of the PSC’s
+interest declaration, then this section can
+overall interest held through them.
+be left blank.
+Where some part of the interest is held
+Name(s), jurisdiction(s), and Voting rights indirectly, the name of the legal owner
+through which this interest is held should
+entity number(s) of legal (%)
+be provided.
+owner(s)
+Where the PSC holds the interest through
+a combination of legal owners in the
+Register, all relevant legal owners should
+be listed.
+Where the legal owner is a natural person,
+the name should be as it appears on the
+Register. Where the legal owner is an
+entity, the entity number and jurisdiction
+should also be provided.
+The right to appoint or remove a majority of the directors or partners
+Does the PSC directly or Yes/No
+indirectly hold the right to
+appoint or remove a
+majority of the directors or
+partners in a company or
+limited liability partnership?
+Significant influence or control over a company or limited liability partnership
+Does the PSC otherwise have Yes/No
+the right to exercise or is
+actually exercising significant
+influence or control over a
+company or limited liability
+Page 83 of 86
+partnership?
+D4. Guidance
+The forms above contain some inline guidance
+Term Definition
+Person with significant control “person with significant control PSC” means any person who meets
+any of the following conditions in relation to the company or limited
+liability partnership:
+● directly or indirectly holding at least 5% of the shares or
+interest in a company or limited liability partnership;
+● directly or indirectly holding at least 5% of the voting
+rights in a company or limited liability partnership;
+● directly or indirectly holding the right to appoint or remove
+a majority of the directors or partners in a company or
+limited liability partnership;
+● otherwise having the right to exercise or actually exercising
+significant influence or control over a company or limited
+liability partnership; or
+● having the right to exercise, or actually exercising
+significant influence or control over the activities of a trust
+or firm whether or not it is a legal entity, but would itself
+satisfy any of the first four conditions if it were an
+individual.”
+● For the purpose of clarifying the definition of "persons of
+significant control" in the Act, the "person" referred to in
+that definition shall be a natural person.
+Instructions
+Complete all relevant sections. If any information to be included on the form, such as a person’s name, is not
+originally in the Latin alphabet, please use a recognised transliteration into the Latin alphabet.
+PSC must be disclosed when:
+1. a new company/limited liability partnership is formed;
+2. filing annual returns;
+3. a person becomes PSC;
+4 filing of annual report by foreign exempted company/limited liability partnership;
+5. notification is made by a foreign exempted company/limited liability partnership.
+What is this form?
+To enhance transparency in doing business in Nigeria and adhere to Nigeria’s International obligations under the
+Financial Action Task Force (FATF), the Companies and Allied Matters Act (CAMA) 2020, requires the
+Commission to obtain, verify, and record information about persons with significant control in companies and
+limited liability partnership, as defined under the Act.
+Under the regulation, every company and limited liability partnership must complete Form CAC-PSC 01 to notify
+the Commission of its PSC.
+This form collects information on the natural persons who are PSC and their interest in the company or limited
+liability partnership.
+Page 84 of 86
+Who must complete this form?
+Every entity that needs to disclose one or more PSC must fill out this form.
+Page 85 of 86
+Second Schedule
+FEES
+Item
+Notice of ceasing to be a Person with significant control N5,000
+Status Report /certified extract N5,000
+OTUNBA RICHARD ADENIYI ADEBAYO, CON
+Honourable Minister of Industry, Trade and Investment
+Page 86 of 86
+

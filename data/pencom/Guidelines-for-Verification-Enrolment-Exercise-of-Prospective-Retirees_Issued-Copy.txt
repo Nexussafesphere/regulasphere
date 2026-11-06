@@ -1,0 +1,882 @@
+NATIONAL PENSION COMMISSION
+GUIDELINES FOR VERIFICATION AND ENROLMENT OF
+PROSPECTIVE RETIREES OF FEDERAL GOVERNMENT TREASURY-
+FUNDED MINISTRIES, DEPARTMENTS AND AGENCIES (MDAs)
+DECEMBER 2025
+Table of Contents
+1.0 INTRODUCTION ............................................................................................................... 3
+1.1 The Contribution and Bond Redemption Application (COBRA).......................................... 3
+1.2 The Legal Framework ....................................................................................................... 5
+1.3 Objectives of the Guidelines .............................................................................................. 5
+1.4 Definition of Terms ............................................................................................................ 6
+1.5 Rules of General Application ............................................................................................. 8
+2.0 VERIFICATION AND ENROLMENT PROCESS ............................................................... 9
+2.1 MDA Data Upload ............................................................................................................. 9
+2.2 Registration of Retiree/NOK of Deceased Employees ..................................................... 11
+2.3 Minimum Documentation Requirements .......................................................................... 12
+2.4 Appointment of Enrolment and Validation Officers .......................................................................... 14
+2.5 Documents Verification by PFA ............................................................................................................. 15
+2.6 Retiree/NOK Enrolment by PFA ............................................................................................................ 15
+2.7 Registration, Verification & Enrolment of Sick/Incapacitated Prospective Retiree ................ 15
+2.8 Original Documents to be Retained ..................................................................................................... 16
+2.9 Validation of Retiree Records by PFA ................................................................................................. 16
+2.10 ICT Requirements ...................................................................................................................................... 17
+3.0 RETIREE RECORD UPDATE ............................................................................................................... 18
+3.1 Update Request .......................................................................................................................................... 18
+3.2 Authorization ................................................................................................................................................ 18
+3.3 Update and Re-submission ..................................................................................................................... 18
+4.0 OVERSIGHT FUNCTIONS ..................................................................................................................... 18
+4.1 Processing Retirement Benefits ............................................................................................................ 18
+4.2 Remittance Schedules to PFAs/PFCs ................................................................................................. 19
+4.3 Off-site Review of Enrolment Exercise ................................................................................................ 19
+4.4 On-site Target Inspection of PFAs ....................................................................................................... 19
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 1 of 27
+5.0 MULTIPLE PIN RESOLUTION ............................................................................................................. 20
+5.1 Procedure for Resolution of Multiple PIN ........................................................................................... 20
+6.0 REPORTS..................................................................................................................................................... 20
+6.1 Reports Available to Retiree/MDA ........................................................................................................ 20
+6.2 Reports Available to PFA/PFC ............................................................................................................... 21
+6.3 Returns to the Commission ..................................................................................................................... 21
+7.0 ADMINISTRATIVE SANCTIONS AND PENALTIES ....................................................... 25
+8.0 REVIEWS AND ENQUIRIES........................................................................................... 26
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 2 of 27
+1.0 INTRODUCTION
+1.1 The Contribution and Bond Redemption Application (COBRA)
+The National Pension Commission (the Commission) is saddled with the
+responsibilities of processing the retirement benefits (i. e. accrued pension
+rights and outstanding pension contributions) of prospective retirees/retirees
+of Federal Government of Nigeria (FGN) Treasury-funded Ministries,
+Departments and Agencies (MDAs).
+Accordingly, the Commission conducts annual pre-retirement verification
+and enrolment exercise for prospective retirees of FGN Treasury-funded
+MDAs scheduled for retirement within the next fiscal year in order to obtain
+necessary information that would aid determination of their Accrued Rights
+and outstanding/excess pension contributions for budgetary provision by the
+Federal Government.
+To facilitate the enrolment exercise which was hitherto conducted physically
+across the country, the Commission in 2021, deployed an online Enrolment
+Application with the capabilities to register, verify and enroll the prospective
+retirees. The Contribution and Bond Redemption Application (COBRA)
+is an upgrade of the earlier Enrolment Application to accommodate
+additional functions, to be more efficient and provide user friendly interface
+utilizing the latest technology. A m o n g s t o t h e r functionalities, COBRA
+has the following functionalities in respect of the enrolment process:
+i) Provides an electronic platform for the upload of employment details of
+prospective retirees/deceased employees’ next of kins (NOKs) by
+Pension Desk Officers (PDOs) of FGN Treasury-funded MDAs.
+ii) Provides an application interface for prospective retirees/deceased
+employees’ next-of-kin (NOK) of FGN Treasury-funded MDAs to register
+their basic biodata as well as monitor the status of the processing and
+payment of their retirement/terminal benefits.
+iii) Provides an interface for the electronic upload of employment documents of
+prospective retirees of FGN Treasury-funded MDAs by Pension Fund
+Administrators (PFAs) and any update thereof, (where applicable).
+iv) COBRA provides a more dynamic and user-friendly interface.
+v) Provides an application interface for PFAs to enrol prospective retirees
+by capturing their live facial image and validate retirees’ records as well
+as submission of the records to the Commission.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 3 of 27
+vi) Provides an interface for the Commission to process retirement
+benefits (i. e. compute accrued rights and outstanding/excess
+contributions) of prospective retirees of FGN Treasury-funded MDAs
+and issuance of certified and approved schedules for remittance of
+accrued rights and outstanding/excess contributions to PFAs/PFCs.
+vii) The application provides end-to-end monitoring of the enrolment
+processes, payments returns and refunds.
+viii) Provides an electronic platform for the reconciliation of multiple PINs
+of employees/retirees of FGN Treasury-funded MDAs.
+ix) Provides a platform for the upload of Nominal Roll by FGN Treasury-
+funded MDAs for computation and remittance of pension contributions
+for period before MDA’s migration to IPPIS.
+x) COBRA provides static and dynamic reports generation as well as
+statistical analysis of the uploaded, registered and enrolled contributors.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 4 of 27
+1.2 The Legal Framework
+1.2.1 Section 15(1) of the Pension Reform Act (PRA) 2014 recognizes the accrued
+pension rights of employees transiting to the CPS for their past service
+rendered before the commencement of the scheme.
+1.2.2 Section 39(1) of the PRA 2014 mandated the Central Bank of Nigeria (CBN)
+to establish and manage a Retirement Benefits Bond Redemption Fund
+(RBBRF) for the payment of Accrued Rights. Furthermore, Section 39(2) of
+the PRA 2014 mandates the Federal Government to be setting aside
+minimum of 5% of the total monthly wage bill payable to employees in the
+Public Service into the Fund.
+1.2.3 Section 39(3) of PRA 2014, stipulates that the “Commission shall, by the end
+of every calendar year, determine the adequacy of the RBBRF against the
+projected accrued pension liability of the FGN arising from voluntary and
+mandatory retirements, death of employees in service and advise the
+Budget Office of the Federation of shortfall if any" for appropriation.
+1.2.4 Section 24 of the NDPA sets out key principles governing how personal data
+must be processed. It requires that data be collected for specified, explicit
+and legitimate purposes. The section also stipulated that all personal data
+shall be in compliance with the NDPA 2023 and must implement appropriate
+security controls including encryption, access restrictions and audit logging.
+1.2.5 Pursuant to the above statutory requirements, the Commission carries out
+annual pre-retirement verification and enrolment exercise for prospective
+retirees of FGN Treasury-funded MDAs.
+1.3 Objectives of the Guidelines
+1.3.1 These Guidelines establish uniform set of rules, standards and procedures
+for the verification and enrolment of prospective retirees of FGN Treasury-
+funded MDAs.
+1.3.2 The Guidelines set out minimum documents to be issued by MDAs to the
+prospective retirees/deceased employees of FGN Treasury-funded MDAs.
+1.3.3 They outline the minimum documentation requirements to be provided by
+the prospective retirees/deceased employee’s NOK for verification and
+uploaded by the PFAs.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 5 of 27
+1.4 Definition of Terms
+Serial Term Definition
+1 PRA 2014 Pension Reform Act 2014
+2 PFAs Pension Fund Administrators
+3 CPS Contributory Pension Scheme
+4 MDAs Ministries, Departments and Agencies of Federal Government
+that are funded by the Federal Government Treasury.
+5 PDOs Pension Desk Officers of FGN Treasury-funded MDAs that
+handle pension matters and liaise with PenCom on same.
+6 Accrued Pension Rights Past Pension Liability due to a retiring employee of Federal
+Government of Nigeria Treasury-funded MDA for service
+rendered from the Date of First Appointment with the FGN to
+th
+30 June, 2004.
+7 Pension Contributions Employer and Employee Monthly Contributions deducted and
+remitted into an employee’s Retirement Savings Account.
+8 Prospective Retirees Employees of FGN Treasury-funded MDAs who are due to
+retire that are expected to participate in the pre-retirement
+verification and enrolment exercise.
+9 Retirees Employees that are retired and have either enrolled or have
+delayed their enrolment beyond the expected period
+10 PIN Personal Identification Number
+11 ECRS Enhanced Contributors Registration System. ECRS is an
+electronic platform deployed by PenCom for the submission of
+contributor registration requests by PFAs and issuance of PIN
+by PenCom.
+12 RBBRF Retirement Benefits Bond Redemption Fund. A Fund
+established and maintained by the Central Bank of Nigeria, in
+line with the provisions of Section 39(1) of the PRA 2014.
+13 CTC Certified True Copy. A copy of any of prospective retiree/retiree
+documents that has been authenticated by his MDA by affixing
+signature and official stamp on it.
+14 LOFA Letter of First Appointment
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 6 of 27
+15 DOFA Date of First Appointment
+16 EDOR Expected Date of Retirement
+17 ROS Record of Service
+18 LOI Letter of Introduction
+19 TPEN Temporary Personal Identification Number, which is opened by
+an employer with any PFA on behalf of NOK of deceased
+employee that died without opening Retirement Savings
+Account
+20 NOK Next-Of-Kin. The alternate contact person provided by
+prospective retiree/retiree in his records with PFA/MDA.
+21 FGN Federal Government of Nigeria
+22 RSA Retirement Savings Account
+23 COBRA Contribution and Bond Redemption Application
+24 DRE Data Recapture Exercise
+25 IPPIS Integrated Personnel and Payroll Information system
+25 PFC Pension Fund Custodian
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 7 of 27
+1.5 Rules of General Application
+1.5.1 The Contribution and Bond Redemption Application (COBRA) shall be the
+medium through which prospective retirees/retirees of FGN Treasury-funded
+MDAs shall be enrolled for processing of their accrued rights and outstanding
+contributions.
+1.5.2 Only prospective retirees/retirees that have been recaptured/registered on the
+Enhanced Contributor Registration System (ECRS) shall be able to enroll on
+COBRA.
+1.5.3 PFAs shall deploy the required IT Infrastructure across their offices for the
+verification and enrolment of prospective retirees/retirees of FGN Treasury-
+funded MDAs as may be specified by the Commission, from time to time.
+1.5.4 PFAs shall abide by the Code of Ethics on Business Practices issued by the
+Commission, and shall respect the confidentiality of sensitive information of
+prospective retirees/retirees.
+1.5.5 PFAs shall comply with the Nigeria Data Protection Act, 2023. PFAs must
+implement and document appropriate technical and organizational measures
+to protect personal data processed in connection with this enrolment
+exercise, and shall maintain a mandate file for each RSA holder (hardcopy or
+electronic). The retention period for such files shall be as set out in Annex X
+(Retention Schedule)
+1.5.6 PFAs must sight, and where applicable retain, the minimum documents
+specified by the Commission in Sections 2.3 and 2.6 of these Guidelines
+during verification and enrolment exercise for prospective retirees/retirees.
+1.5.7 MDAs shall provide the required support/IT Infrastructure for the Pension
+Department/Unit to ensure seamless upload of their prospective
+retirees’/retirees’ employment details.
+1.5.8 MDAs shall provide prospective retirees/Next of Kin all the required
+documents as outlined in 2.3 below, and as may be prescribed by the
+Commission from time to time.
+1.5.9 Death benefits for deceased and missing employees who did not open a
+Retirement Savings Account shall only be processed and paid through a
+TPEN, Temporary Personal Identification Number, which shall be flagged off
+upon payment of the benefits.
+1.5.10 All submissions with regards to dates on COBRA, shall be in the format: DD-
+MMM-YYYY.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 8 of 27
+2.0 VERIFICATION AND ENROLMENT PROCESS
+2.1 MDA Data Upload
+2.1.1 Each MDA shall play a critical role in the verification and enrolment
+process for its prospective retirees. Accordingly, the Commission shall
+request each MDA to nominate two senior ranking officers to serve as
+MDA Admin Users on COBRA, who shall have the privilege of creating
+MDA Users. Specifically, the MDA shall have the following roles and
+responsibilities in the enrolment process:
+▪
+Creation of MDA User Account;
+▪
+User Management;
+▪
+Provision of introduction letter and record of s ervice for each prospective
+Retiree/Retiree/Deceased Employee’s NOK;
+▪
+Upload of List of Potential Retirees/Deceased Employees’s NOK
+▪
+Resolution of issues affecting Retirees/NOKs during enrolment exercise; and
+▪
+Ensuring that Retirees/NOKs are adequately guided on the required
+docum ents needed for the online enrolment and verification with the
+PFA.
+2.1.2 First Creation of User Account: MDAs shall forward the details of two
+officers one (1) of which must not be below the rank of Assistant Director
+to serve as Admin Users in the format below. Their login details shall be
+emailed to them via COBRA dedicated email address. COBRA will
+enable MDA Admin to create other Users for the MDA.
+xxxxxxxxxxxxxxx
+MDA Name
+xxxxxxxxxxxxxxx
+First Name of Staff
+xxxxxxxxxxxxxxx
+Surname of Staff
+xxxxxxxxxxxxxxx
+Staff ID
+xxxxxxxxxxxxxxx
+Designation
+xxxxxxxxxxxxxxx
+Email Address
+xxxxxxxxxxxxxxx
+Phone Number
+2.1.3 User Management: The designated MDA Admin User shall be
+responsible for management of other Users such as creating other MDA
+Users, deactivating/reactivating MDA Users, resetting Users’ password,
+assigning roles and any other User Administration.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 9 of 27
+2.1.4 Letter of Introduction and Record of Service for each Retiree: MDA shall
+issue an Introduction Letter and Record of service detailing bio-data and
+employment details from date of first appointment to the date of
+retirement for each prospective retiree. Introduction Letter and Record of
+Service are part of the mandatory documents required for enrolment
+and verification of retiree.
+2.1.5 MDA shall adequately assist and guide prospective retirees/NOKs of
+deceased employees to resolve issues during the process of enrolment
+and verification exercise.
+2.1.6 MDA shall ensure that all its prospective retirees/NOKs of deceased
+employees are adequately guided and assisted on the required
+documents needed for self-assisted online registration by the
+Retiree/NOK and also verification of Retiree/NOK by PFA. Any Retiree
+with health challenge shall be assisted for online registration and PFA
+verification, provided the Retiree has medical report issued by a
+recognized Government hospital.
+2.1.7 MDA shall be responsible for downloading the template provided on
+COBRA and populating same with required prerequisite bio-data and
+employment details of each prospective retiree/deceased employee. The
+two (2) templates below shall be available on COBRA for download by
+the MDA.
+Template for Prospective Retirees
+RSA_PIN FIRSTNAME OTHERNAME SURNAME GENDER CURRENT_STAFF_ID PHONE DATE_OF_BIRTH DOFA DATE OF TRANSFER DATE_OF_RETIREMEN LEAVE_OF_ABSENCE LEAVE_OF_ABSENCE
+OF SERVICE T _START_DATE _END_DATE
+PEN100275758211 ZULAI ABDULMUMINI F SEP2019-35 80123456789-35 2-Sep-1959 1-Jun-1996 2-Sep-2019
+EMPLOYMENT_YEAR EMPLOYER_ID SALARY_STRUCTURE GL STEP
+2004 PU000032A001 HAPPS 4 3
+2007 PU000032A001 CONPSS 4 5
+2010 PU000032A001 CONPSSII 4 8
+2013 PU000032A001 CONPSSII 4 11
+2016 PU000032A001 CONPSSII 4 15
+2019 PU000032A001 CONPSSII 4 15
+2021 PU000032A001 CONPSSII 4 15
+RSA_PIN FIRSTNAME OTHERNAME SURNAME GENDER CURRENT_STAFF_ID PHONE DATE_OF_BIRTH DOFA DATE OF TRANSFER DATE_OF_RETIREMEN LEAVE_OF_ABSENCE LEAVE_OF_ABSENCE
+OF SERVICE T _START_DATE _END_DATE
+PEN100000302131 JULIANA BOSE IBIWOYE F SEP2019-60 80123456789-60 9-Sep-1959 22-Nov-1990 9-Sep-2019
+EMPLOYMENT_YEAR EMPLOYER_ID SALARY_STRUCTURE GL STEP
+2004 PU000032A001 HAPPS 12 4
+2007 PU000032A001 CONPSS 13 6
+2010 PU000032A001 CONPSSII 14 8
+2013 PU000032A001 CONPSSII 15 7
+2016 PU000032A001 CONPSSII 15 9
+2019 PU000032A001 CONPSSII 15 9
+2021 PU000032A001 CONPSSII 15 9
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 10 of 27
+Template for Deceased Employees
+2.1.8 MDAs Procedures for uploading list of Potential Retirees/Deceased
+Employees: MDA shall ensure it adheres to the following procedures for
+uploading the list of potential prospective retirees/deceased employees:
+▪
+User authorized by MD A to upload the list of potential Retirees, should login to
+COBRA as MDA User;
+▪
+Download the appropriate Template (Microsoft Excel) applicable to
+Retirees or Decea sed Employees via the Upload/Data Upload menu in
+the MDA Module;
+▪
+Populate the downloaded excel template with the bio-data and employment
+details of each Retiree/Deceased Employee;
+▪
+Ensure that all mandatory fields in the template are correctly populated;
+▪
+Ensure the correctness of the Salary Structure, Grade level and Step for
+accuracy prior to upload of the Template on COBRA;
+▪
+Ensure that all date fields are populated as date, using the format “DD-MMM-
+YYYY”;
+▪
+Upload the list using the upload tab in the MDA Module on COBRA;
+▪
+The User must check the “Download Result” tab to confirm the success
+or otherwise of uploaded retirees/deceased employees records;
+▪
+Where the downloaded result showed error(s) identified by COBRA, the User
+must make corrections and re-upload;
+2.1.9 COBRA shall allow MDA User to upload as many times as possible
+provided there is no duplication of records especially the personal
+details of the prospective retiree/deceased employee.
+2.2 Registration of Retiree/NOK of Deceased Employees
+2.2.1 The prospective retirees shall ensure that their complete, accurate and
+current data has been recaptured and uploaded onto the ECRS in line
+with the provisions of Section 23(e) of the PRA 2014. This is to ensure
+the elimination of multiple RSA PINs and uniqueness of the prospective
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 11 of 27
+retirees RSA PINs.
+2.2.2 Self-Registration: The prospective retirees/NOK of deceased employees
+shall visit the Commission’s website www.pencom.gov.ng and at the home
+page click on the Contribution and Bond Redemption Application
+(COBRA) to access the Retiree/NOK Registration Module. The
+prospective retirees/NOKs can also access their Registration Module
+directly through the URL: https://cobra.pencom.gov.ng on their browser.
+2.2.3 Following the display of the application (COBRA), the prospective
+retiree/NOK shall at the top of the page click a button ‘Register’ to
+enable the creation of account using the following information RSA PIN,
+Surname, Email address or phone number and Password. In respect of
+the NOK, these details must be those of the deceased employee’s. A
+retiree/NOK must ensure that the email he/she provided for registration
+is functional and accessible as login and communication shall be via the
+registered email on COBRA.
+2.2.4 NOKs of deceased employees that died without opening a Retirement
+Savings Account shall liaise with the deceased’s MDA to open a TPEN,
+Temporary Personal Identification Number for the deceased employee
+with any PFA, as retiree/NOK registration shall only be done with a valid
+RSA PIN or TPEN, as applicable.
+2.2.5 Upon successful creation of the account, the prospective retiree/NOK
+shall log on to the registration portal to complete the fields in the
+registration forms with the information required i.e. Biodata. The
+prospective retiree/NOK shall review to confirm that the information
+provided is correct and complete. The prospective retiree/NOK shall
+click the submit button to conclude the registration process.
+2.2.6 The prospective retiree/NOK may wish to print the Acknowledgement
+Slip, or save a softcopy on the Mobile Telephone as evidence of
+registration on the COBRA and proceed to the PFA to complete the
+physical verification and enrolment exercise.
+2.2.7 Where the prospective retiree/NOK is not able to conduct self-
+registration, he/she shall approach his/her PFA to carry out the
+retiree/NOK registration process.
+2.2.8 The prospective retiree/NOK shall visit the PFA for physical verification
+and enrolment with the Originals or CTC of the required documents
+outlined in 2.3.1 below.
+2.2.9 PFA Assisted Registration: PFAs shall assist prospective retiree/NOK that
+are unable to complete the online Registration on COBRA. PFAs shall
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 12 of 27
+guide the prospective retiree/NOK with the steps outlined in 2.2.2 to
+2.2.5 above, to ensure the successful registration on COBRA.
+2.2.10 PFA shall also check the prospective retiree/NOK biodata details to
+ensure that the information provided by the prospective retiree/NOK are
+correct and complete. PFA may provide the prospective retiree/NOK
+with the evidence of registration on COBRA such as the printed
+Acknowledgement Slip.
+2.3 Minimum Documentation Requirements
+2.3.1 During the enrolment process, PFAs shall ensure that the original/CTC
+of the following documents are sighted from prospective retirees/NOKs
+of deceased employees and copies uploaded on COBRA:
+Serial Document Type Upload Explanatory Notes
+Status
+This establishes
+1 Letter of First DOFA and LOS.
+Appointment/Gazette/Attestation Mandatory CTC of LOFA is
+(Police) acceptable, where
+original is not
+available.
+LOI must be addressed to the
+2 Letter of Introduction (LOI) Mandatory DG PenCom. It ties retiree to
+exit MDA and provides
+his/her career progression
+summary. Original must be
+retained by the PFA.
+ROS provides retiree’s
+3 Record of Service (ROS) Mandatory detailed employment
+history. Original/CTC must
+be retained by the PFA.
+4 Copy of Staff ID Card Non- To associate the employee
+mandatory with his organization.
+5 Promotion Letter & Payslip as at Conditionally This is to ascertain the grade
+30 June, 2004 (if applicable) Mandatory level and step of the
+prospective retiree as at 30
+June 2004
+Promotion Letter & Payslip Conditionally The highest grade level
+6 between 01 July, 2004 and Mandatory and steps of the
+December 2006 (if applicable) prospective retiree
+between these periods is
+to be adopted.
+7 Promotion Letter & Payslip Conditionally The highest grade level and
+between January 2007 and Mandatory steps of the prospective
+December 2009 (if applicable) retiree between these
+periods is to be adopted.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 13 of 27
+Serial Document Type Upload Explanatory Notes
+Status
+8 Promotion Letter & Payslip Conditionally The highest grade level
+between January 2010 and Mandatory and steps of the
+December 2012 (if applicable) prospective retiree
+between these periods is
+to be adopted.
+9 Promotion Letter & Payslip Conditionally The highest grade level and
+between January 2013 and Mandatory steps of the prospective
+December 2015 (if applicable) retiree between these
+periods is to be adopted.
+10 Promotion Letter & Payslip Conditionally The highest grade level
+between January 2016 and Mandatory and steps of the
+December 2018 (if applicable) prospective retiree
+between these periods is
+to be adopted.
+11 Promotion Letter & Payslip Conditionally The highest grade level and
+between January 2019 and Mandatory steps of the prospective
+December 2021 (if applicable) retiree between these
+periods is to be adopted.
+12 Promotion Letter & Payslip Conditionally The highest grade level and
+between January 2022 and Mandatory steps of the prospective
+December 2024 (if retiree between these
+applicable) periods is to be adopted.
+13 Last Promotion Letter & Pay slip Conditionally This is to ascertain the grade
+(Current) (if applicable) Mandatory level and step of the
+prospective retiree as at
+enrolment
+14 Evidence of Change of Conditionally
+Name (if applicable) Mandatory
+15 Evidence of Transfer of Service Conditionally Transfer of service to FGN
+(if applicable) Mandatory treasury-funded MDA
+th
+beyond 30 June 2004 is
+not recognized.
+16 Evidence of Acceptance of Conditionally Acceptance of transfer of
+th
+Transfer of Service (if Mandatory service after 30 June 2004
+applicable) by FGN treasury-funded
+MDA is deemed invalid.
+17 Evidence of Extension of Conditionally
+Service (If applicable) Mandatory
+18 Letter from the MDA Conditionally
+Introducing the PDO (In Mandatory
+case of Critical Health
+Condition)
+19 Copy of Staff ID Card of the Conditionally
+PDO (In case of Critical Health Mandatory
+Condition)
+20 Medical Report (if Conditionally Medical Report must be from
+applicable) Mandatory a Government Hospital
+21 Letter of Acceptance of Mandatory
+Retirement or Disengagement
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 14 of 27
+Serial Document Type Upload Explanatory Notes
+Status
+(for those who retired or
+disengaged before their
+enrolment date)
+22 Letter of confirmation of period Conditionally This is to establish
+of continuous service in the Mandatory eligibility of University
+university system (for Professors with relevant
+Professors) Sections of UMPAA 2012
+and PRA 2014.
+2.4 Appointment of Enrolment and Validation Officers
+2.4.1 In the minimum, PFAs shall appoint in each of their
+offices/branches/service centres two (2) officers of different rank to carry
+out the verification and enrolment of retirees/NOKs. The lower ranking
+officer (i. e. PFA Enroller) shall be responsible for verification of
+retiree/NOK documents and enrolment of the retiree/NOK on COBRA.
+2.4.2 The higher ranking officer (i. e. PFA Supervisor) shall review and
+validate the retiree’s/deceased employee’s records enrolled on COBRA,
+prior to submitting to PenCom Module.
+2.5 Documents Verification by PFA
+2.5.1 PFAs shall have access to view and edit the records/information of the
+prospective retirees/NOKs already registered on COBRA. PFAs shall
+ensure that the prospective retiree/NOK presents all the required
+documents in line with 2.3.1 above. PFAs shall not collect or accept
+incomplete documentation from prospective retirees/NOKs as COBRA
+does not allow incomplete documentation.
+2.5.2 PFAs shall sight the Originals or CTC of all the required documents in
+line with 2.3.1 above, presented by the prospective retiree/NOK. PFAs
+shall crosscheck the documents provided to ensure that the names
+therein align with the prospective retiree’s/deceased employee’s biodata.
+2.6 Retiree/Next-of-Kin Enrolment by PFA
+2.6.1 PFAs shall scan and upload the prospective retiree’s/deceased
+employee’s documents, both mandatory and conditionally mandatory
+(where applicable) on COBRA and must ensure that the scanned
+documents are clear, readable, complete and correct.
+2.6.2 PFAs shall ensure that the prospective retiree’s/deceased employee’s
+employment information being inputted/captured on COBRA align with the
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 15 of 27
+information on the documents, while the scanned documents being
+uploaded are complete and tally with the hard copies presented.
+2.6.3 Upon confirmation of the above, the enrolment officer shall proceed to
+capture the retiree/NOK. In this regard, PFAs shall capture a facial
+image (live image) and an electronic signature of the prospective
+retiree/NOK on COBRA. In addition, PFAs shall capture the electronic
+signature of the prospective retiree/NOK on COBRA.
+2.7 Registration, Verification and Enrolment of Sick/Incapacitated
+Prospective Retiree
+2.7.1 The Next-of-Kin (NOK) of a critically health challenged prospective retiree
+shall inform the Pension Desk Officer of the condition that would prevent
+the physical appearance of the prospective retiree for verification and
+enrolment exercise. The PDO shall proceed to upload the details of the
+sick/incapacitated prospective retiree as specified in 2.1.6 to 2.1.8 above.
+2.7.2 The NOK shall visit the Commission’s website www.pencom.gov.ng and
+register on COBRA as outlined in 2.2.2 to 2.2.7 above.
+2.7.3 Upon the successful registration of the details of the sick/incapacitated
+prospective retiree, the PDO/NOK shall proceed to the PFA with the
+evidence of registration on COBRA such as Acknowledgement Slip.
+2.7.4 The registration, verification and enrolment of sick/incapacitated
+prospective retiree shall be accompanied with the following additional
+documents: Original Medical Report from a recognised Government
+Hospital and Original MDA Letter stating that the prospective retiree is
+sick/incapacitated and unable to appear physically for the enrolment
+exercise.
+2.7.5 PFA shall, having satisfied with all the conditions in 2.5.1 to 2.5.2 above,
+enrol the sick/incapacitated prospective retiree on COBRA. PFA shall
+capture the live photograph of the PDO on behalf of the
+sick/incapacitated prospective retiree who is unable to physically appear
+for biometrics (photograph capturing) based on critical medical condition.
+The record shall be tagged “Health Challenge”.
+2.7.6 In addition to PDO live photograph, the PFAs shall also upload certified
+recent passport photo of retiree and the reverse side duly certified by
+NOK/MDA, as a level validation
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 16 of 27
+2.8 Original Documents to be Retained by PFA
+2.8.1 PFAs shall, in respect of each enrolled prospective retiree/deceased
+employee, keep custody of electronic and hard copies of the Original of
+Record of Service, Letter of Introduction and, where applicable, the
+Medical Report from a recognized Government Hospital and MDA Letter
+on the condition of the sick/incapacitated prospective retiree.
+2.8.2 PFAs shall ensure that the Original Copies maintained in 2.8.1 above,
+are stored in a safe, secure and conducive environment and shall also
+put in place adequate arrangement to ensure that the Original Copies
+are protected against loss, damage or alteration.
+2.8.3 In addition, access to the stored Original Records shall be restricted and
+tightly controlled and documented while ensuring that the Original
+Records are easily retrievable. The hard copies of the Original Records
+shall only be retained by PFAs for the period specified by the Archival
+Laws of the Federal Government of Nigeria.
+2.9 Validation of Retiree/Deceased Employee Records by PFA
+2.9.1 Upon successful completion of retiree/NOK enrolment, PFAs shall
+assign officers (mentioned in 2.4.2 above) to carry out first-level review
+and validation of enrolled retiree’s/deceased employee’s records on
+COBRA. Validation officers shall ensure that all bio-data and
+employment information captured by the Enrolment officer in respect of
+each enrolled prospective retiree/deceased employee are complete and
+correct and are supported by documents uploaded.
+2.9.2 Where there is any inconsistency between the information captured and
+what is indicated on the documents, the Validation officers shall amend
+the information as may be appropriate. Validation officers shall review
+and ensure that documents uploaded are clear, legible, correct and
+properly scanned unto COBRA.
+2.9.3 Upon completion of the validation successfully, validation officers shall
+submit the retiree records to the PenCom Module on the COBRA for
+further processing.
+2.10 Minimum ICT Requirements for PFAs and MDAs
+2.10.1 PFAs shall ensure deployment of adequate IT infrastructure in all their
+branches that shall support seamless enrolment exercise for prospective
+retirees/NOKs of deceased employees. In this regard, PFAs shall have
+the following minimum ICT requirements in all their branch offices for
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 17 of 27
+enrolment purpose:
+▪
+Desktop/Laptop Compu ter with minimum Hard Disk free space of 50GB and
+minimum RAM of 8GB;
+▪
+USB Web Camera(s);
+▪
+Document Scanner(s);
+▪
+Document printer(s); and
+▪
+Internet/LAN Access.
+▪
+E-Signature Pad
+▪
+Updated Antivirus Software
+▪
+Active Firewalls
+▪
+Data Encryption for stored and transmitted information
+▪
+Daily Automated Bac kups across all devices and networks used for enrolment
+and data processing
+▪
+Bio metric scanner
+2.10.2 PFAs shall provide and ensure at all times adequate storage facilities
+that would allow for scalability as may arise from time to time.
+2.10.3 In order to fulfill their critical role of uploading retirees’/deceased
+employees’ biodata and employment details in the enrolment process,
+MDAs shall also ensure that the following minimum IT equipment are
+provided for the Pension Unit/Office:
+▪
+Laptop/Desktop Computer (At Least 8GB RAM, 1TB Hard Disk);
+▪
+Microsoft Office tool; and
+▪
+Dedicated Internet Service.
+2.10.4 MDAs shall ensure regular targeted training of their relevant officers who
+are handling the enrolment process on Computer appreciation and other
+relevant areas that shall build their capacity and ensure their optimal
+performance in the enrolment process.
+2.10.5 The Commission shall review the minimum IT infrastructure requirements
+from time to time and PFAs and MDAs shall meet the minimum ICT
+requirements set by the Commission.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 18 of 27
+3.0 RETIREE RECORD UPDATE
+3.1 Update Request
+3.1.1 PFA shall be able to request for amendment of submitted records of
+prospective retirees/deceased employees whom they have completed
+their enrolment and validation. COBRA shall allow multiple requests from
+PFA for amendment on a record yet to be validated by the Commission.
+3.1.2 Where a prospective retiree’s/deceased employee’s record has been
+validated by the Commission, such record shall be unavailable for
+amendment and PFA shall contact the Commission to bring to the
+attention of the Commission for further action.
+3.1.3 PFAs shall only be allowed amendments of prospective retirees’ records
+in editable data fields and update of document(s).
+3.2 Authorization
+3.2.1 The Commission shall receive and review all requests for amendment
+submitted by PFAs through COBRA, if the records have not been
+validated by the Commission.
+3.2.2 Upon review, the Commission shall approve or reject such requests for
+amendments and where a record is rejected/not approved for amendments,
+the Commission shall provide a reason(s) for such decision.
+3.3 Update Re-submission
+3.3.1 Upon approval of a request, the prospective retiree/deceased employee
+record shall automatically be open to the PFA for editing. Upon
+completion of the amendment of editable fields and/or upload of
+document, the PFA shall save the amended record and the application
+shall restrict editing of any field after saving.
+3.3.2 However, PFA may be allowed to make another request for amendment
+of the same record, where cogent reason(s) are provided by the PFA.
+Records authorized/approved for amendment(s) by the Commission
+shall be re-submitted within two (2) working days by the PFA.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 19 of 27
+4.0 OVERSIGHT FUNCTIONS
+4.1 Processing of Retirement Benefits
+4.1.1 Upon completion of enrolment and validation, PFAs shall submit the
+enrolled record to PenCom Module on COBRA. The Commission shall
+validate the retiree’s records and, where there are issues that require
+further action by the PFA, the Commission shall return the record to the
+PFA’s portal.
+4.1.2 Where the retiree’s/deceased employee’s record is validated
+successfully, the Commission shall proceed to process the
+retirement/death benefits of the retiree/deceased employee
+4.2 Remittance Schedules to PFAs/PFCs
+4.2.1 Subject to availability of funds, the Commission shall issue remittance
+schedules to PFAs and PFCs in respect of retirees/NOKs of deceased
+employees whose retirement/death benefits have been processed by the
+Commission.
+4.2.2 All remittance schedules for accrued rights and outstanding/excess
+contributions shall be issued to respective PFAs and PFCs through
+COBRA and PFAs shall be required to credit the Retirement Savings
+Accounts of the affected retirees within 48 hours of receipt of funds in
+their accounts.
+4.3 Off-site Review of Enrolment Exercise
+4.3.1 On COBRA, the Commission shall closely monitor and supervise the
+enrolment process and documents being uploaded by the PFAs as well
+MDAs’ upload of prospective retirees’/deceased employees’ employment
+details and retiree/NOK registration.
+4.3.2 Where necessary, the Commission shall engage any of the relevant
+stakeholders on the portal on areas of concern or issues of violation of
+the enrolment process.
+4.4 On-site Target Inspection of PFAs
+4.4.1 The Commission shall, in addition to the routine examinations, conduct
+target inspection of any of the branches of the PFAs to ascertain
+deployment of the minimum IT infrastructure specified in 2.10.1 above as
+well as PFA adherence to the stipulated procedures and standards
+during the enrolment exercise.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 20 of 27
+4.4.2 The Commission may, from time to time, call for the Original Copies of
+the required documents retained by PFAs in 2.8.1 above of any
+prospective retiree/retiree and shall also carry out spot checks on the
+PFA offices to ascertain maintenance of the Original Records by the
+PFAs, as required in 2.8.2 and 2.8.3 above.
+5.0 MULTIPLE PIN RESOLUTION FOR FGN TREASURY-FUNDED MDAs
+5.1 Procedure for Resolution of Multiple PIN
+5.1.1 Employees/retirees of FGN Treasury-funded Ministries, Departments and
+Agencies with multiple RSA PIN shall only be able to resolve such
+multiple registrations when he/she has done the Data Recapture
+Exercise (DRE) on ECRS with any of the PINs of his/her choice.
+5.1.2 Notwithstanding 5.1.1 above, where an RSA holder had retired with one
+of the multiple PINs prior to the request for merger of the PINs, then such
+PIN becomes his/her valid PIN and he/she must undergo DRE with the
+PIN. Where the retiree had recaptured with the invalid PIN, the
+Commission will invalidate the data recapture to enable the retiree
+recapture with the valid PIN.
+5.1.3 The Commission shall carry out a reconciliation exercise of the
+remittances of pension contributions made into the multiple PINs. In
+carrying out the reconciliation, PFAs shall be required to provide
+information on the balances in the invalid PINs to the Commission to
+ascertain remittances made by the Commission and investment income
+earned for the period as well as remittances made from other sources,
+as indicated in the Template provided for transaction history of the invalid
+PIN.
+5.1.4 PFAs shall ensure that the transaction history of the invalid PIN provided to
+the Commission is complete and accurate as requested in the template.
+5.1.5 The Commission’s policy on reconciliation of multiple RSA registrations is
+that where the PINs are funded, the RSA balances in the invalid PINs
+shall be refunded to the Contributory Pension Account domiciled with the
+Central Bank of Nigeria. Where the PIN(s) is/are unfunded, the
+Commission shall carry out reconciliation exercise on the PINs.
+5.1.6 The outcome of the reconciliation shall be communicated to the PFA of the
+invalid PIN by the Commission and the PFA shall notify the RSA holder that
+his/her RSAs have been reconciled. Depending on the outcome of the
+reconciliation exercise, the RSA holder may be required to liaise with
+his/her employer to submit his/her nominal roll for the period prior to date
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 21 of 27
+of migration of his/her MDA to IPPIS platform to the Commission.
+6.0 REPORTS
+6.1 Reports Available to Retiree/MDA
+6.1.1 The following reports shall be available to the MDA Users:
+i. List of potential retirees per period; and
+ii. List of enrolled retirees per period
+iii. List of retirees not yet registered
+iv. List of retirees not yet enrolled
+v. Status of Retirees Enrolment.
+6.1.2 Upon registration, a retiree/NOK shall view and download his/her
+acknowledgement slip, and when subsequently enrolled, he/she can
+track the processing of his/her retirement/death benefits and receive
+email notification from COBRA on remittance of his/her retirement/death
+benefits.
+6.2 Reports Available to PFAs/PFCs
+6.2.1 The following reports shall be available to the PFA Users on COBRA:
+i. Summary of Registered Retirees
+ii. Detailed List of Potential Retirees by Period of Retirement;
+iii. Summary of Potential Retirees per MDA;
+iv. Summary of Potential Retirees by Period of Retirement;
+v. Summary of Potential Retirees by Month of Retirement.
+vi. Detailed List of Retirees yet to complete enrolment;
+vii. Detailed List of Enrolled Retirees; and
+viii. Summary of Enrolled Retirees.
+ix. List of computed RSAs with details of payments
+6.2.2 PFAs shall analyze the reports and ensure that they encourage their
+clients that are due to retire to participate in the enrolment exercise
+within the stipulated timeframe by the Commission. Specifically, PFAs
+shall contact potential retirees uploaded by MDAs but yet to register
+and/or registered retirees that are yet to enroll, to visit any of their
+nearest branches to undergo the enrolment exercise.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 22 of 27
+6.2.3 In respect of reports available to PFCs, the PFCs shall view and download
+all payment schedules of accrued rights and outstanding/excess
+contributions, in respect of PFAs they provide custodial services to.
+6.3 Returns Rendition to PenCom
+6.3.1 PFAs shall render returns to the Commission through COBRA. In addition,
+the Commission shall also generate reports from the Retiree Registration
+Module Submissions, the MDA Module Submissions and the PFA Module
+Submissions. All reports shall be generated in PDF and/or MS Excel format
+and shall also allow download/export for all fields. All reports shall be
+available to the PenCom Module, which shall include the following:
+1. Retiree Registration Report;
+2. List of registered retirees by Organization Sector;
+3. List of registered retirees by period of retirement;
+4. Summary of registered retirees by MDA;
+5. Summary of registered retirees per PFA;
+6. Summary of registered retirees per PFA per MDA;
+7. Summary of registered retirees by period of retirement;
+8. Summary of registered retirees by month of retirement;
+9. Summary of registered retirees by year of retirement;
+10. Summary of registered retirees by year of registration.
+11. MDA Submission Report;
+12. List of potential retirees per MDA;
+13. List of potential retirees by period of retirement;
+14. Summary of potential retirees submitted by MDAs;
+15. Summary of potential retirees per PFA per MDA;
+16. Summary of potential retirees by period of retirement;
+17. Summary of potential retirees by month of retirement.
+18. PFA Submission Report (Enrolment);
+19. List of retirees yet to complete enrolment (all PFAs);
+20. List of retirees yet to complete enrolment (per PFA);
+21. List of enrolled retirees per MDA;
+22. List of enrolled retirees (per PFA);
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 23 of 27
+23. List of enrolled retirees by Organization Sector;
+24. Summary of enrolled retirees by MDA
+25. Summary of enrolled retirees per PFA;
+26. Summary of enrolled retirees by period of retirement;
+27. Summary of enrolled retirees by month of retirement;
+28. Summary of enrolled retirees by year of retirement;
+29. Comprehensive enrolment records;
+30. Comprehensive enrolment records for the computation of accrued right;
+31. Comprehensive enrolment record for the computation of outstanding
+contribution;
+32. List of sick/incapacitated retirees;
+33. List of enrollees that are in “Yet to be Paid” database of the Commission;
+34. List of enrollees with validation issues;
+35. Comprehensive report of validated records;
+36. Reports of validations by validators; and
+37. Summary of enrolment exercise.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 24 of 27
+7.0 ADMINISTRATIVE SANCTIONS AND PENALTIES
+7.1 The Commission shall impose administrative sanctions on PFAs for violating
+the procedures and requirements set out in these Guidelines, as specified in
+Sections 7.2 to 7.14 of these Guidelines.
+Monetary Penalty
+S/No. Description of Infraction
+for Non -Compliance
+7.2 Failure to collect Original copies of Record of Service and
+N 50,000 per record.
+Introduction Letter.
+7.3 Failure to collect Original of Medical Report, MDA Letter on
+N 50,000 per record.
+condition of sick/incapacitated retiree.
+Failure to scan and upload Original/CTC of prospective
+N 100,000 per
+7.4 retiree/retiree/Deceased valid and confirmed Mandatory
+retiree.
+documents
+7.5 Upload of unclear/illegible/incomplete documents on COBRA. N 50,000 per record.
+7.6 Upload of wrong document for a retiree. N 50,000 per retiree.
+7.7 Failure to assist prospective retiree with registration who is N 100,000 per
+unable to do so on COBRA. retiree.
+7.8 Failure to provide information on Branch Offices to prospective N 100,000 per retiree
+retirees for enrolment exercise. per week.
+7.9 Non-compliance with the Guidelines on Data Protection and N 100,000 per
+Privacy in the enrolment process. retiree.
+Non-upload of report on COBRA on RSAs credited after receipt of N 50,000 per RSA
+7.10
+accrued rights and/or outstanding contributions. daily until uploaded
+7.11 Submission of wrong/misleading information/validation/report. N 100,000 per
+retiree.
+Non-deployment of specified minimum IT infrastructure to support N 500,000 one-off for
+7.12
+the enrolment exercise/process the period of the
+examination.
+Submission of wrong/misleading information on RSA transaction
+7.13
+history for reconciliation of Multiple PINs N 100,000 per TH.
+Delay in refund of recalled funds into Contributory Pension
+7.14
+Account domiciled at CBN N 500,000 one-off.
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 25 of 27
+8.0 REVIEWS AND ENQUIRIES
+8.1 Reviews
+8.1.1 These Guidelines shall be subject to periodic reviews by the Commission in line with
+prevailing
+conditions as and when the need arises.
+8.2 Enquiries
+8.2.1 A helpdesk has been created at the Commission to attend to all enquiries and
+complaints by PFAs, PDOs and prospective retirees on the enrolment process.
+The contact details of the helpdesk are as follows:
+▪ Email address: cbrd@pencom.gov.ng
+▪
+Telephone Numbers:(0700-225-573-6266) +23494603930
+8.2.2 All enquiries regarding these Guidelines shall be directed to:
+The Director General
+National Pension Commission
+174, Adetokunbo Ademola Crescent Wuse II
+Abuja, Nigeria
+Guidelines for the Enrolment of FGN Treasury-funded Retirees Page 26 of 27

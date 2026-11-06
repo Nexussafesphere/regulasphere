@@ -1,0 +1,515 @@
+
+REGULATORY GUIDELINES FOR
+CHANGE OF OPERATING LICENCE
+FOR BANKS AND OTHER FINANCIAL
+INSTITUTIONS IN NIGERIA
+MARCH 2023
+Table of Contents
+Table of Contents ..................................................................................................... 2
+1.0 INTRODUCTION .................................................................................................. 4
+2.0 OBJECTIVE ......................................................................................................... 4
+3.0 SCOPE ................................................................................................................. 4
+4.0 DEFINITION OF TERMS ..................................................................................... 4
+4.1 Change of License Types ..................................................................................... 5
+4.1.1 Conversion ........................................................................................................ 5
+4.1.2 Re-Categorization ............................................................................................. 5
+4.1.3 Re-Designation.................................................................................................. 5
+4.2 Transition Period .................................................................................................. 5
+4.3 Eligible Institutions ................................................................................................ 5
+4.4 Off-Boarding ......................................................................................................... 5
+4.5 Integration ............................................................................................................ 5
+5.0 ELIGIBILITY CRITERIA ....................................................................................... 5
+5.1 REGULATORY DIRECTIVE................................................................................. 6
+6.0 PROHIBITIONS/RESTRICTIONS ........................................................................ 6
+7.0 REQUIREMENTS FOR CHANGE OF LICENCE TYPE ...................................... 6
+7.1 Requirements for grant of Approval-In-Principle (AIP). ........................................ 7
+7.1.1 Documentation .................................................................................................. 7
+7.1.2 Detailed business plan including: ...................................................................... 7
+7.1.3 New Investors.................................................................................................... 8
+7.2 Requirements for Final Approval .......................................................................... 9
+7.3 Conduct of Pre-Licensing Inspection .................................................................... 9
+7.4 Commencement of Operations............................................................................. 9
+8.0 APPLICATION OF RELEVANT GUIDELINES AND REGULATIONS .............. 10
+8.1 Non-Interest Financial Institutions (NIFIs) .......................................................... 10
+8.2 Primary Mortgage Banks .................................................................................... 10
+9.0 CORPORATE GOVERNANCE .......................................................................... 11
+10.0 PRUDENTIAL REQUIREMENTS .................................................................... 11
+11.0 ANTI-MONEY LAUNDERING, COMBATING TERRORISM FINANCING AND
+COUNTER PROLIFERATION FINANCING (AML/CFT/CPT) ................................. 11
+12.0 GLOSSARY ..................................................................................................... 11
+TERM ....................................................................................................................... 11
+DEFINITION ............................................................................................................. 11
+SCHEDULE TO THE GUIDELINES......................................................................... 12
+SCHEDULE 1 ........................................................................................................... 12
+SCHEDULE 2 ........................................................................................................... 12
+2
+SCHEDULE 3 ........................................................................................................... 13
+SCHEDULE 4 ........................................................................................................... 13
+SCHEDULE 5 ........................................................................................................... 14
+SCHEDULE 6 ........................................................................................................... 14
+SCHEDULE 7 ........................................................................................................... 15
+3
+REGULATORY GUIDELINES FOR CHANGE OF OPERATING
+LICENCE FOR BANKS AND OTHER FINANCIAL INSTITUTIONS IN
+NIGERIA
+1.0 INTRODUCTION
+The Central Bank of Nigeria (CBN), in furtherance of its mandate to promote a sound
+financial system in Nigeria and in exercise of the powers conferred on it, under the
+CBN Act 2007, the Banks and Other Financial Institutions Act (BOFIA) 2020, and the
+need to standardize the requirements for change of operating licence for banks and
+Other Financial Institutions (OFIs), hereby issues this Regulatory Guidelines.
+The Guidelines provides the procedure for a bank or OFI desirous of changing its
+licence type through conversion, re-categorization and re-designation as well as the
+need to comply with the relevant licensing requirements under various regulatory
+guidelines.
+2.0 OBJECTIVE
+The objective of the Guidelines is to provide clarity on the requirements for change of
+the various licence types for banks and OFIs.
+3.0 SCOPE
+This Guidelines shall apply to the following deposit-taking financial institutions (eligible
+institutions) under the regulatory purview of the CBN:
+i. Commercial Banks.
+ii. Merchant Banks.
+iii. Non-Interest Banks.
+iv. Microfinance Banks.
+v. Primary Mortgage Banks.
+vi. Payment Service Banks; and
+vii. Any other institution(s) the CBN may designate from time to time.
+4.0 DEFINITION OF TERMS
+For the purpose of this Guidelines, the following definitions are provided:
+4
+4.1 Change of License Types
+This is the transformation of an institution from one licence type
+4.1.1 Conversion to another, where the legacy and proposed entities are licensed
+under separate regulatory guidelines.
+This is a transformation of an institution within the same licence
+type, where the institution is changing its current
+authorization/category to take up a new authorization/category
+4.1.2 Re-Categorization
+within the same licence type. This change may be upscaling or
+downscaling of a class of the same institution type.
+This is a transformation effected by the change of name, status, or
+4.1.3 Re-Designation operational framework due to the direct effect of policy change,
+new regulation, or a regulatory directive by the Bank.
+This is the transformation period of a bank or OFI from its legacy
+4.2 Transition Period operations to the operations of the new licence which shall
+commence on the date of the grant of Approval-In-Principle (AIP)
+and terminate within the time specified in the relevant licensing
+guidelines.
+All banks or OFIs are permitted to change their licence type, but
+4.3 Eligible Institutions the CBN reserves the right to decline a request.
+This is the process of discontinuing services to some customers
+4.4 Off-Boarding that are not desirous of migrating to the new licence type.
+This is the process of unifying the existing and new customers
+4.5 Integration under the proposed licence type.
+5.0 ELIGIBILITY CRITERIA
+The institution shall:
+• be under the supervisory purview of the CBN;
+• have no adverse supervisory report to its application; and
+• satisfy any other condition which the CBN may stipulate from time to time.
+However, for conversion, the institution must have been in operation for at least five
+years.
+5
+5.1 REGULATORY DIRECTIVE
+The CBN reserves the right to issue a regulatory directive to any eligible institution to
+change the status of its operating licence, at any point in time.
+6.0 PROHIBITIONS/RESTRICTIONS
+Under this Guidelines, the following prohibitions/restrictions shall apply to eligible
+banks and OFIs applying for conversion or re-categorization. The bank or OFI shall
+not, pending when the application is determined:
+1. expand or reduce its current banking network.
+2. roll-out new products and services.
+3. carry out any new strategic banking activity but the settlement of rights and
+obligations shall continue until extinguished in accordance with existing terms
+and conditions.
+4. take any business decision after the conversion process has commenced,
+except in line with the bank’s conversion strategy submitted to the CBN.
+5. engage in any banking activity specific to the proposed new licence.
+6. any other requirement that may be prescribed from time to time by the CBN
+7.0 REQUIREMENTS FOR CHANGE OF LICENCE TYPE
+1. Any bank or OFI seeking to change its licence type shall communicate its
+desire in writing to the Director of its current supervisory department.
+2. The application shall be accompanied with a business plan duly approved by
+the financial institution’s shareholders at an Annual General Meeting or Extra
+Ordinary General Meeting and Board of Directors. It shall contain detailed
+processes, procedures, timelines and milestones regarding the proposed
+change.
+3. The submission shall be supported with the following documents, showing
+compliance with extant regulations, as it relates to the new licence type:
+a) Board Resolution
+b) Rationale for the change.
+c) Business case.
+d) Vision, mission, and strategy.
+e) Governance structure.
+f) Evidence of Shariah Compliance (where applicable).
+g) Risk Management Framework.
+h) Financial projection
+i) IT Infrastructure
+j) CBN approvals for any change(s) in Management/Board/Shareholding
+since the issuance of the extant licence; and
+k) Any other requirement as may be stipulated by CBN from time to time
+4. Supervisory Brief shall be provided by the supervising department as detailed
+in Schedule 7 of this regulatory guidelines.
+6
+The Licensing process shall be in two phases: Approval-in-Principle and Final
+Approval.
+7.1 Requirements for grant of Approval-In-Principle (AIP).
+The application shall be accompanied with the following:
+7.1.1 Documentation
+a. A non-refundable application fee as stipulated in the relevant
+guidelines of the new licence type.
+b. Provision of evidence of meeting the regulatory minimum share capital
+of the proposed new licence type
+c. Resolution of Board of Directors approving the request for the change
+of licence type
+d. Draft Memorandum and Articles of Association (MEMART)
+e. Proposed new Shareholders’ structure (even where it remains
+unchanged)
+f. Detailed and signed Curriculum Vitae (CV), means of identification and
+Bank Verification Number (BVN) of members of Board of Directors and
+Top Management (even where they remain unchanged)
+g. Proposed Board Committees and composition (even where they
+remain unchanged)
+h. Copies of old and proposed organizational structure.
+i. Outline of Branding (e.g Logo) for the old and new institution (even
+where it remains the same).
+j. Details of existing branches and staff strength
+k. Last three years audited financial statements
+l. Detailed and signed CVs, means of identification and BVN of proposed
+members of the Advisory Committee of Experts (where applicable).
+m. Schedule of Regulatory breaches and fines with dates and reasons (if
+any).
+7.1.2 Detailed business plan including:
+a. Objectives of the proposed financial institution
+b. Justification for the change
+c. Ownership structure in a tabular format showing the names of proposed
+investor(s), profession/business, and their percentage shareholding (Old
+and new), where applicable
+d. A certificate/statement of good conduct from the Nigerian Police (no
+criminal record) for each director/significant shareholder (where
+applicable).
+e. For non-Nigerian directors, a certificate/statement of good conduct from
+international agencies (Interpol,etc).
+7
+f. Signed fitness and Propriety Questionnaire and Declaration executed by
+the shareholders and directors (Where applicable).
+g. Organizational structure showing functional units, responsibilities,
+reporting relationships and grade (status) of heads of departments/units.
+h. List of identified top/senior management staff and detailed CV stating
+their qualification, experience, records of accomplishment etc.
+i. List of services to be rendered or stopped.
+j. Five-year financial projection for the operation of the proposed financial
+institution, indicating expected growth and profitability as well as details
+of the assumptions which form the basis of the financial projection.
+k. Detailed proposed staff training programme in line with the new licence
+l. I.T infrastructure requirements.
+m. Undertaking by the directors that the bank or OFI will always be
+adequately capitalized according to its risk profile
+n. Notarized statement of net-worth of each individual shareholder and
+director (where applicable)
+o. Three (3) letters of reference from persons of reputable standing in
+Nigeria in respect of each proposed director (where applicable)
+p. Letter(s) from the banker(s) on status of indebtedness of each of the
+proposed directors (where applicable)
+q. Report from at least two (2) Credit Bureaux on each of the proposed
+directors and individual shareholders (where applicable).
+r. Letter of consent to serve as director by each proposed director (where
+applicable)
+s. Draft Enterprise Risk Management Framework of the proposed
+institution
+t. Draft Operations Manual of the proposed institution
+u. Where there is a new foreign financial institutional investor, an Approval
+or No Objection Letter from the home regulator is required
+v. Technical Service Agreement (where applicable)
+w. Any other document/information that may be required from time to time
+by the CBN
+7.1.3 New Investors
+a. Where there are new investors, the financial institution should forward
+valid identification documents, Taxpayer Identification Number (TIN),
+Bank Verification Number (BVN), CV and statements of accounts for
+each individual investor.
+b. For corporate investors, the following documents shall be provided:
+i. Notarized Profile of the investor(s)
+ii. Incorporation documents
+iii. Board resolution supporting company’s decision to invest in the
+equity shares of the bank or OFI.
+8
+iv. Names and Addresses (business/residential) of owners/directors
+and their related companies, if any.
+v. Last three (3) years Audited Financial Statement of the Company
+vi. Last three (3) years Tax Clearance Certificate
+vii. Detailed and signed CVs, means of identification and BVN of the
+directors of the company
+7.2 Requirements for Final Approval
+The financial institution shall not later than the time specified in the relevant licensing
+guidelines after obtaining the AIP apply for the grant of final approval.
+The application shall be accompanied with the following:
+a. Applicable non-refundable licensing fee to the CBN.
+b. Certified-True-Copy of new Incorporation documents (including revised
+Memorandum & Articles of Association).
+c. Evidence of ability to meet technical requirements and infrastructural
+facilities to perform the bank’s operations and meet CBN and other regulatory
+requirements.
+d. Completed Fitness and Propriety Questionnaire; and sworn declaration
+of net worth executed by top/senior management staff (where
+applicable)
+e. Summary of changes made in the systems & controls and policies &
+procedures for conducting successful operations.
+f. Evidence of implementation of the proposed training plan submitted at
+the AIP stage.
+g. Shareholders’ Register.
+h. Share certificate issued to each new investor (where applicable).
+i. Any other document/information that may be required from time to time
+by the CBN
+7.3 Conduct of Pre-Licensing Inspection
+As a requirement to the grant of a final approval, the CBN shall conduct an inspection
+of the premises and facilities to ascertain their suitability or otherwise and confirm the
+authenticity of all relevant documents submitted by the bank or OFI (where applicable).
+7.4 Commencement of Operations
+A bank or OFI that converted to another licence type shall, through a letter, inform the
+relevant supervisory department of the CBN of its readiness to commence operations
+and such information shall be accompanied by one copy each of the following:
+i. Opening statement of affairs signed by external auditors and at least two
+directors with their names and designation.
+ii. Minutes of pre-commencement board meeting.
+9
+8.0 APPLICATION OF RELEVANT GUIDELINES AND REGULATIONS
+In addition to various licensing requirements as specified in section 7 of this regulatory
+guideline as well as applicable regulatory guidelines for eligible institutions (as listed
+in schedules 1-6), various applications for change shall comply with the following
+specific requirements:
+8.1 Non-Interest Financial Institutions (NIFIs)
+I. Banks or OFIs converting to non-interest banking business shall constitute its
+Advisory Committee of Experts (ACE) upon the grant of an AIP and the ACE
+shall commence operations before the grant of a final approval.
+II. Shariah Review Report and ACE’s Certificate confirming that the whole
+conversion process has been undertaken in conformity with Islamic commercial
+Jurisprudence
+III. There shall be a meeting among the ACE, Shariah Compliance and Audit Unit
+of the converting institution with the CBN Financial Regulation Advisory Council
+of Experts (FRACE) to clarify any issue, where necessary.
+IV. A bank or OFI converting to non-interest bank shall have a plan for migration
+or off-boarding of their customers within twelve (12) months.
+V. A bank or OFI converting to non-interest bank shall align its IT infrastructure
+with the new business model.
+VI. A bank or OFI converting to non-interest bank shall divest from all their non-
+permissible activities within a maximum period of 12 months. Any non-
+permissible proceeds shall be treated in line with extant CBN Guideline on
+Disposal of Non-Permissible Income.
+VII. Revenue not yet received that are of doubtful permissibility are not subject to
+compulsory disposal, whether they were earned before or during the financial
+period in which the NIFI decides to convert.
+VIII. Institutions converting to non-interest bank shall be required to carry the NIFIs
+symbol.
+IX. Undertaking by the directors that the bank will always adhere to the principles
+underpinning the operations of the proposed new license type.
+8.2 Primary Mortgage Banks
+I. PMBs wishing to convert to another licence type shall provide evidence of
+divestment from mortgage loans under the National Housing Fund (NHF) as a
+condition precedent to the issuance of final approval.
+II. PMBs converting to another licence type shall together with the application,
+provide a plan to divest from all non-permissible real estate business. The
+divestment shall be concluded within eighteen (18) months from the date of the
+grant of AIP.
+10
+9.0 CORPORATE GOVERNANCE
+A bank or OFI that has changed its licence is required to comply with the provisions of
+the relevant CBN Guidelines on Corporate Governance and Nigeria Code of Corporate
+Governance (NCCG 2018).
+10.0 PRUDENTIAL REQUIREMENTS
+A bank or OFI that has changed its licence is required to comply with the relevant CBN
+Prudential Guidelines.
+11.0 ANTI-MONEY LAUNDERING, COMBATING TERRORISM FINANCING AND
+COUNTER PROLIFERATION FINANCING (AML/CFT/CPT)
+A bank or OFI that has changed its licence is required to comply with the provisions of
+extant laws, regulations, and standards on AML/CFT.
+12.0 GLOSSARY
+TERM DEFINITION
+ACE Advisory Committee of Experts
+AIP Approval-In-Principle
+AML/CFT/CPT Anti-Money Laundering, Combating the Financing of Terrorism &
+Counter Proliferation Financing
+BVN Bank Verification Number
+CAMA Companies and Allied Matters Act
+CBN Central Bank of Nigeria
+FRACE Financial Regulation Advisory Committee of Experts
+NIB Non-Interest Bank
+NIFI Non-Interest Financial Institution
+NHF National Housing Fund
+OFI Other Financial Institution
+PMB Primary Mortgage Bank
+SEC Securities and Exchange Commission
+TIN Taxpayer Identification Number
+11
+SCHEDULE TO THE GUIDELINES
+SCHEDULE 1
+Applications for conversion and re-categorization in respect of commercial banks shall
+comply with the following statutes, regulations, and guidelines:
+Section 1: Commercial i. Central Bank of Nigeria Scope, Conditions and
+Banks Licensing Regime Minimum Standards for Commercial Bank Regulation
+No.1 (2010)
+ii. Regulations on the Scope of Banking Activities and
+Ancillary Matters, No.3 (2010).
+iii. Central Bank of Nigeria Guidelines for obtaining
+Commercial Banking Licence in Nigeria (2010)
+iv. Revised Assessment Criteria for Approved Persons
+Regime for Financial Institutions (2015).
+v. Code of Corporate Governance for Banks and
+discount Houses in Nigeria (2014)
+vi. Banks and Other Financial Institutions Act (BOFIA)
+2020
+vii. Companies and Allied Matters Act (CAMA) 2020
+viii. CBN Competency Framework for the Nigerian
+Banking Industry 2012
+ix. Nigerian Financial Services Industry IT Standards
+Blueprint 2021
+x. Other relevant statutes, regulations guidelines, and
+circulars.
+SCHEDULE 2
+Applications for conversion and re-categorization in respect of merchant banks shall
+comply with the following statutes, regulations, and guidelines:
+Section 2: Merchant Banks i. Central Bank of Nigeria Regulation on the Scope of
+Licensing Regime Banking Activities & Ancillary Matters, No. 3, 2010
+ii. CBN Scope, Conditions & Minimum Standards for
+Merchant Banks Regulations No. [.] 2010
+iii. Revised Assessment Criteria for Approved Persons
+Regime for Financial Institutions (2015)
+iv. Code of Corporate Governance for Banks and
+Discount Houses in Nigeria (2014)
+v. Banks and Other Financial Institutions Act (BOFIA)
+2020
+vi. Companies and Allied Matters Act (CAMA) 2020
+vii. CBN Competency Framework for the Nigerian
+Banking Industry 2012
+viii. Nigerian Financial Services Industry IT Standards
+Blueprint 2021
+ix. Other relevant statutes, regulations guidelines, and
+circulars.
+12
+SCHEDULE 3
+Applications for conversion and re-categorization in respect of Microfinance Banks
+shall comply with the following statutes, regulations, and guidelines:
+Section 3: Microfinance i. Central Bank of Nigeria Regulation on the Scope of
+Banks Licensing Regime Banking Activities & Ancillary Matters, No. 3, 2010
+ii. Revised Regulatory and Supervisory Guidelines for
+Microfinance Banks in Nigeria, 2013
+iii. Revised Assessment Criteria for Approved Persons
+Regime for Financial Institutions, 2015
+iv. Codes of Corporate Governance for Microfinance
+Banks in Nigeria, 2018
+v. Banks and Other Financial Institutions Act (BOFIA)
+2020
+vi. Companies and Allied Matters Act (CAMA) 2020
+vii. CBN Competency Framework for the Nigerian
+Banking Industry 2012
+viii. Nigerian Financial Services Industry IT Standards
+Blueprint 2021
+ix. Other relevant statutes, regulations guidelines, and
+circulars.
+SCHEDULE 4
+Applications for conversion and re-categorization in respect of Primary Mortgage
+Banks shall comply with the following statutes, regulations, and guidelines:
+Section 4: Primary i. Central Bank of Nigeria Regulation on the Scope
+Mortgage Banks of Banking Activities & Ancillary Matters, No. 3,
+2010
+Licensing Regime
+ii. Revised Guidelines for Primary Mortgage Banks
+in Nigeria
+iii. Revised Assessment Criteria for Approved
+Persons Regime for Financial Institutions (2015)
+iv. Code of Corporate Governance for Primary
+Mortgage Banks in Nigeria, 2018
+v. Banks and Other Financial Institutions Act
+(BOFIA) 2020
+vi. Companies and Allied Matters Act (CAMA) 2020
+vii. CBN Competency Framework for the Nigerian
+Banking Industry 2012
+viii. Nigerian Financial Services Industry IT
+Standards Blueprint 2021
+ix. Other relevant statutes, regulations guidelines,
+and circulars.
+13
+SCHEDULE 5
+Applications for conversion and re-categorization in respect of Payment Service Banks
+shall comply with the following statutes, regulations, and guidelines:
+Section 5: Payment i. Central Bank of Nigeria Guidelines for Licensing
+Service Banks Licensing and Regulation of Payment Service Banks in
+Nigeria
+Regime
+ii. Revised Assessment Criteria for Approved
+Persons Regime for Financial Institutions (2015)
+iii. Code of Corporate Governance for Banks and
+Discount Houses in Nigeria 2014
+iv. Banks and Other Financial Institutions Act
+(BOFIA) 2020
+v. Companies and Allied Matters Act (CAMA) 2020
+vi. CBN Competency Framework for the Nigerian
+Banking Industry 2012
+vii. Nigerian Financial Services Industry IT
+Standards Blueprint 2021
+viii. Other relevant statutes, regulations guidelines,
+and circulars.
+SCHEDULE 6
+Applications for conversion and re-categorization in respect of non-interest banks shall
+comply with the following statutes, regulations, and guidelines
+Section 6: Non-Interest i. Regulations on the scope of Banking Activities
+Financial Institution and Ancillary matters, No.3 (2010).
+ii. Framework for the Regulation and Supervision of
+Licensing Regime
+Institutions Offering Non-Interest Financial
+Services in Nigeria (2011)
+iii. Guidelines for the Regulations and Supervision of
+Institutions offering Non-interest Financial
+Services in Nigeria 2011
+iv. CBN Scope, Conditions & Minimum Standards
+for Specialized Institutions Regulations No. 03,
+2010
+v. Guidelines on the Governance of Advisory
+Committees of Experts for Non-Interest (Islamic)
+Financial Institutions in Nigeria (2015)
+vi. Guidelines on the Governance of Financial
+Regulation Advisory Council of Experts for Non-
+Interest (Islamic) Financial Institutions in Nigeria
+(2015)
+vii. Revised Assessment Criteria for Approved
+Persons Regime for Financial Institutions (2015).
+viii. Code of Corporate Governance for Banks and
+discount Houses in Nigeria (2014)
+ix. Banks and Other Financial Institutions Act
+(BOFIA) 2020
+x. Companies and Allied Matters Act (CAMA) 2020
+14
+I. CBN Competency Framework for the Nigerian
+Banking Industry 2012
+II. Nigerian Financial Services Industry IT
+Standards Blueprint 2021
+III. Guidelines on Disposal of Non-permissible
+Income for Non-interest Financial Institutions
+2021
+IV. Guidelines for the Regulation and Supervision of
+Non-Interest (Islamic) Microfinance Banks in
+Nigeria (2017)
+V. Accounting and Auditing Organization for Islamic
+Financial Institutions (AAOIFI) Shari’ah Standard
+No. (6) on Conversion of a Conventional Bank to
+Islamic Bank
+VI. Other relevant statutes, regulations guidelines,
+and circulars.
+SCHEDULE 7
+SUPERVISORY BRIEFS
+Operational Status i. Date of issuance of licence
+ii. Type and class of licence
+iii. Date of commencement of operations
+Financial Position i. A brief of the institution’s current financial position
+ii. CBN examination report conducted not earlier than six
+months or current Audited Financial Statement.
+iii. Prudential Highlights
+iv. Statutory Returns – A statement of compliance
+v. Board and Management - A confirmation of effective
+performance
+vi. Evidence of publication of Annual Financial Statements
+including any penalties imposed
+General Comment Statement of caution/no objection and recommendation on
+application. Supervisors’ overall comment on the application
+for conversion/recategorization.
+15

@@ -1,0 +1,862 @@
+NATIONAL
+BLOCKCHAIN
+POLICY FOR
+NIGERIA
+MAY 2023
+CONTENTS
+03 Acronyms
+04 Presidential Mandate
+05 Foreword
+07 1.0 Introduction
+08 1.1 Components of a Blockchain Architecture
+09 1.2 Background
+12 1.3 Benefits of Blockchain Adoption for Nigeria
+12 1.3.1 Improved Transparency and Accountability
+12 1.3.3 Enhanced Security
+12 1.3.4 Financial Inclusion
+12 1.3.5 Job Creation
+15 2.0. Policy Vision and Mission
+17 3.0 Policy Direction
+19 4.0 Focus Areas
+19 4.1 Talent Development
+20 4.2 Innovation
+21 4.3 Blockchain Adoption
+21 4.3.1 Financial Services
+22 4.3.2 Government and Corporate Digital Services
+25 5.0 Expected Outcomes of the Policy
+39 6.0 Implementation Structure
+31 7.0 Conclusion
+2
+ACRONYMS
+CBN Central Bank of Nigeria
+CCB Code of Conduct Bureau
+CAC Corporate Affairs Commission
+dApps Decentralised applications
+FCTA Federal Capital Territory Administration
+FIRS Federal Inland Revenue Service
+FMC&DE Federal Ministry of Communications and Digital Economy
+FSS2020 Financial System Strategy 2020
+ID Identity
+INEC Independent National Electoral Commission
+MoH Federal Ministry of Health
+5G Fifth Generation
+NAICOM National Insurance Commission
+NBA Nigerian Bar Association
+NBS National Bureau of Statistics
+NCAIR National Centre for Artificial Intelligence and Robotics
+NCC Nigerian Communications Commission
+NCS Nigeria Customs Service
+NDIC Nigeria Deposit Insurance Corporation
+NDEPS National Digital Economy Policy and Strategy
+NDPB Nigeria Data Protection Bureau
+NIBSS Nigeria Inter-Bank Settlement System
+NIMC National Identity Management Commission
+NITDA National Information Technology Development Agency
+NIRSAL Nigeria Incentive-Based Risk Sharing System for Agricultural Lending
+NIS Nigeria Immigration Service
+NSE Nigerian Society of Engineers
+NUC National University Commission
+PENCOM National Pension Commission
+PwC Pricewaterhouse Coopers
+SEC Securities and Exchange Commission
+SIBAN Stakeholders in Blockchain Technology Association of Nigeria
+3
+PRESIDENTIAL MANDATE
+Presidential Mandate
+Blockchain Technology (BT) is an emerging technology that offers a unique opportunity for
+various sectors of the economy to experience greater transparency, increased efficiency
+and more secure transactions. These and many other benefits of Blockchain Technology
+have inspired governments around the world to integrate BT into the different sectors of the
+economy.
+Nigeria’s digital economy sector has experienced significant growth in the last 4 years.
+Noteworthy examples of this growth include the unprecedented 18.44% contribution
+of the Information and Communications Technology (ICT) sector to our Gross Domestic
+Product (GDP) and the outstanding performance of the digital economy sector based on the
+independent assessment of the KPMG and the Foreign, Commonwealth and Development
+Office (FCDO). The sector's generation of an average quarterly revenue of N594 billion for the
+Federal Government is also highly commendable.
+As the leading digital economy in Africa, we have again taken the lead in developing a policy
+for the adoption of this important technology. We will use BT to boost innovation, improve
+public services, create job opportunities, reduce corruption and drive economic growth. As
+the world prepares for a BT-driven injection of $1.76 trillion to the global GDP by 2030, our
+development and implementation of the National Blockchain Policy for Nigeria will prepare
+us to be active players and to benefit from this emerging global source of revenue.
+The National Blockchain Policy for Nigeria has therefore been developed to serve as a
+roadmap for Nigeria's adoption and utilisation of BT. The Policy lays out a comprehensive
+framework for integrating BT into different spheres of our national life in order to fully
+realise the potential of BT. It also addresses key issues such as governance, interoperability,
+security, and regulatory compliance. In addition to these, it offers direction and guidance to
+stakeholders in both the public and private sectors in order to ensure the adoption, innovative
+and responsible use of BT.
+The implementation of the Policy will contribute to strengthening Nigeria's digital economy by
+expanding financial inclusion and enhancing openness and accountability. It will also enhance
+public trust in governance and promote citizen engagement by increasing transparency and
+accountability. Furthermore, it will ensure the growth of indigenous talent in Blockchain
+Technology solution development, in line with the Federal Government’s commitment to
+develop our nation’s human resources.
+I hereby direct the National Information Technology Development Agency (NITDA), the
+Central Bank of Nigeria (CBN), the National Universities Commission (NUC), the Securities and
+Exchange Commission (SEC) and the Nigerian Communications Commission (NCC), as well as
+other relevant regulatory bodies, to develop regulatory instruments for the deployment of
+Blockchain Technology across various sectors of the economy. I further direct all relevant
+government agencies to immediately commence implementation of the Policy, along with
+stakeholders to ensure that we create a Blockchain-powered economy that enhances
+innovation, growth, and prosperity for all.
+I applaud the commitment and creativity of Prof. Isa Ali Ibrahim (Pantami), the Honourable
+Minister of Communications and Digital Economy, towards ensuring that Nigeria’s digital
+economy continues its upward trajectory. I also commend all stakeholders who participated
+in the development of the National Blockchain Policy.
+Muhammadu Buhari, GCFR
+May 2023
+4
+FOREWORD
+Foreword
+The Blockchain Policy is in furtherance to the vision of President Muhammadu
+Buhari, GCFR, to diversify the Nigerian economy. The growth of the digital economy
+over the past few years is a good indication that this sector can serve as a catalyst
+for the rapid development of the economy. Hence, as we continue to explore
+innovative ways to drive the development of Nigeria, emerging technologies such as
+Blockchain provide us with immense opportunities to improve efficiency, security,
+and transparency across various sectors of the economy.
+The National Digital Economy Policy and Strategy (NDEPS) was developed to realign
+the Nigerian economy to take advantage of the numerous opportunities that digital
+technology offers. As part of the implementation of the NDEPS, the Federal Ministry
+of Communications and Digital Economy (FMC&DE), on behalf of the Federal
+Government of Nigeria, has developed the National Blockchain Policy in line with the
+7th Pillar of the NDEPS, which focuses on Digital Society and Emerging Technologies.
+In order to lay a solid foundation to achieve the maximum benefit that Blockchain
+Technology has to offer in Nigeria, the FMC&DE has identified talent development,
+innovation, and adoption as the key areas to harness the potential of Blockchain
+Technology in Nigeria. The aim is to provide training and capacity building programs
+that will equip Nigerians with the necessary innovative skills to leverage Blockchain
+Technology to grow our digital economy while also promoting adoption in the public
+and private sectors.
+I am confident that the National Blockchain Policy for Nigeria will enable us to
+maximise the benefits of this technology for the development of Nigeria. I urge all
+stakeholders to support this initiative as we work towards making Nigeria a leading
+hub for Blockchain innovation and development.
+Professor Isa Ali Ibrahim (Pantami) FCIIS, FBCS, FNCS
+Minister of Communications and Digital Economy of the Federal Republic of
+Nigeria
+5
+1
+CHAPTER 1
+Introduction
+6
+INTRODUCTION
+1.0 Introduction
+Blockchain Technology has become a quality of services delivered by the public and
+groundbreaking advancement in the digital private sectors, catalyse innovation, create
+age with the potential to revolutionise many jobs, and enhance governance, which will
+industries, from finance and healthcare to grow the economy. The Policy will serve as a
+transportation and supply chain management. road map for Nigeria's adoption of Blockchain
+Transactions can be made more transparent, Technology in the future.
+trustworthy, and efficient, which will result
+in considerable cost savings and better
+1
+user experiences. As a result, governments
+all over the world are exploring how to
+leverage Blockchain Technology to boost
+innovation, improve public services, create job
+opportunities, and drive economic growth.
+Government has a significant role to play in
+the adoption and regulation of Blockchain
+Technology in Nigeria. Several Countries have
+adopted Blockchain Technology, most notably
+Estonia, Georgia, United Arab Emirates (Dubai),
+Switzerland, and Singapore. It is important to
+note that the adoption of Blockchain for digital
+economy activities is still in its early stages,
+and there are many challenges and obstacles
+that must be addressed before it can become
+widely implemented across different sectors.
+The Federal Government of Nigeria promotes
+the adoption of this technology through the
+National Blockchain Policy to improve the
+7
+1.1 Components of a Blockchain
+Architecture
+A blockchain architecture is made up of a number of components,
+including the following:
+i. Node:
+A system or user within a blockchain;
+ii. Block:
+A data structure that keeps a set of transactions distributed to all
+nodes in the network;
+iii. Miner:
+A node that performs block validation and verification;
+iv. Transaction:
+The smallest component of a blockchain system;
+v. Chain:
+An ordered sequence of blocks in a blockchain system; and
+vi. Consensus:
+A set of rules that govern the operations in a blockchain system.
+8
+INTRODUCTION
+1.2 Background
+Digital technologies such as Blockchain have To take advantage of the numerous
+been widely adopted globally. According to opportunities that digital technology offers, the
+PricewaterhouseCoopers (PwC), Blockchain National Digital Economy Policy and Strategy
+Technologies could boost the global economy (NDEPS) was developed and was subsequently
+with US$1.76 trillion by 2030. However, to launched by President Muhammadu Buhari
+fully reap the potential benefits of Blockchain, on the 28th of November 2019, to realign the
+nations must adapt it to their unique Nigerian economy. The NDEPS is anchored on
+environments to ensure the attainment of eight pillars, namely:
+maximal benefits while minimising risks.
+1. Developmental Regulation;
+2. Digital Literacy & Skills;
+3. Solid Infrastructure;
+4. Service Infrastructure;
+5. Digital Services Development & Promotion;
+6. Soft Infrastructure;
+7. Digital Society & Emerging Technologies; and
+8. Indigenous Content Development & Adoption.
+9
+On behalf of the Federal Government of Nigeria, 15. National Child Online Protection Policy and
+and as part of the implementation of the NDEPS, Strategy;
+the Federal Ministry of Communications and
+16. The Rule Making Process Regulation of
+Digital Economy (FMC&DE) has developed over
+NIPOST;
+twenty (20) national policies and law that are
+all being implemented, including the following: 17. Roadmap for the Implementation of the
+National Digital Economy Policy and
+1. National Digital Innovation &
+Strategy;
+Entrepreneurship Policy;
+18. The Nigeria Data Protection Bill (currently
+2. National Policy on Digital Identity for
+at the National Assembly); and
+Internally Displaced Persons;
+19. National Policy on Communication Satellite
+3. Nigeria Startup Act 2022;
+(Draft).
+4. National Dig-Once Policy;
+5. National Policy for the Promotion
+of Indigenous Content in the
+Telecommunications Sector;
+6. SIM Card Registration Plan;
+7. National Policy on VSAT Installation Core
+Skills for Nigerians;
+8. National Policy on SIM Card Registration;
+9. Revised National Digital Identity Policy for
+SIM Card Registration;
+10. National Policy on Fifth Generation (5G)
+Networks for Nigeria's Digital Economy;
+11. National Policy on Virtual Engagements in
+the Federal Public Institutions;
+12. National Policy on Device Management
+System;
+13. National Policy for the Establishment and
+Management of the National Centre for
+Artificial Intelligence and Robotics;
+14. National Policy on the Nigerian Government
+Second-Level Domains;
+INTRODUCTION
+In keeping with this trajectory, the FMC&DE the potential of Blockchain Technology and
+has developed the National Blockchain Policy address a number of concerns, such as
+(hereinafter referred to as the “Policy”) in governance, interoperability, security, and
+line with Pillar 7 of the NDEPS, which focuses regulatory compliance. It offers direction
+on Digital Society and Emerging Technologies, and guidance to Government organisations,
+tying the development of the digital economy businesses, and other stakeholders to ensure
+to indices of the well-being of ordinary citizens. the adoption, innovation, talent development,
+This builds on the gains of other strategic and responsible use of Blockchain Technology.
+activities deployed under this Pillar, like the
+The Policy serves as a catalyst for innovation
+National Policy for the establishment and
+and economic growth, enabling the
+management of the National Centre for
+development of new business models,
+Artificial Intelligence and Robotics (NCAIR).
+products, and services that will lead to job
+The Centre was established in 2021 and was
+creation. By creating a supportive environment
+the first of such centres in Africa. NCAIR has
+for Blockchain Technology, governments can
+a number of unprecedented achievements and
+attract investment, promote research and
+has provided high quality capacity building for
+development, and foster entrepreneurship.
+innovators in the country. The success of the
+Furthermore, the adoption of this Policy
+Centre has inspired other African countries to
+can enhance public trust in governance and
+establish similar centres.
+promote citizen engagement by increasing
+This Policy lays out a comprehensive transparency and accountability.
+framework for Blockchain acceptance and
+execution. This is essential to fully realise
+11
+INTRODUCTION
+1.3 Benefits of Blockchain Adoption for
+Nigeria
+The implementation of Blockchain Technology help to protect sensitive data and prevent
+can contribute to strengthening Nigeria's digital cyber-attacks across multiple sectors of the
+economy by expanding financial inclusion and economy.
+enhancing openness and accountability. The
+1.3.4 Financial Inclusion
+inherent characteristics of Blockchain, such as
+its immutability and decentralisation enable Blockchain Technology can help to increase
+secure and transparent transactions and financial inclusion in Nigeria by providing access
+activities through some of its applications, like to financial services to those who may not have
+smart contracts, which have the potential to had access before. By using blockchain-based
+bring several benefits to the economy. payment systems, individuals can send and
+receive money easily and securely.
+Below are some of the benefits of adopting
+Blockchain in Nigeria.
+1.3.5 Job Creation
+1.3.1 Improved Transparency and Blockchain adoption in Nigeria has the potential
+Accountability to create significant job opportunities across
+a range of sectors. With a young and tech-
+Blockchain Technology can help to increase
+savvy population, Nigeria is well-positioned
+transparency and accountability in various
+to become a blockchain hub in Africa. The
+sectors in Nigeria. By using a distributed ledger
+adoption of Blockchain Technology creates
+system, all transactions are recorded and can
+new job roles, such as blockchain developers,
+be accessed by anyone on the network. This
+cybersecurity experts, and smart contract
+can help to reduce corruption, fraud, and other
+engineers.
+illegal activities.
+Furthermore, Blockchain Technology enables
+1.3.2 Increased Efficiency
+the creation of new industries, such as
+Blockchain Technology can also help to cryptocurrency exchanges and blockchain-
+improve the efficiency of various processes, based payment systems, which could
+such as payment processing, supply chain create jobs across various sectors, including
+management, and identity verification. By finance, technology, and manufacturing. The
+leveraging Blockchain features like smart implementation of Blockchain Technology
+contracts, transactions can be executed in Nigeria shall also improve transparency
+automatically, reducing the need for and reduce corruption, which boosts
+intermediaries and streamlining the process. investor confidence and create additional
+job opportunities. Overall, the job creation
+1.3.3 Enhanced Security
+benefits of blockchain adoption in Nigeria have
+Blockchain Technology is highly secure due the potential to play a significant role in the
+to its decentralised nature. Transactions are country's economic development and growth.
+recorded on multiple nodes, making it nearly
+impossible to tamper with the data. This can
+12
+INTRODUCTION
+13
+2
+CHAPTER 2
+Policy Vision and
+Mission
+14
+POLICY VISION AND MISSION
+2.0 Policy Vision and Mission
+Vision
+To create a Blockchain-powered economy that supports secure
+transactions, data sharing, and value exchange between people,
+businesses, and Government, thereby enhancing innovation, trust,
+growth, and prosperity for all.
+2
+Mission
+We encourage the use, adoption, and integration of Blockchain
+Technology in the various sectors of Nigeria's digital economy
+in order to increase economic prosperity, efficiency,
+innovation, transparency, security, and trust.
+15
+3
+CHAPTER 3
+Policy Direction
+16
+POLICY DIRECTION
+3.0 Policy Direction
+The Policy aims to grow domestic talent
+in Blockchain solutions development,
+foster innovation, and catalyse the
+adoption and use of Blockchain
+Technology.
+3
+17
+4
+CHAPTER 4
+Focus Area
+18
+FOCUS AREA
+4.0 Focus Areas
+As Nigeria moves into a more technology-driven world,
+Blockchain has emerged as a transformative force that
+offers unique benefits to various sectors. This Policy has
+identified talent development, innovation, and adoption
+as the key areas to harness the potential of Blockchain
+Technology in Nigeria.
+The focus areas are elaborated in subsequent sections.
+4
+4.1 Talent Development
+The development of talent in the field of considerations and best practices.
+Blockchain is critical for the growth and success
+2. The Government will develop talent
+of the Blockchain industry. This Policy seeks
+attraction programmes to attract and retain
+to provide a framework for the development
+Blockchain talent. These programmes will
+of talent to support the growth of the industry
+provide incentives to encourage Blockchain
+and to ensure that the National Blockchain
+professionals to develop and sustain the
+ecosystem has the necessary human capital
+Nigerian Blockchain industry.
+to drive innovation and growth. This focus
+3. The Government will develop research
+area will facilitate the development of a skilled
+and development programmes to promote
+and knowledgeable workforce in the industry;
+innovation in the Blockchain industry.
+attract and retain talent; promote innovation
+These programmes will include funding for
+and growth; and enhance the competitiveness
+research and development projects and
+of the National blockchain ecosystem.
+collaboration with private sector, academia
+Talent Development Policy and other research institutions towards the
+Statements implementation of the triple helix model.
+1. The Government will collaborate with 4. The Government will collaborate with
+relevant stakeholders to develop capacity- industry stakeholders to ensure that talent
+building programmes to enhance the skills development programmes meet the needs
+and knowledge of Blockchain professionals. of the Blockchain industry.
+These programmes will be tailored to meet
+the needs of the industry and will include
+training, workshops, and certification
+programmes that incorporate ethical
+19
+FOCUS AREA
+4.2 Innovation
+To facilitate innovation in Blockchain, a incentives, incubation centres, mentorship
+multi-pronged approach is needed, involving programmes etc. This will help start-
+creating an environment that encourages ups to grow and thrive in the competitive
+experimentation, providing resources to Blockchain industry.
+support innovation, and addressing regulatory
+6. The Government will collaborate with
+and legal barriers.
+international organisations to promote
+innovation in the Blockchain industry. This
+Innovation Policy Statements
+will help to create a global ecosystem for
+1. The Government and other stakeholders
+Blockchain start-ups, allowing them to
+will provide support for research and
+access new markets and resources.
+development in the Blockchain industry.
+This will help entrepreneurs and researchers 7. The Government will encourage the
+develop innovative Blockchain solutions adoption of Blockchain Technology in
+that can be used in various sectors. various sectors such as healthcare, finance,
+education and logistics. This will create
+2. The Government will collaborate with
+more use cases for Blockchain Technology,
+industry experts and thought leaders
+which will drive innovation and economic
+to identify key trends, challenges, and
+growth in the country.
+opportunities in the Blockchain industry.
+This will help the Government policies 8. The Government will work with industry
+that are informed by industry experts and stakeholders to identify and address
+are relevant to the current needs of the regulatory hurdles that may prevent or
+industry. stifle innovation.
+3. The Government will create regulatory 9. The Government, through regulatory
+sandboxes where Blockchain Start-ups agencies, will work with industry
+can test their innovative ideas without stakeholders to develop standards and
+being subject to stringent regulations. This best practices that promote innovation
+will allow for more experimentation and while also ensuring consumer protection
+innovation in the industry. and market stability.
+4. The Government will invest in Blockchain 10. The Government will encourage
+education and awareness programmes to collaboration between industry
+help citizens and businesses understand stakeholders, such as Blockchain startups,
+the benefits and applications of Blockchain established companies, and academic
+Technology. This will create a more institutions, to promote innovation and
+educated citizenry that is capable of share knowledge.
+contributing to the growth of the Blockchain 11. The Government will promote the
+industry in Nigeria. development of Blockchain solutions that
+5. The Government will provide support foster financial inclusion.
+for Blockchain start-ups in the form of
+20
+FOCUS AREA
+4.3 Blockchain Adoption
+The adoption of Blockchain Technology is in cryptocurrency and make it more accessible
+poised to support the continuous growth of the to businesses and individuals in Nigeria.
+digital economy in Nigeria by fostering a more
+Policy Statements on Adoption for
+secure, transparent, accountable, efficient
+Financial Services
+service delivery, and trusted ecosystem.
+1. The Government will establish a regulatory
+The below-listed areas are approved by the
+framework that enables the integration of
+FGN for adoption to achieve the Policy's
+Blockchain Technology into the financial
+mission and vision.
+system while ensuring the protection of
+4.3.1 Financial Services consumers and the stability of the financial
+system.
+Blockchain Technology has the potential to
+transform financial services by providing 2. The Government will establish a regulatory
+secure, transparent, and efficient transactions framework that enables the safe responsible
+without the need for intermediaries. Nigeria and optimal use of cryptocurrencies in
+recognises the potential benefits of Blockchain Nigeria in a way that ensures consumer
+Technology and its ability to provide protection, market stability and financial
+decentralised payment services, particularly inclusion.
+with the advent of cryptocurrencies, which are
+3. The Government will support the
+digital assets designed to work as a medium
+development of Blockchain Technology
+of exchange of value within the Blockchain.
+through the provision of funding and
+Cryptocurrency has been a subject of interest
+incentives to innovators and start-ups in
+in Nigeria in recent years, with a growing
+the fintech sector.
+community of cryptocurrency enthusiasts and
+4. Financial institutions will be encouraged
+traders in the country.
+to adopt Blockchain Technology for their
+Chainalysis 2022 Global Crypto Adoption
+operations where appropriate, and the
+Index reports that Nigerians have, at 32%, the
+Government will work with relevant
+highest per capita cryptocurrency adoption rate
+stakeholders to create awareness of the
+of any country in the world. Also, many young
+benefits of Blockchain Technology.
+Nigerians have embraced cryptocurrencies as
+5. The Government will collaborate
+a means of accessing financial services and
+with international bodies to establish
+participating in the global digital economy.
+international standards and best practices
+The Nigerian Government recognises
+for blockchain adoption in financial services
+cryptocurrency as one of the components
+in order to promote global interoperability
+that will catalyse the adoption of Blockchain
+and reduce regulatory fragmentation.
+Technology. Hence, the Nigerian Government,
+through this Policy, provides a framework for 6. The Government will work with industry
+the use of cryptocurrencies, among others, stakeholders to develop standards for the
+which can help to mitigate risks such as money listing and trading of cryptocurrencies on
+laundering and fraud. This can help to build trust regulated exchanges in Nigeria.
+21
+FOCUS AREA
+4.3.2 Government and Corporate be difficult to alter without the consensus
+Digital Services of the entire network. This will create a
+more transparent and secure system for
+Blockchain Technology has the potential to
+recording and verifying property ownership,
+transform the way the Nigerian Government
+with little to no human error.
+and businesses operate and deliver services. It
+offers increased transparency, accountability, iii. Supply Chain Management: The adoption
+and efficiency, which can lead to improved trust of Blockchain Technology in supply
+between citizens and organisations. Further, it chain management has the potential to
+can also be used in various functions, such as: significantly enhance transparency and
+traceability. The use of Blockchain can
+i. Identity Management: In today's digital
+provide a decentralised and transparent
+world, there is a growing need for secure
+ledger that enables all stakeholders
+and reliable methods of identity verification
+to access and verify data in real-time,
+to prevent fraud and identity theft. By
+helping to reduce fraud and increase
+implementing a blockchain-based identity
+accountability. This will drastically grow the
+management system that incorporates
+supply chain sector, which will in turn boost
+device management and tracking,
+the other sectors reliant of supply chain
+personal IDs, professional credentials, and
+efficiency such as ecommerce, government
+certificates, it would be possible to create a
+procurement, etc.
+more secure and reliable system for online
+identity verification and authentication.
+Policy Statements on Adoption for
+This can be applied in different areas and
+Government and Corporate Digital
+sectors of the economy including voter
+Services
+registration, identification and tracking of
+1. The Government will promote the use of
+devices and goods, healthcare management
+Blockchain Technology to improve the
+and financial services.
+efficiency, transparency, and security of
+ii. Land Registration and Record System:
+services rendered to citizens.
+In a traditional land registration and
+2. The Government will develop a National
+record system, the process of transferring
+Strategy for Blockchain adoption, which will
+ownership can be complicated and time-
+set out a clear roadmap for implementing
+consuming, often involving multiple
+Blockchain in Government services.
+intermediaries such as lawyers and
+government agencies. There may also 3. The Government will promote the adoption
+be concerns about fraud or errors in the of Blockchain in key areas, such as identity
+documentation. A blockchain-based land management, land registration, supply
+registry would consist of a distributed chain management, intellectual property,
+ledger that records all land transactions and voting systems.
+and ownership changes. Each transaction
+4. The Government will collaborate with
+would be verified by multiple nodes in the
+industry and academia to identify new
+network, ensuring that no single party can
+use cases for Blockchain and promote
+manipulate the data. This would create an
+the adoption of Blockchain in rendering
+immutable record of ownership that would
+Government services.
+22
+FOCUS AREA
+5. The Government will collaborate with other professionals are trained to use and
+countries and international organisations to implement Blockchain Technology. This will
+develop global standards and best practices help to create a workforce that is capable
+for Blockchain adoption in Government. of leveraging the benefits of Blockchain
+Technology in healthcare.
+6. The Government will collaborate with the
+private sector to encourage and promote
+the adoption of Blockchain Technology in
+supply chain management to aid in tracing
+and tracking products and services and
+other logistic activities.
+7. The Government will promote the
+use of Blockchain Technology for the
+management of insurance claims. This
+will help to streamline the claims process,
+reduce administrative costs, and ensure
+that patients receive timely and accurate
+reimbursements.
+8. The Government will encourage and
+promote the use of Blockchain Technology
+for the management of personal health data.
+This will allow patients to control and share
+their health data with healthcare providers,
+researchers, and other stakeholders in a
+secure and transparent manner.
+9. The Government will invest in capacity
+building to ensure that healthcare
+23
+5
+CHAPTER 5
+Expected
+Outcomes of the
+Policy
+24
+EXPECTED OUTCOMES
+5.0 Expected Outcomes of the Policy
+Below are the outcomes expected from the
+successful implementation of the Policy.
+Talent Development Innovation
+Increase in Skilled Blockchain workforce: With i. Increased Research and Development:
+the implementation of training programmes, The Policy shall provide funding for
+5
+education in schools, and research funding, Blockchain research and development,
+there should be an increase in the number of which would lead to the creation of new
+professionals with the necessary skills to work applications, products, and services in the
+in the Nigerian Blockchain ecosystem. digital economy. This Policy will benefit
+from the provisions in the Nigeria Startup
+Higher Quality of Blockchain Talent: With
+Act 2022.
+a focus on education and research, the
+Blockchain talent pool would have a higher ii. Encouragement of Experimentation: The
+quality of knowledge and skills, which would Policy promotes experimentation with new
+help to advance the state of the technology. Blockchain Technologies, such as smart
+contracts, decentralised applications
+Creation of new jobs: As the Blockchain
+(dApps), and interoperability solutions.
+ecosystem grows, there will be a need for
+This experimentation would lead to more
+individuals with specialised skills in areas such
+innovative and practical use cases for
+as Blockchain solutions development.
+Blockchain.
+Increased competitiveness: With a skilled and
+iii. Establishment of Blockchain Sandboxes:
+knowledgeable workforce, the country shall
+The Government will establish Blockchain
+be more competitive in the global Blockchain
+sandboxes, which are environments where
+market, attracting more investment and talent.
+companies can experiment with Blockchain
+Improved collaboration: By promoting
+Technologies without the risk of regulatory
+public-private partnerships and establishing
+violations. This would encourage the
+regional research centres, there shall be more
+development of innovative Blockchain
+collaboration between different stakeholders
+solutions.
+in the Blockchain ecosystem, leading to more
+iv. Promotion of Public-Private Partnerships:
+innovative projects and better outcomes.
+By promoting public-private partnerships,
+Growth of the Blockchain ecosystem: By
+the Policy shall encourage collaboration
+investing in talent development, the Policy
+between different stakeholders, including
+would help to grow the Blockchain ecosystem,
+start-ups, established companies, and
+with more start-ups, innovative projects, and
+Government agencies. This collaboration
+new applications of the technology.
+25
+EXPECTED OUTCOMES
+shall lead to more innovative and practical the regulatory framework shall ensure
+Blockchain solutions. that consumers are protected and that
+the stability of the financial system is
+v. Creation of Supportive Legal and
+maintained.
+Regulatory Frameworks: The Policy
+facilitates the creation of supportive legal iii. Encouragement of Blockchain Adoption
+and regulatory frameworks that encourage in the Private Sector: The Policy promotes
+innovation in the Blockchain industry. This the adoption of Blockchain Technology by
+would provide clarity and certainty for private companies, especially in industries
+companies developing Blockchain solutions such as finance, healthcare, education and
+and attract more investment to the sector. logistics. This would lead to more efficient
+and secure business processes and create
+vi. Encouragement of Entrepreneurs: The
+new market opportunities.
+Policy leads to the provision of incentives
+for entrepreneurship in the Blockchain iv. Establishment of Blockchain
+ecosystem, such as tax breaks, grants, and Standards: The Policy will lead to the
+incubator programs. This would encourage establishment of standards for Blockchain
+the development of new start-ups and help Technology, including interoperability,
+to foster a culture of innovation, in line with security, and data privacy. This would
+the Nigeria Startup Act 2022. provide clarity and consistency for
+companies developing Blockchain solutions
+vii. Promotion of Blockchain Education
+and would help to increase trust in the
+and Awareness: The Policy promotes
+technology.
+education and awareness of Blockchain
+Technology, including its potential use v. Promotion of Blockchain-friendly
+cases and benefits. This shall help to build Regulations: The Policy facilitates the
+a knowledgeable and engaged community creation of regulations that support the
+around Blockchain, which would lead to adoption of Blockchain Technology, such as
+more innovation in the industry. legal recognition of smart contracts and the
+use of Blockchain-based identity solutions.
+Adoption
+This shall reduce regulatory barriers to
+i. Increased Blockchain Adoption in the adoption and increase confidence in the
+Public Sector: The Policy shall encourage technology.
+Government agencies to adopt Blockchain
+vi. Creation of a National Blockchain
+Technology in their operations, such as
+Infrastructure: The Policy promotes
+record-keeping, voting systems, and supply
+the creation of a national Blockchain
+chain management. This would increase
+infrastructure, including networks and
+the efficiency, transparency, and security
+platforms that facilitate Blockchain
+of the Government.
+transactions. This would encourage the
+ii. Increased Adoption and Integration development of new Blockchain-based
+of Blockchain Technology in Financial services and applications.
+Services: This Policy enables improved
+vii. Promotion of Blockchain Education
+efficiency, transparency, and security
+and Awareness: The Policy promotes
+in financial transactions. Additionally,
+26
+EXPECTED OUTCOMES
+education and awareness of Blockchain Blockchain standards and regulations, as
+Technology, including its potential use well as on the development of cross-border
+cases and benefits. This shall increase Blockchain solutions. This shall increase the
+the understanding and acceptance of interoperability and adoption of Blockchain
+Blockchain, leading to more adoption in the Technology worldwide.
+public and private sectors.
+viii. Encouragement of International
+Blockchain Collaboration: The Policy
+encourages international collaboration on
+This Policy may be reviewed by the Federal Government of
+Nigeria through the Federal Ministry of Communications & Digital
+Economy in collaboration with relevant stakeholders as required
+based on the implementation progress.
+27
+6
+CHAPTER 6
+Implementation
+Structure
+28
+IMPLEMENTATION STRUCTURE
+6.0 Implementation Structure
+The successful implementation of the Policy 12. Nigerian Communications Commission
+requires robust collaboration between the (NCC)
+private and public sectors. The Federal
+13. Nigeria Data Protection Bureau (NDPB)
+Ministry of Communications and Digital
+14. Nigeria Insurance Commission (NAICOM)
+Economy (FMC&DE), in collaboration with
+other relevant Federal Ministries, will develop 15. Fintech Association of Nigeria
+a strategy to drive the implementation of the
+16. National Bureau of Statistics (NBS)
+Policy. The strategy will outline all relevant
+stakeholders along with their various roles and 17. National Identity Management
+responsibilities towards the implementation of Commission (NIMC)
+6
+this Policy.
+18. Independent National Electoral
+A National Blockchain Implementation and Commission (INEC)
+Steering Committee will be constituted to
+19. Federal Inland Revenue Service (FIRS)
+implement the Policy. The following institutions
+20. Nigeria Customs Service (NCS)
+will serve on the committee:
+21. Nigeria Immigration Service (NIS)
+1. Federal Ministry of Communications and
+Digital Economy 22. National Universities Commission (NUC)
+2. Federal Ministry of Health 23. Stakeholders in Blockchain Technology
+Association of Nigeria
+3. Federal Ministry of Finance, Budget, and
+National Planning 24. Flutterwave Payments Limited
+4. Federal Ministry of Labour and 25. Federal University of Technology, Minna
+Employment
+26. Federal University of Technology, Akure
+5. Federal Ministry of Industry, Trade &
+27. Domineum Blockchain Solutions Ltd
+Investement
+28. Baze University Blockchain Experience
+6. Office of the Head of the Civil Service of
+Centre
+the Federation (OHCSF)
+29. Paystack Payments Limited
+7. National Information Technology
+Development Agency
+(NITDA)
+8. Central Bank of Nigeria (CBN)
+9. Securities and Exchange Commission
+(SEC)
+10. Nigerian Governors’ Forum (NGF)
+11. Federal Capital Territory Administration
+(FCTA)
+29
+7
+CHAPTER 7
+Conclusion
+30
+CONCLUSION
+7.0 Conclusion
+The National Blockchain Policy provides a Furthermore, by establishing supportive legal
+framework for the development, innovation, and regulatory frameworks and promoting
+and adoption of Blockchain Technology in international collaboration, the National
+Nigeria. This Policy will enable the nation Blockchain Policy will help to ensure that
+to harness the full potential of Blockchain the benefits of Blockchain Technology are
+Technology and position it as a leader in the realised in a secure and responsible manner.
+global Blockchain ecosystem. By investing in The Policy will be a critical tool in realising
+talent development, promoting innovation, and the full potential of Blockchain Technology in
+encouraging adoption, the Policy will help to Nigeria and for shaping the future of the global
+7
+create new market opportunities, job creation, Blockchain industry.
+increase economic growth, and improve public
+services.
+31
+National
+Blockchain
+Policy for
+Nigeria

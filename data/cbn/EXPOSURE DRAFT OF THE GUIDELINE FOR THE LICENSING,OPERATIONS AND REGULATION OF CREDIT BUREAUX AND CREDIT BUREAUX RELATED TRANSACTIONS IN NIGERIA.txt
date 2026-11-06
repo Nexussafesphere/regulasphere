@@ -1,0 +1,493 @@
+09-46236425
+09-46236418
+BSD/DIR/GEN/LAB/06/013 March 14, 2013
+LETTER TO ALL CREDIT BUREAUX AND OTHER STAKEHOLDERS
+EXPOSURE DRAFT OF THE GUIDELINE FOR THE LICENSING, OPERATIONS AND
+REGULATION OF CREDIT BUREAUX AND CREDIT BUREAUX RELATED TRANSACTIONS
+IN NIGERIA
+The Central Bank of Nigeria, in exercise of its duties under the CBN Act
+2007, No.7 has revised the Guidelines for Licensing, Operations and
+Regulation of Credit Bureaux and Credit Bureaux related transactions in
+Nigeria.
+We hereby, attach the Exposure Draft of the Guidelines for comments
+from stakeholders to enable us finalize the document and issue same
+subsequently.
+Hard copies of responses on the document should be sent to the Director
+of Banking Supervision Department, Abuja, while soft copies should be e-
+mailed to abarau@cbn.gov.ng or iimusa@cbn.gov.ng.
+Thank you
+A. O. IDRIS
+FOR: DIRECTOR OF BANKING SUPERVISION
+DRAFT
+GUIDELINE FOR THE LICENSING,
+OPERATIONS AND REGULATION OF
+CREDIT BUREAUX AND CREDIT
+BUREAUX RELATED TRANSACTIONS IN
+NIGERIA
+BY
+CENTRAL BANK OF NIGERIA
+ABUJA
+DECEMBER 2012
+TABLE OF CONTENTS
+SECTION 1 - INTRODUCTION .................................................................................................................................. 4
+1.1 BACKGROUND ........................................................................................................................................... 4
+SECTION 2 - DEFINITION OF TERMS ........................................................................................................................ 4
+SECTION 3 - OWNERSHIP AND MANAGEMENT OF A CREDIT BUREAU .................................................................... 6
+3.1 OWNERSHIP OF A CREDIT BUREAU ........................................................................................................... 6
+3.2 MANAGEMENT .......................................................................................................................................... 6
+3.2.1 DIRECTORS ................................................................................................................................................ 6
+3.3 QUALIFICATION FOR DIRECTORS AND TOP MANAGEMENT APPOINTMENT IN A CREDIT BUREAU ............ 7
+SECTION 4 - LICENSING REQUIREMENTS OF CREDIT BUREAUS ............................................................................... 7
+4.1 APPLICATION ............................................................................................................................................. 8
+4.2 APPROVAL IN PRINCIPLE (AIP) ................................................................................................................... 9
+4.3 FINAL OPERATING LICENCE ....................................................................................................................... 9
+SECTION 5 - OPERATIONAL PROCEDURES OF CREDIT BUREAU ............................................................................. 10
+5.1 (A) FUNCTIONS OF CREDIT BUREAUS ........................................................................................................ 10
+5.1 (B) PERMISSIBLE PURPOSE ....................................................................................................................... 11
+5.3 INFORMATION DISSEMINATION AND CONSENT OF DATA/HOLDER SUBJECTS ........................................ 12
+5.4 RESPONSIBILITIES AND DUTIES OF BANKS, OTHER FINANCIAL INSTITUTIONS AND OTHER USERS ........... 13
+5.5 RESPONSIBILITIES AND DUTIES OF CREDIT BUREAUS .............................................................................. 14
+5.6 NATURE OF DATA COLLECTED BY CREDIT BUREAUS AND DATA RETENTION PERIOD:.............................. 15
+5.7 MAINTENANCE OF DATA INTEGRITY & SECURITY .................................................................................... 15
+5.8 FEES AND CHARGES ................................................................................................................................ 16
+SECTION 6 - RIGHTS OF DATA HOLDER/SUBJECT .................................................................................................. 16
+SECTION 7 - DISPUTE RESOLUTION ...................................................................................................................... 16
+SECTION 8 - OPENING AND CLOSURE OF CREDIT BUREAU OFFICES ...................................................................... 17
+SECTION 9 - SUBMISSION OF RETURNS AND AUDITED ACCOUNTS TO THE CBN ................................................... 18
+SECTION 10 - THE ROLE OF CBN CREDIT RISK MANAGEMENT SYSTEM (CRMS) .................................................... 18
+SECTION 11 - COMPLIANCE WITH THE GUIDELINE ............................................................................................... 19
+SECTION 12 - DISSOLUTION, LIQUIDATION AND REVOCATION OF LICENSE .......................................................... 19
+TITLE
+Guideline for the Licensing, Operations and Regulation of Credit
+Bureaus and Credit Bureau Related Transactions in Nigeria.
+SECTION 1 - INTRODUCTION
+1.1 BACKGROUND
+In the exercise of the powers conferred on the Central Bank of Nigeria by
+Section 57 of the CBN Act 2007, No.7, the provisions herein are made as
+guidelines to the licensing, operations and regulation of all Credit Bureaus
+in Nigeria.
+1.2 The guideline shall apply to all Central Bank of Nigeria licensed
+Credit Bureaus and Credit Bureau related transactions.
+1.3 The objective of the guideline is to define the licensing, operational
+and regulatory requirements for a privately owned Credit Bureau under the
+CBN Act 2007, No. 7.
+SECTION 2 - DEFINITION OF TERMS
+2.1 “Act” - means the Central Bank of Nigeria Act, 2007.
+2.2 “Board of Directors”- means the Board of Directors of a Credit
+Bureau.
+2.3 “CBN” – means the Central Bank of Nigeria.
+2.4 “Consent” – means a signed written authorization by the Holder/Data
+Subject, his/her legal representative or authorized agent indicating his/her
+approval to either inquire about his/her data and/or forward his/her data to
+Credit Bureaus.
+2.5 “Credit Bureau” (CB)/Credit Reference Company - means an
+institution that collects information from creditors and available public
+sources on borrowers’ credit history.
+2.6 “Credit Bureau Association” – means an association registered with
+the Corporate Affairs Commission for the sole purpose of promoting the
+activities of Credit Bureau operations in Nigeria.
+2.7 “Credit File” – means an electronic or physical docket containing the
+Holder/Data Subject’s personal and credit data that are collected,
+processed and maintained with the Credit Bureau.
+2.8 “Credit Information” – means the history of a Holder/Data Subject with
+regard to credit and financial obligations that a Credit Bureau may collect
+from Data Providers.
+2.9 “Credit Report” – means information issued by a Credit Bureau,
+containing all or part of the holder's/data subject’s information and data
+available in the credit file or a summary thereof.
+2.10 “Credit Scoring” – refers to a measure of default probability.
+2.11 “Database” - means a set of information administered by a Credit
+Bureau.
+2.12 “Data Provider” – means entities that are allowed under this guideline
+to furnish data to a Credit Bureau and includes Banks and Other Financial
+Institutions and such other institutions that provide any form of credit and
+entities that have personal or credit or any information and data related to
+holder’s/data subject’s payment habits, credit worthiness and furnish them
+to the Credit Bureaus as per this guideline.
+2.13 “Debt” - means direct, indirect and contingent obligations incurred by
+an individual or entity with third parties including interest / profit thereon.
+2.14 “Holder/Data Subject” - means any person or entity whose credit
+information is administered by the Credit Bureau.
+2.15 “Reputation collateral” - means a good payment record which may be
+used in applying for new credit.
+2.16 “User” – means any lending institution or person or entity that is
+entitled to request information from a Credit Bureau.
+2.2.1 “Banks” and “Other Financial Institutions” shall have the same
+meaning as defined in the Banks and Other Financial Institutions Act, 1991
+as amended.
+2.2.2 “Adverse action” shall include, but not limited to, actions taken by a
+User resulting from the denial of credit, cancellation of credit, reduction of
+value of credit line, denial of employment or denial of any advantage to
+which a holder or data subject would otherwise be entitled.
+SECTION 3 - OWNERSHIP AND MANAGEMENT OF A CREDIT
+BUREAU
+3.1 OWNERSHIP OF A CREDIT BUREAU
+(i) Individuals/entities are at liberty to invest in a Credit Bureau subject to
+CBN approval.
+(ii) Investment by a bank and its subsidiaries in a Credit Bureau shall not
+exceed 10% of the total paid-up capital of the Credit Bureau.
+(iii) Banks shall not invest in more than one (1) Credit Bureau.
+3.2 MANAGEMENT
+3.2.1 DIRECTORS
+(a) The maximum number of directors [including executive directors] on the
+Board of a Credit Bureau shall be eleven [11] (one of which must be an
+independent director), while the minimum shall be five [5]. The non-
+executive directors should comprise the majority of the members of the
+Board at any point in time.
+(b) No individual shall be a director in more than one [1] Credit Bureau.
+(c) The appointment/upgrade of a new director/ management staff shall be
+approved by CBN.
+3.3 QUALIFICATION FOR DIRECTORS AND TOP MANAGEMENT
+APPOINTMENT IN A CREDIT BUREAU
+The following minimum qualifications and experience are mandatory for
+officers who may occupy top management positions in the Credit Bureau:
+(i) Managing Director/Chief Executive - a recognized university degree or
+its equivalent with at least ten (10) years relevant post-qualification
+experience.
+(ii) Executive Director - a recognized university degree or its equivalent with
+at least eight (8) years relevant post-qualification experience.
+(iii) Departmental/Unit Head - a recognized university degree or its
+equivalent with at least seven (7) years post-qualification experience.
+(iv) Non-Executive Director – A Non-Executive Director must possess a
+minimum of first degree or its equivalent and appreciable experience/
+exposure in a reputable organization.
+SECTION 4 - LICENSING REQUIREMENTS OF CREDIT BUREAUS
+An individual or a group shall not operate a Credit Bureau in Nigeria unless
+licensed to do so by the Central Bank of Nigeria.
+The process of licensing a Credit Bureau shall be in three (3) stages:
+(1) Receipt and appraisal of application.
+(2) Issuance of Approval-in-Principle (AIP).
+(3) Issuance of Final Operating Licence.
+4.1 APPLICATION
+A Promoter(s) seeking to operate a Credit Bureau in Nigeria shall apply in
+writing to the Governor of CBN. Such application for a Credit Bureau
+licence shall be accompanied with the following:
+a. Non-refundable Application fee of N250,000 (Two hundred and fifty
+thousand Naira only) made payable to the CBN.
+b. Minimum capital requirement of N500,000,000.00 (Five Hundred Million
+Naira only) made payable to the CBN, fifty percent (50%) of which would
+be released upon the grant of Approval-in-Principle, while the balance
+would be released with the accrued interest on the grant of final licence.
+c. Memorandum and Article of Association of the proposed Credit Bureau.
+d. Detailed feasibility report on the proposed Credit Bureau which shall
+include:
+i. The objectives and aims of the proposed Credit Bureau.
+ii. A detailed and comprehensive business plan of the Credit Bureau.
+iii. A three (3) year financial projection for the operation of the Credit
+Bureau indicating its expected growth and profitability.
+iv. Details of the assumptions upon which the financial projections have
+been made.
+v. The organizational structure of the proposed Credit Bureau, setting out in
+details: functions, relationships and responsibilities of Board, Management
+and staff.
+vi. The composition of the Board of Directors and the curriculum vitae (CV)
+of each member including information on positions held by them in other
+organizations.
+vii. Proposed Management Information Systems, internal controls and
+procedures, including operational manual.
+viii. A table of the list of Promoters, Shareholders showing their residential
+address, their businesses/companies and addresses, amount invested as
+well as addresses of their bankers.
+ix. Copy of the management or service level agreement, if any, which have
+been concluded with other parties or any Memorandum of Understanding in
+that regard.
+x. Sworn declaration of the promoters and directors attesting to their
+willingness to adhere to any code(s) of proper conduct and integrity as may
+be issued by the CBN.
+xi. The conclusions based on the assumptions made in the feasibility
+report.
+4.2 Approval in Principle (AIP)
+a. The CBN having satisfied itself with 4.1 above, shall issue an AIP to the
+Credit Bureau which will stipulate the conditions for granting of final licence.
+b. An AIP granted to a proposed Credit Bureau shall be for a period of one
+hundred and eighty days (180 days) within which the proposed Credit
+Bureau must comply with all the conditions specified in the AIP, at the end
+of which period the AIP shall be deemed to have lapsed.
+c. Should the promoters of a lapsed AIP wish to continue with the
+establishment of the Credit Bureau, they will be required to submit fresh
+application.
+d. Where the application for a Credit Bureau licence is declined, the CBN
+shall communicate the decision in writing to the applicant.
+e. Submission of specimen copies of credit status reports as well as the
+proposed charges for such reports.
+4.3 Final Operating Licence
+The CBN shall grant final Licence to a Credit Bureau subject to the
+following:
+a. The Credit Bureau has satisfied all conditions as specified in the AIP.
+b. The CBN has conducted on-site verification to ascertain its readiness to
+commence operations.
+4.4 The Credit Bureau so licensed shall comply with the provisions of the
+guidelines, regulations and circulars as may be issued by the CBN from
+time to time.
+4.5 A licence shall automatically expire if a Credit Bureau has not
+commenced business during the first six (6) months immediately after the
+date of issue of the licence.
+4.6 All licensed Credit Bureaux shall be required to add “Credit Bureau”
+to their names e.g. XYZ Company limited (Credit Bureau).
+4.7 Except with the written consent of the Governor of CBN, no Credit
+Bureau shall be registered or incorporated with a name which includes the
+words “Central”, “ Federal”, “Federation”, “National”, “Nigeria”, “Reserve”,
+“State”, “Christian”, “Islamic”, “Moslem”, “Quranic” or “Biblical”.
+SECTION 5 - OPERATIONAL PROCEDURES OF CREDIT BUREAU
+5.1 (a) Functions of Credit Bureaus
+In addition to the dissemination of credit information under the
+circumstances listed in 5.1(b) below, Credit Bureaus may also:
+(i) investigate an application for credit on behalf of any person or entity to
+whom an application for credit has been made;
+(ii) Furnish non-credit information to Users.
+(iii) Carry out such other services and functions as are compatible with the
+nature of its business provided that the confidentiality of credit information,
+as protected in this guideline, shall be maintained at all times.
+5.1 (b) Permissible Purpose
+To access any credit information from a Credit Bureau, the user (lending
+institution, person or entity) should have a permissible purpose.
+The permissible purpose is represented in the following:
+i. Application for credit by a borrower.
+ii. Reviewing and monitoring of existing credit facilities.
+iii. Opening of new accounts (as part of KYC principle).
+iv. Funds transfer of N1,000,000 (One Million Naira) and above.
+v. Prospective/current employee/non-executive directors’ checks.
+vi. Tenancy contracts (for identification purposes).
+vii. Grant/review of insurance policies.
+viii. Acceptance of guarantee(s).
+ix. Application for contracts/post-paid services (telephone etc).
+x. Court judgments.
+xi. Credit scoring of the client by Credit Bureau.
+xii. A written consent from the client.
+xiii. Legislation, where a person is required by law to provide credit
+information.
+5.2 A licensed Credit Bureau shall collect information on the background
+and credit history relating to the commitment of persons, enterprises and
+other organizations, in order to determine their identity, banking
+relationships, overall debt exposure, repayment behaviour and other
+contractual obligations.
+5.2.1 Credit Bureau shall collect data from any of the following sources:
+i. Banks operating in Nigeria.
+ii. CBN Credit Risk Management System (CRMS).
+iii. Mortgage finance companies.
+iv. Finance/operating leasing companies.
+v. Insurance companies.
+vi. Institutions that offer credit to medium, small and micro enterprises.
+vii. Asset management companies.
+viii. Courts.
+ix. Suppliers of goods and providers of services on a post-paid or
+instalment payment basis e.g. telecommunication, water, health,
+energy etc.
+x. Other Credit Bureaus licensed by the Central Bank of Nigeria.
+xi. Other entities that have data and information that serves the
+purposes of the company.
+5.2.2 At the time of receiving information on a Holder/Data Subject, a
+Credit Bureau shall adopt reasonable procedures to ensure that all
+available relevant information on the Holder/Data Subject is obtained.
+5.2.3 A Credit Bureau may consult other sources of information, provided
+that the confidentiality of the Holder/ Data Subject shall be maintained.
+5.3 Information dissemination and Consent of Data/Holder
+Subjects
+5.3.1 i. A Data Provider shall be required to give notice to all its customers
+of its duty to report positive and negative information to licensed Credit
+Bureaus.
+5.3.1 ii. Every User shall be required to obtain the consent of a Data
+Subject before requesting for the credit report of that Data Subject from
+licensed Credit Bureaus. If the credit report is required by law, then the
+Data Subject’s consent is not required.
+5.4 Responsibilities and Duties of Banks, Other Financial
+Institutions and other Users
+5.4.1 All Banks and Other Financial Institutions must have data exchange
+agreements with at least two (2) licensed Credit Bureaus
+5.4.2 All Banks and Other Financial Institutions must obtain credit reports
+from at least two (2) licensed Credit Bureaus before granting any facility to
+their customers.
+5.4.3 All banks shall obtain credit reports for quarterly credit review from at
+least two licensed Credit Bureaus.
+5.4.4 All Banks and Other Financial Institutions shall upload data on all its
+credit customers to the licensed Credit Bureaus with which it has executed
+data exchange agreements. The data uploaded shall include names,
+addresses, photographs, existing loan/credit facilities, existing overdraft
+arrangements, schedule of loan repayments, details of loan repayments,
+loan value and/or authorized credit limit, the outstanding balances, type of
+facility or product, maturity date, outstanding installments due and types of
+collaterals offered in addition to any other information that meet the
+requirements of the Credit Bureau.
+5.4.5 All Banks and Other Financial Institutions shall update any change in
+the data submitted to a Credit Bureau pursuant to clause 5.4.4 above every
+30 days or more frequently or in accordance with a schedule provided by
+the Credit Bureau.
+5.4.6 All Users shall adopt reasonable procedures to ensure that all copies
+of credit reports received from Credit Bureaus are kept confidential and
+accessible only to its officials on a strict need-to-know basis.
+5.5 Responsibilities and Duties of Credit Bureaus
+A Credit Bureau shall –
+(a) Implement strict quality control procedures in order to ensure the quality
+of its database and the continuity of its services.
+(b) Utilize the information collected solely for the purposes set out in this
+guideline.
+c) Adopt reasonable procedures to ensure that Data Providers can update
+data regularly and at least once in every calendar month.
+(d) Adopt reasonable procedures to allow Data Providers to correct data
+and re-submit data found to be inaccurate or invalid.
+(e) Provide to the CBN, unrestricted access to all the information managed
+by the Credit Bureau, either through access to its systems or in a manner
+stipulated by the CBN, for the purpose of supervision.
+f) Observe, through its shareholders, directors and officers, a perpetual
+duty of confidentiality with regard to the information in its database.
+(g) Not transfer, directly or indirectly, any database containing information
+to any person other than the CBN or its nominated recipient. Where the
+Credit Bureau needs to give access to its database to consultants and
+technical partners for the purpose of creating or designing products, such
+consultants and technical partners shall be contractually bound to observe
+the duties of confidentiality imposed on the Credit Bureau under this
+guideline.
+(h) Ensure that all Users and Data Providers that are not statutorily under
+the regulatory purview of the CBN contractually assume the duties and
+responsibilities of Data Providers and Users specified in this guideline.
+A breach of items a – h above shall constitute a contravention of this
+guideline.
+5.6 Nature of Data Collected by Credit Bureaus and Data
+Retention Period:
+5.6.1 A Credit Bureau must maintain a credit file on each Holder/Data
+Subject which, if available, should contain the clients’ personal and credit
+data including:
+a. Personal History Data:
+i. Natural Person: They include the name, nationality, photograph, date
+and place of birth, identification documents, present and past addresses in
+the last three years, profession, details of present and past jobs in the past
+three years, spouse name in addition to any other data that meet the
+requirements of the Credit Bureau.
+5.6.2 (1) A Credit Bureau shall maintain a historical database covering a
+five (5) year period for the purpose of providing detailed credit information,
+and shall keep the database for a period of not less than ten (10) years
+after which it shall be archived.
+(2) A Credit Bureau shall implement procedures and systems that ensure
+that the information registered in its database is updated on an on-going
+basis.
+(3) A Credit Bureau shall update its database as and when information is
+provided by the lending institution. The information shall be updated on a
+regular basis and as often as may be required in standardised formats
+/procedures.
+5.7 Maintenance of Data Integrity & Security
+(1) A Credit Bureau shall take the necessary security and control measures
+in order to avoid unauthorized/improper use or mismanagement of
+information in its database.
+(2) A Credit Bureau shall not request, collect or grant information, other
+than as permitted in this Guideline.
+(3) All data collected by a Credit Bureau on a Holder/Data Subject must be
+aggregated and the resulting information made available on request to
+contributing/lending institutions or authorized users.
+5.8 FEES AND CHARGES
+(1) A Credit Bureau may charge fees for its services. Such charges shall
+continue to be approved by CBN pending the issuance of the Guide to
+Credit Bureau Charges.
+(2) The Holder/Data Subject shall have access, free of charge, to a copy of
+the credit report on which an adverse action was based or proposed to be
+based from the person or entity who took or is seeking to take the adverse
+action.
+SECTION 6 - RIGHTS OF DATA HOLDER/SUBJECT
+6.1 A Holder/Data Subject shall, upon production of satisfactory
+identification and payment of stipulated fee, have unhindered access to
+inspect his or her credit information at any Credit Bureau.
+6.2 Where the Holder/Data Subject believes that the information
+contained in the database is inaccurate he or she may request a review.
+6.3 Any inaccuracy identified or observed shall be remedied within fifteen
+working days by the Data Provider.
+SECTION 7 - DISPUTE RESOLUTION
+7.1 All Credit Bureaus shall establish a complaint resolution unit to
+handle all complaints/disputes in respect of its operations.
+7.2 For the duration of the investigation, the credit information in the
+Credit Bureau must indicate that the information is under dispute.
+7.3 Where there are legal liabilities or cost arising from the inaccurate
+data, the data provider shall be liable.
+7.4 All parties to a Credit Bureau related dispute may have recourse to
+the CBN.
+7.5 The Credit Bureau shall render monthly returns on all disputes and
+complaints to the CBN.
+7.6 Any dispute, contrary, claim arising out of, or relating to Credit Bureau
+related transaction, shall be settled between the parties and if settlement is
+not reached, the dispute shall be referred to arbitration in accordance with
+the Arbitration and Conciliation Act, Cap A18, Laws of the Federation of
+Nigeria, 2004.
+7.7 (i) A Credit Bureau may file a claim against the information provider
+whenever it is held liable for any incorrect information.
+(ii) Users of risk information provided by a Credit Bureau shall be held
+liable in the event of wrongful or fraudulent use of the information, or if the
+users cause damage to the Holder/Data Subject.
+7.8 A Credit Bureau shall have a customer claims and inquiry service
+section to attend to customers who may be affected by the information
+contained in the database and who may be contesting the information from
+the Credit Bureau.
+7.9 The CBN may request, at any time, information it may require in order
+to evaluate complaints, accusations or inconsistencies detected related to
+the operations of a Credit Bureau.
+SECTION 8 - OPENING AND CLOSURE OF CREDIT BUREAU
+OFFICES
+8.1 A Credit Bureau must obtain the approval of the CBN before opening,
+relocating or closing its offices.
+8.2 Such opening or closure of offices by a Credit Bureau must be
+approved by the Board of Directors in accordance with its business plan.
+SECTION 9 - SUBMISSION OF RETURNS AND AUDITED
+ACCOUNTS TO THE CBN
+9.1 Every Credit Bureau shall submit to the CBN on monthly basis details
+of its activities as specified by CBN ten (10) working days into the following
+month.
+9.2 All Credit Bureaus shall submit their audited financial statements not
+later than three (3) months after their year-end for approval by CBN for
+publication.
+9.3 CBN shall conduct yearly or as the need arises, the examination of
+the activities of the licensed Credit Bureaus.
+9.4 The CBN as part of its supervisory functions of the activities of Credit
+Bureaus in Nigeria shall have unrestricted access to the database and
+records of all licensed Credit Bureaus.
+SECTION 10 - THE ROLE OF CBN CREDIT RISK MANAGEMENT
+SYSTEM (CRMS)
+10.1 The CBN Credit Risk Management System (CRMS) shall continue to
+serve its regulatory functions.
+10.2 Banks and other financial institutions shall continue to render the
+mandatory returns and comply with all relevant circulars and guidelines
+relating to the operation of CRMS.
+10.3 The CRMS shall operate as a public registry and would therefore
+share its information with the licensed Credit Bureaus. Credit Bureaus
+may, from time to time request information from the CRMS and include
+information obtained from the CRMS in credit reports issued to Users.
+10.4 The CBN shall not be liable or joined in any dispute(s) arising from
+wrong information given in respect of a credit report on a Holder/Data
+Subject.
+SECTION 11 - COMPLIANCE WITH THE GUIDELINE
+11.0 Credit Bureaus are expected to comply strictly with the provisions of
+this guideline. However in case of confirmed contravention, CBN shall
+apply appropriate sanctions on the Credit Bureau.
+11.1 Where a Credit Bureau, through its shareholders, directors or officers
+illegally discloses any information in its database, before or after its
+dissolution, the responsible party is liable to pay a penalty of Five Hundred
+Thousand Naira only (N500,000.00) and, in the case of a continuing
+offence, an additional fine, not exceeding Ten Thousand Naira only
+(N10,000.00) each day for which the offence continues.
+11.2 All the officers who are directly involved in the commission of the
+offence shall also be blacklisted by the CBN.
+11.3 In the attainment of its corporate purpose and the performance of its
+activities, a Credit Bureau shall comply with any directives issued by the
+CBN.
+11.4 The Board of Directors of a Credit Bureau is responsible for ensuring
+compliance and internal dissemination of this guideline.
+SECTION 12 - DISSOLUTION, LIQUIDATION AND REVOCATION OF
+LICENSE
+12.1 Where a Credit Bureau is to be dissolved and liquidated, it shall notify
+CBN in writing accompanied by the following documents:
+(a) A copy of the minutes of the special meeting of shareholders in which
+the agreement to dissolve was recorded.
+(b) Financial statements as at the date the agreement to dissolve was
+made, as well as a report from the auditor appointed by the CBN for that
+purpose.
+(c) A sworn statement from the Chief Executive Officer specifying
+outstanding obligations (if any).
+(d) Evidence of appointment of a liquidator.
+The CBN shall on receipt of notice of dissolution or liquidation conduct an
+investigation of the Credit Bureau.
+12.2 A Credit Bureau shall comply with the decision of the CBN with
+regards to the management and control of its database on dissolution.
+12.3 (i) A Credit Bureau shall deliver its/any database containing
+information to the CBN in the form, terms and conditions stipulated by the
+CBN.
+12.4 A Credit Bureau licence is valid until revoked by the CBN. The CBN
+may revoke a Credit Bureau licence if it is satisfied that:
+i. there have been substantial unaddressed violations of this guideline,
+ii. the Credit Bureau is insolvent
+iii. it is in the public interest to do so.

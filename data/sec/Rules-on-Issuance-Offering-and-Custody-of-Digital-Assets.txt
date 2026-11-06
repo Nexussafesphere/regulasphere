@@ -1,0 +1,1511 @@
+New Rules on Issuance, Offering Platforms and Custody of Digital Assets
+These Rules shall cover:
+1. PART A – Rules on Issuance of Digital Assets as Securities
+2. PART B – Rules on Registration Requirements for Digital Assets Offering
+Platforms (DAOPs)
+3. PART C – Rules on Registration Requirements for Digital Asset Custodians
+(DACs)
+4. PART D- Rules on Virtual Assets Service Providers (VASPs)
+5. PART E- Rules on Digital Assets Exchange (DAX)
+Part A
+Rules on Issuance of Digital Assets as Securities
+1.0 Applicability
+These rules shall apply to all issuers seeking to raise capital through digital asset
+offerings.
+2.0 Definitions
+For the purpose of these rules,
+“Digital Asset” means a digital token that represents assets such as a
+debt or equity claim on the issuer;
+“Digital Asset Offering” shall include ICOs and other Distributed
+Ledger Technology (DLT) offers of digital assets;
+“Initial Coin offering (ICO) means a distributed ledger technology
+capital-raising involving the issuance of tokens to the general public in
+return for cash, crypto-currencies or other assets;
+“ICO project” the underlying business or project referred to in a white
+paper for which the issuer seeks to raise capital through an initial digital
+asset offering;
+1
+“Hard cap” the maximum amount of capital intended to be raised for
+the ICO projects;
+“Lock up Period” is a period of time within which investors and/or
+issuers are not allowed to redeem, trade or sell their tokens;
+“Pre-offer Period” shall have the meaning as provided in the
+Commission’s Rules;
+“Securities Token Offering (STO)” means any offering and sale of
+digital tokens that are considered securities.
+“Soft Cap” the minimum amount of funds needed and aimed by the
+project to proceed as planned;
+“White Paper” a document that states the technology behind a project,
+including a detailed description of the system architecture and
+interaction with the users, description of the project and use of proceeds,
+information on the market capitalization, anticipated growth, other
+technical details and the team and advisors behind the project;
+3.0 Related provisions
+These rules are in addition to any requirements provided for under securities
+laws or any other rules issued by the Commission
+4.0 Initial Assessment Filing
+Except in cases of follow-on offerings, all promoters, entities or businesses
+proposing to conduct initial digital asset offerings within Nigeria or targeting
+Nigerians, shall submit the assessment form and the draft white paper.
+i. The draft whitepaper shall contain relevant, complete and current
+information regarding the initial digital asset offering projects,
+business plan and feasibility study, and shall include the following:
+a. Brief description of the business of the issuer;
+b. Comprehensive information on how the proposed initial digital
+asset offering project will benefit investors and deepen the
+market, sustainability and scalability;
+2
+c. Brief description of the initial digital asset offering, the
+distributed ledger technology, value of each token, lock-up
+period (if any), returns, profits, bonuses, rights and/or other
+privileges (monetary and non-monetary) to the buyer of the
+token;
+d. Use of proceeds from sale of the tokens, including percentage
+allocation to each use category;
+e. Timeline for the completion of the project to be financed with
+the proceeds of the offering;
+f. Discussion on the determination of the accounting and the
+valuation treatments for the digital token including all
+valuation methodology and reasonable presumptions adopted
+in such calculation;
+g. A technical description of the protocol, platform or application
+of the digital token, as the case may be, and the associated
+benefits of the technology;
+h. Target market;
+i. Currency or other assets that will be received as payment for
+the tokens;
+j. Proposed offer period;
+k. Soft cap and hard cap for each kind of token;
+l. Price per token, including amounts of discounts and/or
+premiums;
+m. Information in relation to the distribution of the digital tokens
+and where applicable, the distribution policy of the issuer
+n. Risks in investing in the tokens
+3
+o. For existing projects, details of the system architecture,
+documentation and the corresponding source codes and
+commands, including detailed flowcharts of the process;
+p. For projects that will commence at a later date, detailed
+flowcharts showing how the project will operate and time
+frames for each process;
+ii. In the case of whitepapers of initial digital asset offering projects,
+pending assessment by the Commission, a disclaimer that the
+whitepaper does not represent an offer to sell, and a statement in
+bold letters that ‘THE SECURITIES AND EXCHANGE COMMISSION
+HAS NOT APPROVED THESE TOKENS OR DETERMINED IF THE
+TOKENS ARE SECURITIES AND THUS, SHALL BE REGISTERED, OR
+THAT THE CONTENT OF THE WHITEPAPER ARE ACCURATE AND
+COMPLETE. ANY FALSE OR MISLEADING REPRESENTATION IS A
+CRIMINAL OFFENCE AND SHOULD BE REPORTED IMMEDIATELY TO
+THE SECURITIES AND EXCHANGE COMMISSION’.
+iii. Whitepapers shall be filed for every proposed digital asset offering;
+iv. Legal opinion on whether or not the tokens to be sold through the
+initial digital asset offering are securities, including sufficient
+justifications;
+v. Any other information that may be required by the Commission from
+time to time;
+4.01 The Commission shall, after it receives a complete initial assessment filing,
+review same within 30 days from receipt to determine whether the digital asset
+proposed to be offered, constitutes a “security” under the Investment and
+Securities Act 2007. The determination of the Commission shall be
+communicated in writing to the issuer within 5 days from the conclusion of the
+review.
+4.02 The issuer may revise the contents of a whitepaper or other documents
+submitted during the initial assessment, at any time before the Commission
+determines whether the digital assets are securities. A revision of the contents
+of a whitepaper or other documents by the issuer shall renew the 30-day period
+for review;
+4
+4.03 Such revisions of a whitepaper or other documents made after the
+determination of the Commission shall be subject to prior review and clearance
+of the Commission, and the payment of a revision fee;
+4.04 Where the digital asset is determined to be a security, the issuer shall apply to
+register the said securities.
+5.0 Registration Requirements for Digital Asset Offering
+5.01 Upon the issuance of a determination of the Commission that the proposed
+digital assets to be offered are securities, the issuer shall file an application for
+registration which, in addition to the Commission’s minimum disclosure
+requirements for public offers, shall include:
+a. A registration statement of the digital assets which shall include:
+i. the name and ticker of the tokens;
+ii. the amount to be registered;
+iii. the price per token;
+iv. the number of tokens to be sold;
+v. the registration fees;
+b. KYC procedures, disaster recovery plans and risk management
+protocol;
+c. Security protocols including platform architecture and technology;
+d. Solicitor’s opinion confirming that all applicable permits and licenses for
+the issuance and transfer of the securities, after the offer, has been
+obtained;
+e. Copy of the escrow agreement with an independent Custodian/Trustee
+registered with the Commission;
+f. Corporate governance disclosures;
+g. Evidence of payment of the applicable fees;
+5
+h. Any other information to be determined by the Commission from time
+to time.
+5.02 Where the issuer complies with registration requirements, the Commission may
+grant registration to the digital assets.
+5.03 The Commission may reject an application for registration of digital assets if in
+its opinion, the proposed activity infringes public policy, is injurious to investors
+or violates any of the laws, rules and regulations implemented by the
+Commission.
+6.0 Moratorium on Equity Interest
+a. The issuer’s directors and senior management shall, in aggregate, own
+at least 50% equity holding in the issuer on the date of the issuance of
+the digital assets.
+b. Post issuance of the digital assets, the issuer’s directors and senior
+management may sell, transfer or assign not more than 50%; provided
+that the quantum of equity being sold, transferred or assigned shall not
+be more than 50% of their respective holdings until completion of the
+initial digital asset offering project.
+7.0 Limit of Funds to be Raised
+a. An issuer may only raise funds subject to the following limit:
+Twenty times the Issuer’s shareholders’ funds i.e., the maximum
+quantum of funds permitted to be raised within any continuous 12-
+month period, subject to a ceiling of N10 billion or any other ceiling
+as the Commission may determine from time to time.
+b. The issuer shall demonstrate that the gross proceeds to be raised
+from the digital asset offering would be sufficient to undertake the
+project as proposed in the white paper.
+c. In the event that the amount raised is below the soft-cap, the
+Issuer shall refund all monies collected from the token holders
+within five (5) business days from the offer closing date.
+6
+8.0 Investment Limits
+A person may invest in an initial digital asset offering subject to the following
+limits:
+a. For qualified institutional and high net worth investors, no restriction on
+investment amount; and
+b. For retail investors, a maximum of N200,000 per issuer with a total
+investment limit not exceeding N2 million within a 12-month period
+9.0 Exemptions from Registration of Digital Assets
+9.01 Securities structured to be exclusively offered through crowdfunding portals or
+intermediaries;
+9.02 A judicial sale or sale by an executor, administrator or receiver in insolvency or
+bankruptcy;
+9.03 Where the sale is by a pledged holder or mortgagee, selling to liquidate a bona
+fide debt and not for the purposes of avoiding the provision of these rules;
+9.04 An isolated transaction in which any digital token is sold for the owner’s account
+and such sale or offer for sale not being made in the course of repeated and
+successive transactions of like manner by such owner.
+7
+PART B
+Registration Requirements for Digital Assets Offering Platforms (DAOPs)
+10.0 Definitions
+Digital Assets Offering Platform- means an electronic platform operated by
+a DAOP operator for offering digital assets
+11.0 Registration requirements
+11.1 In addition to the general requirements for VASPs, an applicant seeking to
+register as a DAOP shall comply with the following requirements:
+11.2 Payment
+a) An applicant shall ensure that the application submitted is
+accompanied with the prescribed fees:
+i. Filing/Application Fee – N100,000 (One Hundred Thousand Naira
+only)
+ii. Processing Fee – N300,000 (Three Hundred Thousand Naira
+only)
+iii. Registration fee – N30,000,000 (Thirty Million Naira only)
+iv. Sponsored Individuals Fee – N100,000 (One Hundred Thousand
+Naira only)
+11.3 Forms
+a) An application for registration of a DAOP shall be made on the
+appropriate SEC Form and shall be accompanied by the following:
+i. Form SEC 2 and 2D – Sponsored Individuals/Compliance Officer
+who shall be principal officers of the DAOP (i.e. Managing
+Director and Principal Officers). (To be completed in duplicates);
+8
+11.4 Minimum paid-up capital and fidelity bond
+a) Evidence of Required Minimum Paid up Capital – N500,000,000 (Five
+hundred Million Naira only) (i.e. Bank balances, Fixed asset or
+Investment in quoted Securities);
+b) Current Fidelity Bond covering at least 25% of the minimum paid-up
+capital as stipulated by the Commission’s Rules and Regulations;
+c) Notwithstanding the provision of (a) above, the Commission may at any
+time impose additional financial requirements on the DAOP
+commensurate with the nature, operations and risks posed by the DAOP
+11.5 Sponsored individuals and directors
+a) An application seeking to register as a DAOP shall also comply with
+requirements for registration of sponsored individuals as contained in
+SEC Rules and Regulations.
+11.6 Corporate documents
+a) A copy each of the following, duly certified by the CAC;
+b) Certificate of Incorporation (original to be sighted)
+c) Memorandum and Articles of Association which shall include the power
+to perform the specified function;
+d) CAC Form(s) showing Statement of Share Capital, Return of Allotment,
+and Particulars of Directors
+e) Latest audited accounts or audited statement of affairs of the company
+in the case of a new company.
+f) Tax Identification Number Clearance Certificate
+g) The Commission may require such other documents as it considers
+necessary for registration.
+12.0 Additional requirements
+12.1 An application seeking to register as a DAOP shall also comply with the
+following additional requirements:
+a) a copy of draft rules of the DAOP;
+b) sworn undertaking to promptly furnish the Commission with copies of
+9
+any amendments to the rules of the DAOP;
+c) information on the company, including structure and profile of
+members of its board as well as procedures;
+d) Sworn undertaking to keep proper records and render returns as may
+be specified by the Commission from time to time signed by a director
+or the company secretary;
+e) Sworn undertaking to abide by SEC Rules and Regulations and
+Investments and Securities Act No.29 of 2007 by a director or the
+company secretary;
+12.2 A registered DAOP shall:
+a) Manage all risks associated with its business and operation;
+b) Have sufficient financial, human, technical and other resources for
+its operation at all times;
+c) Ensure appropriate security arrangement, taking into account the
+scale of its business operations and risks;
+d) Maintain and comply with the enterprise risk management
+framework
+13.0 Approval of the Board
+13.1 A DAOP shall have a board, the membership of which shall be subject to
+approval of the Commission before registration at the CAC;
+14.0 Appointment of Chief Executive Officer and Principal Officers
+14.1 The Chief Executive Officer of a DAOP shall hold office for a period of five (5)
+years in the first instance and may be re-appointed for a further period of five
+(5) years and no more;
+14.2 The appointment of a Chief Executive Officer and Principal Officers of a DAOP
+shall be subject to the prior approval of the Commission;
+14.3 The Chief Executive Officer and other Principal Officers of a DAOP shall:
+a) be registered by the Commission as Sponsored Individuals
+b) be persons of proven integrity with no record of criminal
+conviction;
+10
+c) hold at least a university degree or its equivalent;
+d) have at least five (5) years cognate experience;
+e) not have been found complicit in the operation of an institution
+that has failed or been declared bankrupt or has had its operating
+license revoked as a result of mismanagement or corporate
+governance abuses;
+f) not have been found liable for financial impropriety or any other
+misdemeanor by any court, panel, regulatory agency or any
+professional body or previous employer;
+g) comply with any other criteria which the Commission may, in the
+public interest, determine from time to time.
+15.0 Governance
+15.1 A DAOP shall have:
+a) Rules that support financial stability, safety and efficiency of its activities;
+b) Policies that stipulate its entire business processes and operations and
+shall be duly approved by the Board;
+c) Processes to identify, assess and manage potential conflicts of interest
+of members of the Board, principal officers, employees or any person
+directly or indirectly linked to the Board;
+15.2 The Board and Management of a DAOP shall have a mix of skills and
+competence to discharge their duties;
+15.3 The DAOP shall have a charter for the Board and Management that clearly
+stipulates responsibilities.
+16.0 Obligations
+16.1 A DAOP, in determining whether or not to approve a Digital Asset Offering, shall:
+(a) carry out due diligence and critical assessment on an Issuer
+including:
+(i) understanding and verifying the business of the Issuer to
+11
+ensure that the Issuer does not engage in any business
+practices appearing to be deceitful, oppressive or improper,
+whether unlawful or not;
+(ii) assess the fitness and propriety of the Issuer’s directors and
+senior management; and
+(iii) understand the features of the virtual asset/digital token to
+be issued by the Issuer and the rights attached to it;
+(b) exercise its own judgment and carry out critical assessment on
+the Issuer’s compliance with the requirements in these Rules
+including as to whether the Issuer will be able to satisfy the
+requirement to provide an innovative solution or a meaningful
+digital value proposition for the Nigerian capital market; and
+(c) assess the Issuer’s White paper furnished to the DAOP. In
+approving the Issuer’s white paper, the DAOP shall ensure that
+the contents of the white paper include the information required
+under these Rules and that its contents are not false or
+misleading, or containing any material omission.
+16.2 In addition to the obligations set out in paragraph 16.1, a DAOP shall:
+a) ensure that the white paper is accessible to Investors through its
+platform;
+b) ensure that all relevant information relating to an Issuer, including
+any material changes that are affecting the DAO project or the
+Issuer and the Issuer’s annual and semi-annual report, are available
+through its platform;
+c) take reasonable steps in monitoring the drawdowns by Issuer and
+that it has been utilized for the purposes stated in the white paper;
+d) ensure that its platform is operating in an orderly, fair and
+transparent manner;
+e) have in place rules and procedures for Digital Asset Offering on its
+12
+platform;
+f) ensure that all fees and charges payable are fair, reasonable and
+transparent;
+g) carry out continuous awareness and education programmes;
+h) take all reasonable measures to avoid situations that are likely to
+involve a conflict of interest with the Issuer;
+i) disclose any information or provide any document to the
+Commission as may be required;
+j) ensure that all disclosures are not false or misleading, or containing
+any material omission;
+k) obtain and retain self-declared risk acknowledgement forms from
+its users prior to them participating on a VAX;
+l) provide prior disclosure to investors that any loss resulting from the
+investors investing in a Digital Asset Offering is not covered by any
+Investor Protection Fund;
+m) disclose and display prominently on its platform, any relevant
+information including:
+i. all necessary risk warning statements, including all
+risk factors that users may require in making a
+decision to participate on the platform;
+ii. information on rights of Investors to investing through
+such platforms;
+iii. criteria for access to the platform;
+iv. education materials, including comparative
+information where necessary;
+v. fees, charges and other expenses that it may
+13
+charge, or impose on its users;
+vi. information about complaints handling or dispute
+resolution and its procedures;
+vii. information on processes and contingency
+arrangement upon cessation of business, or in the
+event that it is unable to carry out its operations;
+and
+viii. any other information as may be specified by the
+Commission from time to time;
+n) establish and maintain policies and procedures to:
+i. provide clear line of reporting, authorization and
+proper segregation of function;
+ii. implement whistleblowing measures that are
+appropriate to the operations of the platform;
+iii. identify, monitor, manage and mitigate cyber risks
+in its operating environment;
+iv. effectively and efficiently identify, monitor,
+mitigate and manage situations, and other
+situations which may give rise to conflict of
+interest; and
+v. ensure compliance with all relevant laws, rules
+and regulations;
+o) ensure that its processes and practices are continuously aligned
+to industry practices in relation to virtual assets/digital tokens;
+p) take all reasonable steps to ensure fair treatment of clients;
+q) identify and manage potential vulnerabilities and cyber threats
+in its operating environment;
+14
+r) in the event of any systems error, failure or malfunction, take all
+necessary and immediate appropriate actions to mitigate any
+potential losses;
+s) carry out any other duties or responsibilities as may be specified
+by the Commission; and
+t) immediately notify the Commission:
+i. of any breach of the terms and conditions imposed
+by the provisions of the ISA 2007, guidelines or its
+Rules,
+ii. when it becomes aware of any matter which
+adversely affects or is likely to adversely affect its
+ability to meet its obligations or to carry out its
+functions under these Rules;
+iii. of any material change to the DAOP, the DAO
+project or the Issuer including any of the following
+matters:
+A. The discovery of a false or misleading
+statement in any disclosures in relation
+to the DAOP, the DAO project or the
+Issuer;
+B. The discovery of any material omission of
+information that may affect token
+holders;
+C. Any material development in the
+circumstances relating to the DAOP, the
+DAO project or the Issuer
+iv. of the occurrence of any event which would
+trigger the activation or execution of the business
+15
+continuity plan, in such form and manner as may
+be specified by the Commission;
+u) maintain proper records of all transactions and activities executed on
+its platform in a form and manner to be determined by the
+Commission from time to time.
+v) provide the Commission access to the platform and any
+register required to be maintained under these Rules and
+disclose any other information as the Commission may require.
+16.3 Notwithstanding subparagraph 16.2(e), any proposed rules of an DAOP or
+any proposed amendments to its existing rules shall not have effect unless
+it has been approved by the Commission.
+17.0 Risk management
+17.1 A DAOP shall identify and manage any risks associated with its business and
+operations, including any possible sources of operational risk, both internal
+and external, and mitigate their impact through the use of appropriate
+systems, policies, procedures, and controls.
+17.2 A DAOP shall, among others:
+a) ensure that its systems are designed to assure a high degree of
+security and operational reliability, including having adequate
+capacity;
+b) establish a robust Board-approved risk management framework
+with appropriate systems, policies, procedures, and controls to
+identify, monitor, mitigate and manage all material risks;
+c) have in place clearly defined roles and responsibilities for
+addressing material risks;
+d) have in place clearly defined operational reliability objectives and
+have policies in place that are designed to achieve those objectives;
+16
+e) ensure that it has adequate capacity proportionate to stress
+volumes to achieve its service-level objectives; and
+f) have a comprehensive physical and information security policy that
+addresses all potential vulnerabilities and threats.
+17.3 A DAOP shall have a business continuity plan that addresses events posing
+a significant risk of disrupting operations, including events that could cause
+a wide-scale or major disruption.
+17.4 The business continuity plan should incorporate the use of a secondary site
+and should be designed to ensure that critical information technology
+systems can resume operations within reasonable recovery time objectives
+(RTO) as well as recovery point objectives (RPO) following disruptive
+events.
+17.5 A DAOP shall carry out periodic reviews, audits and testing on systems,
+operational policies, procedures, and controls relating to its risk
+management and business continuity plan on a risk-sensitive basis.
+18.0 Internal audit
+18.1 A DAOP shall establish an internal audit function to develop, implement and
+maintain an appropriate internal audit framework which commensurate with
+its business and operations.
+19.0 Conflict of interest management
+19.1 A DAOP, including all its directors and shareholders, shall disclose to the
+public on its platform if:
+a) it holds any shares in any of the Issuers or virtual assets/digital
+tokens issued by any Issuers hosted on its platform; or
+b) it pays any referrer or introducer, or receives payment in whatever
+form, including payment in the form of shares, in connection with an
+Issuer hosted on its platform.
+17
+19.2 Notwithstanding paragraph 19.1, a DAOP’s shareholding in any of the
+Issuers hosted on its platform shall not exceed thirty (30) per cent, subject
+to the approval of the Commission.
+19.3 A DAOP is prohibited from providing direct or indirect financial assistance to
+Investors to invest in the virtual assets/digital tokens of an Issuer hosted
+on its platform.
+20.0 Operation of trust account
+20.1 A DAOP shall:
+a) establish systems and controls for maintaining an accurate and up
+to date records of Investors and any monies or virtual assets/digital
+tokens held in relation to Investors;
+b) ensure Investors’ monies and virtual assets/digital tokens are
+properly safeguarded from conversion or inappropriate use by any
+person, including but not limited to implementing multi-signature
+arrangements;
+c) establish and maintain with a registered Receiving Bank one or
+more trust accounts, designated for the monies received from
+Investors;
+d) ensure that the trust accounts under paragraph 20.1(c) are
+administered by a trustee or Central Securities Depository
+registered by the Commission;
+e) only release the funds to the Issuer after the following conditions
+are fulfilled:
+i. The targeted amount sought to be raised has been met;
+and
+ii. There is no material change relating to the DAOP or
+the Issuer during the offer period
+18
+f) in relation to Investors’ virtual asset/digital token:
+i. ensure that the token holders’ virtual asset/digital
+tokens are properly segregated and safeguarded from
+conversion or inappropriate use by any person;
+ii. establish and maintain a sufficiently and verifiably
+secured storage medium designated to store virtual
+assets/digital assets from Investors; and
+iii. establish system and controls for maintaining
+accurate and up-to- date records of client’s virtual
+assets/digital tokens held.
+20.2 For the purpose of subparagraph 20.1(e)(ii), a material change may include
+any of the following matters:
+a) The discovery of a false or misleading statement in any disclosures
+in relation to the DAOP, the DAO project or the Issuer;
+b) The discovery of any material omission of information that
+may affect Investors; or
+c) Any material development in the circumstances relating to the
+DAOP, DAO project or the Issuer.
+20.3 Notwithstanding paragraph 20.1(e), a DAOP may impose any other
+additional condition precedent before releasing the fund, provided that they
+serve the token holders’ interest.
+21.0 Custody of virtual asset/digital token
+21.1 A DAOP may appoint a digital asset custodian registered with the Commission
+to provide custody of the token holders’ virtual assets/digital tokens.
+21.2 Where a DAOP chooses to provide its own custody services to the token
+holders, the DAOP shall comply with the Requirements for Digital Asset
+Custodian set out under these Rules.
+19
+22.0 Supplementary white paper
+22.1 Where a supplementary white paper has been furnished to the DAOP and
+the Commission, and before the issue of virtual assets/digital tokens, the
+DAOP shall notify the DAO applicant that:
+a) a supplementary white paper is available on the platform; and
+b) the applicant may withdraw his application for the subscription of
+the virtual asset/digital token within five (5) business days from the
+date of receipt of the notice.
+22.2 If the applicant withdraws his application pursuant to paragraph 22.1(b), the
+DAOP shall, within five (5) business days, refund to the applicant any
+amount that the applicant has paid for the purposes of the DAO.
+23.0 Register of initial token holders
+23.1 A DAOP shall maintain a register of initial token holders who subscribed for
+the virtual assets/digital tokens during the offer period and enter into the
+register:
+a) in the case of a token holder who is a Nigerian, the name,
+address and details of means of identification of the token holder.
+In the case of a non-Nigerian token holder, the name, address
+and passport details or the token holder;
+b) in the case of a token holder who is a corporation, the name,
+registered address and registration number of the corporation,
+including details of its directors and shareholders;
+c) total amount of virtual assets/digital tokens subscribed by each token
+holder; and
+d) any other relevant information or particulars of the token holder
+as may be required by the Commission.
+20
+24.0 Outsourcing
+24.1 A DAOP shall select an appropriate and efficient service provider for its
+outsourcing arrangement, and monitor the outsourcing arrangement on a
+continuous basis to ensure that it does not lead to any business disruption
+and negative consequences to token holders.
+24.2 Except for the functions set out under paragraph 24.3 below, all other
+functions of the DAOP, i.e. back office processes, services or activities can
+be outsourced subject to the requirements in these Rules.
+24.3 A DAOP is not allowed to outsource any function that involves:
+a) the decision making functions of the DAOP; or
+b) any interaction or direct contact with the DAO Issuer or token
+holders.
+24.4 The service provider shall avoid any conflict of interest. Where a conflict
+cannot be avoided, the Commission shall be duly notified, and appropriate
+safeguards shall be put in place to protect the interests of the token holders.
+24.5 Where the payment service has been outsourced to a payment service
+provider, a ‘no objection’ from the Central Bank of Nigeria (CBN) shall be
+obtained.
+24.6 The outsourcing of functions in this subparagraph is considered as material
+outsourcing arrangement and can only be outsourced by the DAOP to the
+following service providers:
+a) internal audit function to the DAOP’s auditor or an external
+auditor, where applicable;
+b) compliance function to the DAOP group of companies, where
+applicable; or
+c) risk management function to the DAOP group of companies or
+an external service provider in the area of risk management.
+24.7 Other than the material functions set out in paragraph 24.5, other
+21
+outsourcing arrangements will also be considered as material outsourcing
+arrangement where:
+a) there may be a financial, reputational or operational impact on
+the DAOP in the event of a default or failure of the service
+provider;
+b) the DAOP’s services or support rendered to the DAO Issuers may
+be potentially impacted by the outsourcing arrangement;
+c) the DAOP’s ability and capacity to comply with regulatory
+requirements may be impacted by the outsourcing arrangement;
+and
+d) if the appointed service provider may not be able to perform the
+outsourced function, there is a degree of difficulty and time
+required for the DAOP to select an alternative service provider,
+or to bring the outsourced function in-house.
+24.8 The internal audit and risk management functions, where outsourced, cannot
+be further sub-contracted.
+24.9 Where a service provider or a sub‐contractor is located outside Nigeria,
+the DAOP shall:
+a) analyze the economic, legal and political conditions of the
+country that the service provider and the sub‐contractor are
+operating from, which may impact the undertaking of any
+outsourced functions;
+b) refrain from outsourcing to jurisdictions where the Commission
+is hindered from having prompt access to information;
+c) commit to retrieve information readily available from the service
+provider
+and the sub‐contractor should the Commission request for such
+information; and
+d) inform the Commission if any foreign authority were to seek
+22
+access to its clients’ information, and shall comply with the
+provisions of the Nigerian Data Protection Regulation.
+24.10 A DAOP’s Board remains accountable for all outsourced functions.
+24.11 A DAOP’s Board shall be responsible for establishing effective policies and
+procedures for its outsourcing arrangement including a monitoring
+framework to monitor the service delivery, performance reliability and
+processing capacity of the service provider which should, among others,
+include periodic review, service level agreement update and regular
+meetings to discuss performance of the service provider, sub‐contractor and
+regulatory matters.
+24.12 A DAOP shall ensure that the service provider has adequate policies and
+procedures to monitor the conduct of the appointed sub‐contractor.
+25.0 Outsourcing information
+25.1 A DAOP shall provide the Commission, within two (2) weeks prior to entering
+into any outsourcing arrangement in respect of any material outsourced
+function, with:
+a) A decision of the material outsourced functions, and, if
+applicable, an explanation on the rationale to outsource to
+service provider or sub- contractor outside Nigeria and the
+reasons the particular function could not be undertaken
+domestically; and
+b) A letter of undertaking from the service provider or sub‐
+contractor stating that the Commission will have access to all
+information, records and documents relating to the material
+outsourced arrangement.
+25.2 A DAOP shall also notify the Commission, within two (2) weeks from the
+occurrence of the following events:
+a) Any variation or termination of the service level agreement and
+sub‐ contracting agreement in relation to any material
+23
+outsourcing arrangement signed by the service provider; and
+b) Any adverse development arising in such material outsourcing
+arrangement that could significantly affect a DAOP.
+26.0 Hosting on other Platforms
+26.1 An Issuer shall not be hosted concurrently on multiple DAOP or on an equity
+crowdfunding platform.
+27.0 Cessation of operations
+27.1 A DAOP shall not cease its business or operations without prior notification
+to the Commission.
+27.2 The Commission may issue a direction or impose any term or condition for
+the purposes of ensuring the orderly cessation of the operations of the
+DAOP.
+27.3 The cessation of operations of the DAOP will not take effect until the
+Commission is satisfied that all the requirements stated in the ISA 2007,
+these Rules, relevant guidelines issued by the Commission and any other
+relevant laws or requirements, have been fulfilled.
+28.0 Cancellation of Registration
+28.1 The Commission may cancel the registration of a DAOP if:
+(a) the Commission finds that, at any time, the DAOP has submitted to
+the Commission any false or misleading information or there is
+material omission of information;
+(b) The DAOP fails to meet the requirements as provided in the ISA
+2007, these Rules, any other relevant laws or guidelines issued by
+the Commission;
+(c) The DAOP fails or ceases to carry on the business or activities for
+which it was registered for a consecutive period of six (6) months;
+24
+(d) The DAOP contravenes any obligation, condition or restriction
+imposed under these Rules; or
+(e) fails to pay any fee prescribed by the Commission.
+28.2 A DAOP may, by notice in writing, apply to the Commission to withdraw its
+registration and provide reasons for its withdrawal.
+28.3 The withdrawal of the DAOP’s registration shall not:
+a) take effect until the Commission is satisfied that adequate
+arrangements have been made to meet all the liabilities and
+obligations of the DAOP that are outstanding at the time when the
+notice of the withdrawal is given; and
+b) operate so as to:
+i. avoid or affect any agreement, transaction or arrangement
+entered into by the DAOP, whether the agreement,
+transaction or arrangement was entered into before or after
+the withdrawal of the registration; or
+ii. affect any right, obligation or liability arising under any such
+agreement, transaction or arrangement.
+25
+PART C
+Registration Requirements for Digital Asset Custodians (DACs)
+29.0
+Definition
+Digital Asset Custodian - means a person who provides the services of
+providing safekeeping, storing, holding or
+maintaining custody of virtual assets/digital
+tokens for the account of another person.
+30.0 Registration Requirements
+30.1 In addition to the general requirements for VASPs, an applicant seeking to
+register as a DAC shall comply with the following requirements:
+a) Satisfy eligibility requirements for registration as a Custodian or
+Trustee, and any additional requirements which the Commission may
+prescribe from time to time;
+b) Where a registered Custodian or registered Trustee seeks to provide
+DAC services, such CMO shall apply to the Commission for approval;
+c) Payment of fees as prescribed by the Commission;
+30.2 The Commission may register a foreign DAC, provided that they fulfill
+requirements set out in these Rules, and the Commission is satisfied that:
+a) the applicant is authorized to operate or carry out an activity of a
+similar nature in the foreign jurisdiction; and
+b) the applicant is from a comparable jurisdiction with whom the
+Commission has regulatory arrangements on enforcement,
+supervision and sharing of information.
+26
+31.0 Obligations of a Digital Asset Custodian
+31.1 A DAC shall:
+a) act in the best interest of the clients and take all reasonable
+measures to avoid situations that are likely to involve conflict of
+interest with the clients;
+b) safeguard the rights and interests of its clients including ensuring
+that its clients have access to their virtual assets/digital tokens at
+all times, and preventing unauthorized access to clients’ virtual
+assets/digital tokens;
+c) ensure that all fees and charges payable are fair, reasonable and
+transparent;
+d) disclose any information or provide any document to the
+Commission as the Commission may require;
+e) comply with all the reporting requirements and submit accurate
+information that is required by the Commission in a timely manner;
+f) identify and manage risks associated with its business and
+operations, including having in place an effective business
+continuity plan;
+g) establish and maintain written policies and procedures to:
+(i) provide clear line of reporting, authorization and proper
+segregation of function;
+(ii) prevent unauthorized access or fraudulent transaction;
+(iii) implement anti-corruption and whistleblowing measures
+that are appropriate to the nature, scale and complexity of
+its business;
+(iv) enable full disclosure of all client’s transactions and assets to the
+client;
+27
+(v) ensure compliance with all relevant laws, regulations and
+guidelines including but not limited to Anti-Money
+Laundering/Combating the Financing of
+Terrorism/Proliferation Financing laws and regulations
+(AML/CFT/PF);
+(vi) manage clients’ data including the following:
+(A) proper handling and safeguarding of client data;
+(B) protection of confidentiality and security of client data;
+and
+(C) managing third party service provider who has
+access to client data;
+h) ensure that its processes and practices are continuously aligned to
+industry practices in relation to custody of virtual assets/digital
+tokens;
+i) take all reasonable steps to ensure fair treatment of clients;
+j) identify and manage potential vulnerabilities, cyber threats in its
+operating environment;
+k) in the event of any systems error, failure or malfunction, take all
+necessary and immediate appropriate actions to mitigate any
+potential losses;
+l) carry out any other duties or responsibilities as may be specified by the
+Commission;
+m) immediately notify the Commission:
+(i) of any breach of the terms and conditions imposed by the
+Commission, any provisions of the securities laws,
+guidelines or its rules, including any alleged or suspected
+violations of any relevant laws or guidelines referred to in
+paragraph 31.1(g)(v);
+28
+(ii) when it becomes aware of any matter which adversely
+affects or is likely to adversely affect its ability to meet its
+obligations or to carry out its functions under these Rules;
+and
+(iii) of the occurrence of any event which would trigger the
+activation or execution of the business continuity plan, in
+such form and manner as may be specified by the
+Commission;
+n) maintain proper records of all transactions and activities executed
+on its platform in a form and manner to be determined by the
+Commission from time to time.
+o) provide the Commission access to any register required to be
+maintained under these Rules, and disclose any other
+information as the Commission may require.
+32.0 Risk management
+32.1 A DAC shall establish a risk management framework to identify, assess,
+monitor, control and report all material risks to which the digital asset
+custodian could be exposed to.
+32.2 The risk management framework shall include:
+a) strategies developed to identify, assess, monitor and mitigate all
+material risks;
+b) policies and protocols relating to management and controls of all
+material risks;
+c) methodology to assess all material risks; and
+d) reporting system for all material risks to senior management and Board.
+32.3 A DAC shall carry out periodic reviews, audits and testing on systems,
+29
+operational policies, procedures, and controls relating to risk management
+and its business continuity plan.
+33.0 Conflict of interest management
+33.1 A DAC shall give priority to the clients’ interest if there is a conflict between
+the clients’ interests and its own interests;
+33.2 A DAC shall establish and maintain written policies, processes and
+procedures that:
+a) identify, monitor, mitigate and manage situations and potential
+situations which may give rise to conflict of interest; and
+b) require disclosure of any conflict or potential conflict of interest.
+34.0 Internal audit
+34.1 A DAC shall perform internal audit checks on its operations regularly. For
+this purpose, the DAC may establish an internal audit function or outsource
+the said function.
+34.2 The person responsible for the internal audit function shall report directly
+to the Board on the adequacy, effectiveness and efficiency of the
+management, operations, risk management and internal controls.
+34.3 Notwithstanding that the internal audit function may be outsourced, the
+Board shall ensure that the internal audit framework includes:
+(a) clearly defined terms of the internal audit framework which sets out
+the scope, objectives, approach and reporting requirements;
+(b) adequate planning, controlling and recording all audit work
+performed, and record the findings, conclusions and if any,
+recommendations made;
+(c) issuance of an internal audit report at the conclusion of each
+30
+internal audit performed; and
+(d) ensuring matters highlighted in the internal audit report are
+satisfactorily resolved in a timely manner and does not jeopardize
+or prejudice the clients’ interest.
+34.4 The internal audit framework shall be approved by the Board.
+35.0 Key generation and management
+35.1 A DAC shall establish and maintain a sufficiently and verifiably secured
+storage medium designated to store its clients’ virtual assets/digital tokens.
+35.2 A DAC shall have in place effective policies and procedures to safeguard key
+generation and management including:
+(a) adopting industry standards and practices in terms of key
+generation and management;
+(b) ensuring that the employees that are involved in the key generation
+process are identified and prevented from having unauthorized
+access to clients’ virtual assets/digital tokens; and
+(c) having in place procedures to enable the clients to access their digital
+assets in the event the client loses his access credentials or where
+the keys have been compromised.
+35.3 A DAC shall have in place effective security mechanisms for the virtual
+assets/digital tokens including adopting measures such as having multi-
+factor authentication requirements before effecting any transaction on
+behalf of the clients.
+36.0 Segregation of client assets
+36.1 A DAC shall:
+a) ensure that all clients’ virtual assets/digital tokens are properly
+31
+segregated from its own assets and safeguarded from conversion or
+inappropriate use by any person; and
+b) establish system and controls for maintaining accurate and up-to-
+date records of clients’ virtual assets/digital tokens held;
+Provided that a foreign DAC shall have a separate account for its
+custodial services in a Digital Asset Offering in Nigeria.
+37.0 Transaction handling
+37.1 A DAC shall ensure that, at all times, it has up-to-date transactional records
+relating to the clients’ virtual assets/digital tokens including:
+a) transaction
+timestamp;
+b) details of any transaction including the purpose of a transfer,
+amount and details of the counterparty;
+c) relevant signatories and transaction approval/rejection evidence;
+d) account balances;
+e) transaction value; and
+f) any other information as may be specified by the Commission.
+37.2 The DAC shall provide the information under paragraph 37.1 to the
+Commission when requested and in such form and manner as the
+Commission may specify.
+37.3 Transactions under these Rules shall be denominated in Nigerian Naira.
+37.4 The DAC shall maintain proper records of all transactions and activities
+executed on its platform in a form and manner to be determined by the
+Commission from time to time.
+32
+38.0 Outsourcing
+38.1 A DAC shall appoint an appropriate and efficient service provider for its
+outsourcing arrangement, and monitor the outsourcing arrangement on a
+continuous basis to ensure that it does not lead to business disruption and
+negative consequences to the clients.
+38.2 Except for the functions set out under paragraph 38.3 below, all other
+functions of the DAC, i.e. back office processes, services or activities can be
+outsourced subject to the requirements of these Rules.
+38.3 The DAC shall not outsource any function that involves:
+(a) the decision making functions of the digital asset custodian; or
+(b) any contact whatsoever with the clients.
+38.4 The service provider shall avoid any conflict of interest. Where a conflict
+cannot be avoided, appropriate safeguards shall be put in place to protect
+the interests of the clients.
+38.5 The outsourcing of functions in this subparagraph is considered as material
+outsourcing arrangement and can only be outsourced by the DAC to the
+following service providers:
+a) internal audit function to the DAC’s auditor or an external auditor,
+where applicable;
+b) compliance function to the DAC group of companies, where applicable;
+or
+c) risk management function to the DAC group of companies or an
+external service provider in the area of risk management.
+38.6 Other than the material functions set out in the paragraph 38.5, other
+outsourcing arrangements will also be considered as material outsourcing
+where:
+a) there may be a financial, reputational or operational impact on the
+33
+digital asset custodian in the event of a default or failure of the
+service provider;
+b) the digital asset custodian’s services or support rendered to the
+clients may be potentially impacted by the outsourcing
+arrangement;
+c) the digital asset custodian’s ability and capacity to comply with
+regulatory requirements may be impacted by the outsourcing
+arrangement; and
+d) if the appointed service provider may not be able to perform the
+outsourced function, there is a degree of difficulty and time required
+for the digital asset custodian to appoint an alternative service
+provider, or to bring the outsourced function in-house.
+38.7 The internal audit and risk management functions, where outsourced,
+cannot be further sub-contracted.
+38.8 Where a service provider or a sub‐contractor is located outside Nigeria, the
+DAC shall:
+a) analyze the economic, legal and political conditions of the country
+that the service provider and the sub‐contractor are operating from,
+which may impact the undertaking of any outsourced functions;
+b) refrain from outsourcing to jurisdictions where the Commission is
+hindered from having prompt access to information;
+c) commit to retrieve information readily available from the service
+provider and the sub‐contractor should the Commission request for
+such information; and
+d) inform the Commission if any foreign authority were to seek access
+to the clients’ information.
+38.9 The DAC’s Board remains accountable for all outsourced functions.
+38.10 The DAC’s Board shall be responsible to establish effective policies and
+34
+procedures for its outsourcing arrangement including a monitoring framework
+to monitor the service delivery, performance reliability and processing capacity
+of the service provider which should, among others, include periodic review,
+service level agreement update and regular meetings to discuss performance
+of the service provider, sub‐contractor and regulatory matters.
+38.11 A DAC shall ensure that the service provider has adequate policies and
+procedures to monitor the conduct of the appointed sub‐contractor.
+39.0 Outsourcing information
+39.1 A DAC shall, within two (2) weeks prior to entering into any outsourcing
+arrangement in respect of any material outsourced function, provide the
+Commission with the following:
+a) A decision of the material outsourced functions, and, if applicable, an
+explanation on the rationale to outsource to service provider or sub-
+contractor outside Nigeria and the reasons the particular function
+could not be undertaken domestically; and
+b) A letter of undertaking from the service provider or sub‐contractor
+stating that the Commission will have access to all information,
+records and documents relating to the material outsourced
+arrangement
+39.2 A DAC shall also notify the Commission, within two (2) weeks from the
+occurrence of the following event:
+a) Any variation or termination of the service level agreement and sub‐
+contracting agreement in relation to any material outsourcing
+arrangement signed by the service provider; and
+b) Any adverse development arising in such material outsourcing
+arrangement that could significantly affect the digital asset
+custodian.
+39.3 A DAC shall obtain the Commission’s prior approval in circumstances where
+35
+any proposed change to the shareholding will result in a direct or indirect
+change in the DAC’s controller.
+39.4 A DAC shall notify the Commission if it intends to provide custodial services
+for additional classes of virtual assets/digital tokens.
+40.0 Cessation of Business or Operations
+40.1 A DAC shall not cease its business or operations without prior engagement with
+the Commission.
+40.2 The Commission may issue a direction or impose any term or condition for
+the purposes of ensuring the orderly cessation of the business or operation
+of the DAC.
+40.3 A DAC shall ensure the clients continue to have uninterrupted access to their
+respective virtual assets/digital tokens under its custody in the event that
+the DAC ceases to operate or cannot fulfil its obligation under the custodial
+agreement.
+40.4 The cessation of business or operations of the DAC will not take effect until
+the Commission is satisfied that all the requirements stated in the securities
+laws, these Rules, relevant guidelines issued by the Commission and any
+other relevant laws or requirements have been fulfilled.
+41.0 Suspension/Cancellation/Withdrawal of Registration
+41.1 The Commission may suspend or cancel the registration of a DAC as prescribed
+in the SEC Rules and Regulations on cancellation of registration;
+41.2 The DAC may, by notice in writing, apply to the Commission to withdraw its
+registration and provide reasons for its withdrawal as prescribed in the SEC
+Rules and Regulations on withdrawal of registration.
+41.3 The withdrawal of registration of a DAC shall not take effect until the
+Commission is satisfied that adequate arrangements have been made to meet
+36
+all the liabilities and obligations of the DAC that are outstanding at the time
+when the notice of the withdrawal is given and the DAC shall operate so as to:
+a) avoid or affect any agreement, transaction or arrangement entered
+into by the DAC, whether the agreement, transaction or arrangement
+was entered into before or after the withdrawal of the registration;
+or
+b) affect any right, obligation or liability arising under any such
+agreement, transaction or arrangement.
+37
+PART D
+Rules on Virtual Assets Service Providers (VASPs)
+General Requirements
+These Rules shall cover:
+1. Requirements for Registration of VASPs
+2. Requirements for Registration of a Digital Asset Exchange
+3. Requirements for Registration of a Digital Asset Custodian
+4. Requirements for Registration of Digital Asset Offering Platform
+5. Requirements for Issuance of Digital Assets
+1.0 Applicability
+1.1 These Rules shall be read in conjunction with all relevant and applicable laws
+and the Rules and Regulations of the Commission and shall apply to:
+(a) all platforms that facilitate trading, exchange and transfer of Virtual
+assets;
+(b) any person, (individual or corporate) whose activities involve any aspect
+of Distributed Ledger Technology (DLT)-related and virtual digital asset
+services. Such services include, but are not limited to reception,
+transmission and execution of orders on behalf of other persons, dealers
+on own account, portfolio management, investment advice, custodian or
+nominee services, etc;
+(c) issuers or sponsors of virtual/digital assets, including foreign or non-
+residential;
+(d) foreign or non-residential operators that actively target Nigerian investors
+directly or through their agents, through promotions, publications in
+Nigeria or direct e-mails to Nigerian addresses;
+1.2 A VASP shall be structured as a body corporate unless specified otherwise
+by the Commission.
+1.3 These Rules do not apply to:
+(a) a technology service provider who merely provides the infrastructure,
+38
+software or the system to a Digital Asset Exchange (DAX);
+(b) an operator of a communication infrastructure that merely enables orders
+to be routed to an Exchange;
+(c) an operator of a financial portal that aggregates content and provides links
+to financial sites of service and information provider;
+2.0 Conditions for Exemption
+2.1 The Commission may, upon application, grant an exemption from or a
+variation to the requirements of these Rules, if the Commission is satisfied that:
+(a) such variation is not contrary to the intended purpose of the relevant
+requirements in these Rules; or
+(b) there are mitigating factors which justify the said exemption or variation.
+3.0 Definitions
+Unless otherwise defined, all words used in these Rules shall have the same
+meaning as defined in the Investments and Securities Act, 2007 (ISA) and SEC
+Rules & Regulations:
+Securities exchange Platform- has the same meaning as “Securities Exchange”
+as defined in the ISA 2007
+Depository has the same meaning as provided in the SEC Rules and
+Regulations;
+Virtual Asset means a digital representation of value that can be
+transferred, digitally traded and can be used for payment or
+investment purposes.
+It shall not include digital representations of fiat currencies,
+securities and other financial assets.
+Digital Asset means a digital token that represents assets such as a debt
+or equity claim on the issuer
+39
+DAX means an electronic platform which facilitates the trading of
+a virtual asset or digital asset;
+DAX Operator means a person who operates a DAX;
+VASP- means any entity who conducts one or more of the following
+activities or operations for or on behalf of another person:
+i. exchange between virtual assets and fiat currencies;
+ii. exchange between one or more forms of virtual assets;
+iii. transfer of virtual assets;
+iv. safekeeping and/or administration of virtual assets or
+instruments enabling control over virtual assets; and
+v. participation in and provision of financial services related to
+an issuer’s offer and/or sale of a virtual asset.
+40
+4.0 Requirement for registration of VASPs
+4.1 An application for registration as a VASP shall be filed on the appropriate
+SEC Form contained in the applicable Schedule to the SECs Rules and
+Regulations and accompanied by:
+(a) A sworn undertaking that the applicant will be able to operate an
+orderly, fair and transparent market in relation to the securities
+including derivatives that are offered or traded, on or through its
+platform;
+(b) A sworn undertaking that the applicant will be able to carry out its
+obligations as set out under these Rules;
+(c) A sworn undertaking that the information or document that is
+furnished by the applicant to the Commission is not false or
+misleading nor does it contain any material omission;
+(d) Evidence that the applicant is not in the course of being wound up or
+otherwise dissolved;
+(e) Evidence that no receiver manager or an equivalent person has been
+appointed within or outside Nigeria, or in respect of any property of
+the applicant;
+(f) A sworn undertaking that the applicant has not, whether within or
+outside Nigeria, entered into a compromise or scheme of
+arrangement with its creditors, being a compromise or scheme of
+arrangement that is still in operation;
+(g) Evidence that the applicant, applicant’s directors, chief executive,
+controller, and any person who is primarily responsible for its
+operations or financial management are fit and proper, taking into
+account the following:
+(i) That they are suitably qualified to assume the position
+including having the relevant experience and track record in
+managing a business;
+(A) been convicted, whether within or outside Nigeria, of
+an offence involving fraud or other dishonesty or
+violence or the conviction of which involved a finding
+41
+that he acted fraudulently or dishonestly;
+(B) been convicted of an offence under the securities laws
+or any law within or outside Nigeria relating to capital
+market;
+(C) contravened any rules of a registered Exchange,
+registered clearing house, depository or a registered
+self-regulatory organization;
+(D) contravened any provision made by or under any
+written law whether within or outside Nigeria
+appearing to the Commission to be enacted for
+protecting members of the public against financial loss
+due to dishonesty, incompetence or malpractice by
+persons concerned in the provision of financial services
+or the management of companies or against financial
+loss due to the conduct of discharged or undischarged
+bankrupts;
+(E) engaged in any business practices appearing to the
+Commission to be deceitful, oppressive or otherwise
+improper, whether unlawful or not, or which otherwise
+reflect discredit on his method of conducting business;
+(F) engaged in or has been associated with any other
+business practices or otherwise conducted himself in
+such a way as to cast doubt on his competence and
+soundness of judgement; or
+(G) engaged in or has been associated with any conduct
+that cast doubt on his ability to act in the best interest
+of investors, having regard to his reputation,
+character, financial integrity and reliability.
+(ii) Evidence that there are no other circumstances which are
+likely to–
+1. lead to the improper conduct of operations by the
+applicant or by any of its directors, chief executive,
+controller or any person who is primarily responsible for
+the operations or financial management of the
+applicant; or
+42
+2. reflect discredit in the manner it operates its business;
+(i) Submit a business model which has a clear or unique value
+proposition or will contribute to the overall development of the
+capital market;
+(j) Submit the rules of the entity it seeks to operate and make satisfactory
+provisions–
+(i) for the protection of investors and public interest;
+(ii) to ensure proper functioning of the entity; to promote fairness
+and transparency;
+(iii) to manage any conflict of interest that may arise;
+(iv) to promote fair treatment of its users or any person who
+subscribes for its services;
+(v) to promote fair treatment of any person who is hosted, or
+applies to be hosted, on its platform;
+(vi) to ensure proper regulation and supervision of its users, or
+any person utilizing or accessing its platform, including
+suspension and expulsion of such users or persons; and
+(vii) to provide an avenue of appeal against the decision of the VASP;
+(k) Evidence that the applicant will be able to take appropriate action
+against a person in breach including directing the person in breach
+to take any necessary remedial measure;
+(l) Evidence that the applicant will be able to manage risks associated
+with its business and operation including demonstrating the
+processes and contingency arrangement in the event the applicant is
+unable to carry out its operations;
+(m) Evidence that the applicant has sufficient financial, human and other
+resources for the operation of the Exchange, at all times; and
+(n) Evidence that the applicant has appropriate security arrangements
+which include maintaining a secured environment pursuant to the
+43
+Commission’s Technology Risk Management Guidelines, as
+applicable
+4.2 Where an applicant is regulated by another sectoral regulator, the applicant
+must also submit to the Commission a no objection or approval letter from
+the relevant sectorial regulator when making the application.
+4.3 A VASP shall have an office in Nigeria managed by a Director of the
+company.
+5.0 Obligations
+5.1 A VASP shall–
+(a) monitor and ensure compliance of its rules;
+(b) ensure fair treatment of its users;
+(c) ensure that all disclosures are accurate, clear and not misleading;
+(d) obtain and retain self-declared risk acknowledgement forms from its
+users prior to them investing in an Exchange;
+(e) provide a conspicuous disclaimer on the platform informing investors
+that any loss resulting from the investors trading or investment
+through the Exchange is not covered by any protection fund
+(f) ensure that all fees and charges payable are fair, reasonable and
+transparent;
+(g) ensure that it does not engage in any business practices appearing
+to the Commission to be deceitful, oppressive or improper (whether
+unlawful or not) or which otherwise reflect discredit on his method
+of conducting business;
+(h) carry out continuous awareness and education programmes;
+(i) have in place adequate policies, procedures and controls to mitigate
+against money laundering, terrorism financing and counter
+proliferation financing requirements and comply with Anti Money
+Laundering/Combating Financing of Terrorism and Proliferation
+Financing laws and regulations
+44
+(j) disclose and display prominently on its platform, any relevant
+information relating to the Exchange such as–
+(i) all necessary risk warning statements, including all risk factors
+that users may require in making a decision to participate on the
+platform;
+(ii) information on rights of investors relating to investing or trading
+on the Exchange;
+(iii) criteria for access to the Exchange;
+(iv) education materials, including comparative information where
+necessary;
+(v) fees, charges and other expenses that it may charge, impose
+on its users;
+(vi) information about complaints handling or dispute resolution
+and its procedures;
+(vii) information on processes and contingency arrangement in the
+event the DAX is unable to carry out its operations or
+cessation of business; and
+(viii) any other information as may be specified by the Commission;
+(k) provide to the Commission access to the platform and any register
+required to be maintained under these Rules and disclose any other
+information as the Commission may require;
+(l) notify the Commission of the occurrence of any event which would
+trigger the activation or execution of the business continuity plan, in
+such form and manner as may be specified by the Commission; and
+(m) in the event of any system error, failure or malfunction–
+(i) take all necessary and immediate appropriate actions to
+mitigate any potential losses; and
+(ii) immediately notify the Commission of the system error, failure
+or malfunction.
+45
+Part E
+Rules on Digital Assets Exchange (DAX)
+6.0 Digital Assets Exchange (DAX)
+In addition to the general requirements for VASPs, an applicant seeking to
+register as a DAX Operator shall comply with the following requirements:
+6.1 Payment
+a. Filing/Application Fee – N100,000 (One Hundred Thousand Naira
+only)
+b. Processing Fee – N300,000 (Three Hundred Thousand Naira only)
+c. Registration fee – N30,000,000 (Thirty Million Naira only)
+d. Sponsored Individuals Fee- N100,000 (One Hundred Thousand Naira
+only)
+6.2 Forms
+a. An application for registration of a Digital Asset Exchange (DAX) shall be
+made on the appropriate SEC form and shall be accompanied by the
+following:
+ii. Form SEC 2 and 2D – Sponsored Individuals/Compliance
+Officer who shall be principal officers of the DAX (i.e
+Managing Director and Principal Officers). (To be
+completed in duplicates);
+6.3 Minimum Paid-Up Capital and Fidelity Bond
+a. Evidence of Required Minimum Paid up Capital –
+N500,000,000 (Five hundred Million Naira) (i.e. Bank
+balances, Fixed asset or investment in quoted securities),
+subject to verification of the sources of the funds;
+b. Current Fidelity Bond covering at least 25% of the minimum
+paid-up capital as stipulated by the Commission’s Rules and
+Regulations;
+c. The Commission may at any time impose additional financial
+requirements or other terms and conditions on the DAX
+Operator that commensurate with the nature, operations and
+risks posed by the DAX Operator;
+d. All funds shall be made through Real-Time Gross Settlement
+(RTGS).
+7.0 Sponsored Individuals and Directors
+Comply with requirements for registration of sponsored individuals as
+contained in SEC Rules and Regulations
+46
+8.0 Corporate Documents
+a. A copy each of the following, duly certified by the CAC;
+b. Certificate of Incorporation (original to be sighted)
+c. Memorandum and Articles of Association which shall include the power
+to perform the specified function;
+d. CAC Form(s) showing Statement of Share Capital, Return of Allotment,
+and Particulars of Directors
+e. Latest audited accounts or audited statement of affairs of the company
+in the case of a new company.
+8.1 Additional requirements
+f. Sworn undertaking to keep proper records and render returns as may
+be specified by the Commission from time to time, signed by a director
+or the company secretary;
+g. Sworn undertaking to abide by SEC Rules and Regulations and
+Investments and Securities Act No.29 of 2007 by a director or the
+company secretary;
+h. The Commission may require such other documents as it considers
+necessary for registration.
+9.0 The Commission may require the following, prior to commencement of
+operations by a DAX Operator:
+a) evidence of Information Technology (IT) assurance regarding the
+system readiness and;
+b) a written declaration by its internal auditor confirming that it has:
+I. sufficient human, financial and other resources to carry out
+operations;
+II. adequate security measures, systems capacity, business continuity
+plan and procedures, risk management, data integrity and
+confidentiality, record keeping and audit trail, for daily operations
+and to meet emergencies; and
+III. sufficient IT and technical support arrangements.
+IV. Chief Information Security Officer to ensure amongst others, that
+cyber risks are adequately mitigated.
+10.0 Approval of the Board
+10.1 A DAX Platform shall have a Board whose appointment shall be subject to
+approval of the Commission;
+47
+11.0 Appointment of Chief Executive and Principal Officers
+11.1 The Chief Executive Officer of a DAX Platform shall hold office for a period of
+five (5) years in the first instance and may be re-appointed for a further period
+of five (5) years and no more;
+11.2 The appointment of a Chief Executive Officer and Principal Officers of a DAX
+Platform shall be subject to the prior approval of the Commission;
+11.3 The Chief Executive Officer and other Principal Officers of a DAX Platform shall:
+a) be registered by the Commission as Sponsored Individuals
+b) be persons of proven integrity with no record of criminal conviction;
+c) hold at least a university degree or its equivalent;
+d) have at least five (5) years cognate experience;
+e) not have been found complicit in the operation of an institution that has failed
+or been declared bankrupt or has had its operating license revoked as a result
+of mismanagement or corporate governance abuses;
+f) not have been found liable for financial impropriety or any other misdemeanor
+by any court, panel, regulatory agency or any professional body or previous
+employer;
+g) comply with any other criteria which the Commission may, in the public interest,
+determine from time to time.
+12.0 Governance
+12.1 The DAX shall have:
+a. a charter for the Board and Management that clearly stipulates responsibilities
+b. rules that support financial stability, safety and efficiency of its activities;
+c. policies that stipulate its entire business processes and operations and shall be
+duly approved by the board;
+d. processes to identify, assess and manage potential conflicts of interest of
+members of the Board, principal officers, employees or any person directly or
+indirectly linked to the Board;
+12.02 The Board and Management of a DAX shall have a mix of skills and competence
+to discharge their duties;
+13.0 Outsourcing obligations
+13.1 The DAX Operator shall:
+48
+a. have a Board accountable for all outsourced functions. The board shall establish
+effective policies and procedures for its outsourcing arrangement including a
+monitoring framework to monitor the service delivery and performance
+reliability of the service provider
+b. ensure that the service provider has adequate policies and procedures to monitor
+the conduct of any appointed sub-contractor.
+c. perform an assessment on a service provider on a periodic basis, as part of its
+monitoring mechanism and submit a report of the assessment to its Board of
+Directors and senior management.
+d. have a sworn undertaking from the service provider or sub-contractor stating
+that the Commission will have access to all information, records and documents
+relating to the material outsourced arrangements.
+e. notify the Commission of any adverse development arising in the outsourcing
+arrangement of any outsourced function that could significantly affect the
+operations of a DAX, within two weeks from the occurrence of the event.
+14.0 Submission of Rules
+14.1 A DAX Operator shall submit to the Commission for approval, any proposed
+rules or amendments to existing rules. The submission shall include–
+a) the text of the proposed rules or amendments; and
+b) the purpose of the proposed rules or amendments.
+14.2 The Commission may direct a DAX Operator to vary or amend any rule
+submitted as it deems necessary.
+15.0 Reporting requirements
+15.1 A DAX Operator shall submit to the Commission the following:
+(a) Weekly and monthly trading statistics and all reporting
+requirements.
+(b) quarterly and annual financial as well as compliance reports to
+demonstrate its compliance with any conditions imposed by the
+Commission pursuant to the registration of the DAX operator;
+49
+(c) Its latest audited financial statements, within three months after the
+close of each financial year or such period that the Commission may
+allow; and
+(d) Any information required by the Commission.
+16.0 Cessation of Business or Operations
+16.1 The DAX Operator shall not cease the business or operations of an Exchange
+without prior notification to the Commission.
+16.2 Without prejudice to other sections of these Rules, the Commission may
+issue a directive or impose any term or condition for the purposes of ensuring
+the orderly cessation of the business or operations of the Exchange.
+17.0 Suspension/Cancellation/Withdrawal of Registration
+17.1 The Commission may suspend or cancel the registration of an Exchange as
+prescribed in the SEC Rules and Regulations on suspension/cancellation of
+registration
+17.2 The DAX operator may, by notice in writing, apply to the Commission to
+withdraw its registration and provide reasons for its withdrawal as prescribed
+in the SEC Rules and Regulations on withdrawal of registration.
+18.0 Managing conflict of interest
+18.1 The DAX Operator’s framework relating to conflict of interest must include
+policies and procedures relating to, among others–
+a) proprietary trading by the DAX Operator on its platform;
+b) trading in virtual/digital Assets by its officers and employees on its own
+or other platforms;
+c) the management of non-public material information; and
+d) the offering of any virtual/digital Asset to be traded on its platform.
+19.0 Prohibition on financial assistance
+19.1 A DAX Operator is prohibited from providing direct or indirect financial
+assistance to investors, including its officers and employees, to invest or trade in
+virtual assets/digital Tokens on its platform.
+50
+20.0 Risk Management
+20.1 A DAX Operator should identify possible sources of operational risk, both
+internal and external, and mitigate their impact through the use of appropriate
+systems, policies, procedures, and controls. Systems should be designed to
+ensure a high degree of security and operational reliability including having
+adequate capacity.
+20.2 In relation to paragraph 22.1, a DAX Operator shall, among others:
+a) establish a robust operational risk-management framework with
+appropriate systems, policies, procedures, and controls to identify,
+monitor, mitigate and manage operational risks;
+b) have in place clearly defined roles and responsibilities for addressing
+operational risk;
+c) have in place clearly defined operational reliability objectives and have
+policies in place that is designed to achieve those objectives;
+d) ensure that it has adequate capacity proportionate to stress volumes to
+achieve its service-level objectives; and
+e) have a comprehensive physical and information security policy that
+addresses all potential vulnerabilities and threats.
+21.1 A DAX operator shall have a business continuity plan that addresses events posing
+a significant risk of disrupting operations, including events that could cause
+major disruption.
+21.2 The business continuity plan should incorporate the use of a secondary site and
+should be designed to ensure that critical information technology systems can
+resume operations within reasonable recovery time objectives following
+disruptive events.
+21.3 A DAX Operator shall carry out periodic reviews, audits and testing on systems,
+operational policies, procedures, and controls relating to risk management and
+its business continuity plan.
+22.0 Internal Audit
+22.1 A DAX Operator must establish an internal audit function to develop, implement
+and maintain an appropriate internal audit framework commensurate with its
+business and operations.
+23.0 Trading of Virtual Assets/Digital Tokens
+23.1 No DAX Operator shall facilitate the trading of any virtual/digital asset unless
+the Commission has issued a “no objection” to the trading of the virtual/digital
+asset.
+51
+23.2 In relation to paragraph 23.1, a DAX is required to submit an application to the
+Commission enclosing documents and any other information to be determined
+by the Commission from time to time
+23.3 Demonstrate availability of information related to the project, including but not
+limited to–
+a) the whitepaper or any other disclosure document accompanying the
+virtual/digital Asset;
+b) the progress of the project including both business and technical aspects;
+c) compliance with all other legal and regulatory frameworks in Nigeria and
+other jurisdictions where the project operates in;
+d) security of the underlying distributed ledger, including but not limited to–
+I. the number of nodes;
+II. any history of hacks and other form of attacks; and any known security
+vulnerabilities; and
+23.4 Notwithstanding paragraph 23.2 above, if a person wishes to issue a virtual
+asset/digital token it shall comply with the relevant Rules issued by the
+Commission. Such virtual asset/digital token would still require approval from
+the Commission prior to being traded on any Digital Asset Exchange.
+23.5 a DAX Operator must–
+a) ensure that its platform is operating in an orderly, fair and transparent
+manner;
+b) have in place rules and procedures for the trading, clearing and
+settlement of virtual assets/digital tokens on the platform; and
+c) conduct real-time market surveillance.
+24.0 Asset Protection
+24.1 DAX Operator shall–
+a) establish systems and controls for maintaining accurate and up to date
+records of investors and any monies or virtual assets/digital tokens held
+in relation thereto;
+b) ensure investors monies and virtual assets/digital tokens are properly
+safeguarded from conversion or inappropriate use by any person,
+including but not limited to implementing multi-signature arrangements;
+c) establish and maintain with a registered Central Securities Depository or
+Trustee, one or more Central Securities Depositories or trust accounts,
+designated for the monies received from investors;
+d) ensure that the Central Securities Depository or trust accounts under
+paragraph 25.01(c) are administered by an independent registered
+52
+Central Securities Depository or trustee;
+e) establish and maintain a sufficiently and verifiably secured storage
+medium designated to store virtual assets/digital tokens from investors;
+and
+f) in relation to investors’ virtual assets/digital tokens , have arrangements
+and processes in place to protect against the risk of loss, theft or hacking
+25.0. Settlement and custody
+25.1 A DAX Operator shall:
+a. ensure there are orderly, clear and efficient clearing and settlement
+arrangements;
+b. ensure these arrangements include prior or upfront deposit of monies and
+virtual assets/digital tokens with the DAX Operator before entering into a
+transaction on the Digital Asset Exchange.
+c. provide clear and certain final intra-day settlement
+26.0 Trading operations
+26.1 A DAX Operator shall:
+a. disclose information about its market structure, order types and the interactions
+of the order types, if any, on the platform;
+b. have adequate arrangements and processes to deter manipulative activities on
+the platform and ensure proper execution of trades;
+c. have adequate arrangements and processes to manage excessive volatility of
+its platform which may include circuit breakers, price limits and trading halts;
+d. have adequate arrangements and processes to manage error trades;
+e. have adequate arrangements and processes to manage systems error, failure
+or malfunction;
+f. have adequate arrangements and processes to manage investors’ assets in the
+event of any suspension or outages of the platform, including transfer or
+withdrawal procedures.
+27.0 Market transparency
+27.1 A DAX Operator shall:
+a. ensure trading information, both pre-trade and post-trade, is made publicly
+available on a real-time basis.
+b. make available in a comprehensible manner and on a timely basis, material
+information or changes to the tradable virtual assets/digital tokens.
+53
+54

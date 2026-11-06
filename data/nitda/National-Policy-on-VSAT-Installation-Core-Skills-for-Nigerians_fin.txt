@@ -1,0 +1,453 @@
+
+CONTENTS
+Foreword 4
+1.0 Introduction 6
+1.1Authority 7
+2.0VisionandMission 8
+3.0Rationale 9
+4.0Goals 9
+5.0 Guiding Principles 10
+6.0 Policy Scope 10
+6.1TrainingScope 12
+6.2 Expected Training Outcome 12
+6.3 Certification 13
+7.0Strategy 13
+8.0AwarenessCreation 15
+9.0Monitoring & Evaluation 15
+10.0Funding 16
+11.0 Review and Approval of Policy 16
+12.0 Conclusion 17
+Acronyms 18
+Key Stakeholders 19
+Bibliography 20
+2
+3
+Foreword
+Satellite technology provides a cost-effective means of receiving, processing
+and transmitting digital content and also unlocks access to digital solutions
+and services no matter the geographical location. Solutions that are based
+on satellite technology are easily deployed without the huge cost of laying
+underground cables since they mainly require the installation of an earth station
+or a receive-only antenna system. By putting a satellite in orbit and an earth station
+on the ground, broadband internet services or Direct to Home (DTH) services can
+be provided to customers within a very short period.
+According to the Global VSAT (Very Small Aperture Terminal) Forum, developing
+countries are also turning to satellite-based solutions and making it possible
+to link the value chain from providers of raw materials to consumers in widely
+separated geographic areas. Satellite systems are increasingly playing a pivotal
+role in the growth of the global digital economy as a result of benefits that they
+provide. These benefits include reduced costs and improved accessibility in
+difficult terrains, rural and remote areas.
+Satellite communications can also be used to significantly improve the output
+of every sector of the economy of a nation. Internet Service Providers, banks,
+the stock exchange, schools, hospitals, and other sectors can take advantage of
+satellitetechnologiestoimprovetheirservicesandtheirrange.Hence,developing
+countries can take advantage of satellite-based services to achieve higher
+economic and social standards that would attract more foreign direct investment,
+which would in turn create more digital jobs and revenue for government.
+This policy fully aligns with the job creation priority of the administration of His
+Excellency, President Muhammadu Buhari (GCFR).
+There is currently a significant skills gap exists in the satellite industry across the
+Nation.It is therefore necessary to put in place a National Policyfor VSAT installation
+Core Skills. The Policy is expected to enable the provision of specialized skills to
+Nigerians and avail them with opportunities to be engaged locally and by global
+satellite operators for VSAT installation.
+The Policy envisions an approach where VSAT Installation Core Skills will go
+4
+beyond just learning installation techniques. Rather, it will also prepare the
+trainees to provide top level service to clients, while complying with established
+regulations. I encourage Nigerians to utilize this opportunity and build their skills
+in these specialized areas. I equally encourage the youth to take advantage of this
+Policy to empower themselves with these skills. This is a sure way to participate in
+building a workforce for the satellite industry in conformity with globally accepted
+standards.
+Dr Isa Ali Ibrahim (Pantami), FNCS, FBCS, FIIM
+Minister, Ministry of Communications and Digital Economy of the
+Federal Republic of Nigeria
+5
+1.0 Introduction
+Digital technology drives innovation and creates job opportunities that can
+lead to economic prosperity. To develop and promote the Digital Economy
+for Nigeria, a National Digital Economy Policy for a Digital Nigeria was
+developed. The Policy has the following 8 pillars:
+(i) developmental regulation;
+(ii) digital literacy and skills;
+(iii) solidinfrastructure;
+(iv) service infrastructure;
+(v) digital services development and promotion;
+(vi) soft Infrastructure;
+(vii) digital society and emerging technologies; and
+(viii) indigenous content development and adoption.
+However, the foundation for the realization of digital economy for Nigeria and
+actualization of the 8 pillars of the National Digital Economy Policy is access to
+broadband, as captured in Pillar #3. Bearing this in mind, the Ministry developed
+a Nigerian National Broadband Policy (2020-2025) to support the growth of
+broadband connectivity in the country. The National Policy on VSAT Installation
+Core Skills for Nigerians is therefore essential for the acquisition of the skills
+required to drive the infrastructure related pillars of the National Digital Economy
+Policy and the Broadband Plan.
+TheNigerian CommunicationsSatellite (NigComSat–1R), oneof theCriticalNational
+Infrastructure under the purview of the Federal Ministry of Communications and
+Digital Economy, can be leveraged to deepen broadband penetration and deliver
+Direct to Home (DTH) Services in the country.
+These services however require the deployment of Very Small Aperture
+Terminals (VSAT), Television Receive Only (TVRO) antennas and configuration
+of Customer Premise Equipment (CPE). Furthermore, to effectively deploy these
+services, training and re-training of Nigerians on VSAT installation, TVRO Antenna
+Installation and configuration of CPE is required.
+Training citizens in these technologies align with the global trend. For example,
+the United Nations (UN) Regional Centers for Space Science and Technology
+was created to develop skills and knowledge of university educators, telecom
+professionals, and others in the principles and applications of Space Science
+Technology.
+In the same vein, a youth empowerment program through technical and vocational
+education and training (TVET) is underway in The Gambia in partnership with the
+United Nations Educational, Scientific, and Cultural Organization (UNESCO). The
+6
+program is an effort to “find decent employment by providing lifelong learning
+opportunities as recommended by SDGs 4 and 8”.
+Addressing the capacity gap in the delivery of satellite-based services is
+therefore now considered as an urgent imperative to improve the quality of life in
+communities, especially in remote and rural areas where most of the population
+are situated.
+This Policy will provide guidance for the proposed program that seeks to provide
+the required specialized skills for the promotion and deployment of satellite-
+based services in Nigeria. Through the Programme, Nigerians will be equipped
+with the necessary skills to be able to install a VSAT and TVRO antenna anywhere
+to access available satellite-based services.
+1.1 Authority
+This Policy has been developed by the Honourable Minister of Communications
+and Digital Economy in line with the following Sections of the Constitution of the
+Federal Republic of Nigeria 1999:
+i. Section 148 (i) of the Constitution: “The President may, in his discretion,
+assign to the Vice-President or any Minister of the Government of the
+Federation responsibility for any business of the Government of the
+Federation, including the administration of any department of
+government”; and
+ii. Section 148 (ii) (a) of the Constitution:” Determining the general direction of
+domestic and foreign policies of the Government of the Federation.”
+This Policy can be cited as “National Policy on VSAT Installation Core
+Skills”and shall come into effect the date of the signature.
+7
+Vision and Mission
+Vision
+“To deepen broadband penetration, and boost the development and utilization
+of satellite-based services in Nigeria”
+Mission
+“We produce certified VSAT and TVRO antenna Installers through national
+technical training in Nigeria”
+8
+3.0 Rationale
+The National Policy for VSAT installation Core Skills is to enable the provision of
+specialized skills to Nigerians and avail them of the opportunity to be engaged
+in VSAT installation. There is also a serious challenge of inadequate manpower
+for engagement in the Communication Satellite Industry in the six geo-political
+zones.
+Accordingly, the few personnel available are not evenly distributed across the
+country. This causes some delay in the provision of satellite services, with
+installers having to travel long distances, adding to overall cost of providing the
+service and potentially putting the installers at risk. Furthermore, a lot of VSAT
+installers are not properly trained and this leads to shoddy installations. Empirical
+evidence has shown that when installations that are done by untrained installers,
+the quality of service of such networks are adversely affected. In some cases,
+they result in interference with another satellite or network.
+4.0 Goals
+The Policy aims to achieve the following:
+(i) specialized skills acquisition by Nigerians that provides them the skills
+required to thrive in a digital economy;
+(ii) job creation through engagement by satellite operators, Internet Service
+Providers, television stations and households for deploying satellite-based
+services;
+(iii) improvement in quality of satellite services through the training and
+certification of VSAT installers;
+(iv) conforming to ITU regulations and Satellite Operations’ Guidelines by
+the trained and certified installers in order to reduce all forms of satellite
+interference caused by second-rate installations; and
+(v) attainment of set goals in the Nigerian National Broadband Plan 2020-
+2025 for the provision of broadband internet services in the unserved
+and underserved region and to enhance the delivery of DTH services to
+households.
+9
+5.0 Guiding Principles
+The following guiding principles provide a suitable requirement for implementing
+the policy:
+(i) conforming to Nigerian Communications Satellite System Operations
+Guidelines (NSSOG) and NIGCOMSAT Earth Station Standards (NESS)
+during carrier lineup and test and measurement operations;
+(ii) use of a Standard Network Operations Center resources that are well
+calibrated to ensure accurate display of test results; and
+(iii) applying the Nigerian Commercial Satellite Communications Guidelines for
+protection from impermissible levels of interference.
+6.0 Policy Scope
+The Policy targets providing specialized skills to Nigerians in all the six geo-
+political zones on VSAT and Television Receive Only (TVRO) antenna installation
+for the delivery of satellite-based services. In the first instance, 300 installers are
+to be trained quarterly from each geo-political zone making a total of 1,800 trained
+installers per quarter and 7,200 annually. This shall be scaled in a continuous
+manner until the required number of technicians have acquired the requisite skills
+to appropriately support the demands of the satellite services industry.
+It is also expected that the Policy will unlock access to digital economy opportunities
+in the satellite industry for the youth that participate in the specialized training
+programme. The training component is developed for young Nigerians who
+are between the ages of 18 years and 35 years for the purpose of learning and
+acquiring the required skill set for installing VSAT and TVRO antennas across the
+country and beyond.
+10
+This policy applies to:
+(i) Nigerians in tertiary institutions with a background in the sciences and
+engineering;
+(ii) existing TVRO installers within the age of 18 years to 35 years;
+(iii) Nigerians that have completed secondary schools with background in the
+sciences and engineering; and
+(iv) graduates of Engineering and Science Courses.
+11
+6.1 Training Scope
+The training is targeted to produce potential employers rather than employees.
+The main objective of the training is for youth to acquire skills and start their
+journey of becoming the future startups in the Nigerian Space Industry. The
+training scope includes, but is not limited to the following areas:
+(i) fundamentals of communications satellite systems;
+(ii) fundamentalsof broadbandservices;
+(iii) fundamentals of DTH services;
+(iv) VSAT and TVRO antenna installation techniques and procedure;
+(v) VSAT installation practical sessions;
+(vi) TVRO antenna installation practical session;
+(vii) NIGCOMSATEarthStationStandards(NESS);
+(viii) NIGCOMSAT Satellite System Operations Guidelines (NSSOG)
+(ix) demonstrations of skills learnt; and
+(x) troubleshooting techniques.
+6.2 Expected Training Outcome
+Thespecificknowledge,skills,orexpertiseexpectedofatraineeuponcompletion
+of the training are as follows:
+(i) all participants should have a good understanding of communication
+satellite system, broadband services and DTH services;
+(ii) all participants should have a good understanding of communication
+satellite links;
+(iii) all participants should have a good understanding of NESS and NSSOG
+guidelines;
+(iv) all participants should have a good understanding of satellite space
+segment and ground segment;
+(v) antenna systems, VSAT components and their functions should be fully
+understood by participants;
+(vi) understanding of simple uplink and downlink frequency conversion for
+each of the bands by participants;
+(vii) all participants should be able to identify and understand required process
+and techniques for VSAT installation;
+(viii) all participants should be able to cast the foundation for a VSAT;
+(ix) during the practical session participants should be able to identify all active
+and passive components and assemble all parts of the VSAT;
+12
+(x) participants should be able to point to the satellite using standard antenna-
+pointing techniques;
+(xi) participants should also be able to conduct cross-pol isolation test and 1dB
+compression test while coordinating with the Network Operations Center
+(NOC) engineers; and
+(xii) all participants should be able to configure the modem and commission the
+site while coordinating with the hub engineers; and
+(xiii) allparticipantsshouldbeableacquirepropertechniquesinclientinteraction
+and customer satisfaction as the client-facing representatives.
+6.3 Certification
+All the activities outlined in the certified training programmes are to be in line
+with global best practices, and in compliance with the requirements of relevant
+professional bodies such as Global VSAT Forum (GVF).
+The would-be trainees are expected to attend intensive theoretical and hands-on
+training and demonstrate high level of commitment to be certified NIGCOMSAT
+trained VSAT Installers. The training should last for at least 7 days.
+7.0 Strategy
+The Nigerian Communications Satellite Limited (NIGCOMSAT) will implement
+this policy in collaboration with other stakeholders under the supervision of the
+Federal Ministry of Communications and Digital Economy.
+The Policy mandates the trained engineers at NIGCOMSAT and other certified
+Satellite Professionals to serve as resource persons for conducting the training.
+NIGCOMSAT-1R Satellite in Orbit, Satellite Infrastructure Company (SIC) and
+Satellite Broadband and Broadcasting company (SBBC) resources should also
+be utilized for the training programs. Although the training programme is to be
+conducted in different selected locations nationwide, the network facilities can
+be remotely accessed during the training programmes.
+The VSATs used for each service may be different and the procedures for
+integration of the VSAT with the Customer Premises Equipment (CPE) that would
+enable the delivery of the service would differ as well. However, the program
+should demonstrate to each participant how to install any VSAT that would be
+used for satellite-based services.
+13
+NIGCOMSAT, as the driver of the program, is expected to demonstrate to each
+participant how to integrate the VSAT into their network for delivering broadband
+internet services on Ku, Ka, and C band. The course should focus on delivering
+practical skills and it is should be participatory, rather than merely theoretical.
+The training programme should be made easy to understand and straightforward.
+Videos and course materials should be developed and distributed to assist
+in retention of the practical aspect of the training or serve as a guide for the
+participants. Other stakeholders could be engaged to teach and demonstrate to
+the students how to integrate the VSAT to Pay-TV services as well the reception
+of free-to-air TV services available in their locality.
+The main functions of NIGCOMSAT during the training include, but are not limited
+to the following, where relevant:
+(i) to come up with modalities for implementing the policy;
+(ii) to carry out a workshop for all state program coordinators, certified installers,
+trainers and professionals that will conduct the trainings;
+(iii) to develop and implement strategies to facilitate the speedy and efficient
+implementation of the policy;
+(iv) tocollaboratewithotherstakeholderstoensurein-depthscope,knowledge,
+and materials necessary to equip participants to be able to install any type
+of VSAT for services available in their locality;
+(v) to develop a robust application processes that will facilitate the selection of
+participants in a fair and equitable manner;
+(vi) to streamline the implementation and decision-making in order to ensure a
+consistent approach across all venues;
+(vii) to create awareness and provide the public with clear and current information
+on the program;
+(viii) to provide clear guidelines on procedures for participants to take part in
+the selection process;
+(ix) to ensure that the developed framework focuses on practical skills to
+ensure the fulfillment of the objectives of the program; and
+(x) toappointa Project Coordinator and createa teamthat would includeother
+willing stakeholders that would drive the implementation of the policy.
+The focus of the programme is on acquiring the requisite VSAT Installation
+skills by the trainees who undergo the training programme. Successful trainees
+are expected to become tutors in future programs at various states across the
+country. This will reduce implementation and logistics costs.
+The following should also be taken into consideration in implementing the
+14
+Programme:
+(i) Venue: suitable training venue to be selected from each geo-political zone
+quarterly as the training location;
+(ii) Selection process: Participants are to be selected using the online process
+and any other means to ensure inclusiveness, and at least 300 students
+would be selected for each program from each zone; and
+(iii) Logistics: NIGCOMSAT as the convener of the training would come up with
+the modalities including:
+1. budgetary requirement for organizing the training;
+2. cost for deploying antennas for practical sessions and training
+materials;
+3. basic Installation Kits/Tools to be issued;
+4. Duty Tour Allowance (DTA) for NIGCOMSAT Trainers and honorarium
+for invited Certified Installers and Professionals; and
+5. other logistic requirements.
+8.0 Awareness Creation
+In order to create awareness for Nigerians to participate, the Federal Ministry
+of Communications and Digital Economy in collaboration with Nigerian
+Communications Satellite Limited will be convening conferences and workshops
+regarding VSAT Installation training program at strategic locations.
+Information regarding the policy and its importance will be communicated to the
+public through awareness-raising activities such as: issuing press releases; media;
+and the creation of educational materials. Furthermore, information regarding the
+policy and its implementation will be disseminated through TV programs, radio
+programs, and through a range of tools and platforms such as the Internet,
+socialmedia, newspapers and billboard campaigns.
+9.0 Monitoring and Evaluation
+Monitoring is set to be achieved through the establishment of a database at the
+back-end which will provide a real-time record of those that have participated
+in the training program. The front-end of the data base will provide access
+through a dashboard to the monitoring and evaluation team to ascertain if the
+set targetsare met and determine if modification or improvements are to be
+made.
+15
+Performance reports can also be generated thereby establishing evidence-based
+data for evaluating the entire program. The Federal Ministry of Communications
+and Digital Economy will have a monitoring and evaluation team comprising
+members from the Ministry, NIGCOMSAT and Galaxy Backbone to visit the
+training program venues to ascertain if the training is provided in accordance to
+the scope of the training program.
+Some of the functions of the monitoring and evaluation activities include the
+following:
+(i) improve the training programme through the identification of bottlenecks
+and submitting recommendations to ensure the objectives of the policy are
+met;
+(ii) ascertain if the mode of delivery and contents are following global best
+practice;
+(iii) provide evidence of how efficient the budgetary provisions are used for the
+training program;
+(iv) publish yearly data on the impact of the training program to the Satellite
+Communication Industry; and
+(v) determine if the objectives of the policy are met.
+10.0 Funding
+Training fees will apply for those that are interested to be trained as installers,
+however government will be responsible for providing the training equipment,
+honorarium for certified professionals, logistics for training venues, training tools
+to be issued to installers and any other important training components through
+budgetary allocations.
+The rationale for charging training fees is not to be used as a source of profit for
+the government but rather to compensate for administrative and logistics costs in
+the selection processes. Appropriate budget provisions will be established based
+on course content depth, course duration and the levels (Beginner, Intermediate
+and Advanced). However, VSAT training for the tertiary institution shall be at no
+cost to the beneficiaries.
+11.0Review andApprovalof Policy
+The National Policy on VSAT Installation Core Skills is subject to a periodic review
+to ensure compliance with global satellite industry best practices and to ensure
+16
+identified challenges are addressed.
+12.0Conclusion
+The Federal Ministry of Communications and Digital Economy through the
+parastatals under her supervision will continue to formulate policies that will be
+of great benefits to Nigerians. In view of this, having a policy document on VSAT
+Installation Skills will enhance the implementation of the National Broadband
+Plan, facilitate the delivery of satellite-based services and provide opportunities
+for job creation.
+It will also support in accelerating the attainment of a sustainable digital economy
+for Nigeria. Furthermore, human capacity building and technical skills for the
+teeming Nigerian youth is also achievable through the implementation of the
+policy which will facilitate the creation of jobs in the country.
+17
+Acronyms
+VSAT - Very Small Aperture Terminal
+TVRO - Television Receive Only Antenna
+FMCDE - Federal Ministry of Communications and Digital Economy
+NIGCOMSAT - Nigerian Communications Satellite Limited
+DTH - Direct to Home Services
+NESS - NIGCOMSAT Earth Station Standards
+NSSOG - NIGCOMSAT Satellite System Operation Guidelines
+NOC - Network Operations Center
+SIC - Satellite Infrastructure Company
+SBBC - Satellite Broadband and Broadcasting Company
+CPE - Customer Premises Equipment
+18
+Key Stakeholders
+1. Federal Ministry of Communications and Digital Economy
+2. Nigeria Communications Satellite Ltd.
+3. Nigerian Communications Commission
+4. NationalInformationTechnologyDevelopment Agency
+5. Galaxy Backbone Plc.
+6. Universal Service Provision Fund
+7. Central Bank of Nigeria
+8. National Space Research and Development Agency
+9. NigerianTelevisionAuthority
+10. Startimes
+11. DSTV
+12. MicroAccessLimited
+13. Tertiary Institutions
+14. BureauforPublicProcurement
+15. Association of Telecommunications Companies of Nigeria (ATCON)
+16. Association of Licensed Telecommunications Operators of Nigeria (ALTON)
+19
+Bibliography
+1. GVF (n.d.) “Strengthening Access to Communications” Policy & Regulatory Guidelines
+for Satellite Services. [Online]. Available at:
+https://gvf.org/images/regulatory/GVFSatellitePolicyGuidelines.pdf (Accessed: 19th
+February 2021).
+2. Joseph, O.A., & Adepoju, K.A. (June 2010) PROSPECTS AND CHALLENGES OF
+BUILDING CAPACITY FOR SPACE SCIENCE AND TECHNOLOGY DEVELOPMENT
+IN AFRICA. [Online]. Available at:
+https://www.researchgate.net/publication/305986332_ (Accessed: 10th March 2021).
+3. UNESCO (14/07/2020) '‘Youth Empowerment through Technical and Vocational
+Education and Training (TVET) in The Gambia’: local stakeholders validate the TVET
+curricula methodological guidelines' [Online]. Available at:
+https://en.unesco.org/news/youth-empowerment-through-technical-and-vocational-
+education-and-training-tvet-gambia-local-0 (Accessed: 15th February 2021).
+4. United Nations ESCAP (2017) ESCAP Monitoring and Evaluation Policy and
+Guidelines . [Online]. Available at: https://www.unescap.org/sites/default/files/ESCAP-
+Monitoring-and-Evaluation--Policy-and-Guidelines-2017-rev-20180507.pdf (Accessed:
+4th January 2021).
+5. Unitar (March 2012) Monitoring and Evaluation Policy Framework. [Online]. Available
+at:
+https://www.unitar.org/sites/default/files/uploads/pprs/unitar_monitoring_and_evaluatio
+n_policy_framework.pdf (Accessed: 9th February 2021).
+6. Nigerian Communication Commission (November 2018). Commercial Satellite
+Communications Guidelines. [Online]. Available at: https://www.ncc.gov.ng/docman-
+main/legal-regulatory/guidelines/819-guidelines-on-commercial-satellite-
+communications-2018/file (Accessed: 11th March 2021).
+7. Nigeria Communications Satellite (October 2011). NIGCOMSAT Operations Guidelines.
+[Online]. Available at: https://www.nigcomsat.gov.ng/download/file/nigcomsat-satellite-
+operation-guide-1 (Accessed: 12th January 2021).
+20
+20

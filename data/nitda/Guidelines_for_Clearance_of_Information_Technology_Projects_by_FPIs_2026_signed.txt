@@ -1,0 +1,311 @@
+-f%
+4 ^ U!■:
+j
+JZ jL
+"}X
+) / y
+'
+. i
+:
+"^r, •■voHiJ^girarrj^-
+GUIDELINES FOR CLEARANCE OF
+INFORMATION TECHNOLOGY PROJECTS
+BY FEDERAL PUBLIC INSTITUTIONS IN
+NIGERIA
+2026
+Issued by the National Information Technology
+Development Agency as a co-regulatory instrument
+in collaboration with Bureau for Public Procurement
+and the Office of the Auditor-General of the
+Federation.
+TABLE OF CONTENTS
+3
+1.0 LONG TITLE
+2.0 SHORT TITLE 3
+3.0 EXPLANATORY NOTE 3
+4.0 AUTHORITY 3
+5.0 COMMENCEMENT 3
+6.0 DEFINITIONS 3
+7.0 SCOPE 4
+8.0 GUIDELINES 4
+8.1 Responsibilities of FPIs 5
+8.2 Responsibilities of NITDA 5
+8.3 Timeframes 6
+8.4 Quality Assurance Assessment......................... 6
+8.5 Quality Assurance Assessments Responsibilities 7
+8.6 Thresholds 7
+9.0 BREACH 8
+10.0 REVIEW AND AMENDMENT 8
+11.0 ANNEXURE 8
+11.1 NITDA Regulatory Instruments 8
+8
+11.2 National Laws
+11.3 Adopted International Standards (where applicable) 9
+2
+1.0 This Guideline shall be described as the 'Guidelines for LONG TITLE
+Clearance of IT Projects for Federal Public Institutions'.
+2.0 This Guideline may also be cited as the 'IT Project SHORT TITLE
+Clearance Guidelines'.
+3.0 In response to the dynamic landscape of technology and EXPLANATORY
+the evolving needs of public governance, these revised NOTE
+guidelines provide a comprehensive framework for the
+clearance of Information Technology (IT) projects within
+Federal Public Institutions (FPIs).
+The revised guidelines ensure a coordinated,
+standardized, and orderly approach to deploying IT
+systems by FPIs. FPIs are required to obtain clearance
+from the National Information Technology Development
+Agency (NITDA) for their IT projects.
+4.0 These guidelines are issued pursuant to section 6 of the AUTHORITY
+NITDA Act 2007 which mandates the Agency to create a
+framework for the planning, research, development,
+standardization, application, coordination, monitoring,
+evaluation and regulation of Information Technology
+practices, activities and systems in Nigeria and all matters
+related thereto and for that purpose.
+The guidelines are further issued pursuant to section 6 of
+the Bureau of Public Procurement Act 2007 and section 85
+of the Constitution of the Federal Republic of Nigeria 1999
+(as amended) on the powers of the Auditor General.
+5.0 The title for these guidelines is 'Guidelines for COMMENCEMENT
+Clearance of Information Technology (IT) Projects
+by Federal Public Institutions (FPIs)' and shall come
+into effect when issued by NITDA.
+6.0 Information Technology (IT): Encompasses all forms DEFINITIONS
+of technology used to create, store, process, transmit and
+use information in its various forms.
+Information Technology (IT) Projects: Any
+governmental activity relating to information technology
+which involves direct or indirect costs and
+includes the creation/development, acquisition, and/or
+distribution of IT products, applications, and services.
+3
+Federal Public Institutions (FPIs): Any organization
+established or owned by the Federal Government in
+Nigeria.
+IT Project Clearance Compliance Assurance
+Process: A process established by NITDA to license
+qualified IT firms to provide technical guidance to FPIs
+for the implementation of the IT Projects Clearance
+process.
+Licensed IT Projects Clearance Compliance
+Assurance Firm: Otherwise referred to as Compliance
+Assurance Firm in this document are firms licensed by
+NITDA IT Projects Clearance to support FPIs in designing
+their IT projects, providing technical guidance and
+conducting Quality Assurance assessments in alignment
+with NITDA's guidelines and other relevant standards and
+regulations.
+Quality Assurance Assessment: Assessment carried
+out by Compliance Assurance Firms and supervised by
+NITDA for all FPIs IT projects throughout the project life
+cycle.
+7.0 These guidelines apply to all IT projects undertaken by SCOPE
+FPIs, including but not limited to the development,
+implementation, enhancement, or retirement of IT
+systems, applications, infrastructure, and services. They
+are intended to be applicable to projects of varying scale,
+complexity, and duration, across all FPIs. Section 8.6
+specifies relevant thresholds for requiring IT projects
+clearance as applicable.
+All IT Projects submitted for clearance under these
+guidelines shall be assessed for compliance against the
+applicable NITDA Regulatory instruments, National Laws
+and International Standards as listed in section 11.0.
+8.0 FPIs shall obtain approval from NITDA for all their GUIDELINES
+proposed IT projects. This approval will be granted
+following an assessment of the project proposal by a
+Licensed IT Projects Clearance Compliance Assurance
+Firm and ratification by the Agency.
+IT Projects Clearance Compliance Assurance Firms are
+firms licensed by NITDA to support FPIs in designing their
+4
+IT projects, providing technical guidance and conducting
+Quality Assurance assessments in alignment with NITDA's
+guidelines and other relevant standards and regulations.
+The services to be provided by the firms consist of:
+i.
+IT Projects Design; and
+IT Projects Quality Assurance.
+8.1 FPIs shall Responsibilities
+of FPIs
+a. Engage a firm from NITDA's list of Licensed IT Projects
+Clearance Compliance Assurance Firms to conduct an
+assessment and provide technical and regulatory
+guidance. These include but not limited to the
+following:
+i. Justification and Deliverables;
+ii. System Integration/Interoperability;
+iii. Preference for Indigenous Content;
+iv. Security and Environment Suitability;
+v. Risk Mitigation Strategy; and
+vi. Adherence to Relevant Regulations and Guidelines
+(see section 11.0).
+b. Submit their IT project proposals and all relevant
+documentations to NITDA through the IT Project
+Clearance (ITPC) portal.
+c. Ensure the party implementing the project engages a
+Compliance Assurance Firm to conduct Quality
+Assurance on the project.
+d. Ensure the party implementing the project for the FPI
+is NOT the Firm to conduct the Quality Assurance
+process.
+8.2 NITDA shall
+Responsibilities
+of NITDA
+a. Maintain a list of Licensed IT Projects Clearance
+Compliance Assurance Firms;
+b. Review submissions from FPIs who have undergone the
+assessment process, taking into account the
+following:
+i. Organizational Mandates;
+5
+ii. Minimization of Project Duplication;
+iii. System Integration/Interoperability;
+iv. Confirmation of Local After-Sales Capacity;
+v. Preference for Indigenous Content; and
+vi. Adherence to Relevant Regulations and Guidelines.
+c. Ensure that submissions meet the requisite guidelines;
+d. Reserve the right to conduct further evaluation and
+engage the FPI directly, if necessary; and
+e. Issue approval and clearance certificate.
+8.3 Upon receipt of the clearance request, NITDA shall Timeframes
+evaluate the submission within 10 working days. Upon
+completion of the evaluation, a clearance decision shall be
+issued, approving or rejecting the project proposal based
+on adherence to requisite technical and regulatory
+guidelines as stated in section 6.1.
+Where there is a need for further clarification on FPI's IT
+Project, NITDA shall request additional information to be
+submitted within 3-5 working days via the NITDA ITPC
+portal or designated email address.
+FPIs are expected to work with their selected Compliance
+Assurance Firm to provide the information in a timely
+manner. Where the FPI fails to provide further
+information within the stipulated time, NITDA reserves
+the right to reject the project.
+8.4 All projects costing One Hundred Million Quality
+(ttl00,000,000.00) Naira and above or its equivalent Assurance
+shall require Quality Assurance assessment by a Assessment
+Compliance Assurance Firm in collaboration with NITDA
+throughout the project life cycle, and a certificate shall be
+issued by NITDA upon satisfactory completion of the
+project.
+The Compliance Assurance Firms conducting Quality
+Assurance assessment are to submit a detailed report to
+NITDA via the ITPC portal or designated email address
+that the project is completed and ready for closure
+within 7 days of the project completion.
+Similarly, for projects below One Hundred Million
+6
+(^100,000,000.00) Naira, NITDA in collaboration with the
+FPI will conduct the Quality Assurance assessment.
+Quality
+8.5 FPIs Shall
+Assurance
+i. Provide timely and accurate project data and
+Assessments
+documentation to NITDA;
+Responsibilities
+ii. Actively participate in oversight activities conducted
+by NITDA;
+Hi. Where applicable, set-up steering and technical
+committees for the implementation of the project
+involving NITDA and other relevant stakeholders;
+iv. Make a provision from the project cost for the Quality
+Assurance assessment;
+v. Implement recommendations arising from the
+oversight process; and
+vi. Ensure compliance with project objectives and
+timelines.
+NITDA shall
+i. Provide oversight guidelines and standards;
+ii. Assess submitted project data and documentation
+and provide feedback;
+iii. Schedule and conduct Quality Assurance inspection
+visits where applicable;
+iv. Review and Document Quality Assurance assessment
+findings and provide recommendations to FPIs; and
+v. Issue Quality Assurance certificate to FPIs where
+applicable.
+8.6 The thresholds for requiring IT projects clearance and Thresholds
+Quality Assurance Certificates shall be based on the
+following tiers:
+QUALITY
+CLEARANCE QUALITY
+S/N CATEGORY RANGE REQUIREMENT ASSURANCE ASSURANCE
+RESPONSIBILITY
+a. Tier 1 N
+an
+1
+d
+0 0
+a
+,
+b
+0
+o
+0
+v
+0
+e
+,000 Yes FPI
+N10,000,000
+b. Tier 2 Yes NITDA
+N99,999,999
+7
+Tier 3 NO - No No No
+N9,999,999
+9.0 Non-compliance to these Guidelines is a violation of the BREACH
+NITDA Act 2007, the Bureau for Public Procurement Act
+2007 and the powers of the Auditor General of the
+Federation as provided under the Constitution of the
+Federal Republic of Nigeria 1999 (as amended).
+10.0 These Guidelines shall be reviewed and amended REVIEW AND
+AMENDMENT
+accordingly, from time to time.
+11.0 The following regulatory instruments should be adhered to ANNEXURE
+by FPIs when conceptualizing their IT projects:
+11.1 a. NITDA Act 2007; NITDA
+Regulatory
+b. Guidelines for Clearance of IT Projects by Federal
+Instruments
+Public Institutions (2026);
+c. Guidelines for Licensing IT Projects Clearance
+Compliance Assurance Firms (2026);
+d. Nigeria Government Enterprise Architecture (NGEA);
+e. Nigeria e-Government Interoperability Framework,
+2019 (Ne-GIF);
+f. NITDA Cybersecurity Framework;
+g. National Cloud Computing Policy;
+h. NITDA Software Testing and Certification Framework;
+and
+i. Guidelines for Nigerian Content Development in ICT
+2019.
+11.2 a. Bureau of Public Procurement Act 2007; National Laws
+b. Nigeria Data Protection Act (NDPA) 2023;
+c. Fiscal Responsibility Act;
+d. Freedom of Information Act;
+e. National Digital Economy Policy and Strategy (NDEPS);
+f. National Cybersecurity Policy;
+g. Nigeria First Policy; and
+h. Federal Government's Executive Orders 003 and 005.
+8
+11.3 a. ISO/IEC 27001 (Information Security Management); Adopted
+International
+b. ISO/IEC 20000 (IT Service Management);
+Standards
+c. ISO 22301 (Business Continuity Management); (where applicable)
+d. ISO/IEC 38500 (IT Governance);
+e. ISO/IEC 900:2015 (Quality Management System);
+f. COBIT (Control Objectives for Information and Related
+Technologies);
+g. ITIL (Information Technology Infrastructure Library);
+and
+h. NIST Cybersecurity Framework.
+I D
+Made at Abuja this Day of April 2026
+Kashifu Inuwa Abdullahi ccie
+Director-General
+National Information Technology Development Agency
+9

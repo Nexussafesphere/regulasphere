@@ -1,0 +1,1183 @@
+1. RULE ON CROWDFUNDING
+PART 1 – GENERAL PROVISIONS
+1. Definition of Terms
+Act: The Investments and Securities Act 2007, or as amended;
+AML/CFT: Anti-Money Laundering /Combating the Financing of Terrorism;
+Associated Person: means any sole proprietor, partner, officer, director or manager of
+a funding portal, or other natural person occupying a similar status or performing similar
+functions, or any natural person directly or indirectly controlling or controlled by a funding
+portal member, or any employee of a funding portal member;
+Blind pool: A company that raises capital from the public without any stated investment
+goals informing investors how their funds will be utilised;
+Complex Structures: A complex structure is an entity without immediate transparency
+of ownership and/or control thereby making it difficult to immediately ascertain the
+beneficial owners of the entity;
+Control: For the purpose of this rule, an entity will be regarded as controlled by the
+Fundraiser or being under common control with the Fundraiser where the Fundraiser or
+the entity in control:
+(a) beneficially owns more than one half of the issued share capital of the company; or
+(b) is entitled to vote a majority of the votes that may be cast at a general meeting of
+the company, or has the ability to control the voting of a majority of those votes, either
+directly or through a controlled entity of that company;
+(c) is able to appoint or to veto the appointment of a majority of the directors of the
+company;
+(d) is a holding company, and the company is a subsidiary of that company as
+contemplated by the Companies and Allied Matters Act.
+1
+(e) has the ability to materially influence the policy of the company in a manner
+comparable to an entity who, in ordinary commercial practice, can exercise an element
+of control referred to in paragraphs (a) to (d).
+Cooling-off Period: An interval during which the investor can withdraw the decision to
+invest;
+Crowdfunding: The use of small amounts of money, obtained from a large number of
+individuals or organizations, to fund a project or, a business through an online web-
+based platform;
+Crowdfunding Portal: A website, platform, portal, intermediary portal, application, or
+other similar module that facilitates interaction between Fundraisers and the investing
+public;
+Crowdfunding Intermediary: An entity organized and registered as a corporation to
+facilitate transactions involving the offer or sale of securities or investment instruments
+through a Crowdfunding Portal;
+Commodities Investment Platform: An electronic platform that connects investors
+to specific agricultural or commodities projects for the purpose of sponsoring such
+projects in exchange for a return;
+Family Member: A member of the investor’s household or a relative with whom the
+investor has a close personal relationship including any person who lives with the
+investor;
+Funding Round: The round of funding for a specific project, business, or venture
+hosted on a crowdfunding portal to raise funds from a large number of people in
+exchange for shares, debt securities or other investment instruments approved by the
+Commission;
+High Net Worth Investor: Shall have the same meaning as provided in the SEC Rules;
+Investment-based crowdfunding: The process of raising funds from the public
+through an online portal in exchange for shares, debt securities or other investment
+instruments approved by the Commission;
+Investment Instruments: Ordinary shares, plain vanilla bonds or debentures, and
+simple investment contracts approved by the Commission for issuance through a
+crowdfunding portal from time to time”;
+Investor: is as defined in the Act;
+2
+Fundraiser: refers to the originator, maker or obligor of the investment instrument to
+be issued pursuant to these Rules;
+KYC: Know Your Customer;
+Material Adverse Change: Means any event, development or circumstance that has
+had or could reasonably be expected to have an unfavourable effect. It also includes
+changes in the condition (financial or otherwise), operations, business, performance,
+properties or assets of the Fundraiser and its Subsidiaries, taken as a whole such that it
+would impede them from delivering on their intended activity or commitment;
+Minimum Threshold: The minimum percentage of the target amount which must be
+raised by a Fundraiser in a funding round in order to be eligible for the disbursement of
+the proceeds;
+MSME: Micro, small and medium enterprises shall be as prescribed by the Small and
+Medium Enterprises Development Agency of Nigeria (SMEDAN) in relation to total asset
+annual turnover or number of employees;
+Non-Permissible Investment Instrument: Means any investment instrument other
+than an Instrument defined under investment instrument;
+Operator: A Crowdfunding Intermediary registered by the Commission;
+Plain vanilla bonds/debentures: Non-complex debt instruments with fixed rates and
+a defined maturity that involves an investor (lender) purchasing a bond at its face value,
+receiving periodic interest payments from the bond Fundraiser (borrower) and receiving
+the full principal upon maturity;
+Predecessor: An entity which has been replaced by another entity whether through a
+merger, acquisition, or other form of corporate action;
+Public Company by Default: A private company whose members exceed 50 as
+prescribed by the Companies and Allied Matters Act (CAMA) at the end of a funding
+round;
+Qualified Institutional Investor: Shall be as defined in the SEC Rules;
+Retail Investor: Any individual investor other than a Corporate, High Net worth,
+Sophisticated Investor or Qualified Institutional Investor;
+Simple Investment Contract: A contract or scheme for the placing of capital in a
+way intended to secure income or profit from its employment and includes participation
+in any profit-sharing agreement by virtue of which:
+ The investors provide the capital;
+3
+ The promoters manage, control and/or operate the enterprise; and
+ The investors share in the earnings and profits;
+Sophisticated Investor: Shall for the purpose of this Rule, mean any person with 3
+years’ experience of actively investing in the capital market and understands the
+relationship between risk and return;
+Tag-along Rights: Means pre-negotiated agreements allowing minority stakeholders
+to sell shares under the same conditions as majority stakeholders.
+Target Plan: Means the proposed use of the funds to be raised on the portal specifying
+full details of the project to be funded and documentary evidence of all forms of
+insurance, and contract with relevant third parties including off-takers and land owners
+(as applicable).
+Trust Account: is as defined in the Act.
+2. Applicability
+These Rules shall apply only to Investment-Based Crowdfunding.
+3. Eligibility
+Only the following entities shall be eligible to raise funds through a Crowdfunding
+Portal operated by a registered Crowdfunding Intermediary, in exchange for the
+issuance of investment instruments;
+i. MSMEs incorporated as a company in Nigeria with a minimum of two-years
+operating track record;
+ii. MSMEs incorporated as a company in Nigeria with less than 2 years operating
+track record but which has a strong technical partner that possesses a minimum
+of 2 years operating track record or has a core investor;
+4. Exemptions from Certain Provisions of the Act
+1. A Fundraiser may offer or sell investment instruments under these Rules without the
+need for prior registration of the investment instruments pursuant to the Act, provided
+that:
+a. The Fundraiser is an entity incorporated in Nigeria, and accredited and/or
+accepted by a Crowdfunding Intermediary to utilize its portal;
+4
+b. The aggregate amount of investment instruments that can be offered and sold
+by the Fundraiser within a 12-month period shall comply with the following
+limits:
+i. The maximum amount which may be raised by a Medium enterprise shall
+not exceed N100Million;
+ii. The maximum amount which may be raised by a Small enterprise shall not
+exceed N70Million;
+iii. The maximum amount which may be raised by a Micro enterprise shall not
+exceed N50Million
+2. The limits set forth above shall not apply to Commodities Investment Platforms, or
+such other MSMEs as may be designated by the Commission from time to time.
+3. The aggregate amount of investments instruments sold to any investor across all
+Fundraisers in investment-based crowdfunding during the 12-month period shall not
+exceed the following limits:
+(i) Retail investors may not invest more than 10% of their net annual
+income in a calendar year.
+(ii) Sophisticated, High Net worth and Qualified Institutional Investors are
+not subject to the limits set forth above.
+4. The issuance of investment instruments shall be conducted through a Crowdfunding
+Portal operated by a registered Crowdfunding Intermediary.
+5. For the purpose of calculating the aggregate amount of investment instruments
+offered and sold by Fundraiser under this Rule, and determining whether a Fundraiser
+has previously sold investment instruments within a 12-month period, the term
+Fundraiser as used in this Rule, shall include all entities controlled by or under common
+control with the Fundraiser and any predecessors of the Fundraiser.
+PART 2 - CROWDFUNDING PORTAL REQUIREMENTS
+5. General Provisions
+(a) Every portal that facilitates, operates, provides or maintains interactions
+between fundraisers and the investing public (crowd) in Nigeria for the purpose
+of any investment-based crowdfunding shall be operated only by an entity
+registered as a Crowdfunding Intermediary
+5
+(b) An entity is considered to be facilitating, operating, providing or maintaining a
+Crowdfunding Portal in Nigeria if:
+(i) the Crowdfunding Portal is operated, provided or maintained in Nigeria;
+or
+(ii) the Crowdfunding Portal is located outside Nigeria but targets Investors
+in Nigeria; or
+(iii) the component parts of the portal when taken together are physically
+located in Nigeria even if any of its component parts, in isolation, is located
+outside Nigeria;
+(c) A Crowdfunding Portal that is located outside Nigeria will be considered as
+actively targeting investors in Nigeria if the operator, or the operator’s
+representative, promotes directly or indirectly the Crowdfunding Portal in
+Nigeria;
+(d) The requirement for registration as a Crowdfunding Intermediary is as listed in
+Schedule 1 of these Rules;
+(e) These provisions do not apply to:
+(i) a technology service provider who merely provides the infrastructure,
+software or the system to an operator;
+(ii) an operator of a communication infrastructure that merely enables orders
+to be routed to an approved stock market;
+(iii) an operator of a financial portal that aggregates content and provides
+links to financial sites of service and information provider.
+6. Registration Requirements
+(a) An application for registration of a Crowdfunding Intermediary shall be made to the
+Commission in the prescribed form and in the manner specified by the Commission
+and shall be accompanied with Certified True Copies (CTC) of:
+(i) The certificate of incorporation certified by the Corporate Affairs
+Commission (CAC);
+(ii) Memorandum and Articles of Association and amendments (if any) certified
+by the Corporate Affairs Commission;
+(iii) CAC Form(s) showing Statement of Share Capital, Return of Allotment, and
+Particulars of Directors;
+(iv) Latest copy of the audited accounts or a copy of the statement of affairs
+signed by its auditors and management accounts that are not more than 9
+months old or a copy of the statement of affairs signed by its auditor as at
+time of filing with the Commission;
+6
+(v) Management accounts that are not more than 1 month old as at the time
+of filing with the Commission;
+(vi) A profile of the Company which shall include amongst other information; a
+brief history of the company, organizational and shareholding structure,
+principal officers as well as details of past and current activities;
+(vii) The name(s) and address(es) of the company’s subsidiaries/associated
+companies/ related entities, type of business and percentage holding;
+(viii) Evidence of payment of shares allotted to the shareholders;
+(ix) Operational manual of the company;
+(x) Business plan;
+(xi) Existing or proposed by-laws or rules, and such other document governing
+the conduct of fundraisers and investors on the portal;
+(xii) Sworn undertaking to promptly furnish the Commission with copies of any
+amendments to its by-laws, rules, or codes;
+(xiii) Information on Crowdfunding IT System to be adopted;
+(xiv) Detailed information about the crowdfunding system to be adopted
+including technical details associated with the portal’s online presence;
+(xv) Proposed brand name of the Crowdfunding Portal including evidence of
+trademark registration of the brand name (where applicable)
+(xvi) Detailed information of all domain names of any website through which the
+Crowdfunding Portal will be operated, social media handles and any other
+online identifiers including evidence of registration (where applicable)
+(xvii) detailed information about the promoters and principal officers of the
+Crowdfunding Intermediary;
+(xviii) Sworn undertaking to keep such records and render such returns as may
+be specified by the Commission from time to time;
+(xix) An application for registration of at least three (3) principal officers of the
+Crowdfunding Intermediary as sponsored individuals on the prescribed
+Form;
+(xx) A person to be so appointed shall include the chief executive of the
+Crowdfunding Intermediary, any person who is primarily responsible for the
+operations and financial management, by whatever name called;
+(xxi) minimum paid-up capital requirement of N100 million;
+(xxii) Current Fidelity Insurance Bond valued at a minimum of 20% of the paid-
+up capital as stipulated by the Commission’s Rules and Regulations;
+(xxiii) a written declaration by the Chief Executive of the Crowdfunding
+Intermediary, and which shall be filed annually, confirming that the
+Crowdfunding Intermediary has, in relation to the Crowdfunding Portal:
+i. sufficient and capable personnel to carry out operations;
+ii. adequate security measures, systems capacity, business continuity plan
+and procedures, risk management, data integrity and confidentiality,
+7
+record keeping and audit trail, for daily operations and to meet
+emergencies; and
+iii. sufficient IT and technical support arrangements.
+(xxiv) Any other information required by the Commission from time to time for the
+protection of investors.
+(b) The cash assets ratio shall be a minimum of 30% liquid assets and 70% fixed and
+other assets.
+7. Criteria for Registration
+(a) The Commission may register a Crowdfunding Intermediary if the Commission is
+satisfied that:
+(i) the Crowdfunding Intermediary will be able to operate an orderly, fair and
+transparent system in relation to the investment instruments that are offered
+through its electronic platform;
+(ii) the board, chief executive, and any officer of the Crowdfunding Intermediary
+who is primarily responsible for the operations or financial management of the
+Crowdfunding Portal, are fit and proper persons who have not:
+1. been convicted, whether within or outside Nigeria, of an offence
+involving fraud or other dishonesty or the conviction of which
+involved a finding that he acted fraudulently or dishonestly;
+2. been convicted of an offence under the Act or any other law
+relating to the capital market;
+3. been blacklisted by a professional body which he belongs to;
+4. been subjected to any disciplinary process or action by the
+Commission or other Self-Regulatory Organization in the Nigerian
+capital market;
+5. contravened any provision made by or under any written law,
+whether within or outside Nigeria appearing to the Commission
+to be enacted for protecting members of the public;
+a. against financial loss due to dishonesty, incompetence or
+malpractice by persons concerned in the provision of
+financial services or the management of companies; or
+b. against financial loss due to the conduct of discharged or
+un-discharged bankrupts;
+6. engaged in any unlawful business practice;
+8
+7. engaged in or has been associated with any other business
+practices or otherwise conducted himself in such a way as to cast
+doubt on his competence and soundness of judgment; or
+8. engaged in or has been associated with any conduct that cast
+doubt on his ability to act in the best interest of investors, having
+regard to his reputation, character, financial integrity and
+reliability;
+(iii) the Crowdfunding Intermediary will be able to manage any risk associated with
+its business and operation;
+(iv) the Crowdfunding Intermediary will be able to take appropriate action against
+a person in breach of any rules, policies, terms and other standards of the
+portal including directing the person in breach to take any necessary remedial
+measure;
+(v) the rules of the Crowdfunding Intermediary make satisfactory provisions:
+1. for the protection of investors and public interest;
+2. to ensure proper functioning of the market;
+3. to promote fairness and transparency;
+4. to manage any conflict of interest that may arise;
+5. to promote fair treatment of all users;
+6. to ensure proper regulation and supervision of its users, or any person
+utilizing or accessing its portal, including suspension and expulsion of
+such persons after consultation with the Commission;
+7. to provide an avenue of appeal against the decision of the operator;
+and;
+(vi) the Crowdfunding Intermediary has sufficient financial, human and other
+resources for the operation of the Crowdfunding Portal, as prescribed by the
+Commission from time to time.
+8. Revocation of Registration
+(a) Without prejudice to the provisions of the SEC Rules and Regulations, the Commission
+may revoke the registration of a Crowdfunding Intermediary where:
+(i) the Crowdfunding Intermediary fails to meet the requirements under any relevant
+provisions of these rules;
+(ii) the Crowdfunding Intermediary fails or ceases to operate or maintain the
+Crowdfunding Portal for a consecutive period of 6 months;
+(iii) there is a failure to pay fees as prescribed by the Commission.
+The Commission may cancel or suspend the registration of a Crowdfunding
+Intermediary where the intermediary contravenes any of the provisions of the Act, the
+9
+rules and regulations, the code of conduct for capital market operators, is guilty of
+fraud, repeated defaults, has been convicted of an offence involving moral turpitude.
+9. Change of Structure or Cessation of Business Operations
+(a) The Crowdfunding Intermediary shall not change its ownership structure or
+discontinue the business or operations of a Crowdfunding Portal without the prior
+approval of the Commission.
+(b) When notifying the Commission of a proposed discontinuation of the business or
+operations of a Crowdfunding portal, the Crowdfunding Intermediary shall submit
+a plan for the reasonable conclusion of any of its ongoing operations or processes
+for the consideration of the Commission;
+(c) Without prejudice to any provisions in this Rule, the Commission may issue a
+directive or impose any term or condition for the purposes of ensuring the orderly
+cessation of the business or operations of a Crowdfunding Portal.
+10. Action by the Commission in the event of Cessation or Suspension
+Without prejudice to the powers of the Commission pursuant to the Act, where the
+Commission suspends, cancels or revokes the registration of a Crowdfunding
+Intermediary, or where a Crowdfunding Intermediary seeks to voluntarily cease
+operations, the Commission shall issue directives regarding one or more of the
+following as may be applicable:
+i. Ongoing issuances on the portal;
+ii. Funds held with custodians on behalf of Fundraisers;
+iii. Repayment to its investors;
+iv. Interim management of the operations of the intermediary;
+v. Such other matter as the Commission considers necessary in the interest of
+investors.
+PART 3 - OBLIGATIONS OF THE CROWDFUNDING INTERMEDIARY
+11. General Obligations
+Every Crowdfunding Intermediary shall
+1. disclose and display prominently on its portal, information relating to the portal
+and its use including:
+a) disclosures of the Fundraisers in respect of;
+i. Details of ownership, management and overall controls structure in
+place at the time of the offering;
+10
+ii. Details of control measures that will guard against losses or
+certifications possessed by the underlying business, if any; and
+iii. Any other information relating to Fundraisers hosted on the portal as
+required by these regulations;
+b) investor education materials and appropriate risk disclosures;
+c) information on how the portal facilitates the investor’s investment including
+providing communication channels to permit discussions about offerings
+hosted on the portal;
+d) a general risk warning on participating in funding through the portal;
+e) information about complaints handling or dispute resolution and its
+procedures;
+f) the fees, charges and other expenses that it may impose on a Fundraiser
+or investor.
+g) An attestation by the crowdfunding intermediary that it has verified the
+legitimacy of the Fundraiser’s business;
+h) An attestation by the crowdfunding intermediary that the operations of the
+Fundraiser’s business are in agreement with the disclosed objectives and
+will continue to be so;
+2. carry out investor education programmes;
+3. ensure the disclosure document lodged with the portal by each Fundraiser is
+verified for accuracy and made accessible to investors through the portal;
+4. inform investors of any material adverse change to a Fundraiser’s proposal as
+set out under this rule;
+5. Ensure Fundraisers comply with the responsibilities and obligations prescribed
+by this rule.
+12. Due Diligence
+(a) A Crowd Funding Intermediary shall carry out due diligence on prospective
+Fundraisers intending to use its portal;
+(b) the Crowdfunding Intermediary should ensure that a Fundraiser seeking to offer
+and sell investment instruments through the portal complies with the
+requirements in this regulation;
+(c) The scope of the due diligence by a Crowdfunding Intermediary shall include
+taking reasonable steps to:
+(i) conduct background checks on the Fundraiser to ensure that the board of
+directors, officers and controlling shareholder(s) of the Fundraiser are fit
+and proper and shall in particular, verify that the board, chief executive,
+and any officer of the Fundraiser who is primarily responsible for its
+operations or financial management have not;
+11
+a. been convicted, whether within or outside Nigeria, of an offence
+involving fraud or other dishonesty or the conviction of which
+involved a finding that he acted fraudulently or dishonestly;
+b. been convicted of an offence under the Act or any other law relating
+to the capital market;
+c. been blacklisted by a professional body which he belongs to;
+d. contravened any provision made by or under any written law,
+whether within or outside Nigeria to be enacted for protecting
+members of the public:
+1. against financial loss due to dishonesty, incompetence or
+malpractice by persons concerned in the provision of
+financial services or the management of companies; or
+2. against financial loss due to the conduct of discharged or
+un-discharged bankrupts;
+e. engaged in any unlawful business practice;
+f. engaged in or has been associated with any other business practices
+or otherwise conducted himself in such a way as to cast doubt on
+his competence and soundness of judgment; or
+g. engaged in or has been associated with any conduct that cast doubt
+on his ability to act in the best interest of investors, having regard
+to his reputation, character, financial integrity and reliability;
+(ii) verify the accuracy and viability of the business proposition of the
+Fundraiser, the solvency of the Fundraiser and if the business forecast is
+based on sound assumptions; and
+(iii) comply with all relevant KYC, and AML/CFT regulations as stipulated by the
+Commission.
+13. Monitoring and Reporting
+A Crowdfunding Intermediary shall:
+(a) monitor the conduct of Fundraisers on its portal and take action against
+misconduct of the Fundraiser;
+(b) monitor Fundraisers to ensure that the fundraising limits imposed on the
+Fundraiser are not breached;
+(c) comply with all reporting obligation as may be specified by this rule and all
+rules and regulations relating to market operators;
+(d) in addition to quarterly and annual CMO returns, file the following reports with
+the Commission, through channels as may be stipulated from time to time:
+I. Monthly reports specifying the following;
+1. Total number of Fundraisers who raised funds through the portal
+during the reporting period;
+12
+2. Total number of investors who invested through the portal during
+the reporting period;
+3. Number and Types of securities or investment contracts issued
+during the reporting period;
+4. Total amount raised on the portal during the reporting period;
+5. Such other information as may be required by the Commission.
+II. Quarterly reports, specifying the following;
+1. Information on Fundraisers who raised funds during the reporting
+period;
+2. Total amount raised on the portal during the reporting period;
+3. Observed breaches or risk incidents during the reporting period and
+steps taken to address same;
+4. Complaints received and steps taken to resolve same during the
+reporting period from investors;
+5. Such other information as may be required by the Commission;
+14. Data Protection and Privacy
+A Crowdfunding Intermediary shall:
+(a) establish appropriate safeguards for ensuring the integrity of the information
+received and published;
+(b) ensure security and confidentiality of information collected from investors;
+(c) ensure that the security of the portal is incorporated into the development and
+hosting of the website of the Crowdfunding Portal in a manner which enables
+the general public identify its safety prior to creating an account on the portal;
+(d) comply with the provisions of the Nigerian Data Protection Regulation and other
+applicable laws;
+(e) Maintain reliable and secure operating systems;
+(f) identify the sources of operational risks and adopt adequate procedures and
+controls to avoid operational disruptions;
+(g) develop and implement a written identity theft prevention program;
+(h) install and ensure the operation of suitable back-up facilities;
+(i) be adequately insured against portal failure or closure;
+(j) keep a copy of all relevant documents for a period of at least 7 years after the
+date on which the document comes into the possession of the portal;
+(k) within 5 working days of receipt of a request for information from an investor,
+provide a copy of, or an extract from, a document that is relevant to the
+investor.
+13
+15. Operation of Trust Account
+(a) Every Crowdfunding Intermediary shall appoint a custodian registered by the
+Commission, who shall establish and maintain a separate trust account for each
+funding round on its portal.
+(b) The Crowdfunding Intermediary shall only direct the custodian to release the
+funds to the Fundraiser after the following conditions are met:
+(i) the targeted amount sought to be raised or the minimum threshold has been
+met;
+(ii) there is no material adverse change relating to the offer during the offer
+period; and
+(iii) all applicable requirements for the registration of securities have been met
+(c) Funds invested will be maintained by the Custodian in an interest yielding trust
+account. The total funds raised and the accruing interest will only be released
+to the Fundraiser after specified conditions provided in these rules and
+regulations have been met.
+(d) The Custodian shall take all reasonable steps and establish measures to ensure
+that it performs all its responsibilities as required by these Rules
+16. Issue, Publication and acknowledgment of Warning Statements
+(a) The Crowdfunding Intermediary shall ensure that a warning statement is
+prominently displayed:
+(i) to all visitors to the site on the home page of the portal; and
+(ii) to every investor, on the subscription landing page for each Fundraiser;
+and
+(iii) on all application forms for investing through the portal.
+(b) The Warning Statement should among other things, warn and advise investors
+that;
+(i) Investing through an online portal is risky and Fundraisers raising funds
+through the portal include new or rapidly growing ventures;
+(ii) Investment in the businesses hosted on the portal is very speculative
+and carries high risks;
+(iii) Investors may lose their entire investment, in the ordinary course of
+business, and must be in a position to bear this risk;
+(iv) Past results are not indicative of future performance
+(v) It is important to ask questions, read all information given carefully, and
+seek independent financial advice before committing themselves;
+14
+(vi) The investment limits of investors are being monitored by the
+Crowdfunding Intermediary;
+(c) The Crowdfunding Intermediary shall ensure every investor affirms to a risk
+acknowledgement form by which the investor confirms:
+(i) their understanding that the proposed investment is a risky investment;
+(ii) the investor may be overpaying for the securities or investment contracts
+issued;
+(iii) their understanding that there may be additional classes of shares with
+rights that are superior to the class of shares being issued through
+crowdfunding;
+(iv) they are able to economically absorb the complete loss of the investment
+they intend to make;
+(v) the proposed investment amount falls within the prescribed investment
+limit for the investor category;
+(vi) the investor will be subject to a lock-in period of at least one year and
+may be subject to a further restriction on the transfer of the securities;
+(vii) the investor may never be able to sell the securities or investment
+instruments,
+(viii) the investor will be provided with no disclosure or less disclosure than
+publicly traded companies,
+(ix) the investor will not have the benefit of protections associated with an
+investment made under a prospectus;
+(x) the investor will not be entitled to claim from the National investor
+protection fund;
+(xi) the portal will not be responsible if the investor loses all or some of the
+money invested.
+(d) At or before the time the investor enters into an agreement to invest, the
+Fundraiser must obtain a signed risk acknowledgement from the investor by which
+the investor confirms that falls within the investment limits and acknowledges the
+risks associated with the investment including the following:
+(i) that the Investor is in compliance with his total annual investment limit.;
+(ii) that the investor has seen and read the warning statement about crowd
+funding (as provided in these Rules);
+(iii) the investor understands that investment based crowd funding is risky and
+that the investor may never be able to sell the securities;
+(iv) the investor may be provided with less disclosure than public companies
+provide;
+(v) the investor may lose his entire investment and confirms that he can bear
+that loss without suffering undue hardship.
+(e) The confirmation must be obtained in writing in a separate document or, if it is
+obtained by electronic means, through a process which ensures it is signed
+15
+electronically in a legally binding form, and obtained separately from the agreement
+to use the service.
+(f) The document must be retained by the Fundraiser for at least 7 years after
+distribution.
+17. Compliance
+(a) Policies and procedures. A Crowdfunding Intermediary must implement written
+policies and procedures relating to the operations of its portal which are
+reasonably designed to achieve compliance with the provisions of the Act and
+the rules and regulations thereunder.
+(b) Inspections and examinations. A Crowdfunding Intermediary shall permit
+the examination and inspection of all of its business and business operations that
+relate to its activities, such as its premises, systems, portal, and records by
+representatives of the Commission.
+18. Record Keeping
+(a) A Crowdfunding Intermediary shall make and preserve the following
+records:
+(i) All records relating to an investor who registers on the portal,
+purchases or attempts to purchase securities or investments through
+its Crowdfunding portal;
+(ii) All records relating to Fundraisers who offer and sell or attempt to
+offer and sell securities or investments through its funding portal and
+the control persons of such Fundraisers;
+(iii) Records of all communications that occur on or through its portal;
+(iv) All records related to persons that use communication channels
+provided by a Crowdfunding Intermediary to promote a Fundraiser’s
+securities or investments or communicate with potential investors;
+(v) Records of all maintenance and internal change logs carried out on
+the portal;
+(vi) All records provided by such Crowdfunding Intermediary to
+Fundraisers and investors through portal or otherwise, including, but
+not limited to:
+16
+1. notices addressing hours of portal operations (if any),
+2. portal malfunctions,
+3. changes to portal procedures,
+4. maintenance of hardware and software,
+5. instructions pertaining to access to the Crowdfunding portal; and
+6. denials of, or limitations on, access to the Crowdfunding portal;
+(vii) All written agreements (or copies thereof) entered into by such
+Crowdfunding Intermediary relating to its business as such;
+(viii) All daily, monthly and quarterly summaries of transactions effected
+through the Crowdfunding Portal, including:
+1. Fundraisers for which the target offering amount has been
+reached and funds distributed;
+2. Transaction volume, expressed in number of transactions,
+number of securities involved in a transaction and total
+amounts raised by, and distributed to, Fundraisers;
+3. A log reflecting the progress of each Fundraiser who offers or
+sells securities through the funding portal toward meeting the
+target offering amount.
+(b) Organizational documents: A Crowdfunding Intermediary shall make and
+preserve during the operation of its Crowdfunding portal and of any
+successor Crowdfunding portal, all organizational documents relating to the
+Crowdfunding portal.
+(c) Format: The records required to be maintained and preserved pursuant to
+paragraph (b) of this Rule must be produced, reproduced, and maintained in
+a non-alterable format which ensures the integrity of the content.
+(d) Third parties: The records required to be made and preserved pursuant to
+this section may be prepared or maintained by a third party on behalf of a
+Crowdfunding intermediary provided that:
+17
+(i) An agreement with a third party shall not relieve a Crowdfunding
+Intermediary from the responsibility to prepare and maintain records as
+specified in this rule.
+(ii) A Crowdfunding Intermediary must file with the Commission a
+written undertaking in a form acceptable to the Commission and signed
+by a duly authorized person of the third party, stating in effect that;
+1. such records are the property of the Crowdfunding
+Intermediary; and will be surrendered upon request by the
+Crowdfunding Intermediary.
+(iii) The undertaking shall include the following:
+With respect to any books and records maintained or preserved on
+behalf of [name of Crowdfunding Intermediary, the undersigned
+hereby acknowledges that the books and records are the property of
+[name of Crowdfunding Intermediary,] and hereby undertakes to
+permit examination of such books and records at any time, or from
+time to time, during business hours by representatives of the
+Securities and Exchange Commission and to furnish to the
+Commission, and its representatives, a true, correct, complete and
+current copy of any, all, or any part of, such books and records.
+(e) Examination of Records: All records held by a Crowdfunding Intermediary are
+subject at any time, or from time to time, to reasonable periodic, special, or
+other examination by the representatives of the Commission as the
+Commission may deem necessary or appropriate in the public interest or for
+the protection of investors. Every Intermediary and/or Fundraiser shall furnish
+to the Commission true, correct, complete and current copies of such records
+of the Intermediary and/or Fundraiser that are requested by the
+representatives of the Commission.
+(f) Preservation of Records: The records required to be kept under this part shall
+be preserved for a period of at least 7 years and kept at the principal place of
+business of the Crowdfunding Intermediary. If the principal place of business
+is outside Nigeria, then upon request of the Commission, the operator shall
+provide such records as requested at a place in Nigeria within seventy-two
+(72) hours after receipt of the request.
+18
+(g) Submission of Yearly Reports: The Crowdfunding Intermediary shall, not later
+than 30 days after the end of each year, submit a report on all crowdfunding
+transactions on its crowdfunding portal. The Crowdfunding Intermediary shall
+file with the Commission and post on the crowdfunding portal;
+(i) a report on an annual basis along with Fundraiser disclosures
+(ii) other Fundraiser submissions certified by the principal executive
+officer of the Fundraiser to be true and complete in all material
+respects; and
+(iii) a description of the financial condition of the Fundraiser as described
+under Fundraiser Requirements”.
+19. Use of Manipulative, Deceptive or Other contrivances
+No Crowdfunding Intermediary or associated person of a Crowdfunding
+Intermediary shall effect any transaction in, or induce the purchase or sale of,
+any security or investment instrument by means of, or by aiding or abetting,
+any manipulative, deceptive or other fraudulent device or contrivance.
+20. Restriction on Cross Ownership
+A Crowdfunding Intermediary shall not allow a Fundraiser to raise funds on its
+Portal if the Crowdfunding Intermediary or any of its officers, directors,
+significant shareholders or associated persons beneficially own or control more
+than 5% of the securities of that Fundraiser.
+PROVIDED THAT where the directors, significant shareholders or associated
+persons of the Crowdfunding Intermediary beneficially own or control more
+than 5% of the securities of a Fundraiser seeking to raise funds through its
+portal, the prior approval of the Commission shall be sought before the
+Fundraiser is granted access to the portal.
+19
+PART 4 - PARTICIPANTS FOR CROWDFUNDING
+21. Fundraiser
+(a) A Fundraiser shall offer its investment instruments through a
+Crowdfunding Portal operated by a registered Crowdfunding
+Intermediary;
+(b) All Fundraisers shall be required to file a standardized offering document
+with the Crowdfunding Intermediary providing amongst others:
+(i) key information on the Fundraiser, including name, legal
+status, physical address, place of incorporation and website;
+(ii) the use of the proceeds;
+(iii) the nature of its existing or proposed business, its business
+plan, the offering amount to be raised and the duration of the
+offer;
+(iv) proposed details of applicable return on investment, coupon
+rate or profit sharing structure as well as information on historical
+performance if any;
+(v) a certification signed by the Fundraiser stating that:
+1. the offering document does not contain a
+misrepresentation; and
+2. Investors have rights of action and withdrawal in the case
+of a misrepresentation
+(vi) financial information relating to the Fundraiser including;
+1. Unaudited interim reports and accounts
+2. Comprehensive schedule of the Fundraiser’s current debt
+profile by type, purpose, tenor and maturity dates;
+3. bank reference on the Fundraiser;
+4. evidence that the issue does not exceed the limit of the
+Fundraiser’s borrowing powers or issued share capital;
+5. details of any bank overdrafts, loans, mortgages, charges,
+hire purchase commitments or guarantees or other material
+contingent liabilities of the Fundraiser and any of its
+subsidiaries;
+20
+6. details of the nature and extent of the interest direct or
+indirect, if any, of every director in any assets;
+7. A statement by the directors that in their opinion the working
+capital available is sufficient, or if not, how it proposes to
+provide the additional working capital required;
+8. details of any share options or such incentives to any person,
+including without limitation, directors, employees, and other
+officers of the Fundraiser; and
+9. other information as the Commission may require from time
+to time.
+(vii) Two years Audited financial statements (if any) or Audited
+Statement of Affairs;
+(viii) A clear outline of investors rights and ownership of
+investment instruments;
+(ix) details of all crowdfunding campaigns embarked on.
+(c) An eligible Fundraiser shall maintain an accurate list and details of all
+investors post issuance, which shall include the full names, address,
+email and the number of units and monetary value of investment
+instruments and which shall specify investors from countries other than
+Nigeria.
+(d) Fundraiser shall make the offering document available to the investor
+through the portal before the investor enters into an agreement to
+purchase the investment instrument.
+(e) A Fundraiser offering securities or investment instruments shall provide
+an investor with a contractual right to withdraw from an offer or
+agreement to purchase the securities or investment instrument by
+delivering a notice to the funding portal up to 48 hours before the close
+of the offer
+(f) The offering document shall not be posted on its website or any other
+media apart from those of the Crowdfunding Portal, provided however
+21
+that the Fundraiser may post a notice on its website regarding the
+offering which directs users to the details on the Crowdfunding Portal.
+(g) The Crowdfunding Intermediary shall deliver a copy of the offering
+materials to the Commission at the time they are posted on its portal.
+(h) Disclosure shall be provided about any entity or person other than the
+Fundraiser promoting the offering.
+(i) The Fundraiser shall not guarantee return on investment either expressly
+or by any implied terms in the offering document or advertisement
+material.
+22. Investors
+(a) Investors may be allowed to invest in companies hosted on the
+Crowdfunding Portal subject to the investment limit specified by the
+Commission from time to time.
+(b) Investors will be given a cooling off period from the time of investment until
+48 hours to the close of the offer within which they may withdraw their
+investment.
+(c) If there is a material adverse change prior to the closing date of the offer,
+affecting the project or the Fundraiser, investors may rescind the
+investment within 7 days from the date the material adverse change
+became public; where the proceeds have not been transferred to the
+Fundraiser.
+(d) Where an investor cancels the offer or agreement to purchase securities or
+investment instruments, all funds which may have been debited from or
+blocked in the account of the investor shall be refunded or released within
+48 hours of the request to cancel.
+23. Obligations of a Crowdfunding Portal
+The Crowdfunding Intermediary shall;
+(a) Comply with all rules, regulations, code of conduct, and laws governing
+capital market operators in Nigeria;
+(b) be knowledgeable about the general structure, features and risks of
+investment instruments presented on its portal;
+(c) conduct due diligence on Fundraisers and their business plans in order to
+ensure that the Fundraisers have genuine business ideas;
+22
+(d) have the obligation, following a notification to the Commission, to restrict
+access of a Fundraiser to its portal, if it has reason to believe that the
+Fundraiser or any of its officers has been convicted of fraud or otherwise
+raises reasonable suspicions of fraudulent activity;
+(e) verify the financial condition of the Fundraisers and disclose relevant
+information on the portal;
+(f) prescribe the minimum threshold for all offers on its portal which shall not
+be less than 50%;
+(g) maintain a list of investors registered on its portal
+(h) maintain a list of investors that invested in each issuance and amounts
+invested;
+(i) take measures to reduce the risk of fraud including, but not limited to;
+(i) having a reasonable basis for believing that a Fundraiser is
+complying with the securities laws; and
+(ii) obtaining background information and regulatory compliance history
+checks on the Fundraiser;
+(j) review the information presented by the Fundraiser on its website to ensure
+that the information adequately sets out the following:
+(i) General features and structure of the investment,
+(ii) Fundraiser-specific risks,
+(iii) Parties involved and any inherent conflicts of interest, and
+(iv) Intended use of funds
+(v) Dashboard showing performance of previous funds raised for non-
+first timer in addition to quarterly fact sheets of running investment
+(k) facilitate a moderated interactive forum on the portal for investors and
+Fundraisers which provides investors with the opportunity to comment on
+offers and Fundraisers subject to the following:
+(i) monitor postings to confirm that the Fundraiser is not
+making any statement or providing information that is
+inconsistent with the offering document, the rules of conduct
+of the portal, or these rules;
+(ii) remove any material that may contain a statement or
+information that is false, deceptive, misleading or that may
+constitute a misrepresentation or untrue statement of a
+material fact;
+(iii) ensure that Fundraisers respond to questions publicly;
+(iv) not participate in any communications through the
+communication channels, apart from establishing guidelines for
+23
+communication and removing abusive or potentially fraudulent
+communication.
+(l) ensure that the Fundraiser does not guarantee return on investment
+either expressly or by any implied terms in the offering document or
+advertisement material.
+Part 5 - REQUIREMENTS WITH RESPECT TO TRANSACTIONS
+24. Receipt of an application by the Crowdfunding Intermediary
+(a) Upon receipt of an application from an eligible Fundraiser, a
+Crowdfunding Intermediary shall, prior to approving the hosting of the
+offer on its portal, provide information to the Commission specifying;
+(i) Promoters;
+(ii) Directors;
+(iii) Shareholders, highlighting holders of 5% and above (directly
+or indirectly) of the Fundraisers’ shares;
+(iv) Area of business; and
+(v) Such other information as the Crowdfunding Portal deems
+relevant or as may be required by the Commission.
+25. Procedure by the Commission Upon Receiving an application
+1. The Commission may, within 2 working days of receipt of information from a
+Crowdfunding Intermediary, if it considers it necessary and in the interest of
+the capital market, require a Crowdfunding Intermediary to provide additional
+information or prohibit an offering
+2. Prior to directing the Crowdfunding Intermediary to prohibit an offering, it shall:
+(a) state the reasons;
+(b) direct the Crowdfunding Intermediary to give the eligible Fundraiser an
+opportunity to be heard;
+24
+(c) make a decision and communicate the decision, as the case may be,
+recommending the appropriate measures that the eligible Fundraiser may take
+in order to comply.
+26. The Offering
+(a) A crowdfunding offering approved by a Crowdfunding Intermediary shall
+be open for no more than 60 days, provided that the period may be
+extended for a further period of not more than 30 days upon such
+conditions as may be specified by the portal;
+(b) The Crowdfunding Intermediary shall adopt an IT System which limits
+the acceptable amount to the target amount and reject additional
+subscriptions once the target amount is reached.
+(c) Where a Fundraiser is unable to meet the prescribed minimum threshold
+for the target offering amount within the approved period, the offer shall
+be withdrawn and the Fundraiser may only commence a new
+crowdfunding offering:
+(i) not earlier than 30 days after the said withdrawal; and
+(ii) upon demonstrating to the Crowdfunding Intermediary that
+all relevant financial and other relevant information have been
+updated.
+(d) In case of any material adverse change relating to a Fundraiser during
+the course of an offering, the investors must be notified of such change
+within a period of 24 hours after becoming aware.
+(e) For an offer to be successfully completed, the minimum threshold or
+target amount indicated in the offering document which must be
+sufficient to accomplish the business objectives of the Fundraiser must
+have been subscribed to
+(f) Funds raised would only be released to the Fundraiser if the target
+amount or the minimum threshold of funds to be raised is met.
+25
+(g) Where the funding target is reached, the Crowdfunding Intermediary
+shall direct the custodian to make funds available to the Fundraiser within
+24 hours of the end of the offer, provided that where the Fundraiser is a
+public company or a public company by default, the Crowdfunding
+Intermediary shall require evidence of registration of the securities with
+the Commission prior to directing the custodian to transfer the funds to
+the Fundraiser (where applicable);
+(h) Where the amount raised meets the minimum amount but falls short of
+the target amount, the Crowdfunding Intermediary shall direct the
+custodian to make the funds available to the Fundraiser upon provision
+of a revised plan for the proposed use of funds to the investors and the
+Crowdfunding Intermediary within one week of the end of the offer.
+Provided that the underlying project(s) to the proposed use of funds can
+be downscaled and executed independently without negatively impacting
+operations of the Fundraiser.
+(i) Where the minimum threshold is not reached at the end of an offer, the
+Crowdfunding Intermediary shall effect a refund to all investors within 48
+hours;
+(j) Investors shall have the right to withdraw any offer or agreement to
+purchase the investments instruments up to 48 hours before the closing
+date stated in the Fundraiser’s offering materials. After the closing date,
+an investor is only able to cancel in the event of a material adverse
+change to the offering where the proceeds have not been transferred
+to the Fundraiser.
+(k) The ability to cancel shall be permissible by means of an automated
+system on the Crowdfunding portal or by notice to the Crowdfunding
+intermediary and the Fundraiser;
+26
+(l) Where the target amount is reached prior to the expiration of a 90-day
+period from the date of the opening of an offer, and a withdrawal occurs
+which reduces the target amount, the Crowdfunding Intermediary may
+permit a re-opening of the offer only for the balance sum and for a period
+not exceeding the unexpended period of 90 days.
+27. Lock-in period
+(a) Investors shall not transfer their investment instrument for a period of one
+year after allotment except if a transfer is:
+(i) to the Fundraiser of the securities or investment instrument;
+(ii) to a qualified institutional investor/High Net-worth Individual(s); or
+(iii) part of an offer for sale registered with the Commission;
+(iv) to Retail Investors registered on the Crowdfunding Portal or to a family
+member of the Investor or to a trust created for the benefit of the family
+member of the investor or in connection with the death or divorce of the
+investor or other similar circumstance.
+(b) The Rules of the Commission on trading in securities of unlisted companies as
+well as the law on the restriction on transferability of the shares of a private
+company shall apply after the lock-in period;
+28. Tag-along Rights
+(a) Admission of an equity offer to a Crowdfunding portal shall be subject to the
+existence and confirmation of tag-along rights for retail investors and
+promoters. The Fundraiser’s articles of association shall provide for the right
+of retail investors and promoters to withdraw from the company or to sell
+the stake, in the event that controlling shareholders transfer control of the
+company to third parties within three years from the conclusion of the offer.
+(b) Admission of a debt offering to a Crowdfunding Portal shall be subject to
+the existence of an early redemption (put) option for all investors. The
+offering document and/or any other agreement governing the investment,
+shall provide for the right of investors to request for an early redemption of
+their investment, in the event that the controlling shareholders transfer
+27
+control of the company to third parties within three years from the
+conclusion of the offer.
+Part 6 – OBLIGATIONS OF THE FUNDRAISER
+29. A Fundraiser proposing to be hosted on a Crowdfunding Portal shall
+submit the relevant information to the Crowdfunding Intermediary
+including the following:
+(a) information that explains the key characteristics of the company;
+(b) information on the expertise of its Management
+(c) information that explains the purpose of the offer and the targeted
+offering amount;
+(d) Audited financial statements or audited statement of affairs of the
+company
+30. Every eligible Fundraiser seeking to raise funds through a Crowdfunding
+portal shall issue an offering document.
+31. The offering document must be short, easy to read, standardized for
+comparability and digital friendly by utilising HyperText links to give easy
+access to detailed information.
+32. General Disclosure Requirements
+(a) The offering document shall disclose the following;
+(i) warnings to investors
+(ii) the name and address of the Fundraiser, directors and officers;
+(iii) holders of more than 5% of the Fundraiser’s equities;
+28
+(iv) description of the business of the Fundraiser;
+(v) principal and peculiar risks facing the business of the Fundraiser;
+(vi) copies of resolutions of the board of the company
+(vii) a narrative discussion of the financial condition of the Fundraiser.
+The discussion should address, to the extent material;
+1. the Fundraiser’s historical results of operations;
+2. its liquidity and capital resources;
+3. how the proceeds from the offering will affect the Fundraiser’s
+liquidity; and
+4. whether these funds or any other additional funds are necessary
+to the viability of the Fundraiser’s business.
+(viii) use of proceeds;
+(ix) target offering amount (and a deadline to reach the target offering
+amount);
+(x) number and price of the securities or investment instruments being
+offered and the associated obligations;
+(xi) capital structure and ownership of the Fundraiser;
+(xii) risk factors;
+(xiii) information about an investor’s right to cancel his/her investment;
+(xiv) related party transactions
+(xv) exit options for investors (which shall be in accordance with the
+provisions of these rules, the rules and regulations of the Commission,
+and applicable companies law).
+29
+33. Risk Disclosure
+The offering document shall state all risks associated with the investment
+without mitigants. This should include:
+(i) liquidity of the securities;
+(ii) that it may be difficult for the investor to resell securities or Investment
+Instruments purchased through the Crowdfunding Portal;
+(iii) restrictions on the ability of an investor to cancel the
+investment;
+(iv) the risk of not getting expected performance on the securities
+purchased;
+(v) risk of not being able to influence management of the Fundraiser,
+including minority shareholding disadvantages for corporate action, and
+the collective action problem;
+(vi) dilution risk; and
+(vii) there is no guarantee of return on the investment.
+34. Ongoing disclosure requirements
+(a) Every Fundraiser with a successful Funding Round on a Crowdfunding Portal
+shall comply with the following continuous disclosure requirements:
+(i) prompt notification to the Crowdfunding Intermediary and to the
+investors in the event of changes and prescribed documentation as
+contained in this regulation;
+(ii) deliver annual audited financial statements to the Crowdfunding
+Intermediary and make them available to each investor on its website;
+(iii) the financial statements must be accompanied by a notice of the
+Fundraiser disclosing in reasonable detail the actual use of the gross
+proceeds of the offer;
+(iv) make available on its website, the Crowdfunding Portal and by email to
+each of its investors, a notice of each of the following events within 24
+hours of their occurrence:
+1. a discontinuation of the Fundraiser’s business,
+2. a change in the Fundraiser’s business, or
+3. a change of control of the Fundraiser.
+30
+(b) Fundraisers under this regime are required to provide ongoing disclosure
+on the issues specified above until the earliest of the following dates:
+(i) the Fundraiser becomes a reporting Fundraiser (listed on a
+recognized exchange),
+(ii) Fundraiser has completed a winding up or dissolution,
+(iii) the Fundraiser has redeemed its debt securities,
+(iv) the Fundraiser buys back the securities issued.
+35. Access to offering and ongoing disclosure documents
+All ongoing disclosure documents must be provided to investors through the
+Crowdfunding portal, the website of the Fundraiser and such other reasonable
+means as may be determined by the Commission from time to time.
+36. Marketing and Communication
+a. a Crowdfunding Intermediary is not prohibited from advertising the
+existence of its portal provided that such advertisement is restricted to
+general information about the portal and its business model, and does
+not include any information on specific offers.
+b. Crowdfunding Intermediaries should ensure that all marketing
+communications to investors by Fundraisers are clearly identifiable as
+such.
+c. The Crowdfunding Intermediary shall approve all marketing materials
+and ensure that marketing materials by Fundraisers comply with the
+general rules of the Commission on advertisements.
+PART 7 – RESTRICTIONS
+37. Prohibited Activities
+(a) The Crowdfunding Intermediary is prohibited from:
+(i) providing any financial assistance to investors for the purpose of
+investing in an offer hosted on its portal; or for which it has provided a
+service; and
+31
+(ii) compensating any finder or introducer for providing the Crowdfunding
+Intermediary with information about potential investors.
+(b) Crowdfunding Intermediaries and or their managers and officers of their portals
+are prohibited from soliciting investments or making recommendations;
+(c) No Crowdfunding Intermediary shall intermediate or facilitate secondary trades
+between buyers and sellers for investment instruments issued pursuant to
+these rules.
+(d) A Crowdfunding Intermediary is prohibited from utilizing any, website, social
+media portals, or third-party portals other than the registered website of the
+Crowdfunding Portal for the purpose of facilitating a crowdfunding offering.
+38. Fundraisers Prohibitions/Restrictions
+(a) Fundraiser shall not directly or indirectly pay a commission, finders’ fee, referral
+fees or similar payment to any person in connection with an offering other than
+to the Crowdfunding Intermediary.
+(b) This restriction does not apply to payments to persons as compensation for
+their services to a Fundraiser in preparing materials in connection with the
+offering such as accounting or legal fees.
+(c) The Fundraiser shall not offer “non-permissible investment instruments”;
+(d) The Fundraiser shall not host an offer concurrently on multiple Crowdfunding
+Portals;
+(e) The Fundraiser is prohibited from lending or financing or arranging lending or
+financing for an investor to purchase Investment Instruments under a
+Crowdfunding offer.
+39. Non-permitted Fundraisers
+The following entities are prohibited from raising funds through a Crowdfunding
+Portal:
+(a) complex structures;
+32
+(b) public listed companies and their subsidiaries;
+(c) companies with no specific business plan or a blind pool;
+(d) companies that propose to use the funds raised to provide loans or invest in
+other entities;
+(e) such other entity as may be specified by the Commission.
+PART 8 –
+ADDITIONAL REQUIREMENTS FOR COMMODITIES INVESTMENT
+PLATFORMS
+40. Without prejudice to the generality of the foregoing, a crowdfunding
+intermediary may operate a commodities investment platform subject to compliance
+with the following additional requirements:
+a) Eligibility: in addition to the eligibility requirements specified in these rules,
+the Crowdfunding Intermediary shall not be registered as a fund manager
+with the Commission;
+b) Portal Requirements: The Crowdfunding Intermediary shall not facilitate on its
+portal any other crowdfunding business other than sourcing funds for
+investments in agriculture or other commodities;
+i. The portal operated by the Crowdfunding Intermediary for investments in
+agricultural or commodities projects shall not be utilised for any other
+funding or marketing purpose;
+ii. A crowdfunding intermediary registered to operate a Commodities
+Investments Platform shall not host a different crowdfunding portal where
+funds would be sourced for non- agricultural or commodities projects
+c) Registration Requirements: The cash assets ratio requirement for a
+Crowdfunding Intermediary operating a Commodities Investment Platform
+33
+shall, without prejudice to the other registration requirements specified in these
+rules, be a minimum of 60% liquid assets and 40% fixed and other assets;
+d) Project Hosting: The Crowdfunding Intermediary shall be eligible to host
+commodities investment projects on its Commodities Investments Platform
+subject to compliance with the following:
+i. Ensure that proper due diligence is carried out on all projects and
+project executors or beneficiaries;
+ii. Provide investors with the following information which shall be
+displayed prominently to investors prior to making an investment;
+1. A Target Plan as defined in these rules;
+2. Location of the proposed project (s) which shall specify the
+city, town and local government area of the relevant state
+where the project will be located;
+3. A disclosure document which complies with the
+requirements of Rule 38 as applicable and in addition
+specifies:
+a. total size of land, quantity of livestock or other
+measurable feature and total amount required to
+fund the hectare with appropriate breakdowns;
+b. the kind of title held to the project site specifying
+whether host owned, executor owned or leased;
+c. information on the commitments reached with the
+project executors/beneficiaries;
+d. general information regarding the commodity which
+shall include the specie (s) to be cultivated, on cost
+of production and secured off-takers; where
+applicable
+34
+e. information on the custodian of the funds to be
+raised;
+f. detailed information on expected profits from the
+project and the percentages to be allocated to the
+executors/beneficiaries, crowdfunding intermediary
+and investors;
+g. a link to the Terms and conditions of sponsorship for
+each project;
+e) Additional Obligations: The Crowdfunding Intermediary shall:
+i. Ensure that adequate records on project owners/executors including
+identification, project location, membership of relevant association,
+guarantors and other relevant details are maintained and disclosed;
+ii. Ensure that the Fundraiser does not guarantee return on investment
+either expressly or by any implied terms in the offering document or
+advertisement materials;
+iii. Comply with the requirements for appointment of a custodian under
+these rules;
+iv. File appropriate returns to the Commission as indicated in these rules,
+including information on compliance with the additional requirements
+specific to its operations;
+v. Where insurance is listed as a feature of an agriculture or other
+commodities project, ensure that the insurance coverage is specific to
+each agricultural or commodities project and shall disclose the
+following:
+35
+1) Name of the insurance company
+2) Amount of insurance coverage
+3) Other details of the insurance coverage
+4) Copy of the insurance policy
+f) Inspections
+i. The operator of the CIP shall provide investors or their appointed
+agents with adequate access to inspect sponsored projects within the
+project cycle;
+ii. Inspections shall be organised at least once in each quarter of the life
+cycle of the project;
+iii. Investors shall be given notice of at least 7 days of a proposed joint
+site visit with other investors,
+iv. Requests for individual site visits by investors or their appointed
+representatives shall be honoured within 7 days of such requests
+subject, to the cost being borne by the investors;
+g) Funding Limit: The maximum amount which may be raised on a Commodities
+Investment Platform within a 12-month period shall not exceed
+N1,000,000,000.00 (One Billion Naira) provided that the Commission may, on
+application and proper verification, grant approval to exceed the specified
+amount.
+PART 9 - MISCELLANEOUS
+41. An Organization or Association may approach the Commission, for the purpose
+of supervising registered Crowdfunding Intermediaries, to register an independent
+Industry Association as a Self-Regulatory Organization or Trade Association.
+PART 10- PENALTY
+42. Any crowdfunding intermediary that fails to comply with these rules shall be
+liable to a fine of not less than N100,000.00 (One Hundred Thousand Naira Only)
+and the sum of N5,000.00 (Five Thousand Naira Only) for every day the violation
+continues and shall in addition be liable for any loss of investor funds arising due to
+36
+the Crowdfunding Intermediary’s failure to comply with its obligations under these
+rules.
+PART 11- TRANSITIONAL PROVISION
+43. Every person/entity operating a crowdfunding portal/digital commodities
+investment platform prior to the commencement of these rules shall restructure its
+operations in compliance with these rules and apply for registration no later than 90
+days from the effective date of these rules.
+Schedule 1
+Registration Forms
+1. Duly Executed Form SEC 3 – For the Company
+2. Form SEC 2 and 2D – Sponsored Individuals/Compliance Officer
+3. Form SEC 2 and 2D – Directors of the Company
+Registration Fees
+1. Evidence of Payment of Filing/Application Fee – N50,000 (Fifty Thousand
+Naira);
+2. Evidence of Payment of Processing Fee – N200,000 (Two Hundred Thousand
+Naira);
+3. Evidence of Payment of Registration Fee – N500,000 (Five Hundred
+Thousand Naira);
+4. Evidence of Payment of Sponsored Individual Fee – N50,000 (Fifty
+Thousand Naira) for each sponsored individual.
+Schedule 2
+Transaction Fees
+1. The total fees payable to parties to a crowdfunding issue shall not exceed 5% of
+the total funds raised.
+2. Fees payable by the Crowdfunding Intermediary to the Commission shall be 5% of
+the annual turnover of the Crowdfunding Intermediary.
+37
+38

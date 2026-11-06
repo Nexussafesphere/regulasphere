@@ -1,0 +1,485 @@
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+1
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+CONTENTS
+Mandate ...................................................................................................................................3
+Foreword by the Minister ....................................................................................................4
+Authority ..................................................................................................................................6
+Stakeholder Engagement ...................................................................................................7
+Vision and Mission ................................................................................................................8
+State of Affairs of the Telecom Sector .............................................................................9
+Focus Areas and Policy Objectives ..................................................................................11
+Special Purpose Vehicle .....................................................................................................18
+Acronyms ................................................................................................................................19
+Key Stakeholders ................................................................................................................20
+2
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Mandate
+3
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Foreword by the Honourable Minister
+The Journey So Far
+Following my assumption of office as the Honourable Minister of Communications
+of the Federal Republic of Nigeria on the 21st of August, 2019, we assessed the
+role of the Ministry in the development of the economy and how we could align this
+with the global best practice. We then made a recommendation to His Excellency,
+President Muhammadu Buhari, GCFR, for the redesignation of the Ministry as the
+Federal Ministry of Communications and Digital Economy. Mr President approved
+this request on the 17th of October, 2019 and this was presented to the Federal
+Executive Council of the 23rd October, 2019. The implementation of the revised
+mandate of the Ministry commenced on the 24th of October 2019.
+The National Digital Economy Policy and Strategy (NDEPS) for a Digital Nigeria
+was developed as part of efforts to develop Nigeria’s digital economy. A National
+Broadband Plan (NNBP) was also developed to guide efforts of the Federal
+Government towards deepening broadband penetration in the country. His
+Excellency, President Muhammadu Buhari, GCFR, graciously launched and
+unveiled both the NDEPS and the NNBP on the 28th of November 2019 and the
+19th of March 2020, respectively.
+The implementation of both the NDEPS and the NNBP have commenced in earnest
+and have already started yielding a number of positive results and creating an
+enabling environment for the development of Nigeria’s digital economy. For
+example, we have been able to resolve the Right of Way (RoW) challenge that
+had lingered for close to a decade. I met and discussed the issue with the State
+Governors under the auspices of the Nigeria Governors’ Forum (NGF) on the
+22nd of January 2020.
+As a result of the meeting, several State Governors have now pegged their RoW
+4
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+fees at a maximum of N145/linear metre, some now collect just N1 per
+kilometre of fibre and others have waived the fee altogether. Examples of amounts
+charged per linear metre in the past include N4,500 and N5,500. To give a
+better illustration,for a particular State, the estimated cost of connecting two Local
+Government Areas was a staggering N650 Million before the implementation of
+there solution and now it costs just N150,000!
+In addition to the resolution of the RoW issues, the Mobile Network Operators
+(MNOs), telecom providers and other broadband companies can also heave
+a sigh of relieve regarding their repeated complaints about the vandalisation
+of their equipment. This is as a result of Mr President’s approval of the request
+of the Federal Ministry of Communications and Digital Economy. Mr President
+directed the security agencies to protect all Critical National Infrastructure(CNI) in
+the country.
+The recent 2020 Q2 Gross Domestic Product (GDP) Report released by the
+National Bureau of Statistics (NBS) showed that ICT contributed an unprecedented
+17.83% to Nigeria’s total real GDP. This is a reflection of the steps taken by
+the Ministry to reposition the sector.
+The focus of the Policy aligns with Pillar #8 of the NDEPS document, which deals
+with the development of Indigenous Content Development and Adoption. The
+growth of indigenous content in the digital sector can accelerate the growth
+of the sector and ensure that the nation can stem the tide of capital flight and
+increase the value addition of indigenous content to the sector.
+I wish to call on all stakeholders to support us in the implementation of this Policy.
+Dr Isa Ali Ibrahim (Pantami), FNCS,FBCS,FIIM
+Minister, Federal Ministry of Communications and Digital Economy of the Federal
+Republic of Nigeria
+5
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Authority
+This Policy has been developed under the authority of the Honourable Minister
+of Communications and Digital Economy in line with the following sections
+of the Constitution of the Federal Republic of Nigeria 1999, as amended and the
+Nigerian Communications Act 2003 (NCA 2003):
+i. Section 148 of the Constitution: “The President may, in his discretion, assign
+to the Vice-President or any Minister of the Government of the Federation
+responsibility for any business of the Government of the Federation, including
+the administration of any department of government”.
+ii. Subsection 23(a) of NCA 2003: The Minister shall have the following
+responsibilities and functions pursuant to this Act— the formulation,
+determination and monitoring, of the general policy for the communications
+sector in Nigeria with a view to ensuring, amongst others, the utilisation of the
+sector as a platform for the economic and social development of Nigeria; and
+iii. Subsection 25(1) of NCA 2003: The Minister shall, in writing, from time to time
+notify the Commission or and express his views on the general policy direction
+of the Federal Government in respect of the communications sector.
+iv. Presidential Mandate by His Excellency, President Muhammadu Buhari, GCFR,
+in the National Digital Economy Policy and Strategy document directing the
+“Honourable Minister of Communications and Digital Economy to work with
+all relevant government agencies to ensure that we rapidly expand our digital
+economy to take advantage of the immense opportunities on the continent
+and across the globe.”
+The Policy also derives its authority from the Presidential Executive Order 003
+issued by the Federal Government in May 2017 on “Support for Local Content
+Procurements by Ministries, Department and Agencies of the Federal Government
+of Nigeria” and the Presidential Order 005 issued in February 2018 for the
+“Planning and Execution of Projects, Promotion of Nigerian Content in Contracts
+and Science, Engineering and Technology”.
+This document can be cited as “National Policy for the Promotion of Indigenous
+Content in the Nigerian Telecommunications Sector” and shall come into effect
+the date of the signature.
+6
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Stakeholder Engagement
+The Policy formulation process involved the engagement of all relevant
+stakeholders in the public and private sector.
+The engagements were in three phases. The draft Policy was shared with the
+stakeholders, they reviewed and provided invaluable comments and contributions
+which were included in the updated version.
+7
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Vision and Mission
+Vision
+“To develop and patronise indigenous content in the telecommunications sector
+to create top quality indigenous content to propel the sector”
+Mission
+“We develop a telecommunications sector where innovative indigenous solutions
+create value and prosperity for all.”
+Core Values
+• Competence
+• Integrity
+• Creativity
+• Innovation
+• Entrepreneurship
+8
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+State of Affairs of the Nigerian
+Telecom Sector
+The Nigerian telecom sector has experienced a lot of growth over the last two
+decades. For example, the sector has experienced a significant increase in the
+number of subscribers and an exponential increase in the inflow of Foreign Direct
+Investment (FDI). The Nigerian Communications Commission, acknowledging
+the country’s FDI gains stated that the industry moved from a paltry $60 million
+private sector investment in 2000 to about $68 billion in 2016.
+Much as there has been a lot of progress in the sector, it is still useful to identify
+the areas where much progress can be made. One of such is the area of capital
+flight, which has also been significant. The Federal Government is committed
+to reducing this amount significantly, in line with the mandate of His Excellency,
+President Muhammadu Buhari GCFR that we “produce what we eat and consume
+what we produce”.
+According to available statistics provided by the leadership of the Association
+of Telecommunications Companies of Nigeria (ATCON), the annual outflow of
+foreign exchange for the telecommunications sector amounts to approximately
+$2.16 billion. A breakdown of the forex spending is as follows:
+i. CAPEX Programs- $750m
+ii. Network Software Licensing- $250m
+iii. Management Fees- $800m
+iv. Managed Services (Tier 2 & 3 Support)- $157m
+v. Miscellaneous (International circuits,roaming and terminations
+reconciliations etc) - $200m
+The statistics were based on the average annual reports of a sample of industry
+players in the telecommunications space over a 5 year period. This is a significant
+portion of our average annual budget and it is critical that this trend is reversed.
+A survey of industry players conducted by the Nigerian Communications
+Commission (NCC) in 2018 resulted in the following findings:
+i. the ratio of Nigerians to Foreigners (for Senior, Line, Contract and Outsourced
+staff) in the industry is high in absolute terms (i.e. 98% to 2%). However, it should
+be noted that the larger operators (especially the Mobile Network Operators)
+have a healthier balance than smaller licensees and service providers;
+9
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+ii. there is also a higher percentage of foreigners among top management staff
+when compared with other staff, with Nigerians making up 31%, in relation to
+foreigners who make up 69%;
+iii. for software, 77% of software in use are foreign, while only 23% are obtained
+locally;
+iv. with respect to hardware being used by the companies interviewed, 86% of
+them are foreign while 14% come from local companies; and
+v. data on Base Transceiver Stations (BTS) also revealed a dominance of foreign
+products over those produced locally, as 88% are foreign with only 12% being
+manufactured in Nigeria.
+10
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Focus Areas and Policy Objectives
+In order to successfully promote indigenous content in the telecommunications
+sector, this Policy focuses on key areas where the development of such capacity
+will have the greatest level of impact.
+The following have been identified as such areas:
+1. Manufacturing;
+• Subscriber Identity Module (SIM) cards, smartphones, recharge cards, parts,
+fibre optic cables, masts, etc
+2. Services and Software for Telecom sector;
+• Business Support Services (BSS), Operations Support Systems (OSS),
+Performance Monitoring, Customer Resource Management, Data Analytics
+and Network Inventory Management, etc.
+3. People;
+• An emphasis on skills rather than degrees, a support for emerging
+technologies, etc
+4. Research and Development for Digital Innovation and Entrepreneurship.
+Defining “Indigenous” within the Context of the Policy
+It is important that this Policy provides clarity on the scope of interpretation of
+“Indigenous” in the context of the implementation of the Policy as this will assistin
+the monitoring and enforcement of compliance.
+“Indigenous” in the context of this Policy, and in line with the Presidential Order
+005 of February 2018, refers to companies that meet the following criteria,
+amongst others:
+(i) incorporated or otherwise organized in Nigeria;
+(ii) having its principal place of business located in Nigeria; and
+(iii) having at least 51% of its equity held by nationals of Nigeria.
+The overall objectives of the Policy for Promoting Indigenous Content in the
+Nigerian Telecommunications sector are as follows:
+11
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+i. to create a framework for supporting indigenous telecom businesses to
+become world class service providers;
+ii. ensure compliance with existing regulatory guidelines for indigenous content;
+iii. to highlight and promote indigenous capacities in the telecommunications
+sector;
+iv. to foster collaboration between global Original Equipment Manufacturers
+(OEMs) engaged in the manufacturing of telecommunications equipmentand
+indigenous players;
+v. to ensure strategic partnerships with relevant regulatory agencies to create
+joint efforts to promote indigenous content;
+vi. to enable the indigenous telecom industry to contribute significantly towards
+the overall development of the telecom industry; and
+vii. to encourage and incentivise the participation of indigenous telecom
+institutions in relevant Standards Development Organisations.
+The next section focuses on the overview and objectives for each of the focus
+areas of this Policy.
+1. MANUFACTURING
+Overview
+The end-to-end value chain of the telecommunications industry is highly
+relianton the availability of the right equipment. For example, equipment like
+switches, base transceiver stations, fibre optic cables, multiplexers, modems,
+connectors,equipment racks and mobile phones are used across the value chain
+to provide, amongst other things, switching, transmission, and they also serve as
+customerservice equipment. This also includes the assembly and fabrication of
+equipment masts and tools.
+A significant portion of expenditure in the telecom industry is on such
+equipment,most of which are manufactured outside the shores of the country.
+Furthermore, only a small percentage of the needs for telecom equipment are
+met by indigenous providers even though global manufacturers source raw
+materials from the country.
+As part of the activities to promote the local manufacturing of telecommunication
+products, ancillary sub-sectors like the fabrication, telecommunications raw
+12
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+materials and components, circuit board design and manufacture, battery
+manufacture and other sub-sectors need to be actively developed.
+Generally, telecommunications equipment manufacturers and suppliers are
+classified into broad categories such as Consumer Premises Equipment (CPE)
+and Network Equipment category. The CPE segment is characterized by high
+volumes,less complexity, lower shelf-life and low maintenance. Conversely,
+the latter is characterised by low volumes (mainly Business2Business), higher
+complexity, higher shelf-life and higher maintenance. As such, this Policy prioritizes
+the manufacturing of CPEs.
+Policy Objectives on Manufacturing
+The objectives of the Manufacturing Focus Area include the following:
+i. to stimulate the design, development, production, sales and utilization of high
+quality telecom equipment and services developed by indigenous companies;
+ii. to develop indigenous telecommunication companies to become world class
+manufacturers service providers;
+iii. to incentivise the production of cables, connectors, masts and telecom tools
+in a way that meets global minimum and certification standards;
+iv. to support local manufacturing through relevant institutions, such as the
+Universal Service Provision Fund (USPF), Central Bank of Nigeria (CBN), etc;
+v. to encourage the establishment of vocational training institutes focused onthe
+design, fabrication and assembly of telecom equipment; and
+vi. to encourage partnerships and collaboration between global Original Equipment
+Manufacturers (OEMs) engaged in the manufacturing of telecommunications
+equipment and indigenous players.
+Telecom operators with foreign participation need to prepare and present to the
+Regulator plans for local manufacturing of foreign sourced software, equipment
+and devices. There is a need to begin the implementation of the National SIM
+Policy to manufacture locally with immediate effect.
+Type Approval
+The intended production and manufacturing of these devices and equipment
+should be Type Approved by the NCC and Standards Organisation of Nigeria
+(SON), where applicable. This is to ensure that the telecommunications devices
+13
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+and equipment are up to the Commission’s specifications and standards and also
+adhere to international standards.
+Furthermore, the type approval process should also be firmly enforced by the
+Regulator to ensure that cheap, substandard devices are not allowed to proliferate
+in our country. There is also need for a strategy to develop initiatives to encourage
+the ability to acquire a good quality smartphone at affordable prices for large
+numbers of people especially in rural, unserved and underserved areas.
+2. SERVICES
+Telecommunications equipment require the right software services to operate
+optimally. According to a forecast by Statistica, the telecommunications software
+industry is expected to generate $82.2 billion globally in 2020. Software
+deployments in the telecom sector cover a range of services for both business
+support systems (BSS) and operations support systems (OSS). Services like
+performance monitoring, billing, customer resource management, analytics
+andnetwork inventory management. Emerging technologies, such as data
+analytics, are now being utilized on a regular basis.
+Telecommunication service providers also make use of a number of value added
+services, including Over-The-Top (OTT) services. This focus area also covers
+mobile virtual network operating services and other exclusive telecom services,
+such as call centre operation, mast site protection and other service contracts.
+In addition, with the increased virtualization of services, normalization of work-
+from-home trends, and increased focus on digitalization (whether data privacy,
+data protection, data analytics, data mining, data retention), it is important to
+have a focus on data residency/localization as a strategic policy tool to tilt the
+economic power balance of global players within the country. Data localization
+requires that datacreated within certain borders stay within them hence focuses
+on the creation and storage of personal data within our geographical borders.
+Enforcing the retention of such data would incentivize the development and growth
+of the indigenous data center industry driving investment in infrastructureand the
+creation of jobs, mitigate reliance on global data players for access to citizen and
+national data, and ensure the country is self-reliant in guaranteeing access to
+data and online services for its citizens, businesses and governments. According
+to a research by OMDIA Research and Consulting, voice traffic made up 72% of
+Nigeria overall $6.58 billion mobile revenue in 2019. However, the 28% from data
+in 2019 was a 12% increase from the 2018 value. Data revenue is projected to
+reach 50% of the total revenue by 2024.
+There is sufficient capacity for the indigenous development of these software
+14
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+and services but the industry currently has a high level of dependence on
+foreign software and services. Indigenous providers can benefit from the many
+opportunities in services focus area.
+Policy Objectives of Services
+The objectives of the Services Focus Area include the following:
+i. to enable the indigenous telecom industry to contribute significantly
+towards the overall development of the telecom industry;
+ii. to increase public sector patronage of indigenous telecom businesses and
+services;
+iii. to create a conducive environment for companies and service providers to
+participate in the telecom industry;
+iv. to institutionalize a mechanism to ensure that certain category of telecom
+services are reserved for indigenous players; and
+v. to monitor and analyze indigenous content compliance by operators and
+service providers.
+3. PEOPLE
+According to a 2017 Report by the World Bank titled “Human Capital: The Greatest
+Asset of Economies on the Rise”, ‘the skills, knowledge, and innovation that
+people accumulate are the greatest assets of economies on the rise’. As such, it
+is evident that people are the most important assets of organisations, including
+those that support the telecom ecosystem. The number of employees in the
+telecom industry that can be classified as indigenous is still low when compared
+to non-indigenous employees. Furthermore, a large proportion of the indigenous
+employees handle roles that are non-technical in nature.
+A number of reasons are adduced for thisdisparity but the most common one
+is the often stated lack of sufficient technical skills capacity by the indigenous
+employees to take up more technical roles.
+Policy Objectives on People
+The objectives of the People Focus Area include the following:
+i. to build the skills capacity of Nigerians and the indigenous telecom
+companiesin order to access opportunities within the sector;
+15
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+ii. to define minimum indigenous content levels for projects across the
+telecommunications value chain; and
+iii. to support the development of the local telecom startup and entrepreneurial
+ecosystem by making the licensing framework less cumbersome for new entrants
+and telecom startups, for example.
+Succession Planning in the Telecom Sector
+Telecom companies with foreign participation should have clear succession
+plans for Senior Management Positions with conscious actions at building the
+capacity and providing the opportunity for indigenes to attain senior management
+positions within the larger operators.
+A minimum Expatriate Quota requirement, which states that each expatriate
+employed by a company should be understudied by two Nigerians and that
+Expatriate Quota approvals by Ministry of Interior have validity dates, should
+be adhered to. Further, the expatriate quota in the telecommunications sector
+should be referred to the regulator before approval leaving room as this will aid
+in compliance monitoring.
+To support this approach, modalities should be put in place to ensure that
+foreign companies are not allowed to trade directly in certain segments of the
+telecommunications markets unless there is a certain percentage of indigenous
+content or ownership.
+4. RESEARCH AND DEVELOPMENT FOR INNOVATION
+The telecommunications sector is an example of a sector that relies on constant
+innovation in order to thrive. The level of innovation adopted by telecom institutions
+can distinguish them from their competitors. Research and Development (R&D)
+activities provide the bedrock for such innovation.
+In line with global best practice, most leading telecommunication companies
+around the world have a dedicated and well supported R&D team. It is necessary
+to ensure that telecom companies in the country also create a well- supported R&D
+team to drive innovation in their institutions as well as in the telecommunications
+sector.
+Indigenous telecommunications companies are encouraged to actively
+participate in the activities of Standards Development Organisations (SDOs) fora
+where telecommunications standards are set. These SDOs provide a platform for
+learning and innovation and have been critical in advancing and disseminating
+technological standards throughout the world.
+16
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Examples of SDOs include the IEEE Standards Association (IEEE-SA), European
+Telecommunications Standards Institute (ETSI), Alliance for Telecommunications
+Industry Solutions (ATIS), and ITU Telecommunication Standardization Sector
+(ITU-T).
+Policy Objectives on Research and Development for Innovation
+The objectives of the Research and Development for Innovation Focus Area
+include the following:
+i. to support win-win partnerships and knowledge transfer between indigenous
+and foreign companies;
+ii. to support research and development efforts aimed at advancing the impact
+of indigenous content in the telecom sector;
+iii. to drive the inclusion of telecommunications-related training and in the
+curricula of tertiary and skills-based institutions;
+iv. to mandate telecom institutions to create a platform for research and
+development within the country; and
+v. to encourage and incentivise the participation of indigenous research
+institutions, operators, and telecom equipment manufacturing companies in
+deliberations at the appropriate Standards Development Organisations.
+17
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Special Purpose Vehicle
+The Nigeria Office for Developing the Indigenous Telecom Sector (NODITS)
+will serve as a Special Purpose Vehicle (SPV) under the purview of the Nigerian
+Communications Commission (NCC) to stimulate the development of indigenous
+content in the telecommunications sector of Nigeria. NODITS will implement
+this Policy, as well strategies, standards, guidelines and frameworks aimed at
+developing indigenous content in the Nigerian telecommunications sector.
+The main functions of NODITS should include the following, where relevant:
+i. to support the creation and implementation of guidelines for the development
+of the indigenous content for the telecommunications sector;
+ii. to stimulate the growth of the sector through a focused, sustainable and
+incentives-based approach that encourages the active participation of the
+indigenous telecom operators;
+iii. liaise with the Office for Indigenous Content Development at NITDA;
+(Quarterly Meeting)- for synergy and convergence of digital technologies;
+iv. to facilitate the sourcing of indigenous products, manpower and services
+across the entire value chain of the telecom sector;
+v. to evaluate and endorse Indigenous Content plans for operators in the
+telecom sector;
+vi. to create a platform for research and capacity building programs that
+prepares Nigerians to play a leading role in the telecom sector;
+vii. to promote innovation and entrepreneurship in the telecom sector;
+viii. promotion of indigenous phones and other telecommunications equipment;
+ix. to create and update a roadmap for the implementation of this Policy and
+ensure active monitoring and enforcement mechanisms for promoting indigenous
+content in the telecommunications sector; and
+x. to monitor indigenous content compliance by operators and service
+providers.
+18
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Acronyms
+ALTON - Association of Licensed Telecom Operators of Nigeria
+ATCON - Association of Telecommunications Companies of Nigeria
+BTS - BaseTransceiver Station
+BSS - Business Support Systems
+CAPEX - Capital Expenditure
+CNI - Critical National Infrastructure
+CPE - Consumer Premises Equipment
+FDI - Foreign Direct Investment
+FEC - Federal Executive Council
+MDAs - Ministries, Departments and Agencies
+MNO - Mobile Network Operators
+NBS - National Bureau of Statistics
+NCA - Nigerian Communications Act
+NCC - Nigerian Communications Commission
+NDEPS - National Digital Economy Policy and Strategy
+NGF - Nigeria Governors’ Forum
+NNBP - Nigerian National Broadband Plan
+OEM -Original Equipment Manufacturer
+OSS - Operations Support Systems (OSS)
+OPEX - Operating Expenditure
+OTT - Over-The-Top
+R&D - Research and Development
+RoW- Right of Way
+SON - Standards Organisation of Nigeria
+SDO - Standards Development Organisation
+19
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+Key Stakeholders
+1. Federal Ministry of Communications and Digital Economy
+2. Federal Ministry of Industry, Trade and Investment
+3. Federal Ministry of Finance, Budget and Planning
+4. Federal Ministry of Science and Technology
+5. Nigerian Communications Commission
+6. National Information Technology Development Agency
+7. Galaxy Backbone Plc
+8. Nigerian Communications Satellite Ltd
+9. Universal Service Provision Fund
+10. National Identity Management Commission
+11. Central Bank of Nigeria
+12. Standards Organisation of Nigeria
+13. Bureau for Public Procurement
+14. National Office for Technology Acquisition and Promotion
+15. The National Assembly (Leadership and Applicable Committees)
+16. Association of Telecommunications Companies of Nigeria (ATCON)
+17. Association of Licensed Telecom Operators of Nigeria (ALTON)
+20
+National Policy for the Promotion of Indigenous Content in the Nigerian Telecommunications Sector
+21

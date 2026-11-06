@@ -1,0 +1,505 @@
+
+REGULATION ON END-TO-END ELECTRONIC PAYMENT OF
+SALARIES, PENSIONS & OTHER REMITTANCES, SUPPLIERS
+AND REVENUE COLLECTIONS IN NIGERIA
+REVISED, 2018
+1 | P age
+TABLE OF CONTENTS
+Contents
+SECTION A: INTRODUCTION ........................................................................................................... 3
+OBJECTIVE .................................................................................................................................... 3
+SCOPE .......................................................................................................................................... 3
+THE ROLE OF THE CENTRAL BANK OF NIGERIA ........................................................................... 3
+SECTION B: ROLES AND RESPONSIBILITIES OF CBN REGULATED STAKEHOLDERS .......................... 4
+Deposit Money Banks, Other Financial Institutions and Mobile Money Operators ............... 4
+Infractions and sanctions......................................................................................................... 5
+Payment Solution Service Providers ........................................................................................ 7
+Infractions and sanctions......................................................................................................... 8
+SECTION C: OPERATIONAL STANDARDS FOR OTHER STAKEHOLDERS ............................................ 9
+Payers ...................................................................................................................................... 9
+Beneficiaries .......................................................................................................................... 10
+SECTION D: OTHERS....................................................................................................................... 12
+DISPUTE RESOLUTION ............................................................................................................... 12
+COMPLIANCE ............................................................................................................................. 13
+GLOSSARY OF TERMS ................................................................................................................ 13
+2 | P age
+REGULATIONS ON END-TO-END ELECTRONIC PAYMENT OF SALARIES,
+PENSIONS & OTHER REMITTANCES, SUPPLIERS AND REVENUE
+COLLECTIONS IN NIGERIA
+SECTION A: INTRODUCTION
+The Central Bank of Nigeria (CBN), herein after called the Bank, in exercise of its powers,
+as provided in the CBN Act, 2007, Section 47, sub section 2(2d), hereby issues the
+following Regulation on the end-to-end electronic Payment of Salaries, Pensions & other
+Remittances, Suppliers and Revenue Collections in Nigeria.
+OBJECTIVE
+The objective of the end-to-end electronic payment of salaries, pensions, suppliers and
+taxes initiative is fully aligned with the core objectives of the National Payment Systems
+Vision 2020 (PSV2020), which is to ensure the availability of safe, effective and efficient
+mechanisms for conveniently making and receiving all types of payments from any
+location and at any time, through multiple electronic channels. This will reduce the time
+and costs of transactions, minimise leakages in revenue receipts and at the same time
+provide reliable audit trails, thereby making the Nigerian payments system align with
+international best practices.
+This Regulation therefore is set out to provide all stakeholders with the operational
+procedures and regulations that guide end-to-end electronic payment, as defined in
+section 6.0(i) of this Regulation, of all forms of Salaries, Pensions, Suppliers and Taxes in
+Nigeria including levies, social payments, penalties, recovery, bills, honorarium etc.
+SCOPE
+This Regulation applies to all CBN regulated entities operating in Nigeria and mandates
+adoption, implementation and compliance with the directives on end-to-end electronic
+payments of all forms of salaries, pensions, suppliers, taxes and other forms of levies,
+social payments, penalties, recovery, bills, honorarium etc. herein referred to collectively
+as ‘payments and collections’
+THE ROLE OF THE CENTRAL BANK OF NIGERIA
+Central Bank of Nigeria-“the Bank”
+The Bank shall -
+a) promote the adoption of end-to-end electronic payment by all stakeholders
+3 | P age
+identified in Sections B and C of this Regulation;
+b) license end-to-end electronic payment solution, systems and service
+providers and regulate their operations;
+c) create and maintain a platform for constant interaction and engagement of
+all electronic payment industry stakeholders
+d) ensure all statutory payments, remittances and collections of Government are
+undertaken only on a Bank approved end-to-end electronic payment
+platform
+e) ensure constant review and update of these Regulation to reflect new
+developments that can support the long-term success of the initiative;
+f) arbitrate in the case of disputes;
+g) maintain a Help Desk to provide enlightenment, receive complaints and
+monitor resolution of the reported cases and publish customer
+service/contact details via multiple media
+h) exercise oversight functions, including monitoring and inspection of all
+aspects of end-to-end electronic payments of salaries, pensions, suppliers and
+taxes; and
+i) collaborate with other statutory and regulatory agencies whose cooperation
+is required for the effective implementation of this Regulation.
+SECTION B: ROLES AND RESPONSIBILITIES OF CBN
+REGULATED STAKEHOLDERS
+This section refers to all financial institutions and Payments Service Providers licensed by
+the Bank which includes, but not limited to the following:
+a) Deposit Money Banks;
+b) Other Financial Institutions and Financial Services Providers;
+c) Payment Systems Services Providers (PSSP);
+Deposit Money Banks, Other Financial Institutions and Mobile Money
+Operators
+Deposit Money Banks, OFIs and MMOs shall -
+a) promote the adoption of end-to-end electronic payments by all stakeholders
+covered by this Regulation;
+b) provide payers and beneficiaries with e-payment enabled bank accounts with
+Deposit Money Banks, Other Financial Institutions or any other approved
+channel for receiving payments such as mobile money/electronic wallet,
+subject to the Bank’s approved KYC limits;
+c) process electronic payment instructions in accordance with subsisting payments
+system and clearing system rules;
+4 | P age
+d) publish customer service/ contact centres details via multiple media channels
+and maintain customer service contact centres, to promptly attend to all
+electronic payment enquiries and challenges within stipulated timelines; and
+report of customer complaints, indicating resolution status
+e) make available any or combination of the following data sets, as may be
+applicable, along with the mandatory returns to the Bank, on a monthly basis or
+as may be otherwise specified:
+ No. of salary/pension/tax paying client organisations
+ Salaries/pension/tax payment transactions count
+ Salaries/pension/suppliers/tax payment transactions value per payment
+method given below;
+o End-to-end
+o Bank Assist
+o Cheques
+o Manual
+f) in the event of duplicated/excess payments, should establish a recovery
+process engaging both Payers and Beneficiaries in line with existing Regulation
+on Operation of Electronic Payment Channels in Nigeria
+Infractions and sanctions
+S/N Responsibility Compliance Infractions Sanctions
+1 Ensure all beneficiaries’ Successful Imposition of Penalty of N1,000
+accounts are enabled to electronic constraints to for each
+hinder electronic transaction thereof
+receive authorised payment into an
+payment into a not processed on a
+electronic in-flows from e-payment
+beneficiary’s Bank approved e-
+Payers enabled account.
+accounts contrary payment platform
+to AML/ KYC and due to constraints
+other related imposed by a DMB
+regulation. or payment
+scheme
+2 Ensure consummation of a) Application a) Transactions a) Penalty of
+all electronic payments of funds to not N1,000 per
+within timelines beneficiaries consummat transaction or
+stipulated by the Bank accounts as ed within any part
+[refer to the Bank prescribed by the timelines thereof not
+Regulation on Operation the Bank prescribed consummated
+of Electronic Payment in the within
+Channels in Nigeria] b) Return [circular] stipulated
+unapplied timeline.
+funds to
+payer’s b) Funds to be
+account no returned at the
+later than b) Non-return prevailing MPR
+24hours of un- for the period
+applied and report of
+5 | P age
+S/N Responsibility Compliance Infractions Sanctions
+funds to infraction in
+payer’s annual report.
+account
+within 24 c) Other penalty
+hours as may be
+applicable in
+the Bank
+Regulation on
+Operation of
+Electronic
+Payment
+Channels in
+Nigeria
+3 Provide monthly report Provision of a) Non-provision of a) N5,000 penalty
+on end-to-end e- monthly report on monthly report for each day for
+payment of salaries, end-to-end e- on end-to-end which report is
+pensions, suppliers & payment of e-payment of not provided to
+taxes to the Bank salaries, pensions, salaries, the Bank.
+suppliers & taxes to pensions, b) Penalty of
+the Bank. suppliers & taxes N250,000 and a
+to the Bank. warning letter to
+b) Submission of the Managing
+false or Director.
+inaccurate
+reports.
+4 Provide monthly report Provision of a) Non-Provision of a) N5,000 penalty
+to the Bank on reported monthly report on monthly report for each day for
+complaints & resolution reported on reported which report is
+status complaints & complaints & not provided to
+resolution to the resolution status the Bank.
+Bank to the Bank.
+b) Submission of b) Penalty of N250,
+false or 000 and a
+inaccurate warning letter to
+reports the Managing
+Director.
+5 Ensure 3rd party end-to- 3rd party e- 3rd party e- a) terminate use of
+end e-payment solution payment solution payment solution is the unapproved
+used by the offered to not approved by end-to-end e-
+bank/financial service customers must be CBN. payment
+provider is approved by approved by CBN solution.
+CBN b) Warning letter
+to the MD.
+c) Penalty of
+N2.5M (DMB) &
+N1M (OFIs) on
+every repeated
+occurrence
+6 | P age
+S/N Responsibility Compliance Infractions Sanctions
+6 Maintain and publish a) Maintain help Non-availability of 1. Bear costs of all
+details of a functional desk/contact help desk/contact unresolved
+help desk/contact centres to centres to receive disputes as a
+centres for receiving receive enquiries, result
+enquiries, complaints & enquiries, complaints and 2. Other
+providing feedback on complaints & provide feedback appropriate
+reported e-payment provide on e-payment sanctions could
+issue as directed in the feedback on issues. apply as stated
+Bank Circular to DMBs, reported e- in the Bank
+Discount Houses and payment issues. Circular ref
+OFIs to establish a b) Publish contact [FPR/DIR/CIR/GE
+Consumer Complaint details of e- N/01/020]
+Help Desk ref payment help
+[FPR/DIR/CIR/GEN/01/020] desk.
+7 Notify beneficiaries c) Beneficiaries Non-provision of Bank or Solution
+through SMS, email or receive evidence that an provider whose e-
+any other automated automated automated platform would
+channel with details of notification notification was refund the charges
+payment when payment when paid sent to at twice the value
+is made beneficiaries who deducted
+had signed-off for
+the alert services
+and charges
+applied
+Payment Solution Service Providers
+Payment Solution Service Providers (PSSP) shall -
+a) be licensed by the Bank to operate as a PSSP
+b) offer Bank approved end-to-end electronic payment solutions, systems and
+services to all stakeholders
+c) publish customer service/contact details via multiple media and maintain
+customer service contact centres to promptly attend to all electronic
+payment enquiries and complaints
+d) make available any or combination of the following data sets, as may be
+applicable, along with the mandatory returns to the Bank, on a monthly basis
+or as may be otherwise specified:
+ No. of salary/pension/tax paying client organisations
+ Salaries/pension/tax payment transactions count
+ Salaries/pension/suppliers/tax payment transactions value per payment
+method given below;
+o End-to-end
+o Bank Assist
+o Cheques
+7 | P age
+o Manual
+e) comply with transaction completion and unapplied funds return timelines as
+stipulated by the Bank.
+Infractions and sanctions
+S/No Responsibility Compliance Infractions Sanctions
+1 Obtain and maintain a Obtain and Providing e- a) Shall NOT be
+license from the Bank to maintain license payment system issued a license
+operate as an end-to- from the Bank to solution or services by CBN to
+end e-payment solution provide end-to- without obtaining operate as a
+service provider. end e-payment license from the PSSP for a
+solution system Bank minimum of 1
+and services year from the
+date infraction
+is detected.
+b) Shall be liable
+to prosecution.
+2 Ensure end-to-end e- e-payment e-payment solution a) Shall
+payment solution used/ solution offered to is not approved by immediatel
+offered is approved by customers must be CBN. y cease the
+CBN approved by CBN provision or
+offering of
+such un-
+approved
+e-payment
+solutions.
+b) Penalty of
+N1M on
+every
+repeated
+occurrence
+3 Ensure consummation a) Ensure a) Non completion a) Penalty of N
+of all electronic completion of of transactions 1,000 for every
+payments within transaction and within stipulated transaction.
+timelines stipulated by payment to timelines due to b) Penalty of N
+the Bank. [Refer to the beneficiaries challenges with 1,000 for every
+Bank Regulation on accounts within solution transaction
+Operation of Electronic stipulated provider’s delayed.
+Payment Channels in timelines. platform or c) Other penalty
+Nigeria] b) Return operational as may be
+unapplied funds inefficiency. applicable in
+to payer’s b) Non-return of un- the Bank
+account within applied funds Regulation on
+stipulated within stipulated Operation of
+timelines timelines Electronic
+Payment
+Channels in
+Nigeria
+4 Provide monthly report Provision of a) Non-provision of a) N5,000 penalty
+on end-to-end e- monthly report on monthly report for each day for
+8 | P age
+payment of salaries, end-to-end e- on end-to-end e- which report is
+pensions, suppliers & payment of payment of not provided to
+taxes to the Bank salaries, pensions, salaries, the Bank.
+suppliers & taxes to pensions, b) Penalty of N50,
+the Bank suppliers & taxes 000 and a
+to the Bank warning letter to
+b) Submission of the Managing
+false or Director.
+inaccurate c) Suspension of
+reports license/approva
+l after 3
+consecutive
+repeated
+occurrences
+until reports are
+made available
+to the Bank.
+5 Provide monthly report Provision of a) Non-Provision of a) N5,000 penalty
+on reported complaints monthly report on monthly report for each day for
+& resolution status on reported on reported which report is
+end-to-end e-payment complaints & complaints & not provided to
+to the Bank resolution to the resolution status the Bank.
+Bank to CBN. b) Penalty of N50,
+b) Submission of 000 and a
+false or warning letter to
+inaccurate the Managing
+reports Director.
+c) Suspension of
+license/approva
+l for after 3
+consecutive
+repeated
+occurrences
+until reports are
+made available
+to the Bank.
+SECTION C: OPERATIONAL STANDARDS FOR OTHER
+STAKEHOLDERS
+This section refers to all other stakeholders which are not regulated by the Bank. They
+include, but not limited to the following:
+a) Payers
+b) Beneficiaries;
+Payers
+Payers shall be expected to -
+9 | P age
+i. Adopt end-to-end electronic payment of salaries for employee staff
+strength of 20 and above
+ii. maintain e-payment enabled account with Deposit Money Banks or Other
+Financial Institutions.
+iii. adopt a Bank approved end-to-end electronic payment platform and use
+for all forms of payment and collections.
+iv. provide basic infrastructure for making and receiving electronic payments
+v. ensure employees are given basic training to use adopted platform
+vi. use only validated account details to ensure payments are made to
+intended beneficiaries
+vii. remit taxes along with associated electronic schedules on a Bank
+approved end-to-end e-payment platform
+viii. remit contributory pension funds into the bank accounts of pension funds
+administrators maintained with pension fund custodians with associated
+electronic schedules, only on a Bank approved platform.
+ix. Bear the cost of electronic payments and ensure beneficiaries receive
+actual amounts due to them. Where other arrangement exists, it must be
+mutually agreed between the payer and beneficiary.
+x. provide evidence of payment to beneficiaries
+xi. indicate adherence with this Regulation in annual reports
+xii. report all unresolved e-payment challenges to the Bank contact contact
+centres on, Tel: +234 700 225 5226; email: contactcbn@cbn.gov.ng or
+cpd@cbn.gov.ng
+Beneficiaries
+Beneficiaries shall be expected to:
+Employees and Pensioners- Salaries & Contributory/Defined Pension
+All Employees shall –
+a) maintain e-payment enabled bank accounts with Deposit Money Banks,
+Other Financial Institutions or any other approved channel for receiving
+payments such as mobile money/electronic wallet, subject to the Bank’s
+approved KYC limits,
+b) provide valid account and contact details to the Payer,
+c) report cases of non-payment, delayed payment or wrong payment of
+salaries/contributory pension remittances carried out on a Bank approved
+e-payment platform, to the Payer,
+d) register and maintain a Retirement Savings Account (RSA) with a licensed
+Pension Fund Administrator (PFA),
+e) report known cases of use of Payment Platforms not approved by the Bank
+to Consumer Protection Department; cpd@cbn.gov.ng
+f) report cases of non-compliance with e-payments by payers, as contained
+10 | P age
+in this Regulation, to the Bank,
+f) report all wrongfully received funds or excess payments to his financial
+institution customer service desk and make same available for refund to the
+Payer
+g) in the event of duplicated/excess payment evidence not noticed by
+beneficiary, beneficiary should make funds available for refund to the
+payer. Non- compliance would result in placement on the BVN watch-list
+Suppliers
+All suppliers shall -
+a) maintain e-payment enabled bank account with Deposit Money Banks,
+Other Financial Institutions or any other channel for receiving payments, such
+as mobile money/electronic wallet, approved by the Bank,
+b) provide correct account and contact details to the payers;
+c) obtain and provide details of Tax Identification Number (TIN) to the payers,
+d) report cases of non-payment, delayed payment or wrong payment carried
+out on the Bank approved e-payment platform to the payers
+e) report all wrongfully received funds or excess payments to his financial
+institution customer service desk and make same available for refund to the
+Payer
+f) in the event of duplicated/excess payment evidence not noticed by
+beneficiary, beneficiary should make funds available for refund to the payer
+in line with the Regulation on Instant (Inter-Bank) Electronic Funds Transfer
+Services in Nigeria. Non-compliance would result in placement on the BVN
+watch-list
+Taxes, Levies, Dues (& other revenue) Collecting Organizations
+All Taxes, statutory levies and dues collecting organisations shall be expected to:
+a) maintain e-payment enabled collecting accounts with the Central Bank or
+Deposit Money Banks/OFIs;
+b) publicly make available details of electronic payments processes for
+collections;
+c) provide clear details of the nature and amount of taxes, statutory levies and
+dues expected from payers;
+d) adopt a Bank approved electronic collection solution [List of approved PSSPs]
+for the collection of all forms of taxes, duties, levies, other collections and the
+associated electronic schedules of such payments
+e) provide basic infrastructure for confirming receipt of electronic payments
+and associated electronic schedules;
+f) ensure employees are given basic training to use adopted Bank approved e-
+11 | P age
+payment and collection platform;
+g) ensure seamless interface between in-house systems and adopted Bank
+approved e-payment and collection platform, to ensure records of all
+collected payments are automatically reflected against tax payers’ records
+on in-house systems;
+h) provide evidence of payment to payers at the point of payment; and
+i) publish customer service contact details and maintain contact centres to
+attend to electronic payment enquiries and challenges.
+j) Publish a dispute resolution/refund process
+Pension Fund Administrators (PFAs) and Pension Fund Custodians (PFCs)
+Pension Fund Administrators and Pension Fund Custodians shall:
+a) maintain e-payment enabled accounts with Bank approved Financial
+Institutions in line with the PENCOM Act;
+b) provide details of e-payment enabled accounts to Pension Remitting
+Organisations;
+c) adopt a Bank approved platform [List of approved PSSPs] for the receipt of
+all contributory pension fund remittances and associated electronic
+schedules ;
+d) provide basic infrastructure for confirming receipt of electronic payments
+and associated electronic schedules;
+e) ensure seamless interface between in-house systems and adopted Bank
+approved e-payment platform to ensure pension remittances are
+automatically reflected against contributors’ records on in-house systems;
+and
+f) provide evidence of receipt of pension remittances to organisations at the
+point of payment
+SECTION D: OTHERS
+DISPUTE RESOLUTION
+Any dispute, controversy or claim arising out of or relating to this Regulation or the
+breach, termination or invalidity thereof shall be settled in accordance with the Bank’s
+dispute resolution mechanism and if unresolved may be referred for arbitration in
+accordance with the rules for arbitration of the Regional Centre for International
+Commercial Arbitration, Lagos, Nigeria.
+12 | P age
+COMPLIANCE
+Further to the implementation of the Guideline on end- to-end electronic payment of
+salaries, pensions, suppliers and taxes by all public and private sector organisations as
+directed in the Bank Guidelines referenced [CBN/BPS/PSV/GEN/014/05], Deposit Money
+Banks are to dishonor payment instructions for all forms of salaries, pensions, suppliers
+and taxes not transmitted on a Bank approved straight through electronic payment and
+collection platform issued by organisations with more than 20 employees.
+This means payment instructions and associated schedules are no longer to be
+transmitted to DMBs through unsecured channels, such as paper-based mandates, flash
+drives, compact discs (CD), email attachments, etc. by qualifying public and private
+sector organisations.
+Enforcement by the Bank shall be effective from the date of the issuance of this
+Regulation.
+GLOSSARY OF TERMS
+In this Regulation, the terms below shall have the following meaning:
+i. ACH: Automated Clearing House System
+ii. ATM: Automated Teller Machine
+iii. Bank: Central Bank of Nigeria
+iv. Beneficiaries: recipients of funds paid using any Bank approved platform
+v. BVN watch-list: The Watch-list is a database of bank customers identified by
+their BVNs, who have been involved in confirmed fraudulent activities
+vi. DMB: Deposit Money Bank
+vii. End-to-End Electronic Payment: the seamless electronic processing and
+payment of all forms of salaries, pensions, suppliers and taxes with the
+electronic delivery of associated schedules alongside the payment
+transactions where applicable on a Bank approved electronic platform which
+transmits the instruction to debit a payer’s account and credit a beneficiary’s
+bank account, mobile account, electronic wallet or any other electronic
+channels; and shall include the ability of a payer to independently monitor
+and obtain electronic feedback on the status of any payment, at any time
+without depending on any third party, manual or semi-manual means.
+viii. KYC: Know Your Customer
+ix. KYCB: Know Your Customers Business
+x. MFB: Micro Finance Bank
+xi. OFI: Other Financial Institution(s)
+xii. Payers: Individuals, public or private sector organisations
+xiii. Payment Solution System Service providers: organisations licensed by the
+Bank to provide technical or technology infrastructure, software solutions or
+services for facilitating end-to-end electronic payment to financial institutions
+13 | P age
+or their customers.
+xiv. PENCOM: National Pension Commission
+xv. PFA: Pension Fund Administrator
+xvi. PFC: Pension Fund Custodian
+xvii. RTGS: Real Time Gross Settlement System
+xviii. Supplier: Suppliers include Contractor/Vendors organisation or individual
+offering goods or services in exchange for payment
+xix. Stakeholders: All public and private sector organisations who maintain
+relationship with employees, pensioners, suppliers and taxpayers and other
+entities
+- Regulated stakeholders: Participants licensed by the Bank
+- Non-regulated stakeholders: Participants not licensed or regulated by the
+Bank
+xx. TIN: Tax Identification Number. A unique 14 digit (or any specified digit)
+sequential number assigned by the Federal Inland Revenue Service (FIRS) or
+State Inland Revenue Board (SBIR) in partnership with FIRS to a tax payer,
+company, enterprise or individual for tax compliance identification purpose.
+14 | P age

@@ -1,0 +1,4 @@
+-- Canonical database functions are defined in
+-- sql/rls_policies-functions.sql. This file is retained as a historical
+-- reference and must not be run after the canonical migration because its
+-- older return shapes conflict with the current function contracts.

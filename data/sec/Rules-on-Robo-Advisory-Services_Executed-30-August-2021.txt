@@ -1,0 +1,265 @@
+RULE ON ROBO-ADVISORY SERVICES
+The following Rules shall be applicable to all Capital Market Operators and persons (Individual
+& Corporate) offering or seeking to offer Digital (Robo) Advisory Services in the Nigerian
+Capital Market.
+1. Definitions
+For the purposes of these Rules:
+“Digital Advisory Services” means the provision of investment advice using
+automated, algorithm-based tools which are client-facing, with little or no human
+adviser interaction in the advisory process;
+“Fully Automated Robo Advisers” means Robo Advisers with no human
+adviser intervention in the entire advisory process);
+“Rebalancing” means the process of periodic buying or selling of assets in a
+portfolio to maintain an original or desired level of asset allocation;
+“Recommended Portfolio” means the list of securities recommended for
+purchase by the Robo Adviser;
+“Revised Portfolio” means the art of changing the mix of securities in a portfolio
+to maximize returns and minimize risks;
+“Robo Adviser” means a person who provides digital advisory services.
+The terms used in these Rules shall, except where expressly defined in the Rules or the
+context otherwise requires, have the same meanings as defined in the Investments and
+Securities Act (ISA), 2007.
+1
+2. Registration Requirements
+The provisions of the Commission’s Rule on Corporate and Individual Advisers shall,
+with all necessary modifications, apply.
+3. Additional Regulatory Requirements for Digital (Robo) Advisers
+(i) A Robo Adviser is required to comply, on an ongoing basis, with all the applicable
+business conduct requirements set out in the Investment and Securities Act (ISA) and
+the Rules and Regulations, Notices and Guidelines issued pursuant to the ISA.
+(ii) Where a Robo Adviser outsources the development and maintenance of their client-
+facing tools to a third party provider, the third party provider is not required to be
+registered by the Commission.
+(iii) A Robo Adviser shall nonetheless subject the third party provider to appropriate
+due diligence processes in order to assess the risks associated with the outsourcing
+arrangement.
+(iv) Where a Robo Adviser also provides portfolio/fund management services to the client
+and the client decides on an alternative investment decision contrary to the
+recommendation of the Robo Adviser, the Robo Adviser shall rely on the client’s order
+and obtain a written decision/mandate from the client, highlighting in writing that the
+client is aware of their responsibility of the investment outcome and suitability of his/her
+investment decision.
+(v) A Robo Adviser who wishes to perform the function of portfolio management shall
+apply to the Commission to be registered as a Fund/Portfolio Manager and shall
+comply with the applicable Rules and Regulations governing Fund/Portfolio
+Management Function.
+4. Procedures for Providing Digital Advisory Services
+(a) A digital investment advisory process occurs where:
+i. A client answers a series of questions on his risk tolerance, investment
+2
+objectives, investment time horizon, inputs an investment amount and;
+ii. The input of the client are analyzed using algorithms, and a portfolio is
+recommended thereto.
+5. Procedures for Revising and Rebalancing a Client’s Investment Asset
+Allocation
+(a) Where a client accepts the recommended portfolio, the Robo Adviser shall relay the
+client’s orders directly to the relevant CMO for execution; except the Robo Adviser is
+licensed to execute transactions on behalf of their clients.
+(b) Where a client amends or rejects the recommended portfolio and seeks to revise
+his/her investment asset allocation at inception or anytime during the investment
+management and advisory relationship, the Robo Adviser shall seek the express consent
+of the client, to accept the client’s revised portfolio where the Robo Adviser is responsible
+for executing the transactions on behalf of the client
+(c) Where the client seeks to periodically rebalance his/her portfolio, the Robo Adviser
+shall:
+i. obtain a prior written authorization from the client to rebalance the portfolio (for
+non-discretionary portfolio);
+ii. establish a rebalancing policy for the investment portfolio as agreed with the
+client containing:
+1. the scope of rebalancing activities, including frequency
+and methodology of rebalancing;
+2. fees payable and any other material terms and conditions associated
+with rebalancing;
+3. period for providing advance notice prior to carrying out any
+rebalancing activities; and
+3
+(d) Robo Advisers shall ensure that:
+i. The Principal Officers (e.g. Chief Executive Officer, Directors, and
+Management staff responsible for the design, operation and/or oversight of the
+digital advisory platform) have relevant experience in fund management and
+technology;
+ii. Portfolios offered to clients are within the regulatory purview of the
+Commission;
+iii. They undergo a post-authorization technology audit conducted by an
+independent third party at the end of each operational year and file a report with
+the Commission within three (3) months of the date of the close of the audit.
+6. Governance and Supervision of Algorithms
+a. To safeguard the client-facing tools which are primarily algorithm-driven, a Robo
+Adviser shall put in place adequate governance and supervisory arrangements to
+effectively mitigate against fault or bias in the algorithms.
+b. The Board and Senior Management of the Robo Adviser shall be responsible for
+maintaining effective oversight and governance of the client- facing tool and ensure that
+there are sufficient resources to monitor and supervise the performance of algorithms.
+c. The Robo Adviser should be adequately staffed with persons who have the competency
+and expertise to develop and review the methodology of the algorithms. Adequate
+training should also be provided to all staff who use the client-facing tool.
+d. The Board and Senior Management of the Robo Adviser shall also put in place systems
+and processes to ensure a sound risk management culture and environment in its firm,
+as well as compliance with the relevant rules and regulations. These shall include:
+i. approving the design and methodology development of the client-facing
+tool and ensuring its proper maintenance;
+4
+ii. approving the policies and procedures that apply to the systems and
+processes of the client-facing tool;
+iii. maintaining oversight over the management of the client-facing tool, such
+as designating appropriate personnel to approve changes to the algorithms, and
+having security arrangements to identify and prevent unauthorized access to the
+algorithms;
+iv. ensuring that the requirements set out in the Commission’s Guidelines on
+Technology Risk Management are adhered to; and
+v. maintaining proper documentation on the design and development of the
+algorithms.
+e. While the Board and Senior Management may delegate the day-to-day operational
+oversight and governance of the client-facing tools to other personnel, they remain
+ultimately responsible and accountable for the proper development, monitoring and
+testing of the client-facing tools.
+7. Developing the Client-facing Tool
+In developing the client-facing tools, Robo Advisers shall:
+a. ensure that the methodology of the algorithms behind the client-facing tool
+is sufficiently robust;
+b. ensure that the tool collects all necessary information and sufficiently
+analyses same to make a suitable recommendation, including having proper
+mechanisms to identify and resolve contradictory or inconsistent responses from
+clients;
+c. have controls in place (e.g. knock-out questions) to identify and eliminate
+clients who are unsuitable for investing;
+5
+d. perform sufficient testing, prior to the launch of the tool and when changes
+are made to the tool, to detect any error or bias in the algorithms and to
+consistently and reliably achieve the following key outcomes:
+i. The algorithms correctly classify clients according to their risk profiles
+based on inputs provided by them. In particular, the Robo Adviser shall
+conduct back-testing using hypothetical inputs to ensure that the risk
+profiles generated by the algorithms are in line with its risk profiling
+methodology. The testing shall ensure that the algorithm scores and assigns
+risk profiles to clients correctly and consistently; and
+ii. The algorithms produce the intended asset allocation and investment
+recommendation according to the Robo Adviser’s risk profiling
+methodology.
+8. Monitoring and Testing of the Client-facing Tool
+a. Robo Advisers shall have policies, procedures and controls in place to monitor and test
+the algorithms on a regular basis to ensure that they are performing as intended. Robo
+Advisers shall at a minimum, have the following processes in place:
+i. strict change management controls to manage changes to the algorithms
+whenever necessary;
+ii. controls to detect any error or bias in the algorithms;
+iii. controls to suspend the provision of advice if an error or bias within the
+algorithms is detected; and
+iv. controls to provide clients with advanced notice of any scheduled maintenance
+or upgrade of its systems;
+v. dedicated customer care help desks available during working hours on business
+days.
+6
+vi. compliance checks on the quality of advice provided by the client-facing
+tool. Such checks shall be conducted regularly and when there are changes to the
+algorithms. This shall include post-transaction sample testing, and shall be
+reviewed by an independent and qualified human adviser to ensure compliance
+with the requirements of the ISA and these Rules. The frequency of such review
+shall be commensurate with the size and complexity of the Robo Adviser’s
+operations.
+9. Technology Risk Management
+a. Robo Advisers shall implement internal policies and procedures to address technology
+risks.
+b. Robo Advisers shall meet the requirements set out in the Commission’s Guidelines
+on Technology Risk Management (TRM), file quarterly report to the Commission on its
+Compliance and refer to the TRM Guidelines for industry best practice which they are
+expected to adopt and also file.
+c. Robo Advisers shall perform a gap analysis against the requirements set out in the TRM
+Guidelines to ensure that all gaps are adequately mitigated prior to the launch of the
+client-facing tools and also when changes are made to these tools.
+10. Compliance with the Anti-Money Laundering and Combating the Financing
+of Terrorism Act
+a. Robo Advisers shall have in place adequate policies, procedures and controls to
+mitigate against money laundering and terrorism financing risks and comply with the
+Commission’s Regulations on Anti-Money Laundering and Combating the Financing of
+Terrorism Act, 2013.
+b. Robo Advisers shall take steps to address specific risks associated with Non-Face-To-
+7
+Face (“NFTF”) business relations with a client. In this regard, Robo Advisers shall employ
+additional checks to mitigate the risk of impersonation when on-boarding clients through
+a NFTF means.
+11. Disclosure of Material Information
+a. Robo Advisers shall provide sufficient information to their clients to enable them make
+informed investment decisions. Disclosures shall be presented in plain English and in clear
+simple language.
+12. Information on Algorithms
+Robo Advisers shall at a minimum disclose in writing, the following to their clients:
+a. assumptions, limitations and risks of the algorithms;
+b. circumstances under which the Robo Advisers may override the algorithms
+or temporarily halt the robo advisory service; and
+c. any material adjustments to the algorithms.
+13. Conflicts of Interest
+a. Robo Advisers shall comply with the existing disclosure requirements on conflicts of
+interest set out in the Code of Conduct for Employees of Capital Market Operators set out
+in these Rules and Regulations.
+b. In particular, Robo Advisers shall disclose in writing to their clients, any actual or
+potential conflict of interest arising from any connection to or association with any product
+provider, including any material information or facts that may compromise their
+objectivity or independence.
+8
+c. In the context of their business model, Robo Advisers shall disclose situations where
+their algorithms are designed to direct clients to invest in products managed by their
+affiliates.
+14. Risk Warning Statement for Overseas-listed Investment Products
+a. Robo Advisers shall provide a risk warning statement to their clients at the point of
+account opening and when advising them on overseas-listed investment products.
+b. When advising on overseas-listed investment products, Robo Advisers shall assess the
+merits of the products, as well as the client’s investment objectives, financial situation
+and particular needs. They shall also ensure that they are not in violation of any applicable
+laws and regulations.
+15. Suitability of Advice
+a. In addition to all applicable modification to the Rule on Investment Advisers, Robo
+Advisers shall have a reasonable basis for recommending any investment product to a
+person who may reasonably be expected to rely on the recommendation.
+b. To ensure that a recommendation takes into account a client’s investment objectives,
+financial situation and particular needs, Robo Advisers shall take reasonable steps to
+collect and document the under-listed information:
+i. the financial objectives of the client;
+ii. the risk tolerance of the client;
+iii. the employment status of the client;
+iv. the financial situation of the client, including assets, liabilities, cash flow and
+income;
+9
+v. the source and amount of the client’s regular income;
+vi. the financial commitments of the client;
+vii. the current investment portfolio of the client, including any life insurance
+policy;
+viii. whether the amount to be invested is a substantial portion of the client’s
+assets; and
+ix. any recommendation made in respect of life policies, the number of
+dependants of the client and the extent and duration of the financial support
+required for each of the dependants.
+16. Exemption to Collecting Full Information
+a. A Fully automated Robo Adviser may exempt the collection of full information on a
+client’s financial circumstances as prescribed under paragraphs (iii) to (ix) in 15 above,
+provided that all of the under-listed conditions are met:
+i. the advice is fully-automated, with no human adviser intervention in the advisory
+process. Human interactions shall be limited to providing technical assistance such
+as, assisting clients on IT-related issues or clarifying with clients on their responses
+when inconsistencies are noted;
+ii. there are in-built “knock-out” or threshold questions to effectively identify and
+eliminate unsuitable clients (e.g. clients who cannot afford to lose their principal
+investment sums);
+iii. there are controls in place to identify and follow up on inconsistent responses
+provided by clients;
+10
+iv. a risk disclosure statement is provided to clients to alert them that the
+recommendation does not take into consideration their financial circumstances, at
+the point when the recommendations are provided to them; and
+v. the advice is limited to instruments within the regulation of the Commission.
+b. Robo Advisers relying on the Exemption above shall still take reasonable steps to collect
+information on the client’s financial objectives and risk tolerance to satisfy themselves
+that the investment recommendation is suitable.
+17. Assessing Clients’ Knowledge and Experience
+a. Robo Advisers shall assess if a client possesses the relevant knowledge and experience
+to invest in complex instruments through the Customer Knowledge Assessment (“CKA”)
+or Customer Account Review (“CAR”). This applies, regardless of whether the client is
+self-directed or not.
+b. Robo Advisers shall have the relevant framework to collect information from clients to
+enable them to conduct CAR or CKA assessments for product suitability. If self-directed
+clients are assessed not to have the knowledge and experience to invest in complex
+instruments, Robo Advisers shall appropriately warn them and/or offer to provide advice
+to them.
+18. Advertisement
+Robo Advisers shall comply with the advertisement requirements of the Rules and
+Regulations of the Commission.

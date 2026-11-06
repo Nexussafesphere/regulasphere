@@ -1,0 +1,829 @@
+NATIONAL
+DIGITAL LITERACY
+FRAMEWORK
+July 2023
+FEDERAL MINISTRY OF
+COMMUNICATIONS AND
+DIGITAL ECONOMY
+Leveraging Digital Technology for National Economy Development
+National Information Technology
+Development Agency
+Change History
+S/N Author Version No Release Date Change Details
+1. NITDA 1.0 June, 2021 Draft
+2. Stakeholders 1.1 March, 2022 First Review
+3. Stakeholders 1.2 May, 2022 Second Review
+4. NITDA 1.3 January, 2023 Third Review
+5. Stakeholders 1.4 July, 2023 Fourth Review
+Metadata
+S/N Data Elements Values
+1. Title National Digital Literacy Framework
+2. Title Alternative NDLF
+3. Document Version, month, year of release Version 1.4; July, 2023
+4. Publisher National Information Technology Development Agency (NITDA)
+5. Type of Regulation Document Framework
+(Standard/ Policy/ Technical Specification/
+Best Practice/Guideline / Framework /Policy
+Framework/Procedure)
+6. Enforcement Category Recommended
+(Mandatory/ Recommended)
+7. Owner of approved framework NITDA
+8. Target Audience All Public Institutions (including Local, State and Federal
+Government); ICT Product/Service Providers for public
+institutions; Professional Bodies; Development Partners; and
+General Public.
+9. Copyrights NITDA
+10. Format (PDF/A at the time of release of the PDF
+final Regulation)
+11. Subject (Major area of Standardisation) Capacity Building
+2
+CONTENTS
+1.0 Preamble 04
+1.1 Authority 05
+1.2 Purpose 05
+1.3 Definitions 05
+1.4 NDLF Aspirations 06
+1.5 Scope 07
+2.0 Digital Literacy and Skills 08
+2.1 The Need for Digital Literacy 09
+2.2 The Need for a Digital Literacy Framework 10
+2.3 Business Case and Potential Impact 11
+3.0 The Framework 13
+3.1 NDLF Development Methodology 14
+3.1.1 Review of Existing Frameworks 14
+3.1.2 Adaptation of the European Digital Competence Framework 15
+3.2 The National Digital Literacy Framework 18
+4.0 National Digital Literacy Framework Implementation Plan 20
+4.2 Partnership for implementation 24
+4.3 Monitoring and Evaluation 24
+5.0 Review and Amendments 25
+Appendix 27
+3
+1
+CHAPTER 1
+Preamble
+4
+PREAMBLE
+In this period of rapid technological advancement, we envision a Nigeria where every individual
+possesses the knowledge, skills, and confidence to thrive in the digital world. Our Vision for Digital
+Literacy and Skills is therefore to build a digitally literate Nigeria, where all citizens can improve
+their lives and contribute to the nation's development.
+1.1 Authority
+In exercise of the powers conferred on NITDA specifically by Section 6 (a), (i) and (m) of the
+National Information Technology Development Agency (NITDA) Act of 2007, NITDA hereby
+issues the following National Digital Literacy Framework (NDLF).
+1.2 Purpose
+1
+The Federal Government of Nigeria through the National Digital Economy Policy and Strategy
+(NDEPS) document has set a target of achieving 95 per cent digital literacy by 20301. Thus, the
+National Information Technology Development Agency (NITDA), the apex IT agency responsible
+for developmental regulation of the sector in Nigeria, has taken up the responsibility to lead the
+development of a National Digital Literacy Framework.
+This document outlines the developed framework. It aims to set a digital literacy and skills agenda
+for Nigeria by providing a clear and consistent definition of digital literacy, its competence areas,
+and specific competencies for the purpose of;
+i. Offering policymakers a means to frame digital literacy policies, as well as monitor and
+support their implementation;
+ii. Building digital literacy curricula, modules, and programmes to afford proper planning,
+coordination and standardisation of digital literacy training and skills development in Nigeria;
+and
+iii. Enabling assessment and certification, data collection, analyses, and measurement of the
+number and/or percentage of digitally literate Nigerians and their level of digital skills.
+1.3 Definitions
+i. Information technology (IT): This involves the use of computer systems— hardware and
+software— to create, process, store, retrieve and exchange all kinds of data and information;
+ii. Digital literacy: Digital literacy refers to the basic knowledge, skills, and attitudes that an
+individual must possess to use digital technologies competently, safely, and appropriately;
+and
+iii. Digital/IT skills: This refers to the ability to operate, manipulate and use different technologies
+essential for roles in small to large businesses across a variety of sectors.
+5 1 https://nitda.gov.ng/wp-content/uploads/2023/07/Policy-National_Digital_Economy_Policy_and_Strategy.pdf
+PREAMBLE
+1.4 NDLF Aspirations
+(cid:2)(cid:26)(cid:11)(cid:26)(cid:30)(cid:12)
+(cid:5)(cid:19)(cid:29)(cid:14)(cid:30)(cid:10)(cid:10)(cid:26)(cid:21)(cid:29)(cid:21)(cid:30)(cid:29)(cid:21)(cid:15)(cid:19)(cid:29)
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:25)(cid:24)(cid:29)(cid:23)(cid:29)(cid:24)(cid:26)(cid:22)(cid:26)(cid:21)(cid:23)(cid:25)(cid:25)(cid:20)(cid:29)
+(cid:9)(cid:18)(cid:30)(cid:10)(cid:30)(cid:21)(cid:26)(cid:30)(cid:12)(cid:29)(cid:30)(cid:4)(cid:29)(cid:24)(cid:26)(cid:22)(cid:26)(cid:21)(cid:23)(cid:25)(cid:29)
+(cid:25)(cid:26)(cid:21)(cid:19)(cid:18)(cid:23)(cid:21)(cid:19)(cid:29)(cid:17)(cid:26)(cid:22)(cid:19)(cid:18)(cid:26)(cid:23)(cid:29)(cid:16)(cid:15)(cid:19)(cid:18)(cid:19)(cid:29)(cid:23)(cid:25)(cid:25)(cid:29)
+(cid:25)(cid:26)(cid:21)(cid:19)(cid:18)(cid:23)(cid:14)(cid:20)(cid:29)(cid:23)(cid:11)(cid:29)(cid:23)(cid:29)(cid:14)(cid:30)(cid:18)(cid:12)(cid:19)(cid:18)(cid:11)(cid:21)(cid:30)(cid:12)(cid:19)(cid:29)(cid:30)(cid:4)(cid:29)
+(cid:14)(cid:26)(cid:21)(cid:26)(cid:13)(cid:19)(cid:12)(cid:11)(cid:29)(cid:14)(cid:23)(cid:12)(cid:29)(cid:26)(cid:10)(cid:9)(cid:18)(cid:30)(cid:8)(cid:19)(cid:29)
+(cid:19)(cid:10)(cid:9)(cid:30)(cid:16)(cid:19)(cid:18)(cid:10)(cid:19)(cid:12)(cid:21)(cid:3)(cid:29)(cid:19)(cid:12)(cid:23)(cid:28)(cid:25)(cid:26)(cid:12)(cid:22)(cid:29)
+(cid:21)(cid:15)(cid:19)(cid:26)(cid:18)(cid:29)(cid:25)(cid:26)(cid:8)(cid:19)(cid:11)(cid:29)(cid:23)(cid:12)(cid:24)(cid:29)(cid:14)(cid:30)(cid:12)(cid:21)(cid:18)(cid:26)(cid:28)(cid:27)(cid:21)(cid:19)(cid:29)
+(cid:19)(cid:8)(cid:19)(cid:18)(cid:20)(cid:29)(cid:14)(cid:26)(cid:21)(cid:26)(cid:13)(cid:19)(cid:12)(cid:29)(cid:21)(cid:30)(cid:29)(cid:19)(cid:10)(cid:28)(cid:18)(cid:23)(cid:14)(cid:19)(cid:29)
+(cid:21)(cid:30)(cid:29)(cid:21)(cid:15)(cid:19)(cid:29)(cid:12)(cid:23)(cid:21)(cid:26)(cid:30)(cid:12)(cid:7)(cid:11)(cid:29)
+(cid:21)(cid:19)(cid:14)(cid:15)(cid:12)(cid:30)(cid:25)(cid:30)(cid:22)(cid:20)(cid:29)(cid:16)(cid:26)(cid:21)(cid:15)(cid:29)
+(cid:24)(cid:19)(cid:8)(cid:19)(cid:25)(cid:30)(cid:9)(cid:10)(cid:19)(cid:12)(cid:21)(cid:6)
+(cid:14)(cid:30)(cid:12)(cid:4)(cid:26)(cid:24)(cid:19)(cid:12)(cid:14)(cid:19)(cid:6)
+(cid:1)(cid:26)(cid:11)(cid:11)(cid:26)(cid:30)(cid:12)
+(cid:17)(cid:23)(cid:21)(cid:26)(cid:30)(cid:12)(cid:23)(cid:25)(cid:29)(cid:31)(cid:23)(cid:18)(cid:22)(cid:19)(cid:21)(cid:11)
+(cid:127)(cid:129)(cid:141)(cid:29)(cid:143)(cid:26)(cid:22)(cid:26)(cid:21)(cid:23)(cid:25)(cid:29)(cid:144)(cid:26)(cid:21)(cid:19)(cid:18)(cid:23)(cid:14)(cid:20)(cid:29)(cid:4)(cid:30)(cid:18)(cid:29) ‡€(cid:141)(cid:29)(cid:143)(cid:26)(cid:22)(cid:26)(cid:21)(cid:23)(cid:25)(cid:29)(cid:144)(cid:26)(cid:21)(cid:19)(cid:18)(cid:23)(cid:14)(cid:20)(cid:29)(cid:25)(cid:19)(cid:8)(cid:19)(cid:25)(cid:11)(cid:29)
+(cid:157)(cid:30)(cid:27)(cid:21)(cid:15)(cid:11)(cid:29)(cid:23)(cid:12)(cid:24)(cid:29) (cid:24)(cid:27)(cid:25)(cid:21)(cid:11)(cid:29)(cid:26)(cid:12)(cid:29) (cid:23)(cid:14)(cid:18)(cid:30)(cid:11)(cid:11)(cid:29)ˆ(cid:21)(cid:23)(cid:21)(cid:19)(cid:11)(cid:29)(cid:23)(cid:12)(cid:24)(cid:29)(cid:144)(cid:30)(cid:14)(cid:23)(cid:25)(cid:29)
+(cid:17)(cid:26)(cid:22)(cid:19)(cid:18)(cid:26)(cid:23)(cid:29)(cid:28)(cid:20)(cid:29) (cid:129) €(cid:29)‚(cid:17)(cid:17)ƒ„(cid:29) ‰(cid:30)(cid:8)(cid:19)(cid:18)(cid:12)(cid:10)(cid:19)(cid:12)(cid:21)(cid:11)(cid:29)(cid:28)(cid:20)(cid:29) (cid:129)Š(cid:129)(cid:29)
+(cid:129) (cid:129)…(cid:29) (cid:129) €†(cid:6) ‚(cid:17)(cid:143)‹„ˆ(cid:29) (cid:129) (cid:129)(cid:29)…(cid:29) (cid:129)Š(cid:129)†(cid:6)
+6
+PREAMBLE
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:27)(cid:28)(cid:25)(cid:24)(cid:23)(cid:22)(cid:29)(cid:28)(cid:21)(cid:27)(cid:20)(cid:29)(cid:19)
+The specific objectives of the NDLF are:
+Universal Access
+1
+Ensure equitable access to digital literacy education for all population
+segments, including underserved communities;
+Skill Development
+2
+Provide comprehensive digital literacy programmes to empower citizens
+with essential digital skills, from basic to advanced competencies;
+Inclusive Participation
+3
+Promote diverse participation in the digital economy, bridging the
+gender and socioeconomic digital divide;
+Workforce Readiness
+4
+Equip the workforce with relevant digital skills to meet the rapidly
+evolving job market demands; and
+Local Content Creation
+5
+Foster a vibrant digital ecosystem by encouraging the creation of
+locally relevant and culturally significant digital content.
+1.5 Scope and Applicability
+The National Digital Literacy Framework (NDLF) provides the guidelines for the development of
+Digital Literacy within Nigeria. The NDLF applies to all Nigerians.
+7
+2
+CHAPTER 2
+Digital Literacy and
+Skills
+8
+DIGITAL LITERACY AND SKILLS
+2.0 Digital Literacy and Skills
+Nigerians stand on the periphery of a technological revolution, the Fourth Industrial Revolution
+(4IR), which has fundamentally altered the way we live, work, and relate to one another2. This
+revolution was built on the digital or 3rd Industrial Revolution (3IR) that has expanded into
+disruptive technologies and trends such as the Internet of Things (IoT), Virtual Reality (VR),
+Artificial Intelligence (AI), robotics, autonomous driving vehicles, 3D printing, nanotechnology,
+biotechnology, materials science, energy storage, quantum computing, and much more that will
+require more technical capabilities than career practices formerly demanded.
+For Nigeria to improve its digital advantage and build sustainable prosperity, it must prepare for
+the challenges of a 21st century dynamic work environment. Building a digitally skilled workforce
+2
+will accelerate Nigeria’s economic growth and development. The future of Nigeria is clearly hinged
+on the development of capacity of citizens, and how swiftly a strategy for digital literacy and skills
+integration can be put in place. As Nigeria aspires to become a regional hub for providing human
+capital resource support to Africa, with the implementation of the African Continental Free Trade
+Area (AfCFTA), the need for technology skills is growing in every sector of the Nigerian digital
+economy.
+2.1 The Need for Digital Literacy
+Given that people around the world have the same human potential, every job and career, every
+field of study and even social and personal lives are increasingly impacted by technology. And as
+nations compete in today’s global world, those economies who have invested in the human capital
+and digital skills of their citizens are best prepared to grow. To level the playing field, Nigeria must
+move its citizens to a greater competitive position in the global economic marketplace.
+Equipping Nigerians with relevant digital literacy skills to keep up with best global practices will
+put the current workers, youths, and other professionals in ready mode for opportunities that
+may open within and beyond the shores of Nigeria. This will diversify the economy, significantly
+reduce unemployment and enhance labour productivity and mobility. In turn, this will improve
+investment and transform Nigeria into a country well known for technology, problem solving and
+critical thinking.
+The evolution of technology has also led to the stratification of countries depending on how they
+adopt digital technologies. The economic and social development of digitally literate countries has
+outstripped those of countries that have failed to embrace digital literacy. Unfortunately, Nigeria
+currently falls under the latter category. The purpose of this document is to create a National
+Digital Literacy Framework, that would serve as a guide, aimed at reversing this trend. The skills
+deficits in human capital that hinder Nigeria from thriving in the global digital economy will be,
+once and for all, overcome.
+Digital Literacy is important for several interconnected reasons, such as the following:
+9 2https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how- to-respond/
+DIGITAL LITERACY AND SKILLS
+i. Nigerians, current workforce, students, graduates, and professionals need to be prepared for
+successful adulthood in a world increasingly saturated with digital technologies;
+ii. Nigerians are already engaging with digital technologies and digital media and using them to
+find information and communicate meaning in different modes and formats, which provides
+significant opportunities and challenges that are important to address;
+iii. Not all Nigerians are equally equipped with the skills, knowledge and understanding that will
+allow them to critically engage with technology and to use it well;
+iv. Developing digital literacy can help students to access subject knowledge at a time when
+digital technologies are changing the way knowledge is created and communicated;
+v. Digital literacy will help schools to engage with students’ lived experiences and existing
+knowledge as well as extending and diversifying these experiences and knowledge to make
+learning more relevant and purposeful; and
+vi. There is need to create a pool of knowledgeable and skilled manpower that will facilitate
+technology acquisition, assimilation, diffusion, mobility and raise productivity.
+Digital Literacy is a global priority and criterion for employment with over 1.5 billion current virtual
+workforce vacancies across the world (IDC)3. Competence in English language is no longer the
+primary indicator of literacy and job readiness; it is now digital literacy. Digital Literacy is critical to
+immediate empowerment of our population to enable Nigerians to develop the skills necessary to
+achieve more, to be distinguished and advance in the digital era and to truly solve the conundrum
+around education, unemployment, low productivity, and economic diversification.
+2.2 The Need for a Digital Literacy
+Framework
+The entire globe is now undergoing the most momentous economic and social change in 150
+years. The change is initiated by the impact of literacy and—within the past 20 years—by skills in
+the digital world.
+A digital literacy standard for Nigeria will prepare Nigerians to meet the challenge of inadequacies
+in digital literacy and skills acquisition. Combined with a call-to- action of appropriate measure,
+and with an investment of energy and adequate resources, it can help create the world’s most
+digitally skillful nation.
+Building a reference framework to develop national-level digital literacy and skills agenda and
+standard for Nigeria citizens, ranging from students and the workforce to seniors has multiple
+benefits, as outlined below:
+i. It will guide and facilitate the development of Nigerian curricula and programmes for digital
+literacy, digital skills, and/or digital readiness;
+3 https://www.eweek.com/mobile/mobile-worker-population-to-reach-1.3-billion-by-2015-idc/
+10
+DIGITAL LITERACY AND SKILLS
+ii. With a globally shared baseline understanding of what terms like digital skills and digital literacy
+mean, Nigeria, nonprofits, and industry can coordinate digital skills efforts and effectively
+enhance the level of digital literacy and digital skills of the citizens in local communities and
+nationwide; and
+iii. The common set of definitions and standards will enable monitoring and reporting that can
+help to strategically allocate resources to identify and bridge digital skills gaps.
+2.3 Business Case and Potential
+Impact
+According to NBS, Nigeria’s Information and Communications Technology (ICT) sectors
+contribution to the country's Real Gross Domestic Product (GDP) was 16.51 per cent in 2022, as
+against 15.51 per cent in 2021. In the first quarter of 2023, ICT contribution to Nigeria’s GDP has
+increased to 17.47 percent. The development of a National Digital Literacy Framework will further
+increase the contribution and will:
+i. Create a rich and vibrant local industry of digital training service providers; content creators
+and publishers, marketers, assessment, and certification bodies aligned with globally
+recognised standards;
+ii. Create a large value chain that will facilitate youth engagement, entrepreneurship development,
+MSME development, and women empowerment in line with the best global practice;
+iii. Motivate Nigerians to achieve globally accepted certifications that will increase job
+opportunities and mobility across the world, and yield billions of dollars of economic value to
+Nigeria;
+iv. Enhance the civil service by improving efficiency, productivity, and increasing service-delivery
+orientation;
+v. Encourage establishment of local Original Equipment Manufacturers (OEM’s) to meet
+increased local demand for IT tools and equipment; and
+vi. Increase demand for ICT and broadband, thus helping implementation of broadband and ICT
+policies.
+The framework will serve as an instrument for the achievement of relevant government policies,
+targets and recommendations as illustrated in Figure 3.
+11
+DIGITAL LITERACY AND SKILLS
+Nigerian National Nigeria e-Government 5th National Council
+Broadband Plan Master Plan on Information
+2022-2025 Technology
+Digitization of 6th, 7th & 8th National Digital
+National Council on
+Government Processes Economy Policy Strategy
+Communication and
+and Records (2020-2030)
+Digital Economy
+Recommendations
+Nigerian Judiciary
+Service-Wide Digital Literacy National Strategy
+Information
+Initiatives by Bureau of for Public Service
+Technology Policy
+Public Service Reform Reform
+Document
+Fig. 3: Relevant Government Policies and Recommendations that Demand a National Digital
+Literacy Standard
+Digitalisation, transition towards a greener economy and demographic changes will continue to
+increase digital skills gap. Thus, digital literacy is the most audacious enabler of lifting 100 million
+Nigerians out of poverty as targeted by the Federal Government.
+12
+CHAPTER 3
+National Digital
+Literacy Framework
+3
+13
+NATIONAL DIGITAL LITERACY FRAMEWORK (NDLF)
+3.0 The Framework
+While there is no one-size-fits-all approach, there is a wealth of knowledge and experience available
+internationally from successful international frameworks and standards. The development
+process of the NDLF adopts the NITDA rule making process which centers on ecosystem co-
+creation approach.
+3.1 NDLF Development Methodology
+The development process of the NDLF started with the engagement of an expert consultant to
+undergo desk research on existing frameworks, high level engagements and consultations. The
+outcome of the research is the first draft framework (June 2021) that adopts a hybrid of the European
+Commission’s Digital Competence Framework for Citizens (DigComp 2.2) with incorporation of
+required elements of Mobile Information Literacy (MIL), which are critical to Nigeria and Africa.
+The draft was subjected to a first round of stakeholder’s engagement, which was held in March
+2022. Useful feedback and input were provided by invited stakeholders. The presentation of NDLF
+to the Nigerian public was done through NITDA's website and feedback/inputs were received
+via the Agency's email addresses for 6 weeks. Furthermore, a co-creation approach was taken
+with the engagement of expert volunteers, multinational companies, development partners, and
+several government agencies (December 2022 - January 2023) to further provide input to the
+document. Finally, NDLF was reviewed by the Inter-Ministerial Task Team (IMTT) constituted by
+the Bureau for Public Service Reforms (BPSR) for the training and certification of public servants
+on digital literacy and skills. This resulted in the fourth and current version dated July 2023..
+3.1.1 Review of Existing Frameworks
+Several internationally recognised digital literacy frameworks were reviewed including the
+International Computer Driving License (ICDL); IC3 Digital Literacy; Microsoft Digital Literacy;
+the European Commission’s Digital Competence Framework for Citizens (DigComp); and the
+United Nations Educational, Scientific and Cultural Organisation (UNESCO) Digital Literacy Global
+Framework.
+The review found that most of the digital literacy curricula, assessment tools and certification
+exams derived from the existing frameworks are PC-centric, while everyday use scenarios
+requiring digital literacy competence, particularly those in developing countries, mainly use
+mobile devices. For example, statistics show that the PC to Mobile market share in Nigeria was
+15.76% to 83.55% as at November 20216. In terms of unique subscribers, a 2017 study by Pew
+Research7 found that 80% of adults in Nigeria owned some type of mobile phone.
+It is worth noting that the existing frameworks were developed for use on a network- enabled
+device regardless of whether it is a personal computer, tablet, smartphone, or mobile phone.
+Thus, attainment of a holistic view of digital literacy cognisant of Nigeria’s mobile-first approach
+will require minimal adaptation at the level of specific competences through their expression, in
+the context in which the competences are taught.
+6https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/nigeria
+14
+7https://www.geopoll.com/blog/mobile-penetration-nigeria/
+NATIONAL DIGITAL LITERACY FRAMEWORK (NDLF)
+3.1.2 Adaptation of the European Digital Competence Framework
+(DigComp 2.2)
+To ensure speedy development of a robust framework, a combination of the European Digital
+Competence Framework for Citizens, also known as DigComp, and elements of UNESCO’s digital
+literacy global framework have been adopted for domestication.
+Adoption of these frameworks is informed by the following principles:
+i. The core skill of digital literacy can be seen as a discrete skill but with critical interrelationships
+with other core life skills;
+ii. The core skill of digital literacy is contextualised; each context in which individuals operate
+has its own core skills requirements, expectations and rules which need to be learned;
+iii. An individual's performance at any time will be influenced by the interplay of a few performance
+variables; and
+iv. The frameworks reflect contemporary use of English in Nigeria.
+UNESCO Digital National Digital
+DigComp 2.2 Literacy Global
+Literacy Framework
+Framework
+5 Competence 1 Competence 6 Competence
+Areas Areas Areas
+21 2 23
+Competences Competences Competences
+Fig. 4: Adoption of DigComp and UNESCO for NDLF
+DigComp was first published in 2013 as a tool to improve citizens’ digital competence, help
+policymakers formulate policies that support digital competence building, and plan education
+and training initiatives to improve the digital competence of specific target groups. The conceptual
+reference model consists of 5 competence areas (Dimension 1), and 21 competences (Dimension
+2). Additional dimensions outlined in the latest version, DigComp 2.28, include Proficiency levels
+(Dimension 3), Examples of knowledge, skills, and attitudes (Dimension 4), and Use cases
+8https://publications.jrc.ec.europa.eu/repository/handle/JRC128415
+15
+NATIONAL DIGITAL LITERACY FRAMEWORK (NDLF)
+(Dimension 5).
+UNESCO’s digital literacy global framework was developed by synthesising existing regional,
+national, and sub-national frameworks to identify competences relevant for the global context,
+and, analysing the extent to which existing, well-developed and all- encompassing frameworks
+would be relevant for all countries, whether economically rich or poor, and over time.
+UNESCO worked on the project to develop a methodology that can serve as the foundation for
+Sustainable Development Goal (SDG) thematic Indicator 4.4.2: “Percentage of youth/adults
+who have achieved at least a minimum level of proficiency in digital literacy skills”. UNESCO’s
+framework looked at the key mobile functions that enhance various economic sectors9. The
+fifteen functions identified fall into two categories:
+i. General functions such as turning on/off and charging the device, sending, and receiving text
+messages, searching for goods and services, and comparing price information; and
+ii. Financial transactions such as topping up one’s account through an agent.
+It was observed that the digital literacy competence levels required for achieving the same function
+depend on the specific devices used. The range of operations available on an application designed
+for the smartphone is much wider, and consequently, the understanding of the competence and
+the proficiency level required on a smartphone can be higher. Based on the identified functions,
+use cases of specific competences can be applied directly to the mobile-centric and mobile-first
+users that are prevalent in Nigeria and Africa.
+9http://uis.unesco.org/sites/default/files/documents/ip51-global-framework-reference-digital-literacy- skills-2018-en.pdf
+16
+NATIONAL DIGITAL LITERACY FRAMEWORK (NDLF)
+Table 1(a): Summary of the Different Functions Available on Mobile and Smartphones
+Function On mobile phone On smartphone
+G1: turning on/off device, charging G1 G1
+G2: sending & receiving text G2 G2
+G3: login, user account & password management, locking devices G3M G3S
+G4: searching for goods & services & comparing prices G4M G4S
+G5: setting or changing app language G5S
+G6: sharing location data G6S
+G7: creating & setting public profile G7S
+G8: searching, understanding & approving privacy policy statements. G8S
+T1: buyer & seller interaction connected through intermediary T1M
+T2: topping up account through an agent T2M
+T3: evaluating price & service provider information. T3S
+Rate service.
+T4: Intra-app finance transactions T4S
+T5: Inter-app finance transactions T5S
+UNESCO’s digital literacy global framework proposed, among others, the addition of a ‘Devices
+and Software Operations’ competence area to what is currently covered in DigComp 2.2.
+Table 1(b): Additional Competence Area with Two Competences Proposed by UNESCO’s
+Digital Literacy Global Framework
+Competence area Competences
+0. Devices and 0.1 Physical operations of digital devices (To identify and use
+software operations the functions and features of the hardware tools and technologies)
+0.2 Software operations in digital devices (To know and
+understand the data, information and/or digital content that
+are needed to operate software tools and technologies)
+17
+NATIONAL DIGITAL LITERACY FRAMEWORK (NDLF)
+Starting with DigComp 2.2 and incorporating aspects of UNESCO’s global framework, an updated
+reference model is obtained, which considers the above competences necessary to be added for
+the mobile-centric and mobile-first population in Nigeria and Africa.
+3.2 The National Digital Literacy
+Framework (NDLF)
+This National Digital Literacy Framework (NDLF) is an adoption of the European Commission’s
+Digital Competence Framework for Citizens (DigComp 2.2)10 with incorporation of required
+elements of Mobile Information Literacy (MIL), which are critical to Nigeria and Africa. MIL is
+represented within the competences’ dimension of NDLF with the addition to DigComp of a new
+Competence Area (0) called Devices and Software Operation as proposed by UNESCO11. It has
+the following two competences:
+i. Physical operations of digital devices; and
+ii. Software operations of digital devices.
+The NDLF basic model thus consists of:
+i. Dimension 1 (6 Competence Areas);
+ii. Dimension 2 (23 Competences); and
+iii. Dimension 3 (8 Proficiency Levels).
+NDLF adopts the definition of proficiency levels from DigComp (i.e., descriptions of specific skills
+to be gained for each of the competencies).
+i. Dimension 4 (Examples of Knowledge, Skills and Attitudes); and
+ii. Dimension 5 (Use Cases) are also adopted from DigComp for the purpose of both learning and
+employment uses.
+For the additional Devices and Software Operation Competence Area (0) that was introduced
+and added to the DigComp conceptual reference model, the definitions and functions listed in
+Table 1(a) and Table 1(b) above will be used to develop Dimensions 3, 4 and 5.
+10https://publications.jrc.ec.europa.eu/repository/handle/JRC128415
+18
+11http://uis.unesco.org/sites/default/files/documents/ip51-global-framework-reference-digital-literacy- skills-2018-en.pdf
+NATIONAL DIGITAL LITERACY FRAMEWORK (NDLF)
+6
+Competence D O e S v o p i f e c t r e w a s a t i a r o e n n d I D n a fo ta rm Li a t t e i r o a n c y & Co C m oll m ab u a o n n r i d a c t a i t o io n n Digi C ta re l a co ti n o t n ent Safety P S r o o l b v l i e n m g
+Areas
+Browsing,
+d o ig p P i e t h r a a l y t d s io i e c n v a s i l c o e f s in s fi e fo l a t r e r m c r h i a n i t n g io g d n a a n a ta n d , d d In i t g e it r a a l c t t e in c g h n th o r l o o u g g ie h s Devel c o o p n in te g n d t igital Pr d o e t v e i c c t e in s g Solv p in r g o b te le c m hn s ical
+digital content
+d o i p g S e it o r a a f l t t w d io e a n v r s e ic o e f s an d d at d E a v , i i g a n i l f t u o a a r l m t c i o n a n g ti t o e n n t di S g h it a a r l i n te g c h th n r o o l u o g g h ie s I d r n e i t g - e e i g t la a ra b l t c o i o n ra n g t t i a e n n n g d t Pr d o a te ta c t a in n g d p p e ri r v s a o c n y al a Id n e d n r t t e e if s c y p h i o n n n g o s l n e o e s g e ic d a s l
+Engaging in Creatively using
+23 Managing data, citizenship through Copyright and Protecting health digital technologies
+information and digital technologies licenses and well being
+digital content
+Competences
+Collaborating Protecting the Identifying digital
+through digital Programming environment competence gaps
+technologies
+Netiquette
+Managing digital
+identity
+Highly Level 7 Level 8
+Specialised At highly specialized At most advanced and specialized level
+8
+Level 6
+Advanced Level 5 At advanced level, according to my own needs
+As well as guiding others
+& those of others & in complex contexts
+Proficiency
+Levels Intermediate Level 3 Independently, acc L o e r v d e i l n 4 g to my own needs,
+On my own & solving straightforward problems
+Level 2
+Foundation Level 1 At basic level & with autonomy
+At basic level & with guidance
+& appropriate guidance where needed
+Fig. 5: National Digital Literacy Framework (NDLF)
+19
+4
+CHAPTER 4
+NDLF
+Implementation
+Plan
+20
+NDLF IMPLEMENTATION PLAN
+4.1 NDLF Implementation Plan
+The purpose of the NDLF Implementation Guide is to define and summarise typical requirements
+for the development of detailed implementation plans that are to be formulated and approved by
+specific stakeholders.
+Strategic Initiative 1: Ensure that students at all levels of education are digitally
+literate before graduation.
+S/N Activity Responsible Stakeholders Expected Outcome KPI’s Timeline
+1. Develop digital NITDA FME12, NERDC, Schools will be teaching # of digital Dec 2024
+4literacy curricula NUC, NBTE, digital literacy based on literacy curricula
+and modules for the NCCE, NMEC, global standards that are and modules
+different levels of NCNE, NINLAN, dynamic and based on developed per
+education. NOUN, Esgrown latest level.
+technologies.
+2. Train and certify NITDA NTI, TRCN, ITF, Teachers of digital # of teachers Dec 2025
+teachers on digital Professional IT literacy will be equipped trained.
+literacy. Trainers, and IT with adequate skills and
+Firms, Esgrown knowledge.
+3. Declare policy FME Public and All students in schools % of schools Dec 2024
+support for digital Private Schools will graduate being implementing
+literacy to be and Institutions. digital literate. new curricula
+offered as a core and modules.
+subject in all
+educational
+institutions.
+4. Include digital FME NECO, WAEC, All students graduating # of national Dec 2025
+literacy as a JAMB, NBAIS, from schools will be exam bodies
+subject in national NABTEB able to present proof offering digital
+examinations. of proficiency in digital literacy in
+literacy. terminal exams.
+5. Provide IT FME UBEC, TETFUND All schools will have # of schools that Dec 2025
+infrastructure and minimum required IT have adequate
+tools in schools infrastructure and tools IT infrastructure
+for practical-based to implement digital and tools to
+teaching and literacy curriculum. teach digital
+learning of digital literacy.
+literacy.
+6. Develop integrated FME Private Sector The platform will have # of schools Dec 2025
+data management record of all students as enrolled on data
+platform. they progress through management
+the nations’ schools. platform.
+7. Monitor and NITDA FME, Public and A dashboard will display % of schools Dec 2030
+evaluate the Private Schools diffusion of digital skills and students
+implementation of and Institutions. within Nigerian schools. captured on
+digital literacy in dashboard.
+schools.
+12h12 See Appendix for Full List and Description of Stakeholders
+21
+NDLF IMPLEMENTATION PLAN
+Strategic Initiative 2: Ensure that workers at national and subnational levels
+are digitally literate for effective management of the nation's digital economy.
+S/N Activity Responsible Stakeholders Expected Outcome KPI’s Timeline
+1. Develop digital NITDA OSGF, OHCSF, Public servants will # of digital literacy Dec 2024
+literacy curricula BPSR, NCS, be trained based on curricula and
+and modules for CPN, ITAN, global standards that modules developed
+the work force. NIICTE are dynamic and based for the public
+on latest technologies. service.
+2. Declare policy OSGF, CNA, OHCSF, BPSR, A huge demand will % of government Dec 2024
+support for CJN CSC, NASC, JSC be created for digital MDA’s,
+digital literacy literacy and skills parastatals
+to be required within the public and institutes
+for recruitment service. implementing
+& promotion of the policy.
+Nigerian workers.
+3. Conduct NITDA Government Knowing the baseline # of baseline Dec 2024
+of baseline MDA’s, will enable a yearly assessments
+assessment to Parastatals, and target will be set conducted.
+determine current Institutions. towards achieving 95%
+level of digital digital literacy by 2030.
+literacy of
+Nigeria’s public
+servants.
+4. Massive training NITDA, Government Public servants will be # of public servants Dec 2030
+and certification DBI, Galaxy MDA’s, skilled, highly efficient, trained and certified
+of the public Backbone Parastatals and and productive with in digital literacy per
+workforce in Institutions, necessary skills to annum.
+digital literacy. Professional IT manage and drive
+Trainers, PSIN, the nation’s digital
+e-GTC, CMD, economy.
+ASCON.
+5. Provide IT NITDA, NCC, Government Public servants will # of public servants Dec 2025
+infrastructure and Galaxy MDA’s, have laptops and equipped with
+tools for public Backbone, Parastatals, and Internet access for laptops and Internet
+servants towards NigComSat Institutions. effective participation access.
+achieving a in e- governance.
+paperless public
+service.
+6. Monitor and NITDA Government A dashboard will % of MDA’s and Dec 2030
+evaluate the MDA’s, NBS, display diffusion of parastatals
+diffusion of digital Parastatals, and digital skills within captured on the
+skills in Nigeria’s Institutions. the Nigerian public dashboard.
+public service. service.
+22
+NDLF IMPLEMENTATION PLAN
+Strategic Initiative 3: Ensure that unemployed citizens are digitally literate for
+effective participation in society
+S/N Activity Responsible Stakehold- Expected Outcome KPI’s Timeline
+ers
+1. Develop digital FMC&DE FMLE, Initiatives will be designed # of initiatives Dec 2024
+literacy awareness FMIC, to make beneficiaries aware designed and
+and empowerment FMITI, NOA, of the importance and uses implemented.
+initiatives. BON of digital technology for
+effective participation in
+society.
+2. Recognise digital FMLE NITDA, Initiatives will be designed # initiatives Dec 2025
+literacy as a life NDE, to empower unemployed designed and
+skill and include FMYSD, citizens with digital literacy implemented.
+it as an element NYSC, ITF, and skills, IT tools, and
+of job readiness, FMHDS, startup funding.
+entrepreneurship & SMEDAN
+social intervention
+programmes e.g.,
+NYSC, SIWES, N-
+Power, ASP, GEEP
+etc.
+Strategic Initiative 4: Pass an Executive Bill (Digital Literacy Bill) at the National
+Assembly
+S/N Activity Responsible Stake- Expected Outcome KPI’s Timeline
+holders
+1. Sponsor a bill to NITDA NASS, DLI will be responsible for Passage of the Dec 2024
+establish the Digital advancing digital literacy bill
+Literacy Institute training, assessment, and
+(DLI). certification of all Nigerians.
+2. Sponsor a bill to NITDA NASS DLC will be composed of Passage of the Dec 2024
+establish the Digital experts from Government, bill
+Literacy Council Industry and Academia with
+(DLC). the main objective of managing
+and supervising
+activities of the DLI.
+3. Sponsor a bill activities of Passage DLMO will be an office setup Passage of the Dec 2024
+to establish the the DLI. of the bill at the Presidency to provide bill
+Digital Literacy governance
+Management Office. for the DLI
+4. Establish the Digital NITDA NASS The following income shall be Passage of the Dec 2024
+Literacy Fund (DLF). the part of the Fund: bill
+- Appropriation from the
+NASS.
+- Grants from local,
+international or foreign
+bodies.
+- Income from registration
+and certification.
+- Income received in respect
+of fees charged for
+services.
+- Income earned from
+property of the
+- Institute.
+23
+- Interest received on
+investments.
+NDLF IMPLEMENTATION PLAN
+Strategic Initiative 5: Create budget lines for the actualisation of activities
+listed out in strategies 1–4
+Activity Responsible Stakeholders Expected Outcome KPI’s Timeline
+Source for funds and FMFB&NP, NITDA, FME, OSGF, Domestication Amount of budget Dec
+appropriate needed National OHCSF, NCC, DBI, of digital literacy appropriated to 2023
+amounts to MDA’s Assembly Galaxy Backbone, trainings and MDAs responsible for
+that are responsible NigComSat, programmes strategies 1-3
+for implementation FMC&DE, in schools,
+of strategies 1-3 FMLE, National government MDA’s,
+listed above. and International parastatals, and
+Development institutions.
+Partners
+4.2 Partnership for implementation
+Coordination of all relevant stakeholders to work with a common objective of developing a National
+Digital Literacy Framework and standard that will help to equip Nigerians with digital literacy and
+skills and put the citizens in ready mode for opportunities that will open up within and beyond
+the shores of the country is critical at the moment. This effort will promote diversification of
+the country’s economy, significantly reduce unemployment, and enhance labor productivity and
+exportation. A list of key stakeholders to be continuously consulted for this project is attached as
+an appendix at the end of the document.
+4.3. Monitoring and Evaluation
+NITDA will anchor the institutionalisation and coordination of the monitoring and evaluation
+mechanism. The monitoring and evaluation approach will:
+i. Engage monitoring and evaluation consultancy experts/companies for NDLF implementation;
+ii. Coordinate the design and development of a standard monitoring and evaluation template;
+iii. Liaise with relevant stakeholders to provide appropriate method and approach to collecting
+NDS performance monitoring data; and
+iv. Provide a mechanism for NDLF performance evaluation and reporting.
+24
+CHAPTER 5
+Review and
+Amendments
+5
+25
+5.0 Review and Amendments
+NITDA shall amend or review the framework and guidelines periodically to reflect the reality of
+time and trends.
+26
+CHAPTER 6
+6. Appendix
+6
+27
+APPENDIX
+Appendix 1: Stakeholders consulted for
+NDLF development
+AA.. MMeemmbbeerrss ooff NNIITTDDAA’’ss DDiiggiittaall LLiitteerraaccyy TTeecchhnniiccaall WWoorrkkiinngg GGrroouupp ((DDLL--TTWWGG))
+11.. FFeeddeerraall MMiinniissttrryy ooff FFiinnaannccee,, BBuuddggeett aanndd NNaattiioonnaall PPllaannnniinngg
+22.. CCeennttrraall BBaannkk ooff NNiiggeerriiaa
+33.. OOfffificcee ooff tthhee NNaattiioonnaall SSeeccuurriittyy AAddvviisseerr
+BB.. MMeemmbbeerrss ooff tthhee NNOOTTDDAAss DDiiggiittaall LLiitteerraaccyy CClluusstteerr ooff tthhee NNaattiioonnaall DDiiggiittaall TTaalleenntt SSttrraatteeggyy
+CCoommmmiitttteeee
+CC.. MMeemmbbeerrss ooff tthhee IInntteerr--mmiinniisstteerriiaall TTaasskk TTeeaamm ((IIMMTTTT)) oonn DDiiggiittaall LLiitteerraaccyy TTrraaiinniinngg aanndd
+CCeerrttiifificcaattiioonn ooff PPuubblliicc SSeerrvvaannttss
+DD.. GGoovveerrnnmmeenntt AAggeenncciieess
+11.. NNaattiioonnaall TTeeaacchheerrss IInnssttiittuuttee ((NNTTII))
+22.. CCoommppuutteerr PPrrooffeessssiioonnaallss RReeggiissttrraattiioonn CCoouunncciill ooff NNiiggeerriiaa ((CCPPNN))
+33.. FFeeddeerraall MMiinniissttrryy ooff CCoommmmuunniiccaattiioonnss aanndd DDiiggiittaall EEccoonnoommyy ((FFMMCCDDEE))
+44.. FFeeddeerraall MMiinniissttrryy ooff EEdduuccaattiioonn ((FFMMEE))
+55.. FFeeddeerraall MMiinniissttrryy ooff ,, TTeecchhnnoollooggyy,, aanndd IInnnnoovvaattiioonn ((FFMMSSTTII))
+66.. OOfffificcee ooff tthhee HHeeaadd ooff CCiivviill SSeerrvviiccee ooff tthhee FFeeddeerraattiioonn ((OOHHCCSSFF))
+77.. NNaattiioonnaall BBuussiinneessss aanndd TTeecchhnniiccaall EExxaammiinnaattiioonnss BBooaarrdd ((NNAABBTTEEBB))
+88.. JJooiinntt AAddmmiissssiioonnss aanndd MMaattrriiccuullaattiioonn BBooaarrdd ((JJAAMMBB))
+99.. PPuubblliicc SSeerrvviiccee IInnssttiittuuttee ooff NNiiggeerriiaa ((PPSSIINN))
+1100.. BBuurreeaauu ffoorr PPuubblliicc SSeerrvviiccee RReeffoorrmmss ((BBPPSSRR))
+1111.. NNaattiioonnaall BBuurreeaauu ooff SSttaattiissttiiccss ((NNBBSS))
+1122.. NNaattiioonnaall YYoouutthh SSeerrvviiccee CCoorrppss ((NNYYSSCC))
+1133.. NNaattiioonnaall UUnniivveerrssiittiieess CCoommmmiissssiioonn ((NNUUCC))
+1144.. TTeerrttiiaarryy EEdduuccaattiioonn TTrruusstt FFuunndd ((TTEETTFFUUNNDD))
+1155.. NNaattiioonnaall CCoommmmiissssiioonn ffoorr CCoolllleeggeess ooff EEdduuccaattiioonn ((NNCCCCEE))
+1166.. UUnniivveerrssaall BBaassiicc EEdduuccaattiioonn CCoommmmiissssiioonn ((UUBBEECC))
+1177.. NNiiggeerriiaann EEdduuccaattiioonnaall RReesseeaarrcchh DDeevveellooppmmeenntt CCoouunncciill ((NNEERRDDCC))
+1188.. JJooiinntt AAddmmiissssiioonnss aanndd MMaattrriiccuullaattiioonn BBooaarrdd ((JJAAMMBB))
+1199.. NNIIggeerriiaa CCoommmmuunniiccaattiioonn CCoommmmiissssiioonn ((NNCCCC))
+2200.. NNaattiioonnaall BBooaarrdd ffoorr TTeecchhnniiccaall EEdduuccaattiioonn ((NNBBTTEE))
+2211.. NNiiggeerriiaa GGoovveerrnnoorrss'' FFoorruumm ((NNGGFF))
+2222.. GGaallaaxxyy BBaacckkbboonnee ((GGBBBB))
+EE.. DDeevveellooppmmeenntt PPaarrttnneerrss aanndd TTeecchh CCoommppaanniieess tthhaatt PPaarrttiicciippaatteedd iinn SSttaakkeehhoollddeerr
+EEnnggaaggeemmeenntt
+11.. JJaappaann IInntteerrnnaattiioonnaall CCooooppeerraattiioonn AAggeennccyy ((JJIICCAA))
+22.. GGIIZZ NNiiggeerriiaa
+28
+APPENDIX
+33.. WWoorrlldd BBaannkk
+44.. UUNNIICCEEFF NNiiggeerriiaa
+55.. EEuurrooppeeaann UUnniioonn
+66.. GGooooggllee NNiiggeerriiaa
+77.. MMiiccrroossoofftt NNiiggeerriiaa
+88.. HHuuaawweeii TTeecchhnnoollooggiieess CCoo.. NNiigg.. LLttdd
+99.. IIBBMM
+1100.. CCiissccoo
+1111.. OOrraaccllee SSooffttwwaarree NNiiggeerriiaa LLttdd
+1122.. SSAAPP
+1133.. AAppppllee NNiiggeerriiaa
+1144.. GGSSMMAA
+FF.. OOtthheerrss
+11.. CCoommmmiitt TTeecchhnnoollooggyy aanndd CCoonnssuulltt LLttdd..
+Appendix 2: NDLF Implementation
+Stakeholders
+The key stakeholders identified for the successful implementation of NDLF are:
+A. Government MDA’s and Institutions
+1. Federal Ministry of Education (FME)
+2. Nigerian Educational Research and Development Council (NERDC)
+3. National Universities Commission (NUC)
+4. National Board for Technical Education (NBTE)
+5. National Commission for Colleges of Education (NCCE)
+6. National Commission for Mass Literacy, Adult and Non-Formal Education (NMEC)
+7. National Commission for Nomadic Education (NCNE)
+8. National Institute for Nigerian Languages (NINLAN)
+9. National Open University of Nigeria (NOUN)
+10. National Teachers Institute (NTI)
+11. Teachers Registration Council of Nigeria (TRCN)
+12. Industrial Training Fund (ITF)
+13. West African Examinations Council (WAEC)
+14. National Examinations Council (NECO)
+15. National Board for Arabic and Islamic Studies (NBAIS)
+16. National Business and Technical Examinations Board (NABTEB)
+17. Joint Admissions and Matriculation Board (JAMB)
+18. Universal Basic Education Commission (UBEC)
+19. Tertiary Education Trust Fund (TETFUND)
+20. Office of the Secretary to the Government of the Federation (OSGF)
+21. Office of the Head of the Civil Service of the Federation (OHCSF)
+22. Federal Civil Service Commission (FCSC)
+23. Bureau of Public Service Reforms (BPSR)
+29
+APPENDIX
+24. Federal Ministry of Communications and Digital Economy (FMC&DE)
+25. Federal Ministry of Labour and Employment (FMLE)
+26. National Directorate of Employment (NDE)
+27. Federal Ministry of Information and Culture (FMIC)
+28. Federal Ministry of Industry, Trade, and Investment (FMITI)
+29. Federal Ministry of Youth and Sports Development (FMYSD)
+30. Federal Ministry of Humanitarian Services, Disaster Management and Social
+Development (FMHDS)
+31. Small and Medium Enterprises Development Agency (SMEDAN)
+32. Nigerian Communications Commission (NCC)
+33. Galaxy Backbone Limited (GBB)
+34. Nigerian Communications Satellite Limited (NIGCOMSAT)
+35. Digital Bridge Institute (DBI)
+36. National Orientation Agency (NOA)
+37. Broadcasting Organisation of Nigeria (BON)
+38. National Bureau of Statistics (NBS)
+B. Professional Bodies, Associations and Committees
+1. Nigerian Computer Society (NCS)
+2. Academia in Information Technology Profession (AITP)
+3. Association of Vice Chancellors of Nigerian Universities (AVCNU)
+4. Computer Professionals Registration Council of Nigeria (CPN)
+5. Information Technology Industry Association of Nigeria (ITAN)
+6. Nigerian Institute of Information and Communications Technology Engineers (NIICTE)
+7. Association of Licensed Telecoms Operators of Nigeria (ALTON)
+8. Broadband Implementation Steering Committee (BISC)
+C. Private Sector
+1. Dangote Foundation
+2. BUA Foundation
+3. Belema Aid Foundation
+4. MTN Foundation
+5. TY Danjuma Foundation
+D. Development Partners
+1. European Commission
+2. UNESCO
+3. UNICEF
+4. The German Agency for International Cooperation (GIZ)
+5. ECOWAS
+6. African Union (AU)
+7. The World Bank Group
+8. International Labour Organisation (ILO)
+9. African Development Bank (AfDB)
+E. International Collaborators
+1. Global Digital Literacy Council (GDLC)
+2. Microsoft
+3. Certiport
+4. Global System for Mobiles Association (GSMA)
+5. Cisco
+6. Oracle
+30
+INTRODUCTION
+7. Pearson
+8. Coursera
+9. Huawei
+10. The European e-Skills Association
+F. Others
+1. The Nigeria Governors Forum (NGF)
+2. Public and Private School and Institutions
+3. Civil Society Organisations
+4. Women interest Groups
+31
+THIS INSTRUMENT WAS SIGNED THIS 28TH DAY OF JULY 2023
+Dr. William Nwankwo Alo, OON
+Permanent Secretary
+Federal Ministry of Communications and Digital Economy
+Kashifu Inuwa Abdullahi, CCIE
+Director General/CEO
+National Information Technology Development Agency (NITDA)
+32
+

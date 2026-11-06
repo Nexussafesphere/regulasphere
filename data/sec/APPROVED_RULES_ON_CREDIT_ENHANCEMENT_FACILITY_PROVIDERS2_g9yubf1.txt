@@ -1,0 +1,554 @@
+RULES ON CREDIT ENHANCEMENT FACILITY PROVIDERS & SUNDRY AMENDMENT TO
+EXISTING RULES OF THE COMMISSION
+A. - New Rules
+Rules on Credit Enhancement Facility Providers.
+B.- Sundry Amendment
+1. Amendment to Rule 45 on Registrable Functions.
+2. Amendment to Parts A and B of Schedule 1 (Registration Fees, Minimum Capital
+Requirements, Securities and others).
+The details of the New Rules and Amendments are as follows:
+PART A - NEW RULES
+RULES ON CREDIT ENHANCEMENT FACILITY PROVIDERS
+1. Scope and Application
+These Rules shall be applicable to the provision of, and the providers of credit
+enhancement services in the capital market.
+2. Definitions
+a. The terms used in these Rules shall, except where expressly defined in the Rules or the
+context otherwise requires, have the same meanings as defined in the Investments and
+Securities Act, 2025.
+b. For the purposes of these Rules, the following terms are defined as follows:
+“Act” means Investments and Securities Act 2025;
+“Banks” means commercial or merchant banks licensed by the Central Bank of Nigeria;
+“callable capital” means a commitment by an entity to provide capital to a credit
+enhancement facility provider in the event the credit enhancement facility provider’s total
+qualifying capital, excluding callable capital, is eroded by 50% or such percentage as
+the Commission may prescribe, provided that the callable capital provider, in the case
+of an international callable capital provider, has an international credit rating of no less
+than BBB+, and in the case of a domestic callable capital provider, a minimum domestic
+credit rating of no less than A and the callable capital instrument is for a tenor of no less
+than 7 years, is subordinated to claims of the beneficiaries of a credit enhancement
+facility, and includes a clearly defined process for its activation;
+1
+“credit enhancement facilities” means non-funded, contingent financial instruments or
+commitments issued to improve the credit rating, credit quality, or liquidity of the issuer
+or a financial product in respect of securities issued in the capital market, including
+guarantees, standby credit lines or other similar instruments;
+“Credit enhancement facility provider” means an entity registered by the Commission
+in accordance with the provisions of these Rules with the objective of providing credit
+enhancement services in the Nigerian capital market;
+“eligible risk-sharing arrangements” means any contractual risk-sharing or risk
+participation structure designed to absorb losses exceeding a defined threshold, whether
+on a single exposure or a portfolio basis, including but not limited to co-guarantee,
+counter-guarantee, and re-guarantee arrangements, structured on a first loss, second
+loss, or other basis;
+“IFRS” means the accounting standards and interpretations issued by the International
+Accounting Standards Board (IASB), as amended, supplemented or replaced from time
+to time;
+“Insurance companies” means insurance companies licensed by the National Insurance
+Commission;
+“International Financial Institutions(IFIs)” means a multilateral or development finance
+institution established by a treaty or an agreement between two or more sovereign states
+for the purpose of providing financial assistance, development finance, guarantees,
+policy support or related services across member countries;
+“Leverage ratio” means a credit enhancement facility provider’s total issued and
+outstanding credit enhancement facilities (taking into account eligible counter-guarantee
+arrangements) divided by its total qualifying capital;
+“liquid assets” means (i) cash and cash equivalents (including fixed deposits), (ii) net
+balances held with banks within Nigeria, (iii)Nigerian treasury bills, (iv) Nigerian treasury
+certificates; (v) Federal Government of Nigeria (FGN) bonds; (vi) stabilization securities;
+(vii) net certificate of deposit held under 18 months to maturity; (viii) State government
+bonds granted liquidity status by the Central Bank of Nigeria (CBN); (ix) non-interest
+liquidity management instruments issued by the CBN; and (x) any other asset as
+prescribed by the Commission from time to time.
+“Non-funded” means a financial arrangement that does not involve the immediate
+transfer of funds but may result in future disbursements upon the occurrence of certain
+events;
+2
+“paid-in equity” means fully paid-up ordinary shares, preference shares, or both,
+forming part of the credit enhancement facility provider’s share capital;
+“Pending transactions” means transactions for which binding commitments such as signed
+term sheets, guarantee agreements or insurance contracts, were entered into prior to the
+effective date of these rules.
+“Securities” means a debt, sukuk or other securities as may be approved by the
+Commission.
+“subordinated capital” means unsecured, debt capital that is subordinated to all other
+obligations, including claims of the beneficiaries of a credit enhancement facility, is non-
+redeemable at the instance of the investor or lender, deferrable (i.e., remains available
+to absorb losses on senior claims without requiring the company to cease operations or
+trigger a technical default), and has a tenor of not less than 10 years;
+“Total qualifying capital” means the aggregate of the credit enhancement facility
+provider’s fully paid-in equity, subordinated capital, and callable capital.
+“Total assets” means total assets as reported by the company’s Statement of
+financial position prepared under IFRS and applicable standards for public
+companies.
+3. Eligibility
+The following entities may provide credit enhancement services in the Nigerian
+Capital Market:
+a. Companies incorporated in Nigeria and duly registered by the
+Commission in accordance with these Rules and the Act.
+b. Multilateral agencies recognized by the Commission.
+c. Entities that are registered to provide credit enhancement services and
+regulated in IOSCO member jurisdictions
+d. Any other category as the Commission may prescribe from time to time
+Provided that multilateral agencies and entities regulated in IOSCO member
+jurisdictions, shall maintain a minimum international long-term credit rating of
+not less than [AA-] assigned by at least two international credit rating
+agencies acceptable to the Commission.
+4. Registration and Regulation
+a. No entity shall provide credit enhancement services in the capital market
+without being duly registered or recognised by the Commission.
+3
+b. An entity that provides credit enhancement service in the capital market
+without being duly registered or recognised by the Commission commits an
+offence and shall be liable to the applicable penalty prescribed under the
+Act.
+c. A promoter seeking to register a credit enhancement facility provider shall
+apply in writing to the Commission for a no objection.
+d. Upon receipt of an application and the accompanying documentation, the
+Commission shall assess the application for compliance with the prescribed
+conditions.
+e. Where the Commission is satisfied that the application meets the relevant
+conditions, it may issue a no-objection to the promoter(s) of the proposed credit
+enhancement facility provider.
+f. A proposed credit enhancement facility provider shall obtain a no objection
+from the Commission prior to application for incorporation by the Corporate
+Affairs Commission.
+g. The no objection does not constitute a registration or approval to commence
+business. It shall constitute a violation under these rules if the no objection is used
+for anything other than the purpose for which it was issued.
+h. A promoter of a proposed credit enhancement facility provider shall, not later
+than 6 months from the date of issuance of the no objection, submit an
+application to the Commission for final registration, accompanied by the
+documents specified in these Rules.
+Such promoter shall obtain the express approval of the Commission, for changes
+in respect of information or documents earlier filed, upon which a no objection
+was granted by the Commission.
+i. Failure to file a final registration within six months of the grant of the no
+objection shall render the no objection void except the Commission grants an
+extension by application of a promoter and fulfilment of the Commission’s
+prescribed conditions.
+j. Where the Commission is satisfied that the company has met the relevant
+conditions, it may grant registration, subject to such terms and conditions as it
+may impose.
+5. Requirements for Grant of No Objection
+An application for a no-objection shall be accompanied by the following documents:
+4
+a. Evidence of payment of a non-refundable application fee of ₦100,000 or
+such other amount as may be prescribed by the Commission,
+b. evidence of name reservation with the Corporate Affairs Commission
+(CAC);
+c. a draft copy of the company’s Memorandum and Articles of Association
+(MEMART), which shall contain at a minimum, the following:
+i. the proposed name of the company,
+ii. the object clause(s) restricted to financial market services,
+iii. the particulars of subscribers to the MEMART,
+iv. the procedure for amendment of the MEMART,
+v. provisions relating to the transfer/disposal and allotment of shares, and
+vi. appointment of directors;
+d. statement of intent to invest in the company by each investor;
+e. A detailed business plan or feasibility report shall, at a minimum, include
+the following:
+i. a statement outlining the objectives, mission, business model, and
+strategic direction of the proposed credit enhancement facility
+provider,
+ii. an assessment of the target market, including demand for credit
+enhancement facilities, competitive landscape, and the applicant’s
+market positioning strategy,
+iii. a tabular representation of the proposed ownership structure, stating
+the names of proposed shareholders, their professions or businesses,
+and percentage shareholdings,
+iv. in the case of corporate promoters or investors:
+a. certified true copies of the certificate of incorporation and
+other incorporation documents;
+b. aboard resolution approving the company’s investment in the proposed
+credit enhancement facility provider;
+c. the names and addresses of the company’s shareholders, directors, and
+any affiliated companies.
+v. details of the composition of the proposed board, including the
+curriculum vitae of each board member and significant shareholder,
+5
+vi. the National Identity Number, Bank Verification Number, Tax
+Clearance Certificate, and a valid form of Government Identification
+for each proposed director and significant shareholders,
+vii. an organizational structure indicating functional units, reporting
+relationships, responsibilities, and the proposed grades of
+departmental or unit heads,
+viii. a list of proposed top management personnel at the level of Assistant
+General Manager and above, indicating the positions to be held,
+ix. a clear disclosure of the sources of capital and funding, including the
+proposed equity contributions by each shareholder and the verifiable
+sources of such funds,
+x. a description of the credit enhancement facilities to be offered,
+including eligibility criteria, terms, and proposed risk-sharing
+structures,
+xi. the underwriting standards and risk assessment methodologies to be
+applied, including policies for evaluating creditworthiness,
+documentation requirements, approval procedures, and exposure
+limits,
+xii. a risk management framework addressing credit, market, liquidity,
+and operational risks, and detailing the internal systems and controls
+for identifying, monitoring, and mitigating such risks,
+xiii. where applicable, the actuarial methodologies to be adopted for
+assessing and managing risks associated with credit enhancement
+facilities
+f. Any other requirements may be prescribed by the Commission.
+6. Requirements for registration
+An application for registration shall be made in the manner prescribed by the
+Commission and shall be accompanied by:
+a. Evidence of Payment of the following non-refundable fees:
+i. Filing/Application Fee – 100,000 (One Hundred Thousand Naira Only);
+ii. Processing Fee – N300,000 (Three Hundred Thousand Naira Only);
+iii. Registration Fee- N10,000,000 (Ten Million Naira Only);
+iv. Sponsored Individuals registration fees as follows:
+6
+a. N100,000 (One Hundred Thousand Naira Only) for each new
+sponsored individual;
+b. N50, 000.00 (Fifty Thousand Naira) for transferring sponsored
+individual;
+c. N150, 000.00 (One Hundred and Fifty Thousand Naira Only) for
+transfer and change of status.
+b. Certified True Copy (CTC) of the certificate of incorporation of the credit
+enhancement company,
+c. Application for registration of minimum of 3 Sponsored Individuals including the
+Managing Director, Compliance Officer and a principal officer.
+d. A copy of board approved and executed Operational Manual
+e. CTC of the Memorandum and Articles of Association;
+f. Status Report from the CAC containing particulars of the directors and
+shareholders;
+g. A schedule of any changes in the composition of the board or shareholding
+structure since the grant of the no-objection;
+h. Evidence of a head office location, whether rented or owned, and appropriate
+technical infrastructure for the commencement of operations;
+i. Copies of letters of offer and acceptance of employment for members of the
+management team and sponsored individuals;
+j. Evidence of a fidelity bond of an amount representing not less than 20% of the
+paid-up capital of the company, issued by an insurer licensed by the National
+Insurance Commission;
+k. A sworn undertaking signed by two Directors confirming to the Commission that
+all the information provided by the company including all bank information are
+true and correct, to keep proper records and render returns as may be specified
+by the Commission and to abide by SEC Rules and Regulations and the Act;
+l. evidence of minimum paid-up capital of ₦10,000,000,000.00 (Ten Billion
+Naira);
+m. Latest audited account or for companies of less than one year audited Statement of
+Affairs signed by two company directors and not more than three (3) months old at the
+time of filing with the Commission
+n. Evidence of maintaining a cash /asset mix ratio of at least 85% of its total assets and;
+o. Any other document required by the Commission from time to time.
+p. Sponsored individuals shall complete the appropriate forms in a manner
+prescribed by the Commission and shall be accompanied by:
+7
+i. Bank Verification Number (BVN), bank account details, official email addresses as
+well as full postal addresses, contact numbers and email addresses of previous
+employers, bankers and at least two nominated referees;
+ii. Curriculum vitae which shall include details of activities, arranged in a chronological
+order from secondary school(s) with dates and duration clearly indicated. Gaps in
+employment and educational history must be explained;
+iii. Copies of credentials including secondary school(s) and NYSC discharge/exemption
+certificates (originals to be sighted by an authorized Commission’s staff);
+iv. Evidence of change of name where applicable (to be supported with relevant
+documents including Court Affidavit and Newspaper publication);
+v. A copy of valid means of Identification (International Passport, National
+Identification or Driver’s License)
+vi. A copy of residence / Work Permit for Non-Nigerians/residents.
+q. All Sponsored Individual shall:
+i. have relevant post-graduation experience as stipulated in the Commission`s Rules
+and Regulations.
+ii. Submit employment letters and schedule of duties.
+iii. File evidence of resignation and acceptance of resignation from the previous
+employer for individuals on transfer.
+iv. Comply with the requirements for transfer of registration as prescribed by the
+Commission.
+7. Application by Companies Established Prior to these Rules
+a. A company already engaged in the provision of credit enhancement services in
+the capital market, shall no later than 6 months from the commencement of these
+rules, apply to the Commission for registration by submitting the documents
+required for registration.
+b. An existing company engaged in credit enhancement facility provision prior to
+the commencement of these Rules shall be permitted to complete any pending
+transactions, provided that no new transactions shall be undertaken by such entity
+until it is registered by the Commission.
+c. The company shall file a detailed description of services offered in the last three
+years as Credit Enhancement Facility Providers and/or any other relevant
+activities, provide evidence of Guarantees, Insurance, file a statement on any
+outstanding liabilities on past credit enhancement commitments, and any other
+relevant documents.
+d. Where the Commission is satisfied that the company has met the relevant
+conditions, it may grant registration subject to such terms and conditions as it may
+impose.
+8
+e. A company that fails to register with the Commission as required under this sub-
+rule shall be liable as prescribed under the Act.
+8. Functions
+a. A credit enhancement facility provider may perform the following functions:
+i. provide credit enhancement facilities in respect of securities as may be
+considered by the Commission and issued in the capital market;
+ii. conduct credit risk evaluations of issuers and projects to determine eligibility
+and suitability for credit enhancement facilities;
+iii. monitor the financial performance of the securities or projects for which
+credit enhancement has been provided;
+iv. provide technical and/or advisory services to issuers of securities in
+connection with the provision of a credit enhancement facility;
+v. maintain transparent records of all credit enhancement facilities issued and
+disclose material information to the Commission and rating agencies, and
+vi. Engage in any other related activities, as may be approved by the
+Commission.
+b. A credit enhancement facility provider, other than banks, insurance companies
+and IFIs, shall not engage in any activity except those specified in sub(a).
+9. Non-Permissible Activities
+a. A credit enhancement facility provider shall not carry out the following:
+i. Where incorporated in Nigeria, provide credit enhancement facilities to
+entities outside Nigeria, except where the issuer or sponsor:
+a. is a Nigerian entity issuing securities in a foreign jurisdiction as part of
+a cross-border capital raising programme, and the assets backing the
+securities issuance are located in Nigeria, or
+b. is undertaking a Nigeria-based project seeking offshore financing, and
+the assets underlying the securities issuance for the project are situated
+in Nigeria,
+ii. provide credit enhancement facilities in respect of securities issuance in
+which the credit enhancement facility provider is itself the issuer;
+9
+iii. provide credit enhancement facilities in respect of securities issued by, or
+for the benefit of, an associated person except, with the prior approval of
+the Commission;
+iv. provide advisory or technical services to investors in connection with the
+credit enhancement facility issued or likely to be issued; and
+v. Any other activity not expressly permitted by the Commission.
+b. An application for approval under Rule 9(a)(iii) shall be accompanied by:
+i. full disclosure of the associated person, relationship and the proposed
+terms of the securities issuance contemplated in Rule 9(a)(iii);
+ii. evidence that the terms of the credit enhancement facility contemplated in
+Rule 9(a)(iii) are on an arm’s length basis and do not present undue risk
+to investors; and;
+iii. A description of conflict-of-interest mitigation and internal governance
+mechanisms in place.
+c. For the purposes of Rules 9(a) (iii) and 9 (b), the term "associated person" shall
+have the meaning as defined in the Act.
+10. Prudential Requirements
+Credit enhancement facility providers shall comply with the following prudential
+requirements except as otherwise stated in paragraphs ()(a) and ()(g)in respect of Banks
+and Insurance companies, and International Financial Institutions, respectively, in
+accordance with their legal status and regulatory classification:
+a. Credit Rating Requirement
+i. A credit enhancement facility provider shall, at all times, maintain a minimum
+long-term credit rating of not less than [A] on a local currency basis, assigned
+by at least two credit rating agencies registered with, or recognized by the
+Commission.
+Provided that no credit enhancement facility provider shall provide additional or
+new credit enhancement facilities during any period in which its rating is below the
+threshold specified under these Rules.
+ii. In the case of an International Financial Institution, it shall maintain a minimum
+long-term credit rating of not less than AA- assigned by at least two
+international credit rating agencies acceptable to the Commission.
+10
+Provided that other than this credit rating requirement, no other prudential
+requirement shall apply to IFIs.
+b. Leverage Ratio
+i. A credit enhancement facility provider shall, at all times, maintain a leverage
+ratio of not more than 10 times or as the Commission may prescribe from time
+to time.
+ii. Extent of credit enhancement and consideration of pre-enhancement rating:
+The Commission may, as required from time to time:
+a. prescribe limits on the extent of credit enhancement provided by a credit
+enhancement facility provider to one issuance or in total to one issuer.
+b. prescribe additional prudential requirements for credit enhancement
+facility providers, taking into account the pre-enhanced rating of securities
+covered by the credit enhancement facility.
+c. Liquidity Requirement
+A credit enhancement facility provider shall maintain at least 85% of its total assets
+in liquid assets.
+d. Minimum Capital Requirement
+i. A credit enhancement facility provider shall have a minimum paid-up share
+capital of N10,000,000,000.00 (Ten Billion Naira) or such other amount as
+may be prescribed by the Commission.
+ii. Where a credit enhancement facility provider fails to maintain the minimum
+capital requirements prescribed by the Commission, it shall be prohibited from
+providing additional credit enhancement facilities until the required minimum
+capital is restored and shall submit a recapitalization plan acceptable to the
+Commission.
+e. Restrictions on Dividends
+A credit enhancement facility provider shall not declare or pay dividends until all
+its preliminary and preoperational expenses have been written off, adequate
+provisions made for all losses, and it has met the minimum prudential requirements
+as specified under these Rules.
+f. Asset Impairment
+A credit enhancement facility provider shall, at all times, comply with the IFRS or
+such other accounting standards as may be prescribed by the Financial Reporting
+Council of Nigeria in the preparation of its financial statements, and in reporting its
+assets and liabilities.
+11
+g. Special Provision for Banks and Insurance Companies
+i. Commercial banks, and insurance companies registered by the Commission to
+provide credit enhancement services under these Rules shall be deemed to have
+satisfied the capital and liquidity requirements under this Rule, upon submission
+of a letter of good standing from the CBN or National Insurance Commission
+(NAICOM) confirming compliance with applicable prudential standards and
+shall not be required to comply with any other prudential requirement under
+this Rule.
+ii. Banks and insurance companies shall be required to submit a renewal
+compliance letter from the CBN and NAICOM annually, within 45 days after
+the end of their applicable financial year or such other period as may be
+prescribed by the Commission.
+11. Risk Management
+a. Every credit enhancement facility provider shall establish and maintain a robust risk
+management framework approved by its board of directors to ensure that all risks
+inherent in its operations are properly identified, measured, monitored, controlled,
+and reported in accordance with best practices.
+b. Corporate Governance
+i. A credit enhancement facility provider shall comply with the Nigerian Code of
+Corporate Governance and the SEC Corporate Governance Guidelines.
+ii. The board of a credit enhancement facility provider shall maintain committees
+which, aside from those mentioned in Principle 11of the Nigerian Code of
+Corporate Governance, shall include the following:
+(a) Board Credit Committee, which shall be responsible for overseeing the design
+of the credit enhancement transaction process, reviewing and approving
+credit enhancement facilities originated by management prior to the
+execution of finance documentation.
+Provided that no less than 50% of the composition of the Board Credit Committee
+shall be independent directors, and the Chairman of the Committee shall be an
+independent director.
+12
+(b) Board Finance Committee, which shall be responsible for reviewing and
+approving annual or periodic budgets and evaluating the institution’s financial
+performance.
+c. Credit Policy Framework and Credit Enhancement Approval
+i. A credit enhancement facility provider shall, at all times, maintain a credit policy
+or manual of operations as set out in the Schedule.
+ii. Any amendment to the credit policy or manual of operations shall be approved
+by the Board and notified to the Commission.
+iii. A credit enhancement facility provider’s credit enhancement approval process
+shall be clearly documented and consistently applied in accordance with the
+credit policy or manual of operations.
+d. Portfolio Monitoring and Reporting
+i. A credit enhancement facility provider shall develop and implement a detailed
+portfolio monitoring framework, approved by its Board, to ensure continuous
+evaluation of credit enhancement exposures and underlying risks.
+ii. The framework shall include:
+a. At least quarterly reporting to the Board Credit Committee and the Board
+Risk Oversight Committee on the performance and risk profile of the credit
+enhancement portfolio;
+b. early warning indicators and escalation protocols for deteriorating
+exposures; and
+c. Policies for remedial action and risk mitigation, including recovery and
+workout strategies.
+e. Risk-Sharing Arrangements
+i. Credit enhancement facility providers may enter into eligible risk-sharing
+arrangements with other credit enhancement facility providers.
+ii. All such arrangements shall be subject to the following:
+a. Domestic Institutions: Counterparties that are local institutions must
+demonstrate compliance with the Commission’s requirements on capital
+adequacy, liquidity, leverage, and credit ratings, based on financial
+statements and rating reports not later than nine (9) months prior to entering
+into the agreement.
+13
+b. International Financial Institutions: Counterparties that are international
+institutions must meet the Commission’s rules on international credit ratings
+and provide documentation evidencing compliance.
+B - SUNDRY AMENDMENTS
+Amendments to Rule 45(1) & (2): Registrable Functions
+Full Text of Existing Rule
+1. The following are Capital Market Operators:
+A. Issuing houses/merchant bankers;
+B. Underwriters;
+C. Broker/Dealers;
+D. Sub-brokers (Corporate, Individual, Digital);
+E. Receiving Bankers;
+F. Registrars;
+G. Trustees
+H. Investment Advisers (Corporate, Individuals, Robo Adviser);
+I. Fund/Portfolio Managers;
+J. Rating Agencies;
+K. Market Makers;
+L. Custodian;
+14
+M. Nominee;
+N. Crowdfunding Intermediaries;
+O. Central Counterparty Clearing Members;
+P. Any other function the Commission may determine from time to time.
+1. Only corporate bodies are qualified to file applications for the following
+functions:
+A. Broker/Dealer;
+B. Underwriter;
+C. Issuing House;
+D. Registrar;
+E. Trustee;
+F. Fund/Portfolio Manager;
+G. Rating Agency;
+H. Market Makers;
+I. Receiving Bankers;
+J. Nominee;
+K. Crowdfunding Intermediary
+Provided that where an existing entity intends to perform the functions of a registrar, it
+shall incorporate a separate body for that purpose.
+Amendment to Rule 45(1)
+1. The following are Capital Market Operators:
+A. Issuing houses/merchant bankers;
+B. Underwriters;
+C. Broker/Dealers;
+D. Sub-brokers (Corporate, Individual, Digital);
+E. Receiving Bankers;
+F. Registrars;
+G. Trustees;
+H. Investment Advisers (Corporate, Individuals, Robot Adviser);
+I. Fund/Portfolio Managers;
+J. Rating Agencies;
+K. Market Makers;
+L. Custodian;
+M. Nominee;
+15
+N. Crowdfunding Intermediaries;
+O. Central Counterparty Clearing Members;
+P. Credit Enhancement Facility Providers; and
+Q. Any other function the Commission may determine from time to
+time.
+2. Only corporate bodies are qualified to file applications for the following
+functions:
+A. Broker/Dealer;
+B. Underwriter;
+C. Issuing House;
+D. Registrar;
+E. Trustee;
+F. Fund/Portfolio Manager;
+G. Rating Agency;
+H. Market Makers;
+I. Receiving Bankers;
+J. Nominee;
+K. Crowdfunding Intermediary;
+L. Central Counterparty Clearing Member; and
+M. Credit Enhancement Facility Providers.
+Provided that where an existing entity intends to perform the functions of a registrar, it shall
+incorporate a separate body for that purpose.
+Amendments to Rule 22 (4)
+Full text of Existing Rule:
+Sub (4) the cash/asset mix ratio for core operators in the market shall be a minimum of 60% in
+liquid assets and the cash/asset mix ratio for non-core operators shall be a minimum of 30% in
+liquid assets.
+(i) Core-Operators: Core Operators are capital market operators who receive funds from
+investors or who are responsible for keeping investors funds.
+(ii) Non-core Operators: Non-core operators are capital market operators who do not receive
+funds from investors and are not responsible for keeping investors funds.
+Amendments to Rule 22 (4)
+Provided that the credit enhancement facility provider shall have a cash asset mix ratio of 85%
+on liquid assets;
+Sub (4) is amended to read as follows: -
+16
+The cash/asset ratio for core operators in the market shall be a minimum of 60% in liquid assets
+and the cash/asset mix ratio for non-core operators shall be a minimum of 30% in liquid assets
+provided that the credit enhancement facility provider shall have a cash/asset mix ratio of 85%
+on liquid assets;
+AMENDMENT OF EXISTING SCHEDULE I
+Registration Fees, Minimum Capital Requirements, Securities and others
+PART A
+Registration Fees
+A1. Market Operators
+Initial
+₦ k
+1. Credit Enhancement Facility Provider 10,000,000
+PART B
+Minimum Capital Requirement (N)
+1. Credit Enhancement Facility Provider ₦10,000,000,000.
+Dated this 31st day of October, 2025
+SIGNED
+Simnom Garba (Mrs.) Emomotimi Agama, Ph.D
+Secretary to the Commission Director-General
+17

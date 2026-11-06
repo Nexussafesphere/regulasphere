@@ -1,0 +1,346 @@
+Nt FDA
+CODE OF PRACTICE FOR INTERACTIVE
+COMPUTER SERVICE PLATFORMS/
+INTERNET INTERMEDIARIES
+1
+Table of Contents
+PREAMBLE 3
+OBJECTIVES OF THE CODE OF PRACTICE 4
+SCOPE AND APPLICATION 4
+DEFINITION 4
+Part I 7
+OBLIGATIONS OF INTERACTIVE COMPUTER SERVICE PLATFORMS/INTERNET INTERMEDIARIES 7
+Part II 8
+ADDITIONAL OBLIGATIONS 8
+Part III 10
+LARGE SERVICE PLATFORMS (LSP) 10
+Part IV 11
+PROHIBITION. 11
+Part V 11
+MEASURES ON DISINFORMATION AND MISINFORMATION 11
+Part VI 13
+MISCELLANEOUS 13
+2
+PREAMBLE
+. WHEREAS the National Information Technology Development Agency (NITDA,
+hereinafter referred to as the Agency) is statutorily mandated by the NITDA Act of 2007
+to, inter alia; create a framework for the planning, research, development,
+standardisation, application, coordination, monitoring, evaluation and regulation of
+Information Technology practices, activities and systems in Nigeria and all matters
+related thereto and for that purpose, and which without detracting from the generality
+of the foregoing shall include, providing universal access for Information Technology
+and systems penetration including rural, urban, unserved and under-served areas;
+RECOGNISING that many public and private organisations are gradually moving their
+businesses and information services online; that the internet is transforming the way
+we conduct our daily activities; that children have a significant presence online without
+the necessary supervision; that the information technology systems have thus become
+a critical infrastructure in our society that must be safeguarded, regulated, and
+protected against online harm;
+COGNISANT of the importance of uninterrupted access to authentic alternative
+sources of information and ideas, disseminating those ideas, utilising a diverse media
+in a democratic society, and using the internet as a shared resource, including, to
+facilitate progressive public debates and open confrontation that encourages Nigeria's
+values in society; and
+CONSCIOUS of the need to collaborate with Authorised Government Agencies and
+relevant Stakeholders to develop practices that will preserve and promote societal
+values in a democratic society and make the digital ecosystem safer for Nigerians.
+The AGENCY hereby issues this Code of Practice by virtue of the provisions of section
+6 of the NITDA Act 2007, in collaboration with the Nigerian Communications
+Commission and the National Broadcasting Commission, which shall come into effect
+on the date issued by NITDA.
+3
+OBJECTIVES OF THE CODE OF PRACTICE
+The objectives of this Code of Practice are as follows:
+a. Set out best practices required of Interactive Computer Service
+Platforms/Internet Intermediaries.
+b. Set out best practices that will make the digital ecosystem safer for Nigerians and
+non-Nigerians in Nigeria.
+c. Set out measures to combat online harms such as disinformation and
+misinformation.
+d. Adopt and apply a co-regulatory approach towards implementation and
+compliance.
+SCOPE AND APPLICATION
+a. This Code of Practice applies to all Interactive Computer Service
+Platforms/Internet Intermediaries, including entities that are their subsidiaries,
+affiliates, and agents in Nigeria.
+b. It also serves as a guide on steps to safeguard the security and interest of
+Nigerians and non-Nigerians living in Nigeria regarding activities conducted in the
+digital ecosystem.
+DEFINITION
+In this Code of Practice, unless the context otherwise requires:
+"Authorised Government Agency" means the National Information Technology
+Development Agency (NITDA), Nigerian Communications Commission (NCC), National
+Broadcasting Commission (NBC), or any Agency authorised by its enabling law;
+"Child" means any person defined under the Child's Right Act (CRA) 2003 as a Child;
+"Child Inappropriate Content" means any content that is inappropriate for the viewing
+or consumption of a Child such as, sexually explicit content, child/adult pornography,
+images of violence/torture, semi-nude and/or nudity;
+"Computer Resource" means Information Technology systems and devices, networked
+or not;
+"Content" means electronic information uploaded or broadcasted by a User and hosted
+or transmitted by a Platform and any record of same;
+"Court of record" means a superior Court of record, for instance, Federal or State High
+Court;
+4
+"Disinformation" means verifiably false or misleading information that, cumulatively, is
+created, presented, and disseminated for economic gain or to deceive the public
+intentionally and that may cause public harm;
+"Government" means the Government of the Federal Republic of Nigeria or any person
+who exercises power or authority on its behalf, particularly an Authorised Government
+Agency;
+"Harmful Content" means content which is not unlawful but harmful;
+"Interactive Computer Service Platforms" otherwise referred to as a "Platform" in this
+Code, means any electronic medium or site where services are provided by means of a
+computer resource and on-demand and where Users create, upload, share,
+disseminate, modify, or access information, including websites that provide reviews,
+and gaming Platforms;
+"Internet Intermediary" otherwise referred to as a Platform in this Code, includes, but
+is not limited to, social media operators, websites, blogs, media sharing websites,
+online discussion forums, streaming Platform, and other similar oriented intermediaries
+where services are either enabled or provided and transactions are conducted and
+where Users can create, read, engage, upload, share, disseminate, modify, or access
+information;
+"Large Service Platforms" (LSP) means an Interactive Computer Service
+Platform/Internet Intermediary whose registered Users in Nigeria are more than one
+million (1,000,000);
+"Misinformation" means the unintentional dissemination of false information;
+"Obligations of Interactive Computer Service Platforms" means responsibilities
+prescribed in this Code which Platforms are required to practice and uphold in making
+the digital ecosystem safer;
+"On-Demand" means any electronic service provided by means of a computer resource
+at the individual request of a User;
+"Online Harm" means an action or inaction with a reasonably foreseeable risk of having
+an adverse physical or psychological impact on individuals;
+"Person" means a natural person or legal person;
+"Prohibited Materials" means content or information that a Court of record declared to
+be against the sovereignty, public interest, security, peace, or is otherwise prohibited
+by applicable Nigerian laws;
+"Recipient" means a natural or legal person who receives data; t
+5
+"Rules" means a Platform's community rules, community guidelines, privacy policies,
+terms of service, or any related condition for access and usage of its services;
+"Unlawful Content" means any content that violates an existing law in Nigeria;
+"User" means any person resident in Nigeria who is registered or unregistered with a
+Platform and uses, accesses, publishes, shares, transacts, views, displays, engages,
+downloads, or uploads any information on the Platform;
+"User Account" means a User's registered account with a Platform.
+6
+Part I
+OBLIGATIONS OF INTERACTIVE COMPUTER SERVICE PLATFORMS/INTERNET
+INTERMEDIARIES
+All Interactive Computer Service Platforms/Internet Intermediaries (Platforms) are
+obliged to abide by Nigerian laws and not deploy or modify their Platform in any way
+that will undermine or interfere with the application and/or enforcement of the law, and
+where applicable shall:
+1. Act expeditiously upon receiving an Order from a Court of record directing a
+Platform to provide any information under its domain or any assistance to any
+Authorised Government Agency for the purpose of carrying out an investigation,
+combating cybercrimes, or prosecuting an offence.
+2. Act expeditiously upon receiving a notice from an Authorised Government Agency
+of the presence of unlawful content on its Platform. A Platform must acknowledge
+the receipt of the complaint and take down the content within 48 hours.
+3. Act expeditiously upon receiving a notice from a User of the presence of unlawful
+content on its Platform. A Platform must acknowledge the receipt of the complaint
+and take down the content as soon as reasonably practicable.
+4. Act expeditiously upon receiving a complaint by a User or Non-User to remove,
+disable, or block access to non-consensual content that exposes a person's
+private areas, full or partial nudity, sexual act, deepfake, or revenge porn, where
+such content is targeted to harass, disrepute, or intimidate such User or non­
+User. A Platform must acknowledge the receipt of the complaint and take down
+the content within 48 hours.
+5. Not be held liable where it takes down unlawful content based on a substantiated
+notice. A notice shall be deemed substantiated where such notice from a User
+contains an identification of the unlawful content at issue by Uniform Resource
+Locators or a unique identifier. A substantiated notice from an Authorised
+Government Agency shall contain the following in addition to the proviso above:
+a) Identification of the timestamp for the unlawful content at issue.
+b) A clear statement of the basis of the legal claim and supporting rationale.
+c) The title of the law violated detailing, the specific section and subsection
+where necessary.
+7
+6. Disclose the identity of the creator of information on its Platform when directed
+to do so by an Order from a Court of record. Provided that an order of this nature
+shall apply but not limited to preventing, detecting, investigating, or prosecuting
+an offence concerning the sovereignty and integrity of Nigeria, public order,
+security, diplomatic relationships, felony, incitement of an offence relating to any
+of the above or in relation to rape, or child sexual abuse.
+7. Exercise due diligence to ensure that unlawful content is not uploaded to their
+Platform. No liability shall be incurred by a Platform where such Platform can
+demonstrate that due diligence and all reasonable steps have been taken to
+ensure that an unlawful content is not uploaded
+8. Provide a dedicated channel that is available all the time where an Authorised
+Government Agency can lodge or forward a request or complaint against contents
+that are unlawful or harmful.
+9. Provide a complaint resolution mechanism for Users to lodge complaints.
+10. Notwithstanding the Clauses above, make provision for a User to apply for a
+review or appeal of the removed content. A User shall state the reasons why the
+User believes that such a content was removed erroneously. Where such an
+application for review by a User is successful, a Platform shall put back the
+removed content as soon as reasonably practicable.
+Part II
+ADDITIONAL OBLIGATIONS
+Where applicable, Platforms shall:
+1. Publish on their website, application, or both, the rules for access or usage of its
+Platform by any person or entity opting to use its services. These rules should be
+easily accessible.
+2. Inform Users through the terms of service not to create, publish, promote,
+modify, transmit, store, or share any content or information that:
+a) is harmful to a child;
+b) could cause any physical or psychological harm to another User directly
+or indirectly;
+8
+e) the User is not the lawful owner and to which no authorisation was
+secured from the lawful owner;
+f) is false or misleading;
+g) compromises the security or undermines the unity, or sovereignty of
+Nigeria or promotes the act of terrorism; and
+h) instigates public disorder or interferes with an ongoing investigation.
+3. Label and censor, redact, or provide access control such that an inappropriate
+content is not viewable to a child.
+4. Carry out a risk assessment to determine whether a content is harmful, upon
+receiving a notice. A Platform shall take steps to mitigate and manage the impact
+of such content and ensure that the community rules or guidelines specify how
+children and adults will be protected from harmful content that they may
+encounter. In assessing such content, a Platform shall consider:
+a) The nature of the content, and if there is a material risk of it having a
+direct or indirect physical or psychological impact on a child or an adult.
+b) That there is a material risk of the content's dissemination having a
+physical or psychological impact on a child or an adult. Consideration
+should be given to:
+The level of risk or harm posed by the content;
+ii. The potential reach and interaction with the content.
+c) The socio-cultural peculiarities of Nigeria.
+5. Preserve disabled or removed content, and any related record as required by
+applicable law.
+6. Display a label to a disabled or removed content, stating grounds for such action.
+7. Preserve any information concerning a person that is no longer a User of a
+Platform due to withdrawal, termination of registration, or for any other reason,
+as required by applicable law.
+8. Regularly inform Users that access and usage to the Platform is subject to
+compliance with rules and regulations. Where a User fails to comply, the Platform
+reserves the right to terminate the User's access to the Platform.
+9. Inform Users whenever there is a change or update to their rules.
+9
+10. File an annual compliance report with NITDA that indicates:
+a) Whether the Platform is a Large Service or not.
+b) The number of closed and deactivated accounts in Nigeria;
+c) Number of removed content with and without notice or Court order;
+d) Number of contents removed and re-uploaded;
+e) Information on how children and adults are protected from harmful content
+that they may encounter;
+f) Information on the number of complaints registered with a Platform;
+g) Number of resolved and unresolved complaints;
+h) Awareness report on disinformation and misinformation;
+i) Number of contents taken down due to disinformation and misinformation
+where technically possible; and
+j) Any other relevant information.
+Part III
+LARGE SERVICE PLATFORMS (LSP)
+Large Service Platforms shall, in addition to the obligations stated above:
+1. Be incorporated in Nigeria.
+2. Have a physical contact address in Nigeria.
+3. Appoint a Liaison Officer who shall serve as a communication channel between
+the government and the Platform.
+4. Provide the necessary human supervision to review and improve the use of
+automated tools to strengthen accuracy and fairness, checkmate bias and
+discrimination, to ensure freedom of expression and privacy of Users.
+5. On-demand, furnish a User with the information on why they get specific
+advertisements on their timelines.
+6. NITDA may require a Platform whose registered Users are less than one million
+(1,000,000) to comply with the obligations of a Large Service Platform where it
+appears necessary to preserve the sovereignty, security, public order, foreign
+diplomatic relations, and integrity of Nigeria.
+io
+Part IV
+PROHIBITION
+A Platform shall not continue to keep prohibited materials or make them available for
+access when they are informed of such materials. Prohibited material means content
+or information that a Court of record declared to be against the sovereignty, public
+interest, security, peace, or is otherwise prohibited by applicable Nigerian laws.
+In considering what prohibited material is, consideration should be given to the laws of
+Nigeria, including but not limited to the following:
+1. The Constitution of the Federal Republic of Nigeria 1999;
+2. Nigerian Communications Act;
+3. National Broadcasting Commission Act;
+4. Nigeria Broadcasting Code;
+5. Cybercrimes (Prohibition, Prevention, etc.) 2015;
+6. Advance Fee Fraud and other Fraud Related Offences Act 2006;
+7. Nigeria Data Protection Regulation 2019;
+8. Terrorism Prevention Amendment Act 2022;
+9. NCC Consumer Code of Practice Regulations 2017; and
+10. Federal Competition and Consumer Protection Act (FCCPA) 2018.
+In all instances, when a Platform has been informed of the existence of Prohibited
+Material, the Platform is under obligation to remove the content within the time
+stipulated by a Court of record.
+PartV
+MEASURES ON DISINFORMATION AND MISINFORMATION
+Disinformation and misinformation are multidimensional growing problems that do not
+have a single root cause or solution. The National Information Technology Development
+Agency (NITDA), Nigerian Communications Commission (NCC), and the National
+Broadcasting Commission (NBC) are conscious of the fact that optimal responses to
+disinformation and misinformation need to be multivariate, requiring Platforms to work
+collectively with Stakeholders to combat disinformation and misinformation.
+All Platforms are encouraged to:
+1. Acquaint themselves with indigenous and contextual manifestations causing
+disinformation and/or misinformation and factors motivating its spread in Nigeria.
+2. Collaborate and invest in continuous and consistent research with Stakeholders
+such as Data scientist, indigenous academics, researchers, media organisations,
+11
+journalists, civil society organisations, and government agencies on the causes
+and implications of disinformation and misinformation in Nigeria and provide
+effective responses.
+3. Provide Stakeholders such as Data scientist, indigenous academics, researchers,
+media organisations, journalists, civil society organisations, and government
+agencies, access to the necessary data, excluding proprietary data, to facilitate
+research in combatting disinformation and misinformation.
+4. Independently organise and conduct media literacy programme that educates
+Users on critical thinking and informed decisions when they encounter false
+information online.
+5. Collectively collaborate with indigenous media organisations, academics,
+journalists, civil society organisations, authorised government agencies, and
+other Stakeholders to organise and conduct a media literacy programme
+educating Users on critical thinking and informed decisions when they encounter
+false information online. Authorised Government Agencies and relevant
+Stakeholders are encouraged to participate and facilitate in the actualisation of
+these programmes, ensure media coverage to the society, and in case of a
+collective programme, oversee and keep a register and report of the programme.
+Where applicable, all Platforms shall:
+1. Provide Users with easily accessible tools to report disinformation and/or
+misinformation and improve access to National and International authoritative
+sources where applicable.
+2. Engage the services of certified fact-checkers to identify information targeted to
+disinform or misinform Users in Nigeria. Where information is reported and
+confirmed to be false, adequate measures should be taken to provide a correct
+or factual version of events from National and International authoritative sources
+where applicable.
+3. Where information that is reported by an Authorised Government Agency to a
+Platform is confirmed to be false and is likely to cause violence, threatens the
+unity, peace and security of Nigeria, the Platform shall caution the publisher and
+remove the content as soon as reasonably practicable.
+a) A User shall not be liable, without intent, for merely redistributing through
+intermediaries, the content of which they are not the author and which they
+have not modified.
+12
+4. Take reasonable steps to ensure that disabled or removed content are not found
+in search, feeds, or other distribution channels.
+5. Put in place measures to address and close accounts and sources that amplify
+disinformation and misinformation.
+Part VI
+MISCELLANEOUS
+1. This Code of Practice may be reviewed and amended by the National Information
+Technology Development Agency (NITDA) from time to time.
+2. Non-compliance with this Code shall be construed as a breach of the provisions
+of the Nigerian Communications Act (NCA) 2003, National Broadcasting
+Commission (NBC) Act 2004 and National Information Technology Development
+Agency (NITDA) Act of 2007.
+3. Nothing in this Code shall impose criminal liability on an individual or individuals
+representing the Platforms in the course of discharging their duties.
+THIS INSTRUMENT WAS SIGNED THIS 26™ DAY OF SEPTEMBER 2022
+c
+Prof. Isa Ali Ibrahim (Pantami) PhD, fciis, fbcs, fncs
+Minister of Communications and Digital Economy of the Federal Republic of
+Nigeria
+Kashifu Inuwa Abdullahi, ccie
+Director General/CEO
+National Information Technology Development Agency (NITDA)
+13

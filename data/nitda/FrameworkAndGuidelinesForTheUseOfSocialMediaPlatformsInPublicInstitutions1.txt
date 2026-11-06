@@ -1,0 +1,385 @@
+FRAMEWORK AND GUIDELINES FOR THE
+USE OF SOCIAL MEDIA PLATFORMS IN
+PUBLIC INSTITUTIONS
+2019
+Table of Contents
+Foreword ............................................................................................ iv
+Definitions .......................................................................................... vi
+Part One .............................................................................................. 1
+1.0 Preamble ................................................................................... 1
+1.0.1 Authority .............................................................................. 1
+1.0.2 Purpose ............................................................................... 1
+1.0.3 Scope .................................................................................. 1
+1.0.4 Review and Amendment ......................................................... 1
+1.0.5 Principle ............................................................................... 1
+Part Two .............................................................................................. 3
+2.0 Social Media Framework .............................................................. 3
+2.1 Social Media Policy and Strategy by MDAs ..................................... 3
+2.2 Define Objective ......................................................................... 3
+2.3 Identify Target Audience ............................................................. 4
+2.4 Choosing Platforms ..................................................................... 4
+2.5 Governance Structure ................................................................. 4
+2.5.1 Human Capital ...................................................................... 4
+2.5.2 Account Governance .............................................................. 4
+2.5.3 Content Governance .............................................................. 5
+2.5.4 Resource Governance ............................................................ 5
+2.5.5 Legal Provisions and Policies ................................................... 6
+2.6 Communication Strategy ............................................................. 6
+2.7 Risk .......................................................................................... 6
+2.8 Implementation ......................................................................... 6
+2.9 Social Media Institutionalisation ................................................... 6
+2.10 Key Performance Indicators (KPIs) ............................................. 7
+2.11 Engagement Monitoring and Analysis ......................................... 7
+ii
+Framework and Guidelines for The Use of Social Media Platforms in Public Institutions
+2.12 Evaluation and Capacity Building ............................................... 7
+Part Three ........................................................................................... 8
+3.0 Guidelines for Official Use of Social Media ...................................... 8
+Appendix ........................................................................................... 10
+Social Media Characteristics .............................................................. 10
+Forms of Social Media ...................................................................... 10
+iii
+Framework and Guidelines for The Use of Social Media Platforms in Public Institutions
+Foreword
+The rapid development in Information and Communication Technology (ICT)
+has offered government new opportunities for greater outreach to citizens.
+The advent of Social Media is transforming the way people connect with one
+another and the manner in which information is shared and distributed. The
+technology powering the Social Media is Web 2.0. which encourages
+participation, collaboration and information sharing. It is characterised as
+participatory, pervasive and integrated. Social Media has become a crucial
+part of how we interact with one another. It is a global phenomenon and
+governments are starting to take serious notice and incorporating Social
+Media into governance. This provides an opportunity for two-way
+communication between government and citizens, partners and other
+stakeholders thereby increasing the frequency and speed of engagement.
+Given its potential of giving voice to all and round the clock engagement
+characteristics, Social Media offers a unique opportunity to governments to
+engage effectively with their stakeholders especially citizens in real time.
+Many governments across the world including the Nigerian Government use
+various Social Media platforms to engage citizens, businesses and experts to
+seek inputs into policy making, receive feedback on service delivery and to
+create community-based and sustainable development programmes.
+Precisely, Social Media can help governments at all levels, among other
+benefits, enhance outreach, maximize awareness, manage perception,
+improve service delivery and citizens’ experience, build trust, promote
+transparency and facilitate real time engagement.
+Effective usage of Social Media Platforms by Nigerian Government could
+enhance the country’s political, economic and social development
+considering the huge number of Nigerians using the internet and by
+extension Social Media platforms. In August 2018, Nigeria internet users
+were put at about 94 Million. Statistics have also shown that Facebook has
+16 Million users in Nigeria as at 2016. Thus, using these platforms by the
+governments to reach out to the stakeholders could be very effective. Social
+Media is becoming a critical tool for sustaining democracy, building an
+information society, knowledge-based/digital economy and in achieving the
+Sustainable Development Goals (SDGs).
+iv
+Framework and Guidelines for The Use of Social Media Platforms in Public Institutions
+However, realising these objectives requires planning, political will,
+pragmatic Social Media usage guidelines and policies. Many anxieties
+remain, including but not limited to issues relating to technologies and
+platforms to be used for communication, scope of engagement,
+communication strategy, compliance with organizational rules and
+regulations, security, privacy etc.
+In order to encourage and enable Public Institutions (PIs) to use this
+dynamic medium of interaction in a sustainable and useful manner, a
+Framework and Guidelines for the use of Social Media by Public Institutions
+in Nigeria is hereby issued. Chiefly, it is understood that Social Media may
+blur the lines between personal and institutional voices, therefore this
+Framework and Guidelines spell out the rules of operation and management
+of Social Media platforms when the medium is being used by Public
+Institutions.
+Isa Ali Ibrahim Pantami, PhD, FNCS, FBCS, FIIM
+Director General/CEO, National Information Technology Development
+Agency (NITDA)
+v
+Framework and Guidelines for The Use of Social Media Platforms in Public Institutions
+Definitions
+I. Social Media: any web or mobile-based platform that enables an
+individual or government establishments to communicate interactively.
+II. Social Media Platform: a web or mobile-based technology used for
+developing, deploying and managing Social Media solutions and services.
+III. Social Media Account: an established relationship that binds an entity
+(individual or government establishment) and a Social Media platform.
+The relationship allows the user of the Social Media account to have
+access to the type of Social Media services provided by the Social Media
+platform through a legal agreement.
+IV. Public Institution (PI): any organisation established or owned by the
+Federal, State or Local governments in Nigeria.
+V. Federal Public Institution (FPI): any of the Ministries, Departments,
+Extra-Ministerial Departments, Agencies, Commissions, Tertiary
+Institutions or other government establishments.
+vi
+Framework and Guidelines for The Use of Social Media Platforms in Public Institutions
+Part One
+1.0 Preamble
+1.0.1 Authority
+In exercise of the powers conferred on it by Sections 6, 17, 18 and 32 of the
+National Information Technology Development Act of 2007, the National
+Information Technology Development Agency (NITDA) hereby issues the
+following Framework and Guidelines for the use of Social Media Platforms in
+Nigeria. NITDA shall exercise the power to institute sustainable
+implementation and implement a compliance framework for these
+Guidelines.
+1.0.2 Purpose
+The Framework and Guidelines is aimed at providing guidance on the use of
+Social Media within the PIs’ communications environment in order to
+improve government transparency, participation and interaction with the
+public.
+1.0.3 Scope
+The Framework and Guidelines shall apply to all Public Institutions. State
+and Local Government entities are encouraged to adopt by the provisions of
+the Framework and Guidelines as best practice.
+1.0.4 Review and Amendment
+NITDA shall amend or review these guidelines periodically to reflect the
+reality of time and trends.
+1.0.5 Principle
+This Framework and Guidelines is issued on the following principles:
+i. Transparency in the use of Social Media platforms for the promotion of
+openness in governance;
+ii. Accountability - Public Institutions should be accountable and
+responsible for every action taken on Social Media platforms;
+iii. To create enabling environment for seamless and efficient ways of
+doing business;
+1
+iv. Use of Social Media to promote electioneering processes, rule of law,
+effective civic engagement and good governance.
+2
+Part Two
+2.0 Social Media Framework
+The implementation framework is created to enable government
+establishments use Social Media platforms more effectively in reaching out
+to stakeholders. The implementation framework is made up of the following
+elements:
+i) Policy
+ii) Objective
+iii) Target Audience
+iv) Governance Structure
+v) Communication Strategy
+vi) Risk
+vii) Implementation
+viii) Institutionalisation of Social Media
+ix) Success Criteria and Key Performance Indicators
+x) Engagement, Monitoring and Analysis
+xi) Evaluation
+2.1 Social Media Policy and Strategy by MDAs
+PIs are encouraged to develop and implement a Social Media policy and
+strategy for policy implementation within six months of the coming into force
+of this Framework and Guidelines. Such a policy shall either be an
+independent document or be part of the ICT Policy of the PI.
+2.2 Define Objective
+Every PI shall define their Social Media usage objectives. These objectives
+shall among others, include the following:
+i) dissemination of information;
+ii) public engagement for meaningful public participation in
+formulation of public policy;
+iii) create awareness and sensitise the public on government policies
+and programmes; and
+iv) obtain feedback from citizens.
+3
+2.3 Identify Target Audience
+The Social Media policy document or sub section of an ICT policy of any PI
+shall clearly specify and delineate the target audience.
+2.4 Choosing Platforms
+PIs are required to choose platforms that will best suit the organisation’s
+public engagement need or strategy. Whichever platform is chosen, it is
+important to understand the platforms a PI’s target audience use. A multi-
+platform strategy can be adopted to reach as many stakeholders as possible.
+Alternatively, bespoke Social Media platforms can be developed by the PIs.
+2.5 Governance Structure
+Control measures shall be observed in the manner accounts are created,
+information is disseminated and the process responses are handled. PIs
+should observe the following:
+2.5.1 Human Capital
+The Social Media desk of a PI shall be manned by properly trained,
+professionals in Public Relations and Communications with requisite
+experience in Social Media management.
+2.5.2 Account Governance
+The following are some of the aspects of account governance that need to be
+managed effectively:
+i) Account creation: A Social Media account establishes the PI’s
+online identity. A standard naming convention should be agreed and
+followed when a Social Media is to be created. If possible, the same
+name for different Social Media accounts may be adopted to ensure
+ease of search and consistency of identity.
+ii) Login and password: To open a Social Media account, each new
+account requires a URL, username and/or email address and a
+password. A proper record of login IDs and passwords must be
+maintained. PIs are required to use official email(s) to open Social
+Media account. This is critical as multiple people may be authorised
+to post on behalf of the organisation.
+iii) Account usage/information presentation: The PI shall
+determine who publishes or posts, how each piece of information is
+4
+published and in what capacity (personal or official) responses are
+disseminated.
+iv) Account update/response: The PI shall determine how often
+pages/information are updated and posts/comments are responded
+to. It is important to determine Frequently Asked Questions (FAQ)
+in which fixed response format may be applied.
+v) Account handover: PIs are required to develop and institute a
+Social Media account handover process whenever any of the
+designated Social Media handlers is leaving the organisation or
+desk. The handover process may entail a password(s) change.
+2.5.3 Content Governance
+PIs are to develop interesting and engaging content that draws positive
+attention in their use of Social Media. The tone of the contents must be
+ethical, professional, correct and consistent. The PI shall also generate
+contents, the type of contents and the approval process of the content to be
+published hence, the following aspects should be observed:
+i) Content generation and publishing: PIs must establish a
+process for contents creation and publishing. Consistent contents
+are expected to be shared on all Social Media platforms.
+ii) Contents archiving and management: All PIs shall make
+provision for archiving of all the contents on their Social Media
+platforms. The contents should be structured for easy access and
+retrieval.
+2.5.4 Resource Governance
+Every PI shall develop a resource plan for the management of Social Media
+platforms.
+i) Resources allocation: All PIs shall form a dedicated team to
+manage engagement or outsource to a qualified third party.
+ii) Roles and responsibility: The roles and responsibilities of each
+member of the team for creating, managing and responding on
+Social Media platforms must be clearly defined.
+iii) Resource maintenance: PIs shall develop strategy for the
+maintenance of the technological resources required to manage
+Social Media.
+5
+2.5.5 Legal Provisions and Policies
+PIs shall comply with all legal and regulatory provisions in the use of Social
+Media.
+2.6 Communication Strategy
+PIs shall develop communication strategy to streamline information flow
+within and outside the organisation.
+2.7 Risk
+All PIs shall develop an appropriate risk management strategy taking into
+consideration the following:
+i) Misrepresentation and misinterpretation: Information and
+views can be spread very quickly and widely through online media
+and can easily be subject of misinterpretation and
+misrepresentation.
+ii) Lack of control: Once an online material is made public, there is
+little or no control over how it might be used, modified and/or
+mashed.
+iii) Resourcing: Managing Social Media sites requires expertise, time
+and resources.
+iv) Privacy: There is no guarantee that privacy can be protected.
+v) Security: High traffic sites/accounts may pose a greater risk for
+malware or spyware. Accounts can also be compromised.
+vi) Bandwidth: some Social Media requires higher levels of
+bandwidth.
+2.8 Implementation
+It is always advisable to start a Social Media implementation with a pilot
+project. All aspects of this Framework should be considered while
+implementing the pilot project but tailored and tied to organisational
+mission.
+2.9 Social Media Institutionalisation
+PIs are required to set up mechanisms to institutionalise Social Media within
+their structure.
+6
+2.10 Key Performance Indicators (KPIs)
+PIs are required to set indicators for measuring performance for the use of
+Social Media platforms and ensure the KPIs directly measure the goals and
+objectives earlier set.
+2.11 Engagement Monitoring and Analysis
+PIs are to monitor and analyse all information available, created, processed,
+and/or stored on the Social Media for planning and decision making.
+2.12 Evaluation and Capacity Building
+PIs shall conduct periodic evaluation of the Social Media project. NITDA shall
+from time to time issue guidance notices, conduct service-wide usage
+reviews and evaluation, and institutional capacity building programmes to
+enhance the use and management of Social Media for government
+communication.
+7
+Part Three
+3.0 Guidelines for Official Use of Social Media
+3.1 All PIs, in using Social Media, shall:
+i) obey relevant laws, policies and regulations related to the use of
+ICT in cyberspace;
+ii) use official email(s) for Social Media account;
+iii) establish an account handover processes for Social Media handlers
+who leave the organisation or are moved to another desk, unit or
+department;
+iv) maintain high standard of professional conduct and behavior on
+Social Media;
+v) establish authority to vet information being posted on Social Media;
+vi) establish protocols in relation to who is authorised to respond to
+inquiries received via Social Media;
+vii) ensure only authorised spokespeople or duly delegated officials
+provide comment to the media on government-related issues.
+3.2 Government official, in using Social Media, shall:
+i) not use personal Social Media accounts for official engagement;
+ii) not publish personal opinions on official Social Media accounts;
+iii) respect copyright laws;
+iv) ensure postings or comments are factual, ethical, respectful,
+apolitical, impartial and professional;
+v) require permission from the authority before posting anything on
+the Social Media;
+vi) represent the PI professionally and be sure that what is published is
+consistent with relevant policies, standards, executive orders and
+circulars related to the mandates of the organisation;
+vii) not disclose information, nor make commitments or engage in
+activities on behalf of the PI on Social Media unless authorised to do
+so;
+viii) not engage in harassment, bullying, illegal or otherwise
+inappropriate activity while using official Social Media account;
+ix) not divulge confidential information or post what represents “official
+view” unless authorised to do so; and
+8
+x) observe and respect the code of conduct for public servants and
+public service rules when using private Social Media account in a
+private capacity on public discussion.
+9
+Appendix
+Social Media Characteristics
+Social Media share most or all of the following characteristics:
+a) Participation - Social Media encourages contributions and feedback from
+everyone who is interested. It blurs the line between media and audience.
+b) Openness - Most Social Media services are open to feedback and
+participation. They encourage voting, comments and the sharing of
+information. There are rarely any barriers to accessing and making use of
+content as password-protected content is usually frowned upon.
+c) Conversation - Whereas traditional media is about “broadcast” (content
+transmitted or distributed to an audience), Social Media is better seen as
+a two-way communication.
+d) Community - Social Media allows communities to form quickly and
+communicate effectively. Communities share common interests, such as a
+love of photography, a political issue or a favorite TV show.
+e) Connectedness - Most kinds of Social Media thrive on their
+connectedness, making use of links to other sites, resources and people.
+f) Collaboration - The connections achieved on Social Media, enable
+people to collaborate and create knowledge. Such collaborations can be
+either open or closed. Wikipedia is an example of open collaboration
+which enabled the creation of an open web-based encyclopedia through
+the contribution from hundreds of thousands of people. GovLoop is an
+example of closed collaboration wherein experts’ groups contribute on
+specific policy matters.
+Forms of Social Media
+The following, though not exhaustive, are the forms in which Social Media
+are categorized.
+a) Social networks - These sites allow people to build personal web pages
+and then connect with friends to share content and communicate. Some
+of the biggest social networks are Facebook, Twitter, Instagram, LinkedIn
+etc.
+10
+b) Blogs - Blogs are online journals, with entries appearing with the most
+recent first.
+c) Wikis - These websites allow people to add content to or edit the
+information on them, acting as a communal document or database. The
+best-known wiki is Wikipedia, the online encyclopedia.
+d) Forums - Areas for online discussion, often around specific topics and
+interests. Forums came about before the term “Social Media” and are a
+powerful and popular element of online communities.
+e) Microblogging - Social networking combined with bite-sized blogging,
+where small amounts of content “updates” are distributed online and
+through the mobile phone network. Twitter is the clear leader in this field.
+f) Multimedia Sharing - A website that enables users to store and share
+their multimedia files (photos, videos, audios, files, music etc.) with
+others. You-tube is a clear example of multimedia sharing site.
+THIS INSTRUMENT WAS SIGNED THIS 25TH DAY OF JANUARY 2019
+Dr Isa Ali Ibrahim (Pantami) FNCS, FBCS, FIIM
+Director General
+National Information Technology Development Agency (NITDA)
+11

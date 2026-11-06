@@ -1,0 +1,836 @@
+NATIONAL INFORMATION
+TECHNOLOGY DEVELOPMENT AGENCY
+(NITDA)
+.GOV.NG
+&
+.MIL.NG
+DOMAIN MANAGEMENT POLICY
+(A Guide to the Administration of Government
+and Military Domain Names in Nigeria)
+Version 2.0 | May 2019
+NITDA 2019
+TABLE OF CONTENTS ....................... Error! Bookmark not defined.
+.gov.ng ................................................................................................. 4
+1.0 INTRODUCTION TO .GOV.NG DOMAIN MANAGEMENT
+GUIDE 5
+1.1 DOMAIN NAME REGISTRATION ........................................... 6
+1.2 ADMINISTRATIVE CONTACT ............................................ 6
+1.3 TECHNICAL CONTACT ..................................................... 6
+1.4 GEO NAMES ....................................................................... 8
+1.5 SERVICE LEVEL AGREEMENT ........................................ 8
+2.0 DOMAIN NAME REGISTRATION PROCESS ........................ 9
+2.1 ACTIVE AND NON-ACTIVE DOMAINS ................................ 11
+2.2 USE OF SUB-DOMAINS AND 4TH LEVEL DOMAINS .......... 12
+2.3 AUTOMATION OF THE DOMAIN REGISTRATION AND
+MANAGEMENT PROCESS ............................................................... 13
+2.3.1 POLICY AND GOVERNANCE FRAMEWORK ............ 13
+2.3.2 ELIGIBILITY REQUIREMENTS: .................................. 15
+2.3.3 OTHER REQUIREMENTS ............................................ 18
+2.3.4 DOMAIN NAMING CONVENTIONS: ............................ 20
+3.0 GOV.NG DISPUTE RESOLUTION POLICY ......................... 24
+3.1 ESCALATION PROCEDURES: DISPUTES WITHIN A
+STATE 26
+3.2 ESCALATION PROCEDURES: DISPUTES ACROSS
+MULTIPLE STATES ....................................................................... 26
+3.3 ESCALATION PROCEDURES: DISPUTES INVOLVING
+PARTIES OUTSIDE OF THE GOV.NG DOMAIN .......................... 27
+4.0 HOSTING OF GOVERNMENT WEBSITES .......................... 27
+2
+.mil.ng ................................................................................................ 30
+5.0 INTRODUCTION TO .MIL.NG DOMAIN MANAGEMENT
+GUIDE 31
+5.1 DOMAIN NAME REGISTRATION ......................................... 32
+5.2 ADMINISTRATIVE CONTACT .......................................... 32
+5.3 TECHNICAL CONTACT ................................................... 33
+5.4 GEO NAMES ..................................................................... 34
+5.5 SERVICE LEVEL AGREEMENT ...................................... 34
+6.0 DOMAIN NAME REGISTRATION PROCESS ...................... 35
+6.1 ACTIVE AND NON-ACTIVE DOMAINS ................................ 37
+6.2 USE OF SUB-DOMAINS AND 4TH LEVEL DOMAINS .......... 38
+6.3 AUTOMATION OF THE DOMAIN REGISTRATION AND
+MANAGEMENT PROCESS ............................................................... 38
+6.4 POLICY AND GOVERNANCE FRAMEWORK ................. 39
+6.5 ELIGIBILITY REQUIREMENTS: ....................................... 40
+6.6 DOMAIN NAMING CONVENTIONS: ................................ 43
+7.0 MIL.NG DISPUTE RESOLUTION POLICY ........................... 45
+7.1 ................... ESCALATION PROCEDURES: DISPUTES
+INVOLVING PARTIES OUTSIDE OF THE MIL.NG DOMAIN ....... 47
+8.0 HOSTING OF GOVERNMENT WEBSITES .......................... 47
+3
+.gov.ng
+4
+1.0 INTRODUCTION TO .GOV.NG DOMAIN
+MANAGEMENT GUIDE
+This guide is based not only on the need to
+populate the Internet with government’s presence
+but also to coordinate the hosting of government
+domains, especially as regards the security of the
+domain. Since the .gov.ng sub-domain is a
+national resource for the use of the Government
+and the benefit of the Nigerian people, the domain
+will be available for all tiers of Governments from
+the Federal to the Local Government. The
+submission draws examples from various
+jurisdictions including the United States of
+America, India and Australia. The document
+contains the following:
+i. Policy and Governance Framework
+ii. Eligibility for .gov.ng domains
+iii. Domain Naming Conventions
+iv. gov.ng Dispute Resolution Policy
+5
+1.1 DOMAIN NAME REGISTRATION
+The registration of .gov.ng domain name is free
+and will always be free. NITDA will continue to
+support NIRA to make the registration of
+government domains free.
+Reasonable fees may be charged by NiRA
+Accredited registrars to cater for associated
+services that go with the registration of .gov.ng
+domain names.
+1.2 ADMINISTRATIVE CONTACT
+The administrative contact must reside within the
+organization who is requesting for the domain.
+1.3 TECHNICAL CONTACT
+The Technical Contact may be a staff of the MDA
+or a contractor/consultant to the MDA. MDAs are
+advised to have a mailing list that contains more
+6
+than one technical contact to prevent a lacuna
+when staff depart from the organisation without a
+proper hand-over process.
+Where an organization migrates/ migrated from a
+non-.gov.ng domain to a .gov.ng domain, the
+organization shall keep such non .gov.ng domain
+in perpetuity but discontinue its promotion,
+advertisement and use in communication. This is
+to prevent that name being used by anyone or
+another entity to mislead the public or for
+fraudulent activities.
+Similarly, where an establishment changes its
+domain name from a .gov.ng domain to another
+.gov.ng domain, the old domain name shall be
+kept in perpetuity but they must discontinue its
+promotion, advertisement and use in
+communication.
+7
+1.4 GEO NAMES
+The use of Geo Names must be in accordance
+with the NIRA Domain Name Policy.
+1.5 SERVICE LEVEL AGREEMENT
+NITDA strongly recommends that MDAs on
+.gov.ng should sign a Service Level Agreements
+(SLA) with their service providers. An SLA is a
+standardized Memorandum of Understanding
+(MOU)established between the Service Provider
+and the Client. Such SLA must clearly indicate
+the following:
+1. Deliverables
+2. Standards of Service.
+3. Delivery Time Scales.
+4. Responsibilities of each party.
+5. Monitoring and reporting of the service.
+6. Legal and regulatory compliance.
+8
+7. Payment terms.
+8. Dispute resolution.
+9. Confidentiality and non-disclosure
+provisions;
+10. Provision for Termination of the agreement;
+and
+11. Any other relevant information.
+2.0 DOMAIN NAME REGISTRATION
+PROCESS
+Any entity or establishment wishing to register a
+domain name under the .gov.ng SLD of the .ng
+ccTLD should take the following steps:
+1. Determine if the entity or establishment is
+qualified to register a domain name under
+GOV.NG by reviewing the eligibility
+requirements.
+9
+2. Review the domain naming conventions
+and ensure that the desired domain name
+complies with the conventions.
+3. Check availability of the desired domain
+name.
+4. Register the Domain Name request using
+the Online Registration Service or through
+an accredited Registrar.
+5. Submit an Authorization Letter at the
+earliest but not later than 30 days after
+completing the online registration.
+Otherwise, the request will stand cancelled
+and the domain name shall be released.
+6. Once the above stated Registration process
+is completed, the Domain Manager will
+process the request accordingly. The
+Registrar will contact the Registrant if any
+additional information about the registration
+is required, prior to activation. If the
+10
+registration is in order, the domain name
+will be placed on Active Status and the
+Registrant and registrar will be notified via
+email.
+2.1 ACTIVE AND NON-ACTIVE
+DOMAINS
+NITDA strongly recommends that all MDAs
+should keep their domains active and ensure
+accurate and current up-to-date information about
+the domain name. MDAs must take note of the
+NiRA Domain Name Life Cycle Policy. NITDA
+is developing an SLA that will address non-active
+government domain names. Where the registrant
+decides to reactivate a dormant domain, the
+registrant should pay to the subsisting registrar the
+minimum fee applicable to that domain.
+11
+2.2 USE OF SUB-DOMAINS AND 4TH
+LEVEL DOMAINS
+In line with the NITDA’s plan of eliminating
+discrepancies and irregularities in the gov.ng
+domain name authorization and registration
+process, as well as the effective management of
+the use of subdomains within the 3rd level of the
+gov.ng, NITDA recommends that MDAs should
+explore the use of 4th level domains and
+subdomains rather than multiple 3rd level domain
+names.
+For instance, it is appropriate to only register
+bayelsa.gov.ng and then create
+housing.bayelsa.gov.ng,
+commerce.bayelsa.gov.ng, tech.bayelsa.gov.ng
+instead of registering bayelsahousing.gov.ng,
+bayelsacommerce.com.ng and bayelsatech.gov.ng.
+12
+2.3 AUTOMATION OF THE DOMAIN
+REGISTRATION AND
+MANAGEMENT PROCESS
+NITDA will continue to ensure that the domain
+registration and management process is
+continually improved upon.
+2.3.1 POLICY AND GOVERNANCE
+FRAMEWORK
+i. The gov.ng Domain Name Policy and
+guidelines apply to third level domains at
+the Nigerian Federal Government level
+(e.g. example.gov.ng) and fourth level
+domains at the State/Local Government
+levels (e.g. example.act.gov.ng).
+ii. Gov.ng policy and guidelines have been
+developed to facilitate the registration
+and administration of domain names used
+13
+by Federal, State and Local Government
+jurisdictions.
+iii. Gov.ng policy and guidelines will be
+formally reviewed every 2 years.
+iv. The National Information Technology
+Development Agency (NITDA) shall be
+responsible for the management of the
+gov.ng second level domain.
+v. NITDA manages the gov.ng policies and
+its administration in consultation with an
+inter-Governmental Domain Consultative
+Committee comprising of representatives
+from all states and local governments.
+vi. All new .gov.ng policies and major
+policy changes are to be endorsed by the
+Inter –Governmental Domain
+Consultative Committee.
+vii. Each state or local government may
+apply additional policies, standards and
+14
+guidelines with respect to their .gov.ng
+domain names provided that such
+policies do not conflict with those
+endorsed by the Inter-Governmental
+Consultative Committee and the NiRA
+policy documents and guidelines.
+2.3.2 ELIGIBILITY REQUIREMENTS:
+i. Allotment of gov.ng is restricted to the
+constituents of the Federal Government
+of Nigeria at various levels right from
+Federal, State and local government
+levels.
+ii. Specialized projects of government
+which are on-going for more than a
+period of 18 Months from the date
+which the application for registration is
+made shall be eligible.
+15
+iii. Establishments registered under the
+Companies and Allied Matters Act shall
+not be eligible for registration under the
+.gov.ng domain irrespective of whether
+it is wholly or partly owned by the
+Federal, state or local government.
+iv. In addition to online registration, the
+request should also be submitted in
+writing in the form of an Authorization
+Letter to the Head of NiRA Secretariat
+or DG/CEO NITDA. The letter should
+be in the specified format on the letter
+head of the concerned MDA.
+v. Authorization Letter should be signed by
+the permanent Secretary of the
+Ministry/Executive Secretary/Director-
+General in the case of Federal
+Government. While at State level the
+request should be from the Secretary to
+16
+the State Government as nominated by
+the Secretary to the State Government.
+For registration at Local Government
+Area, the request should come from the
+Local Government Chairman or his
+nominee.
+vi. With regards to the present policy, there
+is no fee for the registration of .gov.ng
+domain name though there could be
+other administrative fees charged by the
+domain name registrar/reseller.
+vii. The administrative contact address to be
+filled in the on-line form must be same
+as the address of the concerned
+officer/Department of the government.
+The administration point of contact must
+be a staff of the requesting organization.
+viii. Intermediaries or ISPs are not allowed to
+apply for domain name registration
+17
+under this category on behalf of any
+government department..
+ix. .GOV.NG Domain Names should
+conform to the NiRA Domain Naming
+Conventions.
+x. The domain will be activated and
+allotted on receipt of the Authorization
+letter and provided all the conditions
+given above are satisfied.
+2.3.3 OTHER REQUIREMENTS
+Other requirements are as contained in
+Section 13 of the specific rules for the
+.gov.ng SLD of NiRA Domain Name
+Policy.
+i. They form part of and, in the case of
+conflict, take precedence over the
+Policy.
+18
+ii. The .gov.ng SLD is closed and
+limited only to Governments at all
+levels, including Ministries,
+Department and Parastatals at all
+levels.
+iii. Rules and Registrations on the
+.gov.ng SLD would apply to domains
+on the 3LD and the 4LD.
+iv. Registration at the 3LD is ONLY
+permitted for the Federal
+Government, State Government,
+Federal Ministries, Departments,
+Parastatals and Institutions For
+example justice.gov.ng, npc.gov.ng,
+ogunstate.gov.ng, nigeria.gov.ng, etc.
+For registrations on the 4LD this is
+available for State Ministries,
+Departments, Parastatals, Institutions
+and Local governments.
+19
+v. The 3LD state names to be used for
+registrations at the 4LD would be the
+state names as derived from the
+constitution of the Federal Republic
+of Nigeria.
+vi. Registrants in the .gov.ng SLD are
+required to be full government
+agencies and also have the approval
+of each tier of government.
+vii. For Local government registration,
+applicants are expected to attach a
+valid authorization from the local
+government, and present same during
+registration
+2.3.4 DOMAIN NAMING CONVENTIONS:
+The registrants are to note that domain
+naming conventions are in compliance with
+the NiRA Domain Names Policy.
+20
+i. Domains can contain the English-
+language letters a through z, and the
+digits 0 through 9.
+ii. Domain names can also contain
+hyphens, but hyphens cannot begin or
+end a domain name and two hyphens
+together are not permitted.
+iii. Spaces and special characters (such as !,
+$, &, _ and so on) are not permitted.
+iv. The minimum length is 3, and the
+maximum length is 63 characters
+(excluding extension ".gov.ng").
+v. Domain names are not case-
+sensitive.(i.e. you may use a mix of
+upper or lower case letters).
+vi. To register any third-level domain
+within .gov.ng, state government entities
+must register in conformity with the
+NiRA Domain Names Policy.
+21
+vii. States are encouraged to make fourth-
+level domains available for third-level
+registration by local governments and
+state government departments and
+programs.
+viii. Cities and townships are encouraged to
+register for a fourth-level domain under
+a state's third-level domain to the extent
+such an option is available. When this
+option is not available, cities and
+townships may register a third-level
+domain. To register a third-level .gov
+domain name, cities and townships must
+follow comply with the following:
+a) Cities and townships may ONLY
+register for a domain name
+representing their city or township.
+b) The domain name must include the
+city (town) name and a clear
+22
+reference to the state in which the
+city (town) is located.
+c) Abbreviations of the city name are
+not acceptable
+d) Inclusion of the word "city" or
+"town" within the domain name is
+optional and may be used at the
+discretion of the local government.
+e) Cities and townships may NOT
+register a local program/initiative,
+such as a local library, etc.
+f) Cities and townships may denote the
+state abbreviation after the city or
+township name, preferably separated
+by a hyphen.
+ix. Generic names are not allowed. (e.g.
+shipping.gov.ng is not allowed).
+x. For domains under gov.ng, the domain
+must be derived from the name of the
+23
+organization name/entity. (e.g. National
+Planning Commission can opt for a
+domain npc.gov.ng but NOT xyz.gov.ng
+or planning.gov.ng) .
+xi. One and Two letter domain names are
+not allowed (e.g. ab.gov.ng)
+xii. The generic second level names (SLDs)
+of .ng should not be used as third level
+names. (e.g. mil.gov.ng and org.gov.ng
+are not allowed as mil and org are
+generic second level names under .ng)
+3.0 GOV.NG DISPUTE RESOLUTION
+POLICY
+1. No adjudication shall be made within the
+registration function as to whether the
+applicant has a legitimate right to a name,
+beyond compliance with the gov.ng
+policies.
+24
+2. The Registrant (applicant), in lodging the
+request for a name, informs the Domain
+Provider that they are asserting a claimed
+right to a name.
+3. In the case of conflicting name requests
+between an applicant and an existing
+gov.ng domain name registration, in the
+first instance the parties concerned
+(applicant and existing Registrant) should
+attempt to resolve the matter, and report to
+the NITDA if the resolution includes a
+change of registration details.
+4. Should a dispute not be able to be resolved
+between the parties, this should be reported
+to NITDA for further consultation and
+mediation.
+25
+3.1 ESCALATION PROCEDURES:
+DISPUTES WITHIN A STATE
+1. Should a dispute within a State not be able
+to be resolved by the relevant agencies of
+the State e.g. The Secretary to the State
+Government, it should be escalated through
+governance mechanisms within that State,
+or referred to the Office of the Governor of
+that State.
+3.2 ESCALATION PROCEDURES:
+DISPUTES ACROSS MULTIPLE
+STATES
+1. Should a dispute across multiple States not
+be able to be resolved between relevant
+points of contact, it should be referred to the
+Secretary of the Government of both states.
+If a dispute in the above circumstances
+26
+cannot be resolved, it may be escalated to
+the Domain Consultative Committee.
+3.3 ESCALATION PROCEDURES:
+DISPUTES INVOLVING PARTIES
+OUTSIDE OF THE GOV.NG DOMAIN
+1. Disputes that extend outside of the gov.ng
+domain should refer to the NIRA Dispute
+Resolution Process.
+4.0 HOSTING OF GOVERNMENT
+WEBSITES
+Open Model Approach is recommended wherein
+NITDA accredits Certified Local Hosting
+Companies (CLHC) to provide Certified Local
+Hosting Services (CLHS). NITDA will provide
+the required guidelines for local hosting of data.
+In addition, an accreditation framework is being
+put in place that will allow certified local hosting
+27
+companies to be able to also register domains. The
+policy will also ensure that only accredited service
+providers will be allowed to provide such
+services.
+Registrants are to note that the Nigeria Internet
+Registration Association (NiRA) has the sole
+mandate to accredit and de-accredit NiRA
+Accredited Registrars for the registration of .ng
+domain names. The NiRA Registrar Agreement
+contains the details as per the agreement between
+NiRA and its Accredited Registrars.
+NiRA is aware of the services rendered by
+resellers to the NiRA Accredited Registrars.
+The NiRA Registrant Agreement should also be
+make available to the MDAs.
+28
+29
+.mil.ng
+30
+5.0 INTRODUCTION TO .MIL.NG
+DOMAIN MANAGEMENT GUIDE
+This guide is based not only on the need to
+populate the Internet with military domains and
+websites but also to coordinate the hosting of
+Nigerian Military domains especially as regards
+security of the domains. Since the .mil.ng domain
+like the .gov.ng is a national resource for the
+benefit of the Nigerian Government, the domain
+will be available for all Governments from the
+Federal to the Local Government. The submission
+draws examples from various jurisdictions
+including the United States of America, India and
+Australia. The document contains the following:
+v. Policy and Governance Framework
+vi. Eligibility for .mil,ng domains
+vii. Domain Naming Conventions
+viii. .mil.ng Dispute Resolution Policy
+31
+5.1 DOMAIN NAME REGISTRATION
+The registration of .mil.ng domain name is free
+and will always be free. NITDA will continue to
+support NIRA to make the registration of military
+domains names free. However, reasonable fees
+may be charged by NiRA Accredited registrars for
+associated services with the registration of the
+.mil.ng domain names.
+The specific rules for the .mil.ng SLD is aimed at
+ensuring that Domain Names registered under the
+.mil.ng SLD are intended to be used ONLY for
+military purposes and as approved by the Nigerian
+military High command.
+5.2 ADMINISTRATIVE CONTACT
+The administrative contact must reside within the
+military organization who is making the request
+for the domain.
+32
+5.3 TECHNICAL CONTACT
+The Technical Contact may be a staff of the
+military establishment or a contractor/consultant
+to the establishment. Military Establishments are
+advised to have a mailing list of more than one
+technical contact to prevent a lacuna when staff
+depart from such establishments.
+Where a military establishment migrates from a
+non .mil.ng domain to a .mil.ng domain, the
+establishment shall keep such non .mil.ng in
+perpetuity but discontinue its advertisement and
+use in communication. This is to prevent an abuse
+of the use of the previous name by fraudsters.
+Similarly, where an establishment changes its
+domain name from a .mil.ng domain to another
+.mil.ng domain, the old domain name shall be kept
+in perpetuity but discontinue its advertisement and
+use in communication.
+33
+5.4 GEO NAMES
+The use of Geo Names must be in accordance
+with NIRA Domain Name Policy.
+5.5 SERVICE LEVEL AGREEMENT
+NITDA strongly recommends that military
+establishments on .mil.ng should sign a Service
+Level Agreements (SLA) with their service
+providers. An SLA is a standardized Memorandum
+of Understanding (MOU) established between
+the Service Provider and the Client. Such SLA must
+clearly indicate the following:
+i. Project deliverables
+ii. Standards of Service.
+iii. Delivery Time Scales.
+iv. Responsibilities of each party.
+v. Monitoring and reporting of the service.
+vi. Legal and regulatory compliance.
+34
+vii. Payment terms.
+viii. Dispute resolution.
+ix. Confidentiality and non-disclosure
+provisions;
+x. Provisions for Termination of the
+agreement; and
+xi. Any other relevant information.
+6.0 DOMAIN NAME REGISTRATION
+PROCESS
+Any entity or military establishment wishing to
+register a domain name under the .mil.ng SLD of
+the .ng ccTLD should take the following steps:
+i. Determine if the entity or establishment
+is qualified to register a domain name
+under the mil.ng SLD by reviewing the
+eligibility requirements.
+35
+ii. Review the domain naming conventions
+and ensure that the desired domain name
+complies with the conventions.
+iii. Check the availability for the desired
+domain name.
+iv. Register the Domain Name by
+Submitting an Authorization Letter at
+the earliest but not later than 30 days of
+writing the letter. Otherwise, the request
+will stand cancelled and the domain
+name shall be released.
+v. Once the above stated Registration
+process is completed, the Domain
+Manager will process the request
+accordingly. The Registrar will contact
+the Registrant if any additional
+information about the registration is
+required, prior to activation. If the
+registration is in order, the domain name
+36
+will be placed on Active Status and the
+Registrar and Registrant will be notified
+via email.
+6.1 ACTIVE AND NON-ACTIVE
+DOMAINS
+NITDA strongly recommends that all military
+establishments keep their domain names active
+and ensure accurate and current up-to-date
+information of the domain name. MDAs must
+note the NiRA Domain Name Life Cycle Policy.
+NITDA is developing an SLA that will address
+non-active military domain names. Where the
+registrant decides to reactivate a dormant domain,
+the registrant should pay to the registrar the
+minimum fee applicable to that domain.
+37
+6.2 USE OF SUB-DOMAINS AND 4TH
+LEVEL DOMAINS
+In line with the NITDA’s plan of eliminating
+discrepancies and irregularities in the mil.ng SLD
+domain name authorization and registration
+process, as well as the effective management of
+the use of subdomains within the 3rd level of the
+mil.ng SLD, NITDA recommends that military
+establishments should explore the use of 4th level
+domains and subdomains rather than multiple 3rd
+level domain names.
+6.3 AUTOMATION OF THE DOMAIN
+REGISTRATION AND MANAGEMENT
+PROCESS
+NITDA will continue to ensure that the domain
+registration and management process is
+continually improved upon.
+38
+6.4 POLICY AND GOVERNANCE
+FRAMEWORK
+i. The mil.ng Domain Name Policy and
+guidelines apply to third level domains of
+the Nigerian Military.
+ii. .mil.ng policy and guidelines have been
+developed to facilitate the registration and
+administration of domain names used by
+the Nigerian Military.
+iii. .mil.ng policy and guidelines will be
+formally reviewed every 2 years.
+iv. The National Information Technology
+Development Agency (NITDA) shall be
+responsible for the management of all
+.mil.ng domains.
+v. NITDA manages the .mil.ng policy and its
+administration in consultation with an
+inter-Governmental Domain Consultative
+39
+Committee comprising of representatives
+from the Nigerian Military.
+vi. All new .mil.ng policies and major policy
+changes are to be endorsed by the Inter –
+Governmental Domain Consultative
+Committee.
+vii. The Nigerian Military may apply
+additional policies, standards and
+guidelines with respect to their .mil.ng
+domain names provided that such policies
+do not conflict with those endorsed by the
+Inter-Governmental Consultative
+Committee and NiRA policy documents.
+6.5 ELIGIBILITY REQUIREMENTS:
+i. Allotment of .mil.ng is restricted to the
+Nigerian Military establishments.
+ii. Specialized projects of the Nigerian
+Military which are on-going for more
+40
+than a period of 18 Months from the date
+which the application for registration is
+made shall be eligible.
+iii. Establishments of the Nigerian Military
+registered under the Companies and
+Allied Matters Act shall not be eligible
+for registration under the .mil.ng domain
+irrespective of whether it is wholly or
+partly owned by the Nigerian Military.
+iv. The request for .mil.ng domain names
+should be submitted in writing in the
+form of an Authorization Letter to the
+Director General/CEO NITDA or the
+Head of the NIRA Secretariat. The letter
+should be in the specified format on the
+letter head of the concerned Military
+establishment.
+41
+v. Authorization Letter should be signed by
+the Head of the Military establishment
+requesting the domain name.
+vi. With regards the present policy, there is
+no fee for the registration of .mil.ng
+domain names though there could be
+associated fees for the rendition of the
+registrations under mil.ng SLD.
+vii. The administrative contact address to be
+filled in the on-line form must be same
+as the address of the concerned
+officer/Department of the military
+establishment requesting the domain
+name. The administration point of
+contact must be a staff the requesting
+military establishment.
+viii. Intermediaries or ISPs are not allowed to
+apply for the registration of domain
+42
+names under this category on behalf of
+any military establishment..
+ix. Mil.ng Domain Name should conform to
+the NiRA Domain Naming Conventions.
+x. The domain will be activated and
+allotted on receipt of the Authorization
+letter and provided all the conditions
+given above are satisfied.
+6.6 DOMAIN NAMING CONVENTIONS:
+The registration of .mil.ng domain names
+must be in conformity with the NiRA
+Domain Names Policy.
+xiii. Domains can contain the English-
+language letters a through z, and the
+digits 0 through 9.
+xiv. Domain names can also contain
+hyphens, but hyphens cannot begin or
+43
+end a domain name and two hyphens
+together are not permitted.
+xv. Spaces and special characters (such as !,
+$, &, _ and so on) are not permitted.
+xvi. The minimum length is 3, and the
+maximum length is 63 characters
+(excluding extension ".gov.ng").
+xvii. Domain names are not case-
+sensitive.(i.e. you may use a mix of
+upper or lower case letters).
+xviii. To register any third-level domain
+within .mil.ng, military establishments
+must register the full name or the official
+abbreviation of the unit/division or
+similar to that used in the Nigerian
+Army.
+xix. Generic names are not allowed. (e.g.
+shipping.mil.ng is not allowed).
+44
+xx. For domains under .mil.ng, the domain
+must be derived from the name of the
+establishment/entity. (e.g. Nigerian
+Army Training and Doctrine Command,
+Nigerian Army Physical Training etc.) .
+xxi. One and Two letter domain names are
+not allowed (e.g. ab.mil.ng)
+xxii. The generic second level names (SLDs)
+of .ng should not be used as third level
+names. (e.g. mil.gov.ng are not allowed
+as mil is a generic second level names
+under .ng)
+7.0 MIL.NG DISPUTE RESOLUTION
+POLICY
+1. No adjudication shall be made within the
+registration function as to whether the
+applicant has a legitimate right to a name,
+45
+beyond compliance with the mil.ng
+policies.
+2. The Registrant (applicant), in lodging the
+request for a name, informs the Domain
+Provider that they are asserting a claimed
+right to a name.
+3. In the case of conflicting name requests
+between an applicant and an existing
+mil.ng domain name registration, in the
+first instance the parties concerned
+(applicant and existing Registrant) should
+attempt to resolve the matter, and report to
+the NITDA if the resolution includes a
+change of registration details.
+4. Should a dispute not be able to be resolved
+between the parties, this should be reported
+to NITDA for further consultation and
+mediation.
+46
+7.1 ESCALATION PROCEDURES:
+DISPUTES INVOLVING PARTIES
+OUTSIDE OF THE MIL.NG DOMAIN
+Disputes that extend outside of the mil.ng
+domain policy and guidelines should refer
+to the NIRA Dispute Resolution Process.
+8.0 HOSTING OF GOVERNMENT
+WEBSITES
+Open Model Approach is recommended
+wherein NITDA accredits and certify Local
+Hosting Companies (CLHC) to provide
+Certified Local Hosting Services (CLHS).
+NITDA will provide the required guidelines
+for local hosting of data.
+In addition, an accreditation framework is
+being put in place that will allow accredited
+local hosting companies to be able to also
+47
+register domains. The policy will also
+ensure that only accredited service
+providers will be allowed to provide
+service.
+Registrants are to note that the Nigeria Internet
+Registration Association (NiRA) has the sole
+mandate to accredit and de-accredit NiRA
+Accredited Registrars for the registration of .ng
+domain names. The NiRA Registrar Agreement
+contains the details as per the agreement between
+NiRA and its Accredited Registrars.
+The NiRA is aware of the services rendered by
+resellers to the NiRA Accredited Registrars.
+48
